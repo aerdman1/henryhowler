@@ -5,35 +5,45 @@ excerpt: >-
   running in a jiffy!
 hidden: false
 ---
-Welcome to ReadMe! :owlbert:
+---
+title: "Iditarod Start – 30-01-08 by Lori Henry"
+date: "2025-01-01T00:00:00.000Z"
+---
 
-You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out.
+These shots are from the Ceremonial Start in Anchorage. Pictured are Robyn Westlake and her friend Carlin, Patrick holding dogs, Pat and Lori and John “high-fiving” Larry Westlake as he is leaving. Larry is Robyn and Alex’s grandfather from Kiana.
 
-# 📝 Customize your docs
+![Robyn Westlake and her friend Carlin](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/start2.jpg "start2")
 
-What you're looking at right now is what we call our **Guides**. It's a free-form place to write to your heart's content! And the best part is... you aren't alone! Your users can contribute (with your approval, don't worry!) using the **[Suggested Edits](https://docs.readme.com/main/docs/suggested-edits)** feature on every page. It's like GitHub Pull Requests, but for text!
+Robyn Westlake and her friend Carlin
 
-Want to ease your users into it with some fancy marketing pages? You can enable a **[Landing Page](https://docs.readme.com/main/docs/landing-page)**, and write as much HTML as you want to make it look like your brand.
+![Patrick holding dogs](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/start3.jpg "start3")
 
-# 🚦 Interactive API Docs
+Patrick holding dogs
 
-If you don't have an API, then no worries! ReadMe is great for any sort of documentation. But if you have an API, there are a few features to make your experience with ReadMe (and your users' experience with your developer hub!) a magical one:
+![start4](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/start4.jpg "start4")
 
-* **Upload your OpenAPI file:** First step is to describe your API to us! If you already have an OpenAPI file, there's lots of ways to upload it in the *API Reference* section. Our favorite is the GitHub Action, but you can use our CLI or you can upload it directly to the UI!
-* **Add API Keys:** Don't make your users hunt around for API keys. You can surface their API key [right in the docs](https://docs.readme.com/main/docs/personalized-docs), so they can play around with your API right inside ReadMe.
-* **Add Logs:** The coolest thing about ReadMe is you can add [real-time API Logs](https://docs.readme.com/main/docs/developer-dashboard) right to your docs, so you and your users can both see what's going on with their API. Trust us, it's magical!
+![Pat and Lori and John "high-fiving" Larry Westlake as he is leaving. Larry is Robyn and Alex's grandfather from Kiana.](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/start5.jpg "start5")
 
-# 📈 Know your users
+Pat and Lori and John “high-fiving” Larry Westlake as he is leaving. Larry is Robyn and Alex’s grandfather from Kiana.
 
-One of the best ways to know if you're nailing the dev experience is checking out how your users are interacting with both your docs and API.
+![Patrick and Benoit at Campbell Creek](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/start6.jpg "start6")
 
-* **Documentation Metrics** let you see who's using your docs, what your best and worst pages are, what people are searching for and more!
-* **API Metrics** are a bit harder to set up (I promise we do our best to make it painless!), but once you set this up you'll know *everything* that's going on with your users!
+Patrick and Benoit at Campbell Creek
 
-# 💬 We're here to help!
+![Lori waiting for mushers to come in](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/start7.jpg "start7")
 
-ReadMe has a *ton* of ways to make your docs the envy of any <Glossary>parliament</Glossary> (like that mouseover!). If you get stuck, [shoot us an email](mailto:support@readme.io) or use the Intercom widget on the bottom right of any page.
+Lori waiting for mushers to come in
 
-We're excited you're here! :blue_heart:
+![Uncle Louie is enjoying all of the attention and help he gets as he gets ready to leave Willow and John as he leaves Willow.](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/start8.jpg "start8")
+
+Uncle Louie is enjoying all of the attention and help he gets as he gets ready to leave Willow and John as he leaves Willow.
+
+![Alex W. wishing Robert Nelson good luck.](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/start9.jpg "start9")
+
+Alex W. wishing Robert Nelson good luck.
+
+![Darrin Nelson who is a rookie and has a film crew from Discovery Channel filming him. Looks like he is getting used to having the camera in his face as he prepares to leave Willow.](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/start10.jpg "start10")
+
+Darrin Nelson who is a rookie and has a film crew from Discovery Channel filming him. Looks like he is getting used to having the camera in his face as he prepares to leave Willow.
 
 ![This won't be fun to clean up...](https://owlbert.io/images/popper.gif)
