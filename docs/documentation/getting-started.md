@@ -1,6 +1,7 @@
 ---
-title: "Iditarod Start – 30-01-08 by Lori Henry"
-date: "2025-01-01T00:00:00.000Z"
+title: Iditarod Start – 30-01-08 by Lori Henry
+date: '2025-01-01T00:00:00.000Z'
+hidden: false
 ---
 
 These shots are from the Ceremonial Start in Anchorage. Pictured are Robyn Westlake and her friend Carlin, Patrick holding dogs, Pat and Lori and John “high-fiving” Larry Westlake as he is leaving. Larry is Robyn and Alex’s grandfather from Kiana.
