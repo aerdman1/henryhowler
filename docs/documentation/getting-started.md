@@ -1,11 +1,4 @@
 ---
-title: Getting Started with Henry-Howler
-excerpt: >-
-  This page will help you get started with Henry-Howler. You'll be up and
-  running in a jiffy!
-hidden: false
----
----
 title: "Iditarod Start – 30-01-08 by Lori Henry"
 date: "2025-01-01T00:00:00.000Z"
 ---
