@@ -14,24 +14,26 @@ export const PageGrid = () => {
       const nav = document.querySelector('.rm-Sidebar');
       if (!nav) throw new Error('Sidebar not found');
 
+      // 1) Find current category section
       const active = nav.querySelector(
         'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
       );
-      if (!active) throw new Error('No active link found');
-
+      if (!active) throw new Error('No active page link detected');
       const section = active.closest('section.rm-Sidebar-section');
-      if (!section) throw new Error('No category section found');
+      if (!section) throw new Error('Unable to locate category section');
 
+      // 2) Grab and dedupe /docs/ links in that section
       const raw = Array.from(
         section.querySelectorAll('a.rm-Sidebar-link[href^="/docs/"]')
       ).map(a => ({ href: a.href, title: a.textContent.trim() }));
-
       const seen = new Set();
-      setLinks(raw.filter(item => {
+      const unique = raw.filter(item => {
         if (seen.has(item.href)) return false;
         seen.add(item.href);
         return true;
-      }));
+      });
+
+      setLinks(unique);
     } catch (e) {
       setError(e.message);
     }
@@ -40,13 +42,13 @@ export const PageGrid = () => {
   if (error) return <p style={{ color: 'red' }}>Error: {error}</p>;
   if (!links.length) return <p>Loading pages…</p>;
 
-  // filter + group
+  // 3) Filter + group by year or first letter
   const filtered = links.filter(l =>
     l.title.toLowerCase().includes(filter.toLowerCase())
   );
   const groups = filtered.reduce((acc, l) => {
-    const m = l.title.match(/(19|20)\d{2}/);
-    const key = m ? m[0] : l.title[0].toUpperCase();
+    const match = l.title.match(/(19|20)\d{2}/);
+    const key = match ? match[0] : l.title[0].toUpperCase();
     (acc[key] = acc[key] || []).push(l);
     return acc;
   }, {});
@@ -57,19 +59,19 @@ export const PageGrid = () => {
         .search-box {
           width: 100%;
           padding: 8px;
-          margin: 16px 0;
+          margin-bottom: 16px;
           border: 1px solid #cbd5e0;
           border-radius: 4px;
         }
         .group-heading {
-          margin: 32px 0 12px;
-          font-size: 1.3rem;
+          margin: 24px 0 8px;
+          font-size: 1.25rem;
           color: #334155;
         }
         .page-grid {
-          display: grid !important;
-          grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)) !important;
-          gap: 20px !important;
+          display: grid;
+          grid-template-columns: repeat(auto-fit, minmax(220px,1fr));
+          gap: 20px;
         }
         .page-tile {
           display: flex;
@@ -89,9 +91,11 @@ export const PageGrid = () => {
         .page-title {
           margin: 0 0 12px;
           font-size: 1.05rem;
+          line-height: 1.3;
           color: #1e293b;
         }
         .page-tile a {
+          display: block;
           text-align: center;
           padding: 10px 0;
           background: #3b82f6;
