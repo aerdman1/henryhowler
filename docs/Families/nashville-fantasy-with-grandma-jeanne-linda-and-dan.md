@@ -1,0 +1,9 @@
+---
+title: "Nashville Fantasy With Grandma Jeanne, Linda, and Dan"
+deprecated: false
+date: "2014-01-14T05:00:00.000Z"
+hidden: false
+---
+
+[January 14, 2014](/families/gene/nashville-fantasy-grandma-jeanne-linda-dan/) 
+[Dan Henry](/author/uncle-dan/)
