@@ -1,0 +1,116 @@
+---
+title: "Zack’s Letters Home – page 6"
+deprecated: false
+date: "2025-01-01T00:00:00.000Z"
+hidden: false
+---
+
+October 19, 2007
+
+The setting sun is lighting the thunderheads that have formed in the south east giving everything in the compound an orange glow. I usually sit around out in the compound around sunset, drip dry after my bucket bath, and watch the kids run around and beat on each other. I sit quietly watching like I always do and the scene is surreal and amusing like it always is, but today my lightheadedness adds to the sense of the unreal.   Usually this time of day is just a waiting for darkness for darkness’s sake, but today there is more anticipation.  The adults are waiting and watching too.   Today sunset means the first meal of the day. It’s the first day of fasting for the month of Ramadan.
+
+The really devout don’t even swallow their own saliva, spitting every few minutes all day long. The majority of men and women abstain from eating or drinking until sunset. If you are sick you are not required to fast, and the young children only fast for a few days if at all. Those fasting get up a few hours before sunrise to eat leftovers from the night before and drink some tea or coffee to prepare themselves for the day. I however do not.
+
+I’ve found that eating in the morning just puts off the inevitable stomach discomfort. So I eat only at night and sleep through most of the discomfort. By the time I wake up I’m already in neutral and my body just waits. I opted to continue drinking water throughout the day. I have such a hard time staying hydrated here as it is. All in all fasting was only difficult those first few days and I quickly adjusted to the new schedule.
+
+Once the sun goes down and the Marabous (religious leaders) on the radio begin the call to prayer signaling the end of fasting for the day we begin. Coffee and bread are a major treat here for the villagers so they start with that. I’m not a coffee drinker so instead they usually have a cup of kosam (village yogurt) waiting for me to go with my bread. The kosam is usually sweetened but it still kind of burns when I drink it because of how sour it is, and the bread is the good tampalampa (village bread) that reminds me of soft pretzel bread.
+
+With the first few sips and bites my lightheadedness is replaced with a food induced head rush and even though this first meal is just the beginning I already feel full. I lay back down on the mat and immediately I’m handed more food. The corn is just getting ripe and the kids usually “cook” (and by cook I mean burn) the ears on the little charcoal stoves they use for making tea. I asked why they don’t boil the corn or at least soak the ears husk and all in water and leave the husk on to steam cook the corn and thereby avoid charring every single kernel and the reply was pretty typical, “American corn is just softer than our corn, our corn is too hard so that why we do it like this.” Makes no sense whatsoever, but I found that while boiled and salted corn would be better the burned corn is not too bad and anything is a   nice change from white rice and leaf sauce.
+
+The corn is just a snack until they bring out the big bowl of usually monee (slimy millet balls with more kosam) or white rice with kosam. Either way I am reminded of oatmeal back home and it’s a nice bland breakfasty kind of meal. By this point I’m way past stuffed but I keep trying to eat because I know this is my chance; there won’t be any early morning eating for me or cold leftover white rice with leaf sauce. The food keeps on coming.
+
+After that we had more corn to snack on and usually another large bowl of something more dinnerish. We have been eating better in general since Ramadan started. Now on lumo (weekly market) days there is some meat in the bowl, more onions, and occasionally some vegetables. The cucumbers have been getting ripe and my counterpart has brought some home almost every night. They skin them, dice them, and make a dressing out of mustard and vinegar and honestly its one of the best things we have to eat here. They eat it mostly to make me happy because they know that I like vegetables. I gave up trying to get them to eat a lot of vegetables, but this way the kids get a little every now and then.
+
+By the end of the second meal I can’t possibly eat anymore. I head to bed and they stay up till past midnight talking and snacking, drinking coffee and tea. Tomorrow we get up and do it all over again.
+
+Now Ramadan is over. Throughout my counterpart was trying to get me to eat during the day (not the most helpful thing when you are trying to fast). I don’t think they took me seriously when I said I would fast and at first they were sufficiently entertained at my fasting. By halfway he was lying and saying that Ramadan was over and they started cooking me even more food at night and telling me to save it for later which meant take it to my room and eat it cold the next day which I did from time to time. I also ate when I was out of the village and in Kolda running errands. I certainly made no attempt to go all out, and was willing to stop at any point if I began to get sick, and I was drinking water all day which is the truly hard part about this fast. By the end I was eating the food they gave me the night before because well why not. My main reason for fasting in the village was that while I know they would do it willingly, it seems wrong to ask folks who are not eating all day to cook me breakfast and lunch while they just sit there and watch me eat. And again, abstaining from food was not really very hard. I ate a lot at night, we were eating more nutritious food in addition, and I wasn’t working as hard all month. Honestly I was less hungry during Ramadan when we were eating well then I know I will be when we are eating white rice with leaf sauce three meals a day.
+
+The end of Ramadan comes the day after the new moon as long as all the marabous see the moon. It’s a bit like Groundhog’s Day. If it’s a cloudy night then they go one more day just to be sure. This year it was cloudy in some places but not in others and there was a lot of debate about when Korite (kore ee tay) which is the celebration at the end of Ramadan, actually began.
+
+Korite is a lot like all the other Senegalese holidays in that it’s an excuse to eat good food and socialize and pray. My host mom came back from her 6month stay in Dakar a few days before Korite and she came with Kiri who is her son I believe and his family. They were very nice people, very Dakarois with their nice clothes and cell phones and digital cameras. Kiri lived in Spain for seven years which Spain is for Senegal what the U.S. is for Mexico and Cuba. It’s always nice to talk to the Senegalese folks who have lived abroad because they are usually more polite and they seem to be more appreciative of how big the world is and how little cause for arrogance any people have, especially the Senegalese. Villagers always strut around like they’ve figured it all out, and I suppose relatively speaking they have. If you have lived in the same small town all your life in the same small region of the same small country and you know absolutely everyone and everything there is to know about where you live then I suppose I can see how that sense of complete control carries over to your sense of who you are in the world as a whole. It’s still obnoxious.
+
+The food for Korite was amazingly good. They killed a couple sheep and a chicken or two and I think Kiri’s wife must have helped with the cooking because it was unlike any meal we have had in the village up till this point. The meat was salty sweet and there were vegetables at the same time! And the meat was actually meat and not just macaroni looking things that are not actually macaroni either.
+
+It was pretty intense like most Senegalese gatherings are. On a normal day there are between 15 and 20 people in my compound at any one time, way more people than I’m used to. For Korite with all the visitors coming and going there were more like 30-40 and any one time. I was much better able to handle it this year however. My Pulaar is good enough to greet and joke with those folks who are being polite to me and to humiliate those who are being jerks. I also know when I can slip out and not be missed and just get away from everyone, and my family knows me well enough now that they leave me be for the most part.
+
+The money situation was a bit stressful as always. I doubled my usual weekly contribution as a Korite gift to the family, and of course I got asked for more here and there throughout, plus it’s a tradition to send the kids around to ask for salibos (money) which I instead gave out little hard candies. By the end I had tripled my usual contribution and given a week’s advance in addition. I was pretty sick of folks asking me to give them things.
+
+There was a group of 25 little girls that came from a neighboring village to ask for salibos and they were adorable. I was looking at a National Geographic and they all crowded around me to look at the pictures, and they actually listened to my explanations for a while. It was kinda nice.
+
+All in all Korite and Ramadan went well. And now the rains have stopped and it’s cool and clear at night. I’m in a better mood going into my second year.
+
+Hope you all are doing well and enjoying the colder weather. I would love to hear what you all are up to! Take care,
+
+Zack
+
+11-30-07
+
+Hey folks, I attached an email I wrote ahead of time, lots of fun with snakes, sustainability, and starlight.
+
+We just had our belated Thanks Giving dinner and it was truly amazing! We have some talented cooks in our region. We had chicken, mashed and sweet potatoes, bissap based cranberry sauce (its a type of sweet flower they use here for making a sweet drink), enchiladas, apple and sweet squash pies, banana and cashew bread and lots of other goodness! I know I took in more calories last night than I have in the last week!
+
+Hope every one is doing well and hope y’all enjoy the latest installment!
+
+\-Zack
+
+Mahalo,
+
+Sorry, just got done reading Kingdom of Fear by Hunter S. Thompson and that seems to be one of his favorite greetings. If I manage to keep my hero worship of him down to single word plagiarisms I will probably keep myself out of serious trouble.
+
+As I bathed on my ten foot wide cement pad, surrounded by the hand woven rattan fence that does more to keep out the gentle cooling wind than it does to keep out prying eyes and farm animals, a frightening thing happened. Naked and nearly sightless, with my feet freshly soaped, I watched as a large, long, black fuzzy shape darted out at the small grey fuzzy shapes that had gathered to soak up the moisture I was done using. The small shapes are the toads that until this moment, and truly in and of themselves, were harmless. As I watched the larger, darker shape begin to move again slowly I accepted that what I couldn’t really see was indeed a large black snake.
+
+I like most animals. I like snakes and other typically frightening animals more than the dumb domesticated destroyers that I live with daily. But I’m fairly practical. A big black snake in Africa is probably a bad thing to have in close proximity to you while naked, soapy, and without your glasses. I conveniently remembered in a split instant the discovery channel show with the wanna be Steve Irwin, so inept at handling deadly animals that the only appeal in watching his show instead of the Crocodile Hunter was that the phrase “Well… he got me, but I got to the hospital in time,” is a lot funnier than the phrase “Crikey, that was close!” I remembered watching this fool go up against a black mamba as he informed us that its one of the fastest striking snakes on the planet. I also remembered that we supposedly have mambas in Senegal. Then I remembered that my glasses were six feet away, my feet were slimy, and a big black something was stretched across the only convenient exit to my “bathroom.”
+
+I got up slowly but steadily, got my glasses, obligatorily confirmed that it was indeed a large black snake, assessed my options for escape (limited) and defense (also limited), and concluded that the best thing to do was to wait and see what happened. This strategy has served me well in countless situations ranging from trespassing to romance, and it didn’t break down here. The snake moved slowly in my general direction but along the fence and behind the pineapple plants that also benefit from my daily bath run off, and eventually out of sight into my backyard.
+
+Now I know that one of the fundamental rules of animal and human interactions is that they don’t want anything to do with us if they can help it, and this is very reassuring when in the open when all parties concerned have blessedly obvious and numerous routes of retreat. However I saw that I was trapped and that the direction the snake was moving would put it in a situation where it would also feel trapped if it suddenly became aware of my presence. Frankly I don’t think it realized I was there. And now that I’ve had a chance to look up mambas in a field guide, I doubt that it was a mamba that was in my douche (shower in French). But all in all a situation I don’t want to relive.
+
+I neglected to tell my villagers what happened. They are deathly afraid of the toads (and if this fear was based on the snakes predation of the toads I would respect it) and they have a tendency to beat to death anything they are afraid of. While I don’t want a poisonous snake haunting my toilet I also don’t want to induce a killing spree headed by 16 yr olds with machetes and 5 yr olds with sticks, so despite the pros of telling and the possible cons of not telling, I decide not to tell them. I am, however a lot more observant when I squat down to use the hole.
+
+Another scary thing happened last night. My favorite baby girl in the compound, little Ousmanie (ooss mon nee) nearly died. She is my favorite because I made her my favorite when I noticed that the other baby, little Demba, was getting all the attention and was developing quickly while Ousmanie was getting almost no stimulation and was noticeably undeveloped in even basic baby skills. So she became the one I tickled and teased and talked to, and now she is right there with Demba running around and trying to talk. She almost died because she was sick. She had a high fever all day, but though she was cranky, she seemed alert and responsive. I told her mom to keep her in the shade and make sure she drank lots of water and left it at that. The kids here are tough and there are a lot of things they just have to live through. So while I was concerned I wasn’t too worried. But I’m no doctor.
+
+That night around the campfire she was still feverish, but again her eyes looked good and while she seemed sleepy that’s not too unusual around bedtime for a sick kid. Ousmanie and Umu (her mom, who is two years older than I am with a 10yr old, an 8yr old, a 5yr old, and Ousmanie who is around 2) go to bead and about a half hour later I get ready for bed too. As I’m brushing my teeth I suddenly hear screams and wailing from the cinderblock building next to my hut. It’s an all too familiar sound bringing back memories of a year ago when three people including my host father died in my first two weeks at site. I sigh. I consider the possibilities of who it could be as I finish brushing my teeth, but I know that the only one really sick is Ousmanie.
+
+I walk back into my hut and gather the few things I think might possibly help, cell phone, money, flashlight, who knows? I try to mentally prepare myself for the sight of not only a dead child but of the death of one of the few I really love, and so I shut myself down even further. By the time I get out my front door the entire village has gathered and her little limp body is being passed from person to person but before anything else can sink in I begin hearing “Mbo mayani,” she didn’t die. I hold my breath and my flashlight, and wait and watch. They take some local citrus and shove the juice in her nose, which while it concerns me, does manage to elicit a healthy response from Ousmanie, pushing the hand away and convincing me that she really isn’t dead. Fact out of the confusion.
+
+I watch the folks mill around and know how the next half hour to an hour will be filled with everyone giving everyone else their opinions on what happened. And while I’m relieved that the worst is over, and that once again things are predictable, I have no patience left for Pulaar crisis management so I go to bed.
+
+The next morning I ask if Umu is going to take Ousmanie to the “hospital” which in this case will probably not be the regional (real) hospital in Kolda but probably the health center in Bagadaji. The answer is “Mi alaa kaliis,” I don’t have money. Ousmanie is doing better but if it is malaria like I suspect it may be, it will get worse again in the afternoon and evening as the parasites go through their life cycles, timed to put the maximum parasites in the blood stream at the prime time for mosquitoes to suck them in, and begin everything again. So I give Umu money to take her child to the hospital.
+
+I hate giving them money for things like this. I want to help, and the easiest way to help, and the only way people here really want to be helped, is to just give with no strings attached. That’s what PC calls “unsustainable aid,” and is to be avoided at all costs if you want to consider yourself a “good volunteer.” Further, I know what resources these folks have. Umu’s husband is working in Spain and sends money back. My counterpart, her brother in law, who we all live with has cows, sheep, goats, fields that are sources of income. They have me contributing cash money every week. They have money for tea, sugar, imported white rice, new cell phone battery, new dress clothes, new flashlights, radios, and on and on. Finally, what is the point of living communally if you can’t depend on the community to help you when you need it? Where is this “taranga” (hospitality) that they talked about in Thies as being one of Senegal’s greatest virtues?
+
+Also there is no reason for Ousmanie to get malaria. The first reason being that the mosquitoes are not numerous here and getting less so with each dry hot day. Secondly, World Vision, a large very active aid organization showed up two months ago and handed out a ton of mosquito nets which I know every child in my compound received. What good is a mosquito net if it’s not being used?
+
+I can throw money and things at these folks all day like World Vision does with not only nets, but also school supplies, sheep to raise, trees to plant, schools built every three miles, health centers every five. I can grow hundreds of trees and hand them out to whoever wants something free… and maybe I should, I don’t really know after being here a year. Regardless, what is holding Senegal back is the Senegalese? We/they can blame whoever we/they want to blame, but like every person has to stop blaming their parents for the way their life turned out, the same with nations. Senegal needs to take responsibility for Senegal.
+
+This is a nice country with lots of opportunities, both pre-existing and created by foreign money. Someone just needs to make things happen.
+
+We are into by far the nicest season of the year. It was miserably hot after the rains stopped in October, but each day got a little cooler, and each night there were fewer and fewer clouds to hold in the heat radiating up from the land. It gets down to the mid to upper 60s at night which I very chilly for someone who had adjusted to 100+ degree days. It still gets close to that mid day so I lay low and read, but early morning is great for doing any vigorous work I need to do and in late afternoon I ride my bike back into the woods and collect seeds.
+
+Seed collecting is by far my favorite thing about doing tree work. There is an element of treasure hunting when you find a tree that has gone to seed. I fill plastic bags and then bring them back to my room to dry out. The goal is to create a seed bank at the regional house where volunteers from other regions can contact us and get seeds that may be hard to find in their region. Hopefully we can set up a network of these in different parts of the country. There have been seed banks in the past but it hasn’t been maintained as well as it should have been.
+
+Most seeds are easy to collect and prepare but fruit trees are a bit harder, and involve a lot more saliva. There are not too many fruits that they have here that I’m particularly fond of, which probably takes some of the enjoyment out of collecting fruit tree seeds. So what ends up happening is I cruise the lumos (weekly markets) the day after they are held looking for discarded seeds and seed pods, sticky bug and dirt covered clumps that were recently in someone else’s mouth. Ummm.
+
+In the evenings my family builds a campfire or two to sit by because they are even more affected by the cold than I am. I watch as every member of the family at some point or another picks up red hot coals with their bare hands (brilliant!) \[sarcasm\] and roasts peanuts and goat poop in the sand. Oh these folks. Despite that, its nice to sit by the fire, when they haven’t put it out accidentally and then have to blow up cinders and sparks in everyone’s’ faces to get it going again, and watch the moon rise and tune out the screaming children and enjoy being outside.
+
+Sometimes I take my little plastic mat off away from everyone and just watch the stars. My family can’t understand why I do that, who would want to look at the sky? But I thoroughly enjoy it.
+
+Zack
+
+01-09-08
+
+Hello all
+
+This is my last email from Senegal. I have lots of reasons for leaving, but the main reason is that its time for me to do something else.
+
+I have lots of stories to tell. And the last few weeks struggling with the decision has given me some perspective and I have had some very positive experiences to leave on and memories to take with me.
+
+I plan to return home to Ohio and job search. I’m considering grad school but haven’t decided on a field of study or a school. I would like to move out of Ohio as soon as possible and make a start somewhere else. Suggestions are welcome.
+
+I want to thank you all for the support you’ve given me because it was largely that support that made it worthwhile to be here up till now.
+
+I’ve learned a lot and realized that I have a lot left to learn.
+
+Thank you again,
+
+Zack
