@@ -7,12 +7,12 @@ export const PageGrid = () => {
   const [links, setLinks] = useState([]);
   const [error, setError] = useState(null);
 
-  // Simple emoji-based "icons" keyed off title words
+  // emoji icons as before
   const iconMap = [
     { keywords: ['history', 'map', 'archive'], icon: '📜' },
     { keywords: ['article', 'story', 'news', 'blog'], icon: '📰' },
     { keywords: ['guide', 'manual', 'book'],          icon: '📖' },
-    { keywords: [],                                    icon: '📄' }, // fallback
+    { keywords: [],                                    icon: '📄' },
   ];
   const pickIcon = (title) => {
     const t = title.toLowerCase();
@@ -27,20 +27,32 @@ export const PageGrid = () => {
     try {
       const nav = document.querySelector('.rm-Sidebar');
       if (!nav) throw new Error('Sidebar not found');
+
+      // 1) find the active link (aria-current or .active class)
+      const active = nav.querySelector('a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active');
+      if (!active) throw new Error('No active page link detected');
+
+      // 2) climb to its section
+      const section = active.closest('section.rm-Sidebar-section');
+      if (!section) throw new Error('Unable to locate category section');
+
+      // 3) grab only that section’s /docs/ links
       const anchors = Array.from(
-        nav.querySelectorAll('a.rm-Sidebar-link[href^="/docs/"]')
+        section.querySelectorAll('a.rm-Sidebar-link[href^="/docs/"]')
       );
       const raw = anchors.map(a => ({
         href: a.getAttribute('href'),
         title: a.textContent.trim(),
       }));
-      // dedupe
+
+      // 4) dedupe
       const seen = new Set();
       const unique = raw.filter(item => {
         if (seen.has(item.href)) return false;
         seen.add(item.href);
         return true;
       });
+
       setLinks(unique);
     } catch (e) {
       setError(e.message);
@@ -52,60 +64,58 @@ export const PageGrid = () => {
 
   return (
     <>
-      <style>
-        {`
-          .page-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(220px,1fr));
-            gap: 20px;
-            margin: 24px 0;
-          }
-          .page-tile {
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-            padding: 20px;
-            background: linear-gradient(135deg, #ffffff, #f7f7f7);
-            border: 1px solid #e2e8f0;
-            border-radius: 8px;
-            box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-            transition: transform .2s, box-shadow .2s;
-          }
-          .page-tile:hover {
-            transform: translateY(-4px);
-            box-shadow: 0 4px 12px rgba(0,0,0,0.12);
-          }
-          .page-header {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            margin-bottom: 12px;
-          }
-          .page-icon {
-            font-size: 1.5rem;
-          }
-          .page-title {
-            margin: 0;
-            font-size: 1.05rem;
-            line-height: 1.2;
-            flex: 1;
-          }
-          .page-tile a {
-            display: block;
-            text-align: center;
-            padding: 10px 0;
-            background: #3b82f6;
-            color: #fff;
-            border-radius: 6px;
-            text-decoration: none;
-            font-weight: 500;
-            transition: background .2s;
-          }
-          .page-tile a:hover {
-            background: #2563eb;
-          }
-        `}
-      </style>
+      <style>{`
+        .page-grid {
+          display: grid;
+          grid-template-columns: repeat(auto-fit, minmax(220px,1fr));
+          gap: 20px;
+          margin: 24px 0;
+        }
+        .page-tile {
+          display: flex;
+          flex-direction: column;
+          justify-content: space-between;
+          padding: 20px;
+          background: linear-gradient(135deg, #ffffff, #f7f7f7);
+          border: 1px solid #e2e8f0;
+          border-radius: 8px;
+          box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+          transition: transform .2s, box-shadow .2s;
+        }
+        .page-tile:hover {
+          transform: translateY(-4px);
+          box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+        }
+        .page-header {
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          margin-bottom: 12px;
+        }
+        .page-icon {
+          font-size: 1.5rem;
+        }
+        .page-title {
+          margin: 0;
+          font-size: 1.05rem;
+          line-height: 1.2;
+          flex: 1;
+        }
+        .page-tile a {
+          display: block;
+          text-align: center;
+          padding: 10px 0;
+          background: #3b82f6;
+          color: #fff;
+          border-radius: 6px;
+          text-decoration: none;
+          font-weight: 500;
+          transition: background .2s;
+        }
+        .page-tile a:hover {
+          background: #2563eb;
+        }
+      `}</style>
 
       <div className="page-grid">
         {links.map((l, i) => (
