@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Getting Started
 deprecated: false
 hidden: false
 metadata:
