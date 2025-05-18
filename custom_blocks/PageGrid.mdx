@@ -1,0 +1,96 @@
+---
+name: PageGrid
+---
+import React, { useEffect, useState } from 'react';
+
+export const PageGrid = () => {
+  const [links, setLinks] = useState([]);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    // Guard for SSR
+    if (typeof document === 'undefined') return;
+
+    try {
+      // 1) grab all sidebar links under /docs/
+      const nav = document.querySelector('.rm-Sidebar');
+      if (!nav) throw new Error('Sidebar not found');
+
+      const anchors = Array.from(
+        nav.querySelectorAll('a.rm-Sidebar-link[href^="/docs/"]')
+      );
+
+      // 2) map to { href, title }
+      const raw = anchors.map(a => ({
+        href: a.getAttribute('href'),
+        title: a.textContent.trim(),
+      }));
+
+      // 3) dedupe by href
+      const seen = new Set();
+      const unique = raw.filter(item => {
+        if (seen.has(item.href)) return false;
+        seen.add(item.href);
+        return true;
+      });
+
+      setLinks(unique);
+    } catch (e) {
+      setError(e.message);
+    }
+  }, []);
+
+  if (error) {
+    return <p style={{ color: 'red' }}>Error loading pages: {error}</p>;
+  }
+  if (!links.length) {
+    return <p>Loading pages…</p>;
+  }
+
+  return (
+    <>
+      <style>
+        {`
+          .page-grid { 
+            display: grid; 
+            grid-template-columns: repeat(auto-fit, minmax(200px,1fr)); 
+            gap: 16px; 
+            margin: 24px 0;
+          }
+          .page-tile {
+            padding: 16px;
+            background: #fff;
+            border: 1px solid #e5e7eb;
+            border-radius: 6px;
+            text-align: center;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            transition: transform .2s;
+          }
+          .page-tile:hover {
+            transform: translateY(-3px);
+          }
+          .page-tile h4 {
+            margin: 0 0 8px;
+            font-size: 1rem;
+          }
+          .page-tile a {
+            color: #2563eb;
+            text-decoration: none;
+            font-weight: 500;
+          }
+        `}
+      </style>
+
+      <div className="page-grid">
+        {links.map((l, i) => (
+          <div key={i} className="page-tile">
+            <h4>{l.title}</h4>
+            <a href={l.href}>View</a>
+          </div>
+        ))}
+      </div>
+    </>
+  );
+};
+
+<PageGrid />
