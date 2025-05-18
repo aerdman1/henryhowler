@@ -6,21 +6,7 @@ import React, { useEffect, useState } from 'react';
 export const PageGrid = () => {
   const [links, setLinks] = useState([]);
   const [error, setError] = useState(null);
-
-  // emoji icons as before
-  const iconMap = [
-    { keywords: ['history', 'map', 'archive'], icon: '📜' },
-    { keywords: ['article', 'story', 'news', 'blog'], icon: '📰' },
-    { keywords: ['guide', 'manual', 'book'],          icon: '📖' },
-    { keywords: [],                                    icon: '📄' },
-  ];
-  const pickIcon = (title) => {
-    const t = title.toLowerCase();
-    for (let { keywords, icon } of iconMap) {
-      if (keywords.some(k => t.includes(k))) return icon;
-    }
-    return iconMap[iconMap.length - 1].icon;
-  };
+  const [filter, setFilter] = useState('');
 
   useEffect(() => {
     if (typeof document === 'undefined') return;
@@ -28,48 +14,62 @@ export const PageGrid = () => {
       const nav = document.querySelector('.rm-Sidebar');
       if (!nav) throw new Error('Sidebar not found');
 
-      // 1) find the active link (aria-current or .active class)
-      const active = nav.querySelector('a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active');
-      if (!active) throw new Error('No active page link detected');
-
-      // 2) climb to its section
-      const section = active.closest('section.rm-Sidebar-section');
-      if (!section) throw new Error('Unable to locate category section');
-
-      // 3) grab only that section’s /docs/ links
-      const anchors = Array.from(
-        section.querySelectorAll('a.rm-Sidebar-link[href^="/docs/"]')
+      const active = nav.querySelector(
+        'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
       );
-      const raw = anchors.map(a => ({
-        href: a.getAttribute('href'),
-        title: a.textContent.trim(),
-      }));
+      if (!active) throw new Error('No active link found');
 
-      // 4) dedupe
+      const section = active.closest('section.rm-Sidebar-section');
+      if (!section) throw new Error('No category section found');
+
+      const raw = Array.from(
+        section.querySelectorAll('a.rm-Sidebar-link[href^="/docs/"]')
+      ).map(a => ({ href: a.href, title: a.textContent.trim() }));
+
       const seen = new Set();
-      const unique = raw.filter(item => {
+      setLinks(raw.filter(item => {
         if (seen.has(item.href)) return false;
         seen.add(item.href);
         return true;
-      });
-
-      setLinks(unique);
+      }));
     } catch (e) {
       setError(e.message);
     }
   }, []);
 
-  if (error) return <p style={{ color: 'red' }}>Error loading pages: {error}</p>;
+  if (error) return <p style={{ color: 'red' }}>Error: {error}</p>;
   if (!links.length) return <p>Loading pages…</p>;
+
+  // filter + group
+  const filtered = links.filter(l =>
+    l.title.toLowerCase().includes(filter.toLowerCase())
+  );
+  const groups = filtered.reduce((acc, l) => {
+    const m = l.title.match(/(19|20)\d{2}/);
+    const key = m ? m[0] : l.title[0].toUpperCase();
+    (acc[key] = acc[key] || []).push(l);
+    return acc;
+  }, {});
 
   return (
     <>
       <style>{`
+        .search-box {
+          width: 100%;
+          padding: 8px;
+          margin: 16px 0;
+          border: 1px solid #cbd5e0;
+          border-radius: 4px;
+        }
+        .group-heading {
+          margin: 32px 0 12px;
+          font-size: 1.3rem;
+          color: #334155;
+        }
         .page-grid {
-          display: grid;
-          grid-template-columns: repeat(auto-fit, minmax(220px,1fr));
-          gap: 20px;
-          margin: 24px 0;
+          display: grid !important;
+          grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)) !important;
+          gap: 20px !important;
         }
         .page-tile {
           display: flex;
@@ -86,23 +86,12 @@ export const PageGrid = () => {
           transform: translateY(-4px);
           box-shadow: 0 4px 12px rgba(0,0,0,0.12);
         }
-        .page-header {
-          display: flex;
-          align-items: center;
-          gap: 8px;
-          margin-bottom: 12px;
-        }
-        .page-icon {
-          font-size: 1.5rem;
-        }
         .page-title {
-          margin: 0;
+          margin: 0 0 12px;
           font-size: 1.05rem;
-          line-height: 1.2;
-          flex: 1;
+          color: #1e293b;
         }
         .page-tile a {
-          display: block;
           text-align: center;
           padding: 10px 0;
           background: #3b82f6;
@@ -117,17 +106,27 @@ export const PageGrid = () => {
         }
       `}</style>
 
-      <div className="page-grid">
-        {links.map((l, i) => (
-          <div key={i} className="page-tile">
-            <div className="page-header">
-              <span className="page-icon">{pickIcon(l.title)}</span>
-              <h4 className="page-title">{l.title}</h4>
-            </div>
-            <a href={l.href}>View</a>
+      <input
+        type="text"
+        className="search-box"
+        placeholder="Search pages…"
+        value={filter}
+        onChange={e => setFilter(e.target.value)}
+      />
+
+      {Object.entries(groups).map(([group, items]) => (
+        <section key={group}>
+          <h2 className="group-heading">{group}</h2>
+          <div className="page-grid">
+            {items.map((l, i) => (
+              <div key={i} className="page-tile">
+                <h4 className="page-title">{l.title}</h4>
+                <a href={l.href}>View</a>
+              </div>
+            ))}
           </div>
-        ))}
-      </div>
+        </section>
+      ))}
     </>
   );
 };
