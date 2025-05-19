@@ -33,3 +33,14 @@ Journey through our family’s past—from 18th-century Connecticut pioneers and
     Learn more about John’s branch of the family
   </Card>
 </Cards>
+
+<HTMLBlock>{`
+<style>
+.CardsGrid .Card-title {
+    color: var(--Card-title-color);
+    font-weight: 600;
+    margin-top: 10px;
+    font-size: 30px;
+}  
+</style>
+`}</HTMLBlock>
