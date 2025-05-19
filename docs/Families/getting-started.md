@@ -9,7 +9,7 @@ metadata:
 
 A collection and collaboration of family history, current and future events.
 
-We’d be thrilled to have you as a contributor to the site.
+We’d be thrilled to have you as a contributor to the site just contact Andrew or Linda!
 
 <Cards columns={2} title="Families">
   <Card title="Don Henry’s" href="#don-henry" icon="fa-user-alt" target="_blank">
