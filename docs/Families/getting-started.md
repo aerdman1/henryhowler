@@ -7,7 +7,7 @@ metadata:
 ---
 ## Welcome to the Henry Howler
 
-Journey through our family’s past—from 18th-century Connecticut pioneers carving out homesteads to Civil War captains answering the call of duty, and onward to 20th-century poets and judges shaping our community. Along the way, you’ll uncover letters that whisper secrets of daily life, photographs that freeze moments in time, newspaper clippings that chronicle triumphs and trials, and cherished traditions passed down through generations.
+A collection and collaboration of family history, current and future events. We’d be thrilled to have you as a contributor to the site.
 
 <Cards columns={2} title="Families">
   <Card title="Don Henry’s" href="#don-henry" icon="fa-user-alt" target="_blank">
