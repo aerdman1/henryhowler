@@ -27,9 +27,7 @@ Journey through our family’s past—from 18th-century Connecticut pioneers car
   </Card>
 </Cards>
 
-<br />
-
-### Explore
+## Explore
 
 **Roots & Migration**\
 Trace the path from Simon Henry’s 1797 Connecticut land deed through subsequent waves of migration into Ohio, California, and beyond—each move weaving new threads into our family tapestry.
