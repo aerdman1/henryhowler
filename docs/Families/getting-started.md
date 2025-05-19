@@ -17,19 +17,19 @@ Journey through our family’s past—from 18th-century Connecticut pioneers and
 * **Art & Adventure:** Poetry by Rhoda Henry Messner and Janet Henry’s global climbs
 
 <Cards columns={2} title="Families">
-  <Card title="Don Henry’s" href="#don-henry" icon="fa-user" target="_blank">
+  <Card title="Don Henry’s" href="#don-henry" icon="fa-user-tie" target="_blank">
     Learn more about Don’s branch of the family
   </Card>
 
-  <Card title="Fred Henry’s" href="#fred-henry" icon="fa-user" target="_blank">
+  <Card title="Fred Henry’s" href="#fred-henry" icon="fa-user-circle" target="_blank">
     Learn more about Fred’s branch of the family
   </Card>
 
-  <Card title="Gene Henry’s" href="#gene-henry" icon="fa-user" target="_blank">
+  <Card title="Gene Henry’s" href="#gene-henry" icon="fa-user-friends" target="_blank">
     Learn more about Gene’s branch of the family
   </Card>
 
-  <Card title="John Henry’s" href="#john-henry" icon="fa-user" target="_blank">
+  <Card title="John Henry’s" href="#john-henry" icon="fa-users" target="_blank">
     Learn more about John’s branch of the family
   </Card>
 </Cards>
