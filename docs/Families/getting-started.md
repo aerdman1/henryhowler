@@ -17,7 +17,7 @@ Journey through our family’s past—from 18th-century Connecticut pioneers and
 * **Art & Adventure:** Poetry by Rhoda Henry Messner and Janet Henry’s global climbs
 
 <Cards columns={2} title="Families">
-  <Card title="Don Henry’s" href="#don-henry" icon="fa-user-tie" target="_blank">
+  <Card title="Don Henry’s" href="#don-henry" icon="fa-user-alt" target="_blank">
     Learn more about Don’s branch of the family
   </Card>
 
