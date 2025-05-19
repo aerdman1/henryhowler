@@ -15,5 +15,3 @@ Journey through our family’s past—from 18th-century Connecticut pioneers and
 * **Heroes & Service:** Capt. Charles E. Henry in the 42nd O.V.I. and Fred H. Henry in WWII
 * **Law & Legacy:** Judge Frederick A. Henry’s influence on Cleveland’s bench
 * **Art & Adventure:** Poetry by Rhoda Henry Messner and Janet Henry’s global climbs
-
-<PageGrid />
