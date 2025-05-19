@@ -1,13 +1,12 @@
 ---
-title: "WPI Professor Receives Fulbright Scholarship to Conduct Research on Tissue Engineering in Ireland"
+title: Fulbright Scholarship
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/billiar_rdax_200x300.jpg)
 
+**WPI Professor Receives Fulbright Scholarship to Conduct Research on Tissue Engineering in Ireland**
 
 Congratulations Kris!
 
