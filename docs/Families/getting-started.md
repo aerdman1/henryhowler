@@ -16,20 +16,20 @@ Journey through our family’s past—from 18th-century Connecticut pioneers and
 * **Law & Legacy:** Judge Frederick A. Henry’s influence on Cleveland’s bench
 * **Art & Adventure:** Poetry by Rhoda Henry Messner and Janet Henry’s global climbs
 
-<Cards columns={4}>
-  <Card title="First Card" href="https://readme.com" icon="fa-home" target="_blank">
-    Neque porro quisquam est qui dolorem ipsum quia
+<Cards columns={2} title="Families">
+  <Card title="Don Henry’s" href="#don-henry" icon="fa-user" target="_blank">
+    Learn more about Don’s branch of the family
   </Card>
 
-  <Card title="Second Card" icon="fa-user">
-    *Lorem ipsum dolor sit amet, consectetur adipiscing elit*
+  <Card title="Fred Henry’s" href="#fred-henry" icon="fa-user" target="_blank">
+    Learn more about Fred’s branch of the family
   </Card>
 
-  <Card title="Third Card" icon="fa-star">
-    > Ut enim ad minim veniam, quis nostrud ullamco
+  <Card title="Gene Henry’s" href="#gene-henry" icon="fa-user" target="_blank">
+    Learn more about Gene’s branch of the family
   </Card>
 
-  <Card title="Fourth Card" icon="fa-question">
-    **Excepteur sint occaecat cupidatat non proident**
+  <Card title="John Henry’s" href="#john-henry" icon="fa-user" target="_blank">
+    Learn more about John’s branch of the family
   </Card>
 </Cards>
