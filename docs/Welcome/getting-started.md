@@ -11,15 +11,15 @@ metadata:
     Learn more about Don’s branch of the family
   </Card>
 
-  <Card title="Fred Henry’s" href="/docs/don-henrysfred-henrys" icon="fa-user-circle" target="_blank">
+  <Card title="Fred Henry’s" href="/docs/fred-henrys" icon="fa-user-circle" target="_blank">
     Learn more about Fred’s branch of the family
   </Card>
 
-  <Card title="Gene Henry’s" href="#gene-henry" icon="fa-user-friends" target="_blank">
+  <Card title="Gene Henry’s" href="/docs/gene-henrys" icon="fa-user-friends" target="_blank">
     Learn more about Gene’s branch of the family
   </Card>
 
-  <Card title="John Henry’s" href="#john-henry" icon="fa-users" target="_blank">
+  <Card title="John Henry’s" href="/docs/john-henrys" icon="fa-users" target="_blank">
     Learn more about John’s branch of the family
   </Card>
 </Cards>
