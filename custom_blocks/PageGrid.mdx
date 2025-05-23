@@ -4,11 +4,10 @@ name: PageGrid
 import React, { useEffect, useState } from 'react';
 
 export const PageGrid = () => {
-  const [cards, setCards] = useState([]);     // enriched first 8
-  const [others, setOthers] = useState([]);   // remaining raw links
+  const [cards, setCards] = useState([]);
+  const [others, setOthers] = useState([]);
   const [error, setError] = useState(null);
 
-  // emoji icons as before
   const iconMap = [
     { keywords: ['history', 'map', 'archive'], icon: '📜' },
     { keywords: ['article', 'story', 'news', 'blog'], icon: '📰' },
@@ -29,28 +28,24 @@ export const PageGrid = () => {
       const nav = document.querySelector('.rm-Sidebar');
       if (!nav) throw new Error('Sidebar not found');
 
-      // 1) find active
       const active = nav.querySelector(
         'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
       );
       if (!active) throw new Error('No active page link detected');
 
       const currentHref = active.getAttribute('href');
-
-      // 2) climb to its section
       const section = active.closest('section.rm-Sidebar-section');
       if (!section) throw new Error('Unable to locate category section');
 
-      // 3) grab only that section’s /docs/ links
       const anchors = Array.from(
         section.querySelectorAll('a.rm-Sidebar-link[href^="/docs/"]')
       );
       const raw = anchors.map(a => ({
-        href: a.getAttribute('href'),
+        href: a.href,
         title: a.textContent.trim(),
       }));
 
-      // 4) dedupe + drop current
+      // dedupe and skip current
       const seen = new Set();
       const pages = raw
         .filter(item => {
@@ -60,11 +55,11 @@ export const PageGrid = () => {
         })
         .filter(item => item.href !== currentHref);
 
-      // hide ToC if present
+      // hide ToC
       const toc = document.querySelector('.content-toc');
       if (toc) toc.style.display = 'none';
 
-      // 5) enrich first 8
+      // enrich first 8
       Promise.all(
         pages.slice(0, 8).map(item =>
           fetch(item.href)
@@ -107,85 +102,107 @@ export const PageGrid = () => {
           flex-direction: column;
           justify-content: space-between;
           padding: 20px;
-          background: linear-gradient(135deg, #ffffff, #f7f7f7);
-          border: 1px solid #e2e8f0;
-          border-radius: 8px;
-          box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+          background: linear-gradient(135deg,#fff,#f7f7f7);
+          border:1px solid #e2e8f0;
+          border-radius:8px;
+          box-shadow:0 2px 6px rgba(0,0,0,0.08);
           transition: transform .2s, box-shadow .2s;
         }
         .page-tile:hover {
           transform: translateY(-4px);
-          box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+          box-shadow:0 4px 12px rgba(0,0,0,0.12);
         }
         .page-header {
-          display: flex;
-          align-items: center;
-          gap: 8px;
-          margin-bottom: 12px;
+          display:flex;
+          align-items:center;
+          gap:8px;
+          margin-bottom:12px;
         }
-        .page-icon { font-size: 1.5rem; }
+        .page-icon { font-size:1.5rem; }
         .page-title {
-          margin: 0;
-          font-size: 1.05rem;
-          line-height: 1.2;
-          flex: 1;
+          margin:0;
+          font-size:1.05rem;
+          line-height:1.2;
+          flex:1;
         }
         .page-tile a {
-          display: block;
-          text-align: center;
-          padding: 10px 0;
-          background: #3b82f6;
-          color: #fff;
-          border-radius: 6px;
-          text-decoration: none;
-          font-weight: 500;
+          display:block;
+          text-align:center;
+          padding:10px 0;
+          background:#3b82f6;
+          color:#fff;
+          border-radius:6px;
+          text-decoration:none;
+          font-weight:500;
           transition: background .2s;
         }
-        .page-tile a:hover { background: #2563eb; }
+        .page-tile a:hover { background:#2563eb; }
 
-        /* hide ToC */
-        .content-toc { display: none; }
+        .content-toc { display:none; }
 
-        /* fixed-height, center-cropped images + placeholder */
+        /* image + placeholder */
         .page-tile img,
         .page-tile .placeholder {
-          width: 100%;
-          height: 200px;
-          border-radius: 4px;
-          margin-bottom: 8px;
-          object-fit: cover;
-          object-position: center;
+          width:100%;
+          height:200px;
+          border-radius:4px;
+          margin-bottom:8px;
+          object-fit:cover;
+          object-position:center;
         }
         .page-tile .placeholder {
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          background: #e2e8f0;
-          color: #9ca3af;
-          font-size: 2rem;
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          background:#e2e8f0;
+          color:#9ca3af;
+          font-size:2rem;
         }
         .page-tile p {
-          flex: 1;
-          font-size: 0.9rem;
-          margin-bottom: 12px;
+          flex:1;
+          font-size:0.9rem;
+          margin-bottom:12px;
         }
 
-        /* simple multi-col list for the rest */
+        /* “More…” heading */
+        .more-heading {
+          font-size:1.25rem;
+          margin-top:40px;
+          margin-bottom:16px;
+          color:#333;
+          font-weight:500;
+        }
+
+        /* grid list styling */
         .link-list {
-          display: grid;
-          grid-template-columns: repeat(5, 1fr);
-          gap: 8px 16px;
-          margin: 32px 0;
+          display:grid;
+          grid-template-columns:repeat(5,1fr);
+          gap:8px 16px;
         }
         .link-list a {
-          text-decoration: none;
-          color: #2563eb;
-          font-size: 0.95rem;
+          position:relative;
+          padding:4px 0 4px 12px;
+          color:#1a1a1a;
+          text-decoration:none;
+          font-size:0.95rem;
+          transition: color .2s;
+        }
+        .link-list a:hover {
+          color:#3b82f6;
+        }
+        /* vertical dividers: add left border except for first in each row */
+        .link-list a {
+          border-left:1px solid #e2e8f0;
+        }
+        .link-list a:nth-child(5n+1) {
+          border-left:none;
+          padding-left:0;
         }
       `}</style>
 
+      {/* image-cards */}
       <div className="page-grid">
-        {cards.map((l, i) => (
+        {cards.map((l,i) => (
           <div key={i} className="page-tile">
             {l.image
               ? <img src={l.image} alt={`Preview for ${l.title}`} />
@@ -201,12 +218,16 @@ export const PageGrid = () => {
         ))}
       </div>
 
+      {/* rest of links */}
       {others.length > 0 && (
-        <div className="link-list">
-          {others.map((o, idx) => (
-            <a key={idx} href={o.href}>{o.title}</a>
-          ))}
-        </div>
+        <>
+          <div className="more-heading">More…</div>
+          <div className="link-list">
+            {others.map((o, idx) => (
+              <a key={idx} href={o.href}>{o.title}</a>
+            ))}
+          </div>
+        </>
       )}
     </>
   );
