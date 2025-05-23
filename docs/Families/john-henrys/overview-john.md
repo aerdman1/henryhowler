@@ -1,5 +1,5 @@
 ---
-title: Overview - John
+title: Overview
 deprecated: false
 hidden: false
 metadata:
