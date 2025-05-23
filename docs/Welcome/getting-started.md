@@ -48,6 +48,11 @@ Delight in Rhoda Henry Messner’s soul-stirring poetry and join Janet Henry’s
 
 <HTMLBlock>{`
 <style>
-
+.CardsGrid .Card-title {
+    color: #fff;
+    font-weight: 600;
+    margin-top: 10px;
+    font-size: 30px;
+}
 </style>
 `}</HTMLBlock>
