@@ -1,5 +1,5 @@
 ---
-title: Welcome to The Henry Howler
+title: Welcome to The Henry Howler!
 excerpt: A collection and collaboration of family history, current and future events.
 deprecated: false
 hidden: false
