@@ -7,7 +7,8 @@ export const PageGrid = () => {
   const [cards, setCards] = useState([]);
   const [others, setOthers] = useState([]);
   const [error, setError] = useState(null);
-  const [loaderStarted, setLoaderStarted] = useState(false);
+  const [progress, setProgress] = useState(0);
+  const [totalFetches, setTotalFetches] = useState(0);
 
   const iconMap = [
     { keywords: ['history', 'map', 'archive'], icon: '📜' },
@@ -23,69 +24,76 @@ export const PageGrid = () => {
     return iconMap[iconMap.length - 1].icon;
   };
 
-  // trigger loader fill on mount
-  useEffect(() => {
-    setLoaderStarted(true);
-  }, []);
-
   useEffect(() => {
     if (typeof document === 'undefined') return;
-    try {
-      const nav = document.querySelector('.rm-Sidebar');
-      if (!nav) throw new Error('Sidebar not found');
+    (async () => {
+      try {
+        const nav = document.querySelector('.rm-Sidebar');
+        if (!nav) throw new Error('Sidebar not found');
 
-      const active = nav.querySelector(
-        'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
-      );
-      if (!active) throw new Error('No active page link detected');
-      const currentHref = active.href;
+        const active = nav.querySelector(
+          'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
+        );
+        if (!active) throw new Error('No active page link detected');
+        const currentHref = active.href;
 
-      const section = active.closest('section.rm-Sidebar-section');
-      if (!section) throw new Error('Unable to locate category section');
+        const section = active.closest('section.rm-Sidebar-section');
+        if (!section) throw new Error('Unable to locate category section');
 
-      const anchors = Array.from(
-        section.querySelectorAll('a.rm-Sidebar-link[href^="/docs/"]')
-      );
-      const raw = anchors.map(a => ({
-        href: a.href,
-        title: a.textContent.trim(),
-      }));
+        const anchors = Array.from(
+          section.querySelectorAll('a.rm-Sidebar-link[href^="/docs/"]')
+        );
+        const raw = anchors.map(a => ({
+          href: a.href,
+          title: a.textContent.trim(),
+        }));
 
-      const seen = new Set();
-      const pages = raw
-        .filter(item => {
-          if (seen.has(item.href)) return false;
-          seen.add(item.href);
-          return true;
-        })
-        .filter(item => item.href !== currentHref);
+        const seen = new Set();
+        const pages = raw
+          .filter(item => {
+            if (seen.has(item.href)) return false;
+            seen.add(item.href);
+            return true;
+          })
+          .filter(item => item.href !== currentHref);
 
-      const toc = document.querySelector('.content-toc');
-      if (toc) toc.style.display = 'none';
+        const toc = document.querySelector('.content-toc');
+        if (toc) toc.style.display = 'none';
 
-      Promise.all(
-        pages.slice(0, 8).map(item =>
-          fetch(item.href)
-            .then(r => r.text())
-            .then(html => {
-              const doc = new DOMParser().parseFromString(html, 'text/html');
-              const img = doc.querySelector('article img, .rm-Page-body img');
-              const p   = doc.querySelector('article p, .rm-Page-body p');
-              return {
-                ...item,
-                image: img ? img.src : null,
-                excerpt: p ? p.textContent.trim().slice(0, 120) : '',
-              };
-            })
-            .catch(() => ({ ...item, image: null, excerpt: '' }))
-        )
-      ).then(enriched => {
+        const slice = pages.slice(0, 8);
+        setTotalFetches(slice.length);
+        setProgress(0);
+
+        const enriched = [];
+        // launch all fetches, track each completion
+        await Promise.all(
+          slice.map(item =>
+            fetch(item.href)
+              .then(r => r.text())
+              .then(html => {
+                const doc = new DOMParser().parseFromString(html, 'text/html');
+                const img = doc.querySelector('article img, .rm-Page-body img');
+                const p   = doc.querySelector('article p, .rm-Page-body p');
+                return {
+                  ...item,
+                  image: img ? img.src : null,
+                  excerpt: p ? p.textContent.trim().slice(0, 120) : '',
+                };
+              })
+              .catch(() => ({ ...item, image: null, excerpt: '' }))
+              .then(result => {
+                enriched.push(result);
+                setProgress(prev => prev + 1);
+              })
+          )
+        );
+
         setCards(enriched);
         setOthers(pages.slice(8));
-      });
-    } catch (e) {
-      setError(e.message);
-    }
+      } catch (e) {
+        setError(e.message);
+      }
+    })();
   }, []);
 
   // Error state
@@ -93,16 +101,17 @@ export const PageGrid = () => {
     return <p style={{ color: 'red' }}>Error loading pages: {error}</p>;
   }
 
-  // Loading state: our retro loader with single-fill transition
+  // Loading state with true progress
   if (!cards.length && !others.length) {
+    const pct = totalFetches > 0 ? (progress / totalFetches) * 100 : 0;
     return (
       <div className="retro-loader">
         <div className="bar">
           <div
             className="fill"
             style={{
-              width: loaderStarted ? '100%' : '0%',
-              transition: 'width 5s linear'
+              width: `${pct}%`,
+              transition: 'width 0.3s ease-out'
             }}
           />
         </div>
