@@ -7,6 +7,7 @@ export const PageGrid = () => {
   const [cards, setCards] = useState([]);
   const [others, setOthers] = useState([]);
   const [error, setError] = useState(null);
+  const [loaderStarted, setLoaderStarted] = useState(false);
 
   const iconMap = [
     { keywords: ['history', 'map', 'archive'], icon: '📜' },
@@ -21,6 +22,11 @@ export const PageGrid = () => {
     }
     return iconMap[iconMap.length - 1].icon;
   };
+
+  // trigger loader fill on mount
+  useEffect(() => {
+    setLoaderStarted(true);
+  }, []);
 
   useEffect(() => {
     if (typeof document === 'undefined') return;
@@ -87,12 +93,18 @@ export const PageGrid = () => {
     return <p style={{ color: 'red' }}>Error loading pages: {error}</p>;
   }
 
-  // Loading state: our retro loader
+  // Loading state: our retro loader with single-fill transition
   if (!cards.length && !others.length) {
     return (
       <div className="retro-loader">
         <div className="bar">
-          <div className="fill" />
+          <div
+            className="fill"
+            style={{
+              width: loaderStarted ? '100%' : '0%',
+              transition: 'width 5s linear'
+            }}
+          />
         </div>
         <div className="message">🤖 Retrieving Family Information...</div>
         <style>{`
@@ -112,19 +124,12 @@ export const PageGrid = () => {
             overflow: hidden;
           }
           .retro-loader .fill {
-            width: 0;
             height: 100%;
             background: #222;
-            animation: retro-load 2s infinite;
           }
           .retro-loader .message {
             font-size: 0.95rem;
             color: #222;
-          }
-          @keyframes retro-load {
-            0%   { width:   0%; }
-            50%  { width: 100%; }
-            100% { width:   0%; }
           }
         `}</style>
       </div>
@@ -233,7 +238,7 @@ export const PageGrid = () => {
       `}</style>
 
       <div className="page-grid">
-        {cards.map((l,i) => (
+        {cards.map((l, i) => (
           <div key={i} className="page-tile">
             {l.image
               ? <img src={l.image} alt={`Preview for ${l.title}`} />
