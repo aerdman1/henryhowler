@@ -6,7 +6,7 @@ hidden: false
 metadata:
   robots: index
 ---
-<Cards columns={2} title="Families">
+<Cards style="homepageCards" columns={2} title="Families">
   <Card title="Don Henry’s" href="don-henrys" icon="fa-user-alt">
     Learn more about Don’s branch of the family
   </Card>
@@ -48,29 +48,6 @@ Delight in Rhoda Henry Messner’s soul-stirring poetry and join Janet Henry’s
 
 <HTMLBlock>{`
 <style>
-.CardsGrid .Card-title {
-    color: #fff;
-    font-weight: 600;
-    margin-top: 10px;
-    font-size: 30px;
-}  
-  
-.CardsGrid .Card-content {
-    color: #fff;
-}
-  
-  
-/* Fun fresh palette—one color per card */
-.Card:nth-child(1) { background: #3AA2FF; } /* sky blue */
-.Card:nth-child(2) { background: #FF6E59; } /* coral */
-.Card:nth-child(3) { background: #FFC23A; } /* sunflower */
-.Card:nth-child(4) { background: #6BCB77; } /* minty green */
 
-
-/* Hover “lift” effect */
-.Card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 16px rgba(0,0,0,0.15);
-}
 </style>
 `}</HTMLBlock>
