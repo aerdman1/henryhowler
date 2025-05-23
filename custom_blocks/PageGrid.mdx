@@ -35,6 +35,8 @@ export const PageGrid = () => {
       );
       if (!active) throw new Error('No active page link detected');
 
+      const currentHref = active.getAttribute('href');
+
       // 2) climb to its section
       const section = active.closest('section.rm-Sidebar-section');
       if (!section) throw new Error('Unable to locate category section');
@@ -56,9 +58,12 @@ export const PageGrid = () => {
         return true;
       });
 
+      // 5) drop the current page itself
+      const pages = unique.filter(item => item.href !== currentHref);
+
       // ---- NEW: enrich first 5 pages with image + excerpt ----
       Promise.all(
-        unique.slice(0, 5).map(item =>
+        pages.slice(0, 5).map(item =>
           fetch(item.href)
             .then(r => r.text())
             .then(html => {
@@ -74,8 +79,8 @@ export const PageGrid = () => {
             .catch(() => ({ ...item, image: null, excerpt: '' }))
         )
       ).then(enriched => {
-        // merge enriched subset back into unique array
-        const merged = unique.map((u, i) => enriched[i] || u);
+        // merge enriched subset back into the filtered list
+        const merged = pages.map((u, i) => enriched[i] || u);
         setLinks(merged);
       });
 
