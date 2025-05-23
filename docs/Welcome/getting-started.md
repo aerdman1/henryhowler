@@ -7,7 +7,7 @@ metadata:
   robots: index
 ---
 <Cards columns={2} title="Families">
-  <Card title="Don Henry’s" href="docs/don-henrys" icon="fa-user-alt" target="_blank">
+  <Card title="Don Henry’s" href="docs/don-henrys" icon="fa-user-alt">
     Learn more about Don’s branch of the family
   </Card>
 
