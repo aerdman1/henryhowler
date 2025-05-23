@@ -52,6 +52,7 @@ Delight in Rhoda Henry Messner’s soul-stirring poetry and join Janet Henry’s
     font-weight: 600;
     margin-top: 10px;
     font-size: 30px;
+    color: #fff;
 }
 </style>
 `}</HTMLBlock>
