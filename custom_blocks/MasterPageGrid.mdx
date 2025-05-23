@@ -47,8 +47,8 @@ export const MasterPageGrid = () => {
           return links.length > 1 ? links[1] : null;
         }).filter(Boolean); // remove nulls
 
-        // 4) take the first 8 picks
-        const slice = picks.slice(0, 8);
+        // 4) take the first 9 picks
+        const slice = picks.slice(0, 9);
 
         // 5) fetch & enrich
         const enriched = await Promise.all(
