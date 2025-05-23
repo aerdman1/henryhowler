@@ -61,9 +61,9 @@ export const PageGrid = () => {
       // 5) drop the current page itself
       const pages = unique.filter(item => item.href !== currentHref);
 
-      // ---- enrich first 5 pages with image + excerpt ----
+      // ---- enrich first 10 pages with image + excerpt ----
       Promise.all(
-        pages.slice(0, 5).map(item =>
+        pages.slice(0, 10).map(item =>
           fetch(item.href)
             .then(r => r.text())
             .then(html => {
@@ -80,7 +80,7 @@ export const PageGrid = () => {
         )
       ).then(enriched => {
         // merge enriched subset back into the filtered list
-        const merged = pages.map((u, i) => enriched[i] || u);
+        const merged = pages.map((u, i) => enriched[i] || u).slice(0, 10);
         setLinks(merged);
       });
 
@@ -154,13 +154,23 @@ export const PageGrid = () => {
           display: none;
         }
         /* fixed-height, center-cropped images */
-        .page-tile img {
+        .page-tile img,
+        .page-tile .placeholder {
           width: 100%;
           height: 200px;
-          object-fit: cover;
-          object-position: center;
           border-radius: 4px;
           margin-bottom: 8px;
+          object-fit: cover;
+          object-position: center;
+        }
+        /* placeholder styling */
+        .page-tile .placeholder {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          background: #e2e8f0;
+          color: #9ca3af;
+          font-size: 2rem;
         }
         .page-tile p {
           flex: 1;
@@ -172,7 +182,10 @@ export const PageGrid = () => {
       <div className="page-grid">
         {links.map((l, i) => (
           <div key={i} className="page-tile">
-            {l.image && <img src={l.image} alt={`Preview for ${l.title}`} />}
+            {l.image
+              ? <img src={l.image} alt={`Preview for ${l.title}`} />
+              : <div className="placeholder"><i className="fa fa-image" aria-hidden="true"/></div>
+            }
             <div className="page-header">
               <span className="page-icon">{pickIcon(l.title)}</span>
               <h4 className="page-title">{l.title}</h4>
