@@ -6,11 +6,7 @@ hidden: false
 metadata:
   robots: index
 ---
-<h1>
-  Welcome to
-
-  <span id="dynamic-text" />
-</h1>
+<h1 id="headline">Welcome to The Henry Howler!</h1>
 
 <Cards columns={2} title="Families">
   <Card title="Don Henry’s" href="don-henrys" icon="fa-user-alt">
