@@ -7,6 +7,7 @@ export const PageGrid = () => {
   const [cards, setCards] = useState([]);
   const [others, setOthers] = useState([]);
   const [error, setError] = useState(null);
+  const [loading, setLoading] = useState(true);
 
   const iconMap = [
     { keywords: ['history', 'map', 'archive'], icon: '📜' },
@@ -24,71 +25,82 @@ export const PageGrid = () => {
 
   useEffect(() => {
     if (typeof document === 'undefined') return;
-    try {
-      const nav = document.querySelector('.rm-Sidebar');
-      if (!nav) throw new Error('Sidebar not found');
 
-      const active = nav.querySelector(
-        'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
-      );
-      if (!active) throw new Error('No active page link detected');
-      const currentHref = active.href;
+    // 1) 3-second minimum display
+    const timerPromise = new Promise(res => setTimeout(res, 3000));
 
-      const section = active.closest('section.rm-Sidebar-section');
-      if (!section) throw new Error('Unable to locate category section');
+    // 2) your fetch/scrape logic
+    const fetchPromise = new Promise(async (resolve) => {
+      try {
+        const nav = document.querySelector('.rm-Sidebar');
+        if (!nav) throw new Error('Sidebar not found');
 
-      const anchors = Array.from(
-        section.querySelectorAll('a.rm-Sidebar-link[href^="/docs/"]')
-      );
-      const raw = anchors.map(a => ({
-        href: a.href,
-        title: a.textContent.trim(),
-      }));
+        const active = nav.querySelector(
+          'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
+        );
+        if (!active) throw new Error('No active page link detected');
+        const currentHref = active.href;
 
-      const seen = new Set();
-      const pages = raw
-        .filter(item => {
-          if (seen.has(item.href)) return false;
-          seen.add(item.href);
-          return true;
-        })
-        .filter(item => item.href !== currentHref);
+        const section = active.closest('section.rm-Sidebar-section');
+        if (!section) throw new Error('Unable to locate category section');
 
-      const toc = document.querySelector('.content-toc');
-      if (toc) toc.style.display = 'none';
+        const anchors = Array.from(
+          section.querySelectorAll('a.rm-Sidebar-link[href^="/docs/"]')
+        );
+        const raw = anchors.map(a => ({
+          href: a.href,
+          title: a.textContent.trim(),
+        }));
 
-      Promise.all(
-        pages.slice(0, 8).map(item =>
-          fetch(item.href)
-            .then(r => r.text())
-            .then(html => {
-              const doc = new DOMParser().parseFromString(html, 'text/html');
-              const img = doc.querySelector('article img, .rm-Page-body img');
-              const p   = doc.querySelector('article p, .rm-Page-body p');
-              return {
-                ...item,
-                image: img ? img.src : null,
-                excerpt: p ? p.textContent.trim().slice(0, 120) : '',
-              };
-            })
-            .catch(() => ({ ...item, image: null, excerpt: '' }))
-        )
-      ).then(enriched => {
+        const seen = new Set();
+        const pages = raw
+          .filter(item => {
+            if (seen.has(item.href)) return false;
+            seen.add(item.href);
+            return true;
+          })
+          .filter(item => item.href !== currentHref);
+
+        const toc = document.querySelector('.content-toc');
+        if (toc) toc.style.display = 'none';
+
+        const enriched = await Promise.all(
+          pages.slice(0, 8).map(item =>
+            fetch(item.href)
+              .then(r => r.text())
+              .then(html => {
+                const doc = new DOMParser().parseFromString(html, 'text/html');
+                const img = doc.querySelector('article img, .rm-Page-body img');
+                const p   = doc.querySelector('article p, .rm-Page-body p');
+                return {
+                  ...item,
+                  image: img ? img.src : null,
+                  excerpt: p ? p.textContent.trim().slice(0, 120) : '',
+                };
+              })
+              .catch(() => ({ ...item, image: null, excerpt: '' }))
+          )
+        );
         setCards(enriched);
         setOthers(pages.slice(8));
-      });
-    } catch (e) {
-      setError(e.message);
-    }
+      } catch (e) {
+        setError(e.message);
+      } finally {
+        resolve();
+      }
+    });
+
+    // 3) wait for both to finish
+    Promise.all([timerPromise, fetchPromise]).then(() => {
+      setLoading(false);
+    });
   }, []);
 
-  // Error state
   if (error) {
     return <p style={{ color: 'red' }}>Error loading pages: {error}</p>;
   }
 
-  // Loading state: our retro loader
-  if (!cards.length && !others.length) {
+  if (loading) {
     return (
       <div className="retro-loader">
         <div className="bar">
@@ -115,7 +127,7 @@ export const PageGrid = () => {
             width: 0;
             height: 100%;
             background: #222;
-              animation: retro-load 1s linear 1 forwards; 
+            animation: retro-load 2s linear 1 forwards;
           }
           .retro-loader .message {
             font-size: 0.95rem;
@@ -131,7 +143,6 @@ export const PageGrid = () => {
     );
   }
 
-  // Main grid + links
   return (
     <>
       <style>{`
