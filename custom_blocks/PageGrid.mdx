@@ -4,7 +4,8 @@ name: PageGrid
 import React, { useEffect, useState } from 'react';
 
 export const PageGrid = () => {
-  const [links, setLinks] = useState([]);
+  const [cards, setCards] = useState([]);     // enriched first 8
+  const [others, setOthers] = useState([]);   // remaining raw links
   const [error, setError] = useState(null);
 
   // emoji icons as before
@@ -24,12 +25,11 @@ export const PageGrid = () => {
 
   useEffect(() => {
     if (typeof document === 'undefined') return;
-
     try {
       const nav = document.querySelector('.rm-Sidebar');
       if (!nav) throw new Error('Sidebar not found');
 
-      // 1) find the active link
+      // 1) find active
       const active = nav.querySelector(
         'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
       );
@@ -50,20 +50,23 @@ export const PageGrid = () => {
         title: a.textContent.trim(),
       }));
 
-      // 4) dedupe
+      // 4) dedupe + drop current
       const seen = new Set();
-      const unique = raw.filter(item => {
-        if (seen.has(item.href)) return false;
-        seen.add(item.href);
-        return true;
-      });
+      const pages = raw
+        .filter(item => {
+          if (seen.has(item.href)) return false;
+          seen.add(item.href);
+          return true;
+        })
+        .filter(item => item.href !== currentHref);
 
-      // 5) drop the current page itself
-      const pages = unique.filter(item => item.href !== currentHref);
+      // hide ToC if present
+      const toc = document.querySelector('.content-toc');
+      if (toc) toc.style.display = 'none';
 
-      // ---- enrich first 10 pages with image + excerpt ----
+      // 5) enrich first 8
       Promise.all(
-        pages.slice(0, 10).map(item =>
+        pages.slice(0, 8).map(item =>
           fetch(item.href)
             .then(r => r.text())
             .then(html => {
@@ -79,22 +82,16 @@ export const PageGrid = () => {
             .catch(() => ({ ...item, image: null, excerpt: '' }))
         )
       ).then(enriched => {
-        // merge enriched subset back into the filtered list
-        const merged = pages.map((u, i) => enriched[i] || u).slice(0, 10);
-        setLinks(merged);
+        setCards(enriched);
+        setOthers(pages.slice(8));
       });
-
-      // hide the TOC if it exists
-      const toc = document.querySelector('.content-toc');
-      if (toc) toc.style.display = 'none';
-
     } catch (e) {
       setError(e.message);
     }
   }, []);
 
   if (error) return <p style={{ color: 'red' }}>Error loading pages: {error}</p>;
-  if (!links.length) return <p>Loading pages…</p>;
+  if (!cards.length && !others.length) return <p>Loading pages…</p>;
 
   return (
     <>
@@ -126,9 +123,7 @@ export const PageGrid = () => {
           gap: 8px;
           margin-bottom: 12px;
         }
-        .page-icon {
-          font-size: 1.5rem;
-        }
+        .page-icon { font-size: 1.5rem; }
         .page-title {
           margin: 0;
           font-size: 1.05rem;
@@ -146,14 +141,12 @@ export const PageGrid = () => {
           font-weight: 500;
           transition: background .2s;
         }
-        .page-tile a:hover {
-          background: #2563eb;
-        }
+        .page-tile a:hover { background: #2563eb; }
+
         /* hide ToC */
-        .content-toc {
-          display: none;
-        }
-        /* fixed-height, center-cropped images */
+        .content-toc { display: none; }
+
+        /* fixed-height, center-cropped images + placeholder */
         .page-tile img,
         .page-tile .placeholder {
           width: 100%;
@@ -163,7 +156,6 @@ export const PageGrid = () => {
           object-fit: cover;
           object-position: center;
         }
-        /* placeholder styling */
         .page-tile .placeholder {
           display: flex;
           align-items: center;
@@ -177,14 +169,27 @@ export const PageGrid = () => {
           font-size: 0.9rem;
           margin-bottom: 12px;
         }
+
+        /* simple multi-col list for the rest */
+        .link-list {
+          display: grid;
+          grid-template-columns: repeat(5, 1fr);
+          gap: 8px 16px;
+          margin: 32px 0;
+        }
+        .link-list a {
+          text-decoration: none;
+          color: #2563eb;
+          font-size: 0.95rem;
+        }
       `}</style>
 
       <div className="page-grid">
-        {links.map((l, i) => (
+        {cards.map((l, i) => (
           <div key={i} className="page-tile">
             {l.image
               ? <img src={l.image} alt={`Preview for ${l.title}`} />
-              : <div className="placeholder"><i className="fa fa-image" aria-hidden="true"/></div>
+              : <div className="placeholder"><i className="fa fa-image" /></div>
             }
             <div className="page-header">
               <span className="page-icon">{pickIcon(l.title)}</span>
@@ -195,6 +200,14 @@ export const PageGrid = () => {
           </div>
         ))}
       </div>
+
+      {others.length > 0 && (
+        <div className="link-list">
+          {others.map((o, idx) => (
+            <a key={idx} href={o.href}>{o.title}</a>
+          ))}
+        </div>
+      )}
     </>
   );
 };
