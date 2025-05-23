@@ -54,5 +54,13 @@ Delight in Rhoda Henry Messner’s soul-stirring poetry and join Janet Henry’s
     margin-top: 10px;
     font-size: 30px;
 }  
+  
+  
+/* Fun fresh palette—one color per card */
+.Card:nth-child(1) { background: #3AA2FF; } /* sky blue */
+.Card:nth-child(2) { background: #FF6E59; } /* coral */
+.Card:nth-child(3) { background: #FFC23A; } /* sunflower */
+.Card:nth-child(4) { background: #6BCB77; } /* minty green */
+
 </style>
 `}</HTMLBlock>
