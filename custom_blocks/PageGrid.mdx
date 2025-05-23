@@ -24,12 +24,15 @@ export const PageGrid = () => {
 
   useEffect(() => {
     if (typeof document === 'undefined') return;
+
     try {
       const nav = document.querySelector('.rm-Sidebar');
       if (!nav) throw new Error('Sidebar not found');
 
-      // 1) find the active link (aria-current or .active class)
-      const active = nav.querySelector('a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active');
+      // 1) find the active link
+      const active = nav.querySelector(
+        'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
+      );
       if (!active) throw new Error('No active page link detected');
 
       // 2) climb to its section
@@ -53,7 +56,29 @@ export const PageGrid = () => {
         return true;
       });
 
-      setLinks(unique);
+      // ---- NEW: enrich first 5 pages with image + excerpt ----
+      Promise.all(
+        unique.slice(0, 5).map(item =>
+          fetch(item.href)
+            .then(r => r.text())
+            .then(html => {
+              const doc = new DOMParser().parseFromString(html, 'text/html');
+              const img = doc.querySelector('article img, .rm-Page-body img');
+              const p   = doc.querySelector('article p, .rm-Page-body p');
+              return {
+                ...item,
+                image: img ? img.src : null,
+                excerpt: p ? p.textContent.trim().slice(0, 120) : '',
+              };
+            })
+            .catch(() => ({ ...item, image: null, excerpt: '' }))
+        )
+      ).then(enriched => {
+        // merge enriched subset back into unique array
+        const merged = unique.map((u, i) => enriched[i] || u);
+        setLinks(merged);
+      });
+
     } catch (e) {
       setError(e.message);
     }
@@ -115,15 +140,28 @@ export const PageGrid = () => {
         .page-tile a:hover {
           background: #2563eb;
         }
+        /* new: image & excerpt styling */
+        .page-tile img {
+          width: 100%;
+          border-radius: 4px;
+          margin-bottom: 8px;
+        }
+        .page-tile p {
+          flex: 1;
+          font-size: 0.9rem;
+          margin-bottom: 12px;
+        }
       `}</style>
 
       <div className="page-grid">
         {links.map((l, i) => (
           <div key={i} className="page-tile">
+            {l.image && <img src={l.image} alt={`Preview for ${l.title}`} />}
             <div className="page-header">
               <span className="page-icon">{pickIcon(l.title)}</span>
               <h4 className="page-title">{l.title}</h4>
             </div>
+            {l.excerpt && <p>{l.excerpt}…</p>}
             <a href={l.href}>View</a>
           </div>
         ))}
@@ -132,5 +170,5 @@ export const PageGrid = () => {
   );
 };
 
-
+// usage
 <PageGrid />
