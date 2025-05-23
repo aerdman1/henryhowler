@@ -1,14 +1,11 @@
 ---
 title: Getting Started with The Henry Howler
+excerpt: A collection and collaboration of family history, current and future events.
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-A collection and collaboration of family history, current and future events.
-
-We’d be thrilled to have you as a contributor to the site just contact Andrew or Linda!
-
 <Cards columns={2} title="Families">
   <Card title="Don Henry’s" href="#don-henry" icon="fa-user-alt" target="_blank">
     Learn more about Don’s branch of the family
