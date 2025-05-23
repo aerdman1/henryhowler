@@ -1,5 +1,5 @@
 ---
-title: Shared
+title: Shared Family
 deprecated: false
 hidden: false
 metadata:
