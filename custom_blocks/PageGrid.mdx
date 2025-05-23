@@ -61,7 +61,7 @@ export const PageGrid = () => {
       // 5) drop the current page itself
       const pages = unique.filter(item => item.href !== currentHref);
 
-      // ---- NEW: enrich first 5 pages with image + excerpt ----
+      // ---- enrich first 5 pages with image + excerpt ----
       Promise.all(
         pages.slice(0, 5).map(item =>
           fetch(item.href)
@@ -83,6 +83,10 @@ export const PageGrid = () => {
         const merged = pages.map((u, i) => enriched[i] || u);
         setLinks(merged);
       });
+
+      // hide the TOC if it exists
+      const toc = document.querySelector('.content-toc');
+      if (toc) toc.style.display = 'none';
 
     } catch (e) {
       setError(e.message);
@@ -145,9 +149,16 @@ export const PageGrid = () => {
         .page-tile a:hover {
           background: #2563eb;
         }
-        /* new: image & excerpt styling */
+        /* hide ToC */
+        .content-toc {
+          display: none;
+        }
+        /* fixed-height, center-cropped images */
         .page-tile img {
           width: 100%;
+          height: 200px;
+          object-fit: cover;
+          object-position: center;
           border-radius: 4px;
           margin-bottom: 8px;
         }
