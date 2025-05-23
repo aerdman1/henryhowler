@@ -1,5 +1,5 @@
 ---
-title: Overview - Gene
+title: Overview
 deprecated: false
 hidden: false
 metadata:
