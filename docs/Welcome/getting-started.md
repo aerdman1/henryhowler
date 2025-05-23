@@ -24,6 +24,8 @@ metadata:
   </Card>
 </Cards>
 
+<MasterPageGrid />
+
 ## Join Us in Exploring:
 
 ***
