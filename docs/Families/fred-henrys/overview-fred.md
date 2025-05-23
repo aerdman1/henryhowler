@@ -1,5 +1,5 @@
 ---
-title: Overview - Fred
+title: Overview
 deprecated: false
 hidden: false
 metadata:
