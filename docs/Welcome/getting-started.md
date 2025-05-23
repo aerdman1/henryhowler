@@ -24,7 +24,7 @@ metadata:
   </Card>
 </Cards>
 
-Explore with us and find things like:
+## Explore:
 
 **Roots & Migration**\
 Trace the path from Simon Henry’s 1797 Connecticut land deed through subsequent waves of migration into Ohio, California, and beyond—each move weaving new threads into our family tapestry.
