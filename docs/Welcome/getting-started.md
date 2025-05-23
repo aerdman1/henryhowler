@@ -6,7 +6,7 @@ hidden: false
 metadata:
   robots: index
 ---
-<Cards style="homepageCards" columns={2} title="Families">
+<Cards class="homepageCards" columns={2} title="Families">
   <Card title="Don Henry’s" href="don-henrys" icon="fa-user-alt">
     Learn more about Don’s branch of the family
   </Card>
