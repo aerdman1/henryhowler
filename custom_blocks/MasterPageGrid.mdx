@@ -33,15 +33,11 @@ export const MasterPageGrid = () => {
     const fetchAll = (async () => {
       try {
         // 1) find every sidebar section
-        const sections = Array.from(
-          document.querySelectorAll('.rm-Sidebar-section')
-        );
+        const sections = Array.from(document.querySelectorAll('.rm-Sidebar-section'));
 
         // 2) for each, grab the second /docs/ link
         const picks = sections.flatMap(sec =>
-          Array.from(
-            sec.querySelectorAll('a.rm-Sidebar-link[href^="/docs/"]')
-          )
+          Array.from(sec.querySelectorAll('a.rm-Sidebar-link[href^="/docs/"]'))
             .slice(1, 2)
             .map(a => ({
               href: a.href,
@@ -64,7 +60,8 @@ export const MasterPageGrid = () => {
                 return {
                   ...item,
                   image: img ? img.src : null,
-                  excerpt: p ? p.textContent.trim().slice(0, 220) : ''
+                  // you can still slice to a generous char limit—CSS will handle the rest
+                  excerpt: p ? p.textContent.trim().slice(0, 300) : ''
                 };
               })
               .catch(() => ({ ...item, image: null, excerpt: '' }))
@@ -188,6 +185,11 @@ export const MasterPageGrid = () => {
           flex: 1;
           font-size: 0.9rem;
           margin-bottom: 12px;
+          /* clamp to 4 lines */
+          display: -webkit-box;
+          -webkit-box-orient: vertical;
+          -webkit-line-clamp: 4;
+          overflow: hidden;
         }
         .page-tile a {
           display: block;
@@ -225,6 +227,5 @@ export const MasterPageGrid = () => {
     </>
   );
 };
-
 
 <MasterPageGrid />
