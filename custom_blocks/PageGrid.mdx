@@ -60,12 +60,14 @@ export const PageGrid = () => {
         const toc = document.querySelector('.content-toc');
         if (toc) toc.style.display = 'none';
 
+        // limit to first 8 pages
         const slice = pages.slice(0, 8);
         setTotalFetches(slice.length);
-        setProgress(0);
+
+        // **kick the bar off** immediately to 1/8th
+        setProgress(1);
 
         const enriched = [];
-        // launch all fetches, track each completion
         await Promise.all(
           slice.map(item =>
             fetch(item.href)
@@ -101,7 +103,7 @@ export const PageGrid = () => {
     return <p style={{ color: 'red' }}>Error loading pages: {error}</p>;
   }
 
-  // Loading state with true progress
+  // Loading state
   if (!cards.length && !others.length) {
     const pct = totalFetches > 0 ? (progress / totalFetches) * 100 : 0;
     return (
@@ -129,7 +131,6 @@ export const PageGrid = () => {
             margin: 0 auto 12px;
             background: #fff;
             box-shadow: inset 0 0 4px rgba(0,0,0,0.3);
-            position: relative;
             overflow: hidden;
           }
           .retro-loader .fill {
@@ -277,4 +278,5 @@ export const PageGrid = () => {
   );
 };
 
+// Usage:
 <PageGrid />
