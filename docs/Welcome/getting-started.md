@@ -6,6 +6,12 @@ hidden: false
 metadata:
   robots: index
 ---
+<h1>
+  Welcome to
+
+  <span id="dynamic-text" />
+</h1>
+
 <Cards columns={2} title="Families">
   <Card title="Don Henry’s" href="don-henrys" icon="fa-user-alt">
     Learn more about Don’s branch of the family
