@@ -62,5 +62,11 @@ Delight in Rhoda Henry Messner’s soul-stirring poetry and join Janet Henry’s
 .Card:nth-child(3) { background: #FFC23A; } /* sunflower */
 .Card:nth-child(4) { background: #6BCB77; } /* minty green */
 
+  
+/* Hover “lift” effect */
+.Card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+}
 </style>
 `}</HTMLBlock>
