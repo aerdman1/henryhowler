@@ -28,24 +28,29 @@ export const PageGrid = () => {
       const nav = document.querySelector('.rm-Sidebar');
       if (!nav) throw new Error('Sidebar not found');
 
+      // 1) find the active link
       const active = nav.querySelector(
         'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
       );
       if (!active) throw new Error('No active page link detected');
 
-      const currentHref = active.getAttribute('href');
+      // use the full URL for comparison
+      const currentHref = active.href;
+
+      // 2) climb to its section
       const section = active.closest('section.rm-Sidebar-section');
       if (!section) throw new Error('Unable to locate category section');
 
+      // 3) grab only that section’s /docs/ links as full URLs
       const anchors = Array.from(
         section.querySelectorAll('a.rm-Sidebar-link[href^="/docs/"]')
       );
       const raw = anchors.map(a => ({
-        href: a.href,
+        href: a.href,              // full URL
         title: a.textContent.trim(),
       }));
 
-      // dedupe and skip current
+      // dedupe + drop current page
       const seen = new Set();
       const pages = raw
         .filter(item => {
@@ -59,7 +64,7 @@ export const PageGrid = () => {
       const toc = document.querySelector('.content-toc');
       if (toc) toc.style.display = 'none';
 
-      // enrich first 8
+      // 4) enrich first 8 pages
       Promise.all(
         pages.slice(0, 8).map(item =>
           fetch(item.href)
@@ -94,22 +99,22 @@ export const PageGrid = () => {
         .page-grid {
           display: grid;
           grid-template-columns: repeat(auto-fit, minmax(220px,1fr));
-          gap: 20px;
-          margin: 24px 0;
+          gap:20px;
+          margin:24px 0;
         }
         .page-tile {
-          display: flex;
-          flex-direction: column;
-          justify-content: space-between;
-          padding: 20px;
-          background: linear-gradient(135deg,#fff,#f7f7f7);
+          display:flex;
+          flex-direction:column;
+          justify-content:space-between;
+          padding:20px;
+          background:linear-gradient(135deg,#fff,#f7f7f7);
           border:1px solid #e2e8f0;
           border-radius:8px;
           box-shadow:0 2px 6px rgba(0,0,0,0.08);
-          transition: transform .2s, box-shadow .2s;
+          transition:transform .2s,box-shadow .2s;
         }
         .page-tile:hover {
-          transform: translateY(-4px);
+          transform:translateY(-4px);
           box-shadow:0 4px 12px rgba(0,0,0,0.12);
         }
         .page-header {
@@ -134,13 +139,10 @@ export const PageGrid = () => {
           border-radius:6px;
           text-decoration:none;
           font-weight:500;
-          transition: background .2s;
+          transition:background .2s;
         }
         .page-tile a:hover { background:#2563eb; }
-
         .content-toc { display:none; }
-
-        /* image + placeholder */
         .page-tile img,
         .page-tile .placeholder {
           width:100%;
@@ -163,8 +165,6 @@ export const PageGrid = () => {
           font-size:0.9rem;
           margin-bottom:12px;
         }
-
-        /* “More…” heading */
         .more-heading {
           font-size:1.25rem;
           margin-top:40px;
@@ -172,8 +172,6 @@ export const PageGrid = () => {
           color:#333;
           font-weight:500;
         }
-
-        /* grid list styling */
         .link-list {
           display:grid;
           grid-template-columns:repeat(5,1fr);
@@ -185,22 +183,16 @@ export const PageGrid = () => {
           color:#1a1a1a;
           text-decoration:none;
           font-size:0.95rem;
-          transition: color .2s;
-        }
-        .link-list a:hover {
-          color:#3b82f6;
-        }
-        /* vertical dividers: add left border except for first in each row */
-        .link-list a {
+          transition:color .2s;
           border-left:1px solid #e2e8f0;
         }
+        .link-list a:hover { color:#3b82f6; }
         .link-list a:nth-child(5n+1) {
           border-left:none;
           padding-left:0;
         }
       `}</style>
 
-      {/* image-cards */}
       <div className="page-grid">
         {cards.map((l,i) => (
           <div key={i} className="page-tile">
@@ -218,7 +210,6 @@ export const PageGrid = () => {
         ))}
       </div>
 
-      {/* rest of links */}
       {others.length > 0 && (
         <>
           <div className="more-heading">More…</div>
