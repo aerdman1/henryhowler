@@ -7,8 +7,7 @@ export const PageGrid = () => {
   const [cards, setCards] = useState([]);
   const [others, setOthers] = useState([]);
   const [error, setError] = useState(null);
-  const [progress, setProgress] = useState(0);
-  const [totalFetches, setTotalFetches] = useState(0);
+  const [loaderStarted, setLoaderStarted] = useState(false);
 
   const iconMap = [
     { keywords: ['history', 'map', 'archive'], icon: '📜' },
@@ -24,6 +23,12 @@ export const PageGrid = () => {
     return iconMap[iconMap.length - 1].icon;
   };
 
+  // Kick off the 5s fill animation as soon as component mounts
+  useEffect(() => {
+    setLoaderStarted(true);
+  }, []);
+
+  // Fetch your pages
   useEffect(() => {
     if (typeof document === 'undefined') return;
     (async () => {
@@ -60,15 +65,8 @@ export const PageGrid = () => {
         const toc = document.querySelector('.content-toc');
         if (toc) toc.style.display = 'none';
 
-        // limit to first 8 pages
         const slice = pages.slice(0, 8);
-        setTotalFetches(slice.length);
-
-        // **kick the bar off** immediately to 1/8th
-        setProgress(1);
-
-        const enriched = [];
-        await Promise.all(
+        const enriched = await Promise.all(
           slice.map(item =>
             fetch(item.href)
               .then(r => r.text())
@@ -83,10 +81,6 @@ export const PageGrid = () => {
                 };
               })
               .catch(() => ({ ...item, image: null, excerpt: '' }))
-              .then(result => {
-                enriched.push(result);
-                setProgress(prev => prev + 1);
-              })
           )
         );
 
@@ -103,17 +97,16 @@ export const PageGrid = () => {
     return <p style={{ color: 'red' }}>Error loading pages: {error}</p>;
   }
 
-  // Loading state
+  // Loading state: fixed 5s fill bar
   if (!cards.length && !others.length) {
-    const pct = totalFetches > 0 ? (progress / totalFetches) * 100 : 0;
     return (
       <div className="retro-loader">
         <div className="bar">
           <div
             className="fill"
             style={{
-              width: `${pct}%`,
-              transition: 'width 0.3s ease-out'
+              width: loaderStarted ? '100%' : '0%',
+              transition: 'width 5s linear'
             }}
           />
         </div>
@@ -146,7 +139,7 @@ export const PageGrid = () => {
     );
   }
 
-  // Main grid + links
+  // Main grid + link list
   return (
     <>
       <style>{`
@@ -278,5 +271,5 @@ export const PageGrid = () => {
   );
 };
 
-// Usage:
+
 <PageGrid />
