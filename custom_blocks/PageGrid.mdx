@@ -28,29 +28,23 @@ export const PageGrid = () => {
       const nav = document.querySelector('.rm-Sidebar');
       if (!nav) throw new Error('Sidebar not found');
 
-      // 1) find the active link
       const active = nav.querySelector(
         'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
       );
       if (!active) throw new Error('No active page link detected');
-
-      // use the full URL for comparison
       const currentHref = active.href;
 
-      // 2) climb to its section
       const section = active.closest('section.rm-Sidebar-section');
       if (!section) throw new Error('Unable to locate category section');
 
-      // 3) grab only that section’s /docs/ links as full URLs
       const anchors = Array.from(
         section.querySelectorAll('a.rm-Sidebar-link[href^="/docs/"]')
       );
       const raw = anchors.map(a => ({
-        href: a.href,              // full URL
+        href: a.href,
         title: a.textContent.trim(),
       }));
 
-      // dedupe + drop current page
       const seen = new Set();
       const pages = raw
         .filter(item => {
@@ -60,11 +54,9 @@ export const PageGrid = () => {
         })
         .filter(item => item.href !== currentHref);
 
-      // hide ToC
       const toc = document.querySelector('.content-toc');
       if (toc) toc.style.display = 'none';
 
-      // 4) enrich first 8 pages
       Promise.all(
         pages.slice(0, 8).map(item =>
           fetch(item.href)
@@ -90,9 +82,56 @@ export const PageGrid = () => {
     }
   }, []);
 
-  if (error) return <p style={{ color: 'red' }}>Error loading pages: {error}</p>;
-  if (!cards.length && !others.length) return <p>Loading pages…</p>;
+  // Error state
+  if (error) {
+    return <p style={{ color: 'red' }}>Error loading pages: {error}</p>;
+  }
 
+  // Loading state: our retro loader
+  if (!cards.length && !others.length) {
+    return (
+      <div className="retro-loader">
+        <div className="bar">
+          <div className="fill" />
+        </div>
+        <div className="message">🤖 Retrieving Family Information...</div>
+        <style>{`
+          .retro-loader {
+            font-family: 'Courier New', Courier, monospace;
+            text-align: center;
+            margin: 60px 0;
+          }
+          .retro-loader .bar {
+            width: 280px;
+            height: 16px;
+            border: 3px solid #222;
+            margin: 0 auto 12px;
+            background: #fff;
+            box-shadow: inset 0 0 4px rgba(0,0,0,0.3);
+            position: relative;
+            overflow: hidden;
+          }
+          .retro-loader .fill {
+            width: 0;
+            height: 100%;
+            background: #222;
+            animation: retro-load 2s infinite;
+          }
+          .retro-loader .message {
+            font-size: 0.95rem;
+            color: #222;
+          }
+          @keyframes retro-load {
+            0%   { width:   0%; }
+            50%  { width: 100%; }
+            100% { width:   0%; }
+          }
+        `}</style>
+      </div>
+    );
+  }
+
+  // Main grid + links
   return (
     <>
       <style>{`
