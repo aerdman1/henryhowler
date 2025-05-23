@@ -1,5 +1,5 @@
 ---
-title: Overview - Don
+title: Overview
 deprecated: false
 hidden: false
 metadata:
