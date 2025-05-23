@@ -1,12 +1,10 @@
 ---
-title: Getting Started
+title: Getting Started with The Henry Howler
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-## Welcome to the Henry Howler
-
 A collection and collaboration of family history, current and future events.
 
 We’d be thrilled to have you as a contributor to the site just contact Andrew or Linda!
