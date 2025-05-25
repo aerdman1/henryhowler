@@ -13,6 +13,7 @@ export const PageGrid = () => {
   const [modalOpen, setModalOpen] = useState(false);
   const [modalTitle, setModalTitle] = useState('');
   const [modalBody, setModalBody] = useState('');
+  const [modalHref, setModalHref] = useState('');
 
   const iconMap = [
     { keywords: ['history', 'map', 'archive'], icon: '📜' },
@@ -31,10 +32,10 @@ export const PageGrid = () => {
   useEffect(() => {
     if (typeof document === 'undefined') return;
 
-    // 1) 1.5-second minimum display
+    // 1) enforce at least 1.5s loader
     const timerPromise = new Promise(res => setTimeout(res, 1500));
 
-    // 2) fetch logic
+    // 2) fetch sidebar links + preview data
     const fetchPromise = new Promise(async (resolve) => {
       try {
         const nav = document.querySelector('.rm-Sidebar');
@@ -57,6 +58,7 @@ export const PageGrid = () => {
           title: a.textContent.trim(),
         }));
 
+        // dedupe + exclude current page
         const seen = new Set();
         const pages = raw
           .filter(item => {
@@ -66,9 +68,11 @@ export const PageGrid = () => {
           })
           .filter(item => item.href !== currentHref);
 
+        // hide any in-page TOC
         const toc = document.querySelector('.content-toc');
         if (toc) toc.style.display = 'none';
 
+        // enrich first 8 pages with image + excerpt
         const enriched = await Promise.all(
           pages.slice(0, 8).map(item =>
             fetch(item.href)
@@ -86,6 +90,7 @@ export const PageGrid = () => {
               .catch(() => ({ ...item, image: null, excerpt: '' }))
           )
         );
+
         setCards(enriched);
         setOthers(pages.slice(8));
       } catch (e) {
@@ -100,10 +105,11 @@ export const PageGrid = () => {
     });
   }, []);
 
-  // Handle "View" click: fetch and show full content
+  // fetch full content into modal
   const handleViewClick = async (e, { href, title }) => {
     e.preventDefault();
     try {
+      setModalHref(href);
       const res = await fetch(href);
       const text = await res.text();
       const doc = new DOMParser().parseFromString(text, 'text/html');
@@ -122,7 +128,6 @@ export const PageGrid = () => {
   if (error) {
     return <p style={{ color: 'red' }}>Error loading pages: {error}</p>;
   }
-
   if (loading) {
     return (
       <div className="retro-loader">
@@ -266,7 +271,7 @@ export const PageGrid = () => {
       `}</style>
 
       <div className="page-grid">
-        {cards.map((l,i) => (
+        {cards.map((l, i) => (
           <div key={i} className="page-tile">
             {l.image
               ? <img src={l.image} alt={`Preview for ${l.title}`} />
@@ -318,17 +323,39 @@ export const PageGrid = () => {
               className="modal-body"
               dangerouslySetInnerHTML={{ __html: modalBody }}
             />
-            <button
-              onClick={() => setModalOpen(false)}
-              style={{
-                marginTop: '16px', padding: '8px 16px',
-                background: '#3b82f6', color: '#fff',
-                border: 'none', borderRadius: '4px',
-                cursor: 'pointer'
-              }}
-            >
-              Close
-            </button>
+
+            <div style={{ marginTop: '16px', display: 'flex', gap: '8px' }}>
+              <button
+                onClick={() => setModalOpen(false)}
+                style={{
+                  padding: '8px 16px',
+                  background: '#3b82f6',
+                  color: '#fff',
+                  border: 'none',
+                  borderRadius: '4px',
+                  cursor: 'pointer'
+                }}
+              >
+                Close
+              </button>
+
+              <a
+                href={modalHref}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{
+                  padding: '8px 16px',
+                  background: '#10b981',
+                  color: '#fff',
+                  border: 'none',
+                  borderRadius: '4px',
+                  textDecoration: 'none',
+                  display: 'inline-block'
+                }}
+              >
+                View Full Page
+              </a>
+            </div>
           </div>
         </div>
       )}
