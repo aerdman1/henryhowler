@@ -31,8 +31,10 @@ export const FamilyFeed = () => {
   useEffect(() => {
     if (typeof document === 'undefined') return;
 
+    // enforce at least 1.5s loader
     const timerPromise = new Promise(res => setTimeout(res, 1500));
 
+    // fetch sidebar-child links + preview data
     const fetchPromise = new Promise(async (resolve) => {
       try {
         const nav = document.querySelector('.rm-Sidebar');
@@ -42,21 +44,21 @@ export const FamilyFeed = () => {
           'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
         );
         if (!active) throw new Error('No active page link detected');
-        const currentHref = active.href;
 
-        const section = active.closest('section.rm-Sidebar-section');
-        if (!section) throw new Error('Unable to locate category section');
+        // find only the subpages list for this active link
+        const activeLi = active.closest('li');
+        const sublist = activeLi.querySelector('ul.subpages');
+        if (!sublist) throw new Error('No child pages found for this section');
 
-        // only grab the “child” links in the subpages list
         const anchors = Array.from(
-          section.querySelectorAll('ul.subpages a.rm-Sidebar-link[href^="/docs/"]')
+          sublist.querySelectorAll('a.rm-Sidebar-link[href^="/docs/"]')
         );
         const raw = anchors.map(a => ({
           href: a.href,
           title: a.textContent.trim(),
         }));
 
-        // dedupe + exclude current page (though parent won't appear here)
+        // dedupe (just in case)
         const seen = new Set();
         const pages = raw.filter(item => {
           if (seen.has(item.href)) return false;
@@ -68,7 +70,7 @@ export const FamilyFeed = () => {
         const toc = document.querySelector('.content-toc');
         if (toc) toc.style.display = 'none';
 
-        // enrich pages with image + excerpt
+        // enrich all pages with image + excerpt
         const enriched = await Promise.all(
           pages.map(item =>
             fetch(item.href)
@@ -113,8 +115,7 @@ export const FamilyFeed = () => {
       setModalTitle(title);
       setModalBody(content ? content.innerHTML : '<p>Content not found.</p>');
       setModalOpen(true);
-    } catch (err) {
-      console.error(err);
+    } catch {
       alert('Failed to load content.');
     }
   };
@@ -128,11 +129,11 @@ export const FamilyFeed = () => {
         <div className="bar"><div className="fill" /></div>
         <div className="message">🤖 Retrieving Family Information...</div>
         <style>{`
-          .retro-loader { font-family: 'Courier New', monospace; text-align: center; margin: 60px 0; }
-          .retro-loader .bar { width:280px; height:16px; border:3px solid #222; margin:0 auto 12px; background:#fff; box-shadow: inset 0 0 4px rgba(0,0,0,0.3); overflow:hidden; }
+          .retro-loader { font-family:'Courier New', monospace; text-align:center; margin:60px 0; }
+          .retro-loader .bar { width:280px; height:16px; border:3px solid #222; margin:0 auto 12px; background:#fff; box-shadow:inset 0 0 4px rgba(0,0,0,0.3); overflow:hidden; }
           .retro-loader .fill { width:0; height:100%; background:#222; animation:retro-load 2s linear 1 forwards; }
           .retro-loader .message { font-size:0.95rem; color:#222; }
-          @keyframes retro-load { 0%{width:0;}50%{width:50%;}100%{width:100%;} }
+          @keyframes retro-load { 0%{width:0;} 50%{width:50%;} 100%{width:100%;} }
         `}</style>
       </div>
     );
