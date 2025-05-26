@@ -68,3 +68,5 @@ We rented a tiny cabin called The Eagle’s Nest with a hot tub and it was very 
 We barely scratched the surface of all the trails and sights at Hocking Hills and plan to go back again soon.  We had a great time and highly recommend this short trip to everyone. Linda
 
 [January 18, 2011](/families/gene/chip/hocking-hills-magic/) [Linda](/author/admin/)
+
+2011-01-18T05:00:00.000Z
