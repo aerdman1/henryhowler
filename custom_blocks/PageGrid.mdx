@@ -9,7 +9,7 @@ export const PageGrid = () => {
   const [loading, setLoading] = useState(true);
 
   // Modal state
-  const [modalOpen, setModalOpen] = useState(false);
+  const [modalOpen, setModalOpen]   = useState(false);
   const [modalTitle, setModalTitle] = useState('');
   const [modalBody, setModalBody]   = useState('');
   const [modalHref, setModalHref]   = useState('');
@@ -18,7 +18,7 @@ export const PageGrid = () => {
     { keywords: ['history','map','archive'], icon: '📜' },
     { keywords: ['article','story','news','blog'], icon: '📰' },
     { keywords: ['guide','manual','book'],         icon: '📖' },
-    { keywords: [],                                 icon: '📄' },
+    { keywords: [],                                  icon: '📄' },
   ];
   const pickIcon = title => {
     const t = title.toLowerCase();
@@ -30,67 +30,39 @@ export const PageGrid = () => {
   useEffect(() => {
     if (typeof document === 'undefined') return;
 
-    const wait = new Promise(res => setTimeout(res, 1500));
+    // ensure loader shows for at least 1.5s
+    const timer = new Promise(res => setTimeout(res, 1500));
 
-    const load = new Promise(async resolve => {
+    const loader = new Promise(async resolve => {
       try {
         const nav = document.querySelector('.rm-Sidebar');
         if (!nav) throw new Error('Sidebar not found');
 
-        // find the active page link (if any)
-        const active = nav.querySelector(
-          'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
-        );
-
-        // locate this section
-        const section = active
-          ? active.closest('section.rm-Sidebar-section')
-          : nav.querySelector('section.rm-Sidebar-section');
+        // find this section (we assume only one visible section)
+        const section = nav.querySelector('section.rm-Sidebar-section');
         if (!section) throw new Error('Sidebar section not found');
 
-        // derive slug of heading to detect category root
-        const headingText = section.querySelector('h2').textContent.trim();
-        const headingSlug = headingText
-          .toLowerCase()
-          .replace(/[’'&\s]+/g, '-')
-          .replace(/[^a-z0-9-]/g, '');
-        const currentSlug = window.location.pathname
-          .split('/')
-          .filter(Boolean)
-          .pop()
-          .toLowerCase();
-        const isCategoryRoot = currentSlug === headingSlug;
+        // get all the top-level <li> under the section's <ul>
+        const topLevelItems = Array.from(
+          section.querySelectorAll('> ul > li')
+        );
 
-        let anchors;
-        if (isCategoryRoot) {
-          // --- CATEGORY LANDING MODE ---
-          // grab ONLY the *top-level* page links under this category
-          const topLevelLinks = Array.from(
-            section.querySelectorAll('> ul > li > a.rm-Sidebar-link[href^="/docs/"]')
-          );
-          // for each, if it has its own subpages, pick its FIRST child
-          anchors = topLevelLinks.map(a => {
-            const li     = a.closest('li');
-            const subul  = li.querySelector('ul.subpages');
-            const childA = subul?.querySelector('a.rm-Sidebar-link');
-            return childA || a;
-          });
-        } else {
-          // --- CHILD-PAGE MODE (as before) ---
-          // find only the children of the active page
-          const activeLi = active.closest('li');
-          const subul = activeLi.querySelector('ul.subpages');
-          if (!subul) throw new Error('No child pages found for this page');
-          anchors = Array.from(
-            subul.querySelectorAll('a.rm-Sidebar-link[href^="/docs/"]')
-          );
-        }
+        // for each top-level item, pick its first child page if it has subpages,
+        // otherwise pick the parent link itself
+        const anchors = topLevelItems.map(li => {
+          const sub = li.querySelector('ul.subpages a.rm-Sidebar-link');
+          if (sub) return sub;
+          const selfLink = li.querySelector('a.rm-Sidebar-link[href^="/docs/"]');
+          return selfLink;
+        }).filter(Boolean);
 
-        // map to href/title, dedupe
+        // map to href/title
         const raw = anchors.map(a => ({
           href: a.href,
           title: a.textContent.trim(),
         }));
+
+        // dedupe
         const seen = new Set();
         const pages = raw.filter(item => {
           if (seen.has(item.href)) return false;
@@ -102,13 +74,13 @@ export const PageGrid = () => {
         const toc = document.querySelector('.content-toc');
         if (toc) toc.style.display = 'none';
 
-        // fetch and enrich each
+        // fetch + enrich
         const enriched = await Promise.all(
           pages.map(item =>
             fetch(item.href)
               .then(r => r.text())
               .then(html => {
-                const doc = new DOMParser().parseFromString(html,'text/html');
+                const doc = new DOMParser().parseFromString(html, 'text/html');
                 const img = doc.querySelector('article img, .rm-Page-body img');
                 const p   = doc.querySelector('article p, .rm-Page-body p');
                 return {
@@ -129,7 +101,7 @@ export const PageGrid = () => {
       }
     });
 
-    Promise.all([wait, load]).then(() => setLoading(false));
+    Promise.all([timer, loader]).then(() => setLoading(false));
   }, []);
 
   const handleViewClick = async (e, { href, title }) => {
@@ -137,8 +109,8 @@ export const PageGrid = () => {
     try {
       setModalHref(href);
       const res  = await fetch(href);
-      const text = await res.text();
-      const doc  = new DOMParser().parseFromString(text,'text/html');
+      const txt  = await res.text();
+      const doc  = new DOMParser().parseFromString(txt, 'text/html');
       const content = doc.querySelector('section.content-body')
                    || doc.querySelector('.rm-Page-body')
                    || doc.querySelector('article');
@@ -151,7 +123,7 @@ export const PageGrid = () => {
   };
 
   if (error) {
-    return <p style={{ color:'red' }}>Error loading pages: {error}</p>;
+    return <p style={{ color: 'red' }}>Error loading pages: {error}</p>;
   }
   if (loading) {
     return (
@@ -161,7 +133,7 @@ export const PageGrid = () => {
         <style>{`
           .retro-loader { font-family:'Courier New', monospace; text-align:center; margin:60px 0; }
           .retro-loader .bar { width:280px; height:16px; border:3px solid #222; margin:0 auto 12px; background:#fff; box-shadow:inset 0 0 4px rgba(0,0,0,0.3); overflow:hidden; }
-          .retro-loader .fill { width:0; height:100%; background:#222; animation:retro-load 2s linear 1 forwards; }
+          .retro-loader .fill { width:0; height:100%; animation:retro-load 2s linear 1 forwards; background:#222; }
           .retro-loader .message { font-size:0.95rem; color:#222; }
           @keyframes retro-load { 0%{width:0;}50%{width:50%;}100%{width:100%;} }
         `}</style>
@@ -186,7 +158,7 @@ export const PageGrid = () => {
       `}</style>
 
       <div className="page-grid">
-        {cards.map((l,i) => (
+        {cards.map((l, i) => (
           <div key={i} className="page-tile">
             {l.image
               ? <img src={l.image} alt={`Preview for ${l.title}`} />
