@@ -31,7 +31,7 @@ export const PageGrid = () => {
   useEffect(() => {
     if (typeof document === 'undefined') return;
 
-    // ensure loader shows at least 1.5s
+    // keep loader visible at least 1.5s
     const timer = new Promise(res => setTimeout(res, 1500));
 
     const loader = new Promise(async resolve => {
@@ -39,28 +39,25 @@ export const PageGrid = () => {
         const nav = document.querySelector('.rm-Sidebar');
         if (!nav) throw new Error('Sidebar not found');
 
-        // find the first (and only) category section
         const section = nav.querySelector('section.rm-Sidebar-section');
         if (!section) throw new Error('Sidebar section not found');
 
-        // grab each top-level <li> under the section
+        // grab each top-level <li> under this category
         const topLevelItems = Array.from(
           section.querySelectorAll(':scope > ul > li')
         );
 
-        // for each, pick its first subpage if it has one, otherwise itself
-        const anchors = topLevelItems.map(li => {
-          const firstSub = li.querySelector('ul.subpages a.rm-Sidebar-link');
-          if (firstSub) return firstSub;
-          return li.querySelector('a.rm-Sidebar-link[href^="/docs/"]');
-        }).filter(Boolean);
+        // from each, pick only the *first* child page (i.e. first <a> in its subpages)
+        const anchors = topLevelItems
+          .map(li => li.querySelector('ul.subpages a.rm-Sidebar-link'))
+          .filter(Boolean);
 
         const raw = anchors.map(a => ({
           href: a.href,
           title: a.textContent.trim(),
         }));
 
-        // dedupe
+        // dedupe just in case
         const seen = new Set();
         const pages = raw.filter(item => {
           if (seen.has(item.href)) return false;
@@ -68,17 +65,17 @@ export const PageGrid = () => {
           return true;
         });
 
-        // hide the in-page TOC if present
+        // hide in-page TOC if present
         const toc = document.querySelector('.content-toc');
         if (toc) toc.style.display = 'none';
 
-        // fetch & enrich each page
+        // fetch & enrich
         const enriched = await Promise.all(
           pages.map(item =>
             fetch(item.href)
               .then(r => r.text())
               .then(html => {
-                const doc = new DOMParser().parseFromString(html,'text/html');
+                const doc = new DOMParser().parseFromString(html, 'text/html');
                 const img = doc.querySelector('article img, .rm-Page-body img');
                 const p   = doc.querySelector('article p, .rm-Page-body p');
                 return {
@@ -108,7 +105,7 @@ export const PageGrid = () => {
       setModalHref(href);
       const res  = await fetch(href);
       const txt  = await res.text();
-      const doc  = new DOMParser().parseFromString(txt,'text/html');
+      const doc  = new DOMParser().parseFromString(txt, 'text/html');
       const content = doc.querySelector('section.content-body')
                    || doc.querySelector('.rm-Page-body')
                    || doc.querySelector('article');
