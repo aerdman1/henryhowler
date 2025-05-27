@@ -4,14 +4,15 @@ name: BranchOverview
 import React, { useState, useEffect } from 'react';
 
 export const BranchOverview = () => {
-  const [allGroups, setAllGroups]       = useState([]); // full grouping data
-  const [initialCards, setInitialCards] = useState([]); // the first‐child cards
-  const [cards, setCards]               = useState([]); // what we render
+  const [allGroups, setAllGroups]       = useState([]);   // full grouping data
+  const [initialCards, setInitialCards] = useState([]);   // one‐card‐per‐group snapshot
+  const [cards, setCards]               = useState([]);   // what we actually render
   const [selected, setSelected]         = useState('Overview');
-  const [error, setError]               = useState(null);
   const [loading, setLoading]           = useState(true);
+  const [filtering, setFiltering]       = useState(false);
+  const [error, setError]               = useState(null);
 
-  // Modal state (unchanged)…
+  // Modal state
   const [modalOpen, setModalOpen]   = useState(false);
   const [modalTitle, setModalTitle] = useState('');
   const [modalBody, setModalBody]   = useState('');
@@ -20,16 +21,18 @@ export const BranchOverview = () => {
   const iconMap = [
     { keywords: ['history','map','archive'], icon: '📜' },
     { keywords: ['article','story','news','blog'], icon: '📰' },
-    { keywords: ['guide','manual','book'],          icon: '📖' },
-    { keywords: [],                                   icon: '📄' },
+    { keywords: ['guide','manual','book'],         icon: '📖' },
+    { keywords: [],                                  icon: '📄' },
   ];
   const pickIcon = title => {
     const t = title.toLowerCase();
-    for (let { keywords, icon } of iconMap)
+    for (let { keywords, icon } of iconMap) {
       if (keywords.some(k => t.includes(k))) return icon;
+    }
     return '📄';
   };
 
+  // Initial load: build groups and first‐child cards
   useEffect(() => {
     if (typeof document === 'undefined') return;
     const wait = new Promise(r => setTimeout(r, 1500));
@@ -38,7 +41,6 @@ export const BranchOverview = () => {
         const nav = document.querySelector('.rm-Sidebar');
         if (!nav) throw new Error('Sidebar not found');
 
-        // ensure we’re on Overview
         const active = nav.querySelector(
           'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
         );
@@ -48,7 +50,6 @@ export const BranchOverview = () => {
         const section = active.closest('section.rm-Sidebar-section');
         if (!section) throw new Error('Category section not found');
 
-        // first-level siblings minus overview
         const firstLevel = Array.from(
           section.querySelectorAll(':scope > ul > li')
         ).filter(li => {
@@ -56,31 +57,30 @@ export const BranchOverview = () => {
           return a && a.href !== active.href;
         });
 
-        // second-level items
         const groups = firstLevel.flatMap(li =>
           Array.from(li.querySelectorAll(':scope > ul.subpages > li'))
         );
 
-        // build grouping + pages
         const rawGroups = groups.map(li => {
           const parentA = li.querySelector(':scope > a.rm-Sidebar-link');
           const subs    = Array.from(
             li.querySelectorAll(':scope > ul.subpages a.rm-Sidebar-link')
           );
           if (!parentA || subs.length === 0) return null;
-          return { parent: parentA.textContent.trim(), pages: subs.map(a => ({
-            href:  a.href,
-            title: a.textContent.trim(),
-          })) };
+          return {
+            parent: parentA.textContent.trim(),
+            pages: subs.map(a => ({
+              href:  a.href,
+              title: a.textContent.trim(),
+            })),
+          };
         }).filter(Boolean);
 
         if (!rawGroups.length) throw new Error('No second-level groups found');
 
-        // hide TOC
         const toc = document.querySelector('.content-toc');
         if (toc) toc.style.display = 'none';
 
-        // build the initial "first-child" cards
         const firstChildCards = await Promise.all(
           rawGroups.map(async grp => {
             const first = grp.pages[0];
@@ -94,10 +94,16 @@ export const BranchOverview = () => {
                 href:   first.href,
                 title:  first.title,
                 image:  img?.src || null,
-                excerpt: p?.textContent.trim().slice(0,120) || '',
+                excerpt:p?.textContent.trim().slice(0,120) || '',
               };
             } catch {
-              return { parent: grp.parent, href:first.href, title:first.title, image:null, excerpt:'' };
+              return {
+                parent: grp.parent,
+                href:   first.href,
+                title:  first.title,
+                image:  null,
+                excerpt:'',
+              };
             }
           })
         );
@@ -111,16 +117,18 @@ export const BranchOverview = () => {
         resolve();
       }
     });
+
     Promise.all([wait, load]).then(() => setLoading(false));
   }, []);
 
-  // handle filter changes
+  // Filter effect: switch between Overview and specific group
   useEffect(() => {
     if (selected === 'Overview') {
       setCards(initialCards);
     } else {
       const grp = allGroups.find(g => g.parent === selected);
       if (!grp) return;
+      setFiltering(true);
       Promise.all(
         grp.pages.map(async page => {
           try {
@@ -136,10 +144,18 @@ export const BranchOverview = () => {
               excerpt:p?.textContent.trim().slice(0,120) || '',
             };
           } catch {
-            return { parent:selected, href:page.href, title:page.title, image:null, excerpt:'' };
+            return {
+              parent: selected,
+              href:   page.href,
+              title:  page.title,
+              image:  null,
+              excerpt:'',
+            };
           }
         })
-      ).then(setCards);
+      )
+      .then(newCards => setCards(newCards))
+      .finally(() => setFiltering(false));
     }
   }, [selected, allGroups, initialCards]);
 
@@ -160,8 +176,8 @@ export const BranchOverview = () => {
     }
   };
 
-  if (error)   return <p style={{color:'red'}}>{error}</p>;
-  if (loading) return (
+  if (error)   return <p style={{ color:'red' }}>{error}</p>;
+  if (loading || filtering) return (
     <div className="retro-loader">
       <div className="bar"><div className="fill"/></div>
       <div className="message">🤖 Retrieving Family Information...</div>
@@ -178,7 +194,6 @@ export const BranchOverview = () => {
   return (
     <>
       <style>{`
-        /* filter bar */
         .filters { display:flex; gap:8px; margin-bottom:16px; }
         .filters button {
           padding:6px 12px; border:none; border-radius:4px;
@@ -188,8 +203,6 @@ export const BranchOverview = () => {
         .filters button:hover {
           background:#3b82f6; color:#fff;
         }
-
-        /* grid + cards */
         .page-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:20px; }
         .page-tile { display:flex; flex-direction:column; justify-content:space-between; padding:20px;
           background:linear-gradient(135deg,#fff,#f7f7f7); border:1px solid #e2e8f0; border-radius:8px;
@@ -247,7 +260,7 @@ export const BranchOverview = () => {
         ))}
       </div>
 
-      {/* Modal (unchanged) */}
+      {/* Modal */}
       {modalOpen && (
         <div className="modal-backdrop" onClick={()=>setModalOpen(false)} style={{
           position:'fixed',top:0,left:0,width:'100%',height:'100%',background:'rgba(0,0,0,0.5)',
