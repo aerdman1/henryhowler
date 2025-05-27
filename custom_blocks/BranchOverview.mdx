@@ -1,20 +1,21 @@
 ---
 name: BranchOverview
 ---
-import React, { useState, useEffect } from 'react'; 
+import React, { useState, useEffect } from 'react';
 
 export const BranchOverview = () => {
-  const [cards, setCards]     = useState([]);
-  const [error, setError]     = useState(null);
-  const [loading, setLoading] = useState(true);
+  const [allGroups, setAllGroups] = useState([]); // { parent, pages: [{ href, title }] }[]
+  const [cards, setCards]         = useState([]); // the flattened list we enrich & render
+  const [selected, setSelected]   = useState('All');
+  const [error, setError]         = useState(null);
+  const [loading, setLoading]     = useState(true);
 
-  // Modal
+  // Modal state
   const [modalOpen, setModalOpen]   = useState(false);
   const [modalTitle, setModalTitle] = useState('');
   const [modalBody, setModalBody]   = useState('');
   const [modalHref, setModalHref]   = useState('');
 
-  // icon picker (unchanged)
   const iconMap = [
     { keywords: ['history','map','archive'], icon: '📜' },
     { keywords: ['article','story','news','blog'], icon: '📰' },
@@ -30,26 +31,24 @@ export const BranchOverview = () => {
 
   useEffect(() => {
     if (typeof document === 'undefined') return;
-
     const wait = new Promise(r => setTimeout(r, 1500));
     const load = new Promise(async resolve => {
       try {
         const nav = document.querySelector('.rm-Sidebar');
         if (!nav) throw new Error('Sidebar not found');
 
-        // 1) detect Overview link
+        // 1) ensure we're on the Overview
         const active = nav.querySelector(
           'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
         );
-        if (!active || !/overview$/i.test(active.href)) {
+        if (!active || !/overview$/i.test(active.href))
           throw new Error('Not on Overview page');
-        }
 
-        // 2) find its section
+        // 2) find the containing section
         const section = active.closest('section.rm-Sidebar-section');
         if (!section) throw new Error('Category section not found');
 
-        // 3) grab all first-level siblings except Overview itself
+        // 3) grab first-level siblings except Overview
         const firstLevel = Array.from(
           section.querySelectorAll(':scope > ul > li')
         ).filter(li => {
@@ -57,61 +56,63 @@ export const BranchOverview = () => {
           return a && a.href !== active.href;
         });
 
-        // 4) for each first-level, dive into its subpages to get second-level parents
-        const secondLevelItems = firstLevel.flatMap(li => {
-          // each li may have a <ul.subpages>
-          const groups = li.querySelectorAll(':scope > ul.subpages > li');
-          return Array.from(groups);
+        // 4) dive into each, collect second-level groups
+        const groups = firstLevel.flatMap(li => {
+          return Array.from(li.querySelectorAll(':scope > ul.subpages > li'));
         });
 
-        // 5) for each second-level li, grab:
-        //    - parent = its link text
-        //    - the FIRST child under its own subpages
-        const raw = secondLevelItems.map(li => {
+        // 5) for each second-level group, gather all its subpages
+        const rawGroups = groups.map(li => {
           const parentA = li.querySelector(':scope > a.rm-Sidebar-link');
-          const childA  = li.querySelector(':scope > ul.subpages a.rm-Sidebar-link');
-          if (!parentA || !childA) return null;
+          const subs    = Array.from(
+            li.querySelectorAll(':scope > ul.subpages a.rm-Sidebar-link')
+          );
+          if (!parentA || subs.length === 0) return null;
           return {
             parent: parentA.textContent.trim(),
-            href:   childA.href,
-            title:  childA.textContent.trim(),
+            pages: subs.map(a => ({
+              href:  a.href,
+              title: a.textContent.trim(),
+            })),
           };
         }).filter(Boolean);
 
-        if (!raw.length) throw new Error('No second-level groups found');
-
-        // dedupe
-        const seen = new Set();
-        const pages = raw.filter(item => {
-          if (seen.has(item.href)) return false;
-          seen.add(item.href);
-          return true;
-        });
+        if (!rawGroups.length) throw new Error('No second-level groups found');
 
         // hide in-page TOC
         const toc = document.querySelector('.content-toc');
         if (toc) toc.style.display = 'none';
 
-        // 6) fetch & enrich
-        const enriched = await Promise.all(
-          pages.map(item =>
-            fetch(item.href)
-              .then(r => r.text())
-              .then(html => {
-                const doc = new DOMParser().parseFromString(html, 'text/html');
-                const img = doc.querySelector('article img, .rm-Page-body img');
-                const p   = doc.querySelector('article p, .rm-Page-body p');
-                return {
-                  ...item,
-                  image:   img?.src || null,
-                  excerpt: p ? p.textContent.trim().slice(0, 120) : '',
-                };
-              })
-              .catch(() => ({ ...item, image: null, excerpt: '' }))
-          )
+        // Build enriched “cards” for each parent’s first page
+        const initialCards = await Promise.all(
+          rawGroups.map(async grp => {
+            const first = grp.pages[0];
+            try {
+              const html = await fetch(first.href).then(r => r.text());
+              const doc  = new DOMParser().parseFromString(html, 'text/html');
+              const img  = doc.querySelector('article img, .rm-Page-body img');
+              const p    = doc.querySelector('article p, .rm-Page-body p');
+              return {
+                parent: grp.parent,
+                href:   first.href,
+                title:  first.title,
+                image:  img?.src || null,
+                excerpt: p?.textContent.trim().slice(0, 120) || '',
+              };
+            } catch {
+              return {
+                parent: grp.parent,
+                href:   first.href,
+                title:  first.title,
+                image:  null,
+                excerpt:''
+              };
+            }
+          })
         );
 
-        setCards(enriched);
+        setAllGroups(rawGroups);
+        setCards(initialCards);
       } catch (e) {
         setError(e.message);
       } finally {
@@ -122,13 +123,50 @@ export const BranchOverview = () => {
     Promise.all([wait, load]).then(() => setLoading(false));
   }, []);
 
+  // when user selects a filter, swap cards
+  useEffect(() => {
+    if (selected === 'All') {
+      // show only the first page per group
+      setCards(cards => cards); // no-op; already are first-pages
+    } else {
+      // find the group
+      const grp = allGroups.find(g => g.parent === selected);
+      if (!grp) return;
+      // fetch & enrich every page in that group
+      Promise.all(
+        grp.pages.map(async page => {
+          try {
+            const html = await fetch(page.href).then(r => r.text());
+            const doc  = new DOMParser().parseFromString(html, 'text/html');
+            const img  = doc.querySelector('article img, .rm-Page-body img');
+            const p    = doc.querySelector('article p, .rm-Page-body p');
+            return {
+              parent: selected,
+              href:   page.href,
+              title:  page.title,
+              image:  img?.src || null,
+              excerpt: p?.textContent.trim().slice(0, 120) || '',
+            };
+          } catch {
+            return {
+              parent: selected,
+              href:   page.href,
+              title:  page.title,
+              image:  null,
+              excerpt:'',
+            };
+          }
+        })
+      ).then(setCards);
+    }
+  }, [selected, allGroups]);
+
   const handleViewClick = async (e, { href, title }) => {
     e.preventDefault();
     try {
       setModalHref(href);
-      const res  = await fetch(href);
-      const txt  = await res.text();
-      const doc  = new DOMParser().parseFromString(txt, 'text/html');
+      const txt  = await fetch(href).then(r => r.text());
+      const doc  = new DOMParser().parseFromString(txt,'text/html');
       const content = doc.querySelector('section.content-body')
                    || doc.querySelector('.rm-Page-body')
                    || doc.querySelector('article');
@@ -140,16 +178,16 @@ export const BranchOverview = () => {
     }
   };
 
-  if (error)   return <p style={{color:'red'}}>{error}</p>;
+  if (error)   return <p style={{ color:'red' }}>{error}</p>;
   if (loading) return (
     <div className="retro-loader">
-      <div className="bar"><div className="fill" /></div>
+      <div className="bar"><div className="fill"/></div>
       <div className="message">🤖 Retrieving Family Information...</div>
       <style>{`
         .retro-loader { font-family:'Courier New', monospace; text-align:center; margin:60px 0; }
-        .retro-loader .bar { width:280px; height:16px; border:3px solid #222; margin:0 auto 12px; background:#fff; box-shadow:inset 0 0 4px rgba(0,0,0,0.3); overflow:hidden; }
-        .retro-loader .fill { width:0; height:100%; animation:retro-load 2s linear 1 forwards; background:#222; }
-        .retro-loader .message { font-size:0.95rem; color:#222; }
+        .retro-loader .bar { width:280px;height:16px;border:3px solid #222;margin:0 auto 12px;background:#fff;box-shadow:inset 0 0 4px rgba(0,0,0,0.3);overflow:hidden; }
+        .retro-loader .fill { width:0;height:100%;animation:retro-load 2s linear 1 forwards;background:#222; }
+        .retro-loader .message { font-size:0.95rem;color:#222; }
         @keyframes retro-load { 0%{width:0;}50%{width:50%;}100%{width:100%;} }
       `}</style>
     </div>
@@ -158,7 +196,21 @@ export const BranchOverview = () => {
   return (
     <>
       <style>{`
-        .page-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:20px; margin:24px 0; }
+        .filters { display:flex; gap:8px; margin-bottom:16px; }
+        .filters button {
+          padding:6px 12px;
+          border:none;
+          border-radius:4px;
+          background:#e2e8f0;
+          cursor:pointer;
+          transition:background .2s;
+        }
+        .filters button.active,
+        .filters button:hover {
+          background:#3b82f6;
+          color:#fff;
+        }
+        .page-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:20px; }
         .page-tile { display:flex; flex-direction:column; justify-content:space-between; padding:20px; background:linear-gradient(135deg,#fff,#f7f7f7); border:1px solid #e2e8f0; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.08); transition:transform .2s,box-shadow .2s; }
         .page-tile:hover { transform:translateY(-4px); box-shadow:0 4px 12px rgba(0,0,0,0.12); }
         .parent-title { font-size:0.85rem; color:#555; margin-bottom:8px; text-transform:uppercase; }
@@ -167,49 +219,68 @@ export const BranchOverview = () => {
         .page-title { margin:0; font-size:1.05rem; line-height:1.2; flex:1; }
         .view-btn { display:block; text-align:center; padding:10px 0; background:#3b82f6; color:#fff; border-radius:6px; text-decoration:none; font-weight:500; transition:background .2s; }
         .view-btn:hover { background:#2563eb; }
-        .page-tile img, .page-tile .placeholder { width:100%; height:200px; border-radius:4px; margin-bottom:8px; object-fit:cover; object-position:center; }
+        .page-tile img, .page-tile .placeholder { width:100%; height:200px; border-radius:4px; margin-bottom:8px; object-fit:cover; }
         .placeholder { display:flex; align-items:center; justify-content:center; background:#e2e8f0; color:#9ca3af; font-size:2rem; }
         .page-tile p { flex:1; font-size:0.9rem; margin-bottom:12px; }
       `}</style>
 
+      {/* Filter buttons */}
+      <div className="filters">
+        <button
+          className={selected === 'All' ? 'active' : ''}
+          onClick={() => setSelected('All')}
+        >
+          All
+        </button>
+        {allGroups.map(g => (
+          <button
+            key={g.parent}
+            className={selected === g.parent ? 'active' : ''}
+            onClick={() => setSelected(g.parent)}
+          >
+            {g.parent}
+          </button>
+        ))}
+      </div>
+
+      {/* Cards */}
       <div className="page-grid">
         {cards.map((c,i) => (
           <div key={i} className="page-tile">
             <div className="parent-title">{c.parent}</div>
             {c.image
-              ? <img src={c.image} alt={c.title} />
-              : <div className="placeholder"><i className="fa fa-image" /></div>
+              ? <img src={c.image} alt={c.title}/>
+              : <div className="placeholder"><i className="fa fa-image"/></div>
             }
             <div className="page-header">
               <span className="page-icon">{pickIcon(c.title)}</span>
               <h4 className="page-title">{c.title}</h4>
             </div>
             {c.excerpt && <p>{c.excerpt}…</p>}
-            <a href={c.href} className="view-btn" onClick={e => handleViewClick(e, c)}>
-              View
-            </a>
+            <a href={c.href} className="view-btn" onClick={e => handleViewClick(e,c)}>View</a>
           </div>
         ))}
       </div>
 
+      {/* Modal (unchanged) */}
       {modalOpen && (
-        <div
-          className="modal-backdrop"
-          onClick={() => setModalOpen(false)}
-          style={{position:'fixed',top:0,left:0,width:'100%',height:'100%',background:'rgba(0,0,0,0.5)',display:'flex',alignItems:'center',justifyContent:'center',zIndex:1000}}
-        >
-          <div
-            className="modal-content"
-            onClick={e => e.stopPropagation()}
-            style={{background:'#fff',maxWidth:'960px',maxHeight:'80vh',overflowY:'auto',padding:'24px',borderRadius:'8px'}}
-          >
+        <div className="modal-backdrop" onClick={() => setModalOpen(false)} style={{
+          position:'fixed',top:0,left:0,width:'100%',height:'100%',background:'rgba(0,0,0,0.5)',display:'flex',alignItems:'center',justifyContent:'center',zIndex:1000
+        }}>
+          <div className="modal-content" onClick={e=>e.stopPropagation()} style={{
+            background:'#fff',maxWidth:'960px',maxHeight:'80vh',overflowY:'auto',padding:'24px',borderRadius:'8px'
+          }}>
             <h2>{modalTitle}</h2>
             <div className="modal-body" dangerouslySetInnerHTML={{__html:modalBody}}/>
             <div style={{marginTop:'16px',display:'flex',gap:'8px'}}>
-              <button onClick={() => setModalOpen(false)} style={{padding:'8px 16px',background:'#3b82f6',color:'#fff',border:'none',borderRadius:'4px',cursor:'pointer'}}>
+              <button onClick={()=>setModalOpen(false)} style={{
+                padding:'8px 16px',background:'#3b82f6',color:'#fff',border:'none',borderRadius:'4px',cursor:'pointer'
+              }}>
                 Close
               </button>
-              <a href={modalHref} target="_blank" rel="noopener noreferrer" style={{padding:'8px 16px',background:'#10b981',color:'#fff',border:'none',borderRadius:'4px',textDecoration:'none'}}>
+              <a href={modalHref} target="_blank" rel="noopener noreferrer" style={{
+                padding:'8px 16px',background:'#10b981',color:'#fff',border:'none',borderRadius:'4px',textDecoration:'none'
+              }}>
                 View Full Page
               </a>
             </div>
