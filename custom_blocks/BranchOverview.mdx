@@ -222,13 +222,13 @@ export const BranchOverview = () => {
         .page-tile p { flex:1; font-size:0.9rem; margin-bottom:12px; }
       `}</style>
 
-      {/* Filter buttons */}
+      {/* Filter buttons with counts */}
       <div className="filters">
         <button
           className={selected==='Overview'? 'active':''}
           onClick={()=>setSelected('Overview')}
         >
-          Overview
+          Overview ({initialCards.length})
         </button>
         {allGroups.map(g=>(
           <button
@@ -236,7 +236,7 @@ export const BranchOverview = () => {
             className={selected===g.parent? 'active':''}
             onClick={()=>setSelected(g.parent)}
           >
-            {g.parent}
+            {g.parent} ({g.pages.length})
           </button>
         ))}
       </div>
