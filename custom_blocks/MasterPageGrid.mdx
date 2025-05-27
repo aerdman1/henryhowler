@@ -1,12 +1,12 @@
 ---
 name: MasterPageGrid
 ---
-import React, { useEffect, useState } from 'react'; 
+import React, { useEffect, useState } from 'react';
 
 export const MasterPageGrid = () => {
-  const [cards, setCards]       = useState([]);
-  const [error, setError]       = useState(null);
-  const [loading, setLoading]   = useState(true);
+  const [cards, setCards]     = useState([]);
+  const [error, setError]     = useState(null);
+  const [loading, setLoading] = useState(true);
 
   const iconMap = [
     { keywords: ['history', 'map', 'archive'], icon: '📜' },
@@ -14,13 +14,12 @@ export const MasterPageGrid = () => {
     { keywords: ['guide', 'manual', 'book'],          icon: '📖' },
     { keywords: [],                                    icon: '📄' },
   ];
-
-  const pickIcon = (title) => {
+  const pickIcon = title => {
     const t = title.toLowerCase();
     for (let { keywords, icon } of iconMap) {
       if (keywords.some(k => t.includes(k))) return icon;
     }
-    return iconMap[iconMap.length - 1].icon;
+    return '📄';
   };
 
   useEffect(() => {
@@ -30,17 +29,35 @@ export const MasterPageGrid = () => {
 
     const fetchAll = (async () => {
       try {
+        // 1) find every top‐level category section
         const sections = Array.from(document.querySelectorAll('.rm-Sidebar-section'));
-        const picks = sections.flatMap(sec =>
-          Array.from(sec.querySelectorAll('a.rm-Sidebar-link[href^="/docs/"]'))
-            .slice(1, 2)
-            .map(a => ({
-              href: a.href,
-              title: a.textContent.trim()
-            }))
-        );
-        const slice = picks.slice(0, 9);
 
+        // 2) for each section, grab its first‐level <li> items
+        //    then dive into each one's subpages to get second‐level li's
+        const secondLevelLis = sections.flatMap(sec => {
+          const firstLevelLis = Array.from(sec.querySelectorAll(':scope > ul > li'));
+          return firstLevelLis.flatMap(li =>
+            Array.from(li.querySelectorAll(':scope > ul.subpages > li'))
+          );
+        });
+
+        // 3) from each second‐level li, pick its first child link
+        const picks = secondLevelLis
+          .map(li => {
+            const parentA = li.querySelector(':scope > a.rm-Sidebar-link');
+            const childA  = li.querySelector(':scope > ul.subpages a.rm-Sidebar-link');
+            if (!parentA || !childA) return null;
+            return {
+              href:   childA.href,
+              title:  childA.textContent.trim(),
+            };
+          })
+          .filter(Boolean);
+
+        // (optional) limit total cards if you like
+        const slice = picks; // or picks.slice(0, 12)
+
+        // 4) fetch & enrich each pick
         const enriched = await Promise.all(
           slice.map(item =>
             fetch(item.href)
@@ -51,9 +68,8 @@ export const MasterPageGrid = () => {
                 const p   = doc.querySelector('article p, .rm-Page-body p');
                 return {
                   ...item,
-                  image: img ? img.src : null,
-                  // shorter JS slice
-                  excerpt: p ? p.textContent.trim().slice(0, 150) : ''
+                  image:   img?.src || null,
+                  excerpt: p?.textContent.trim().slice(0, 150) || '',
                 };
               })
               .catch(() => ({ ...item, image: null, excerpt: '' }))
@@ -70,20 +86,25 @@ export const MasterPageGrid = () => {
   }, []);
 
   if (error) {
-    return <p style={{ color: 'red', textAlign: 'center' }}>Error loading pages: {error}</p>;
+    return (
+      <p style={{ color: 'red', textAlign: 'center' }}>
+        Error loading pages: {error}
+      </p>
+    );
   }
-
   if (loading) {
     return (
       <div className="retro-loader">
-        <div className="bar"><div className="fill" /></div>
-        <div className="message">🤖 Gathering the best from every section...</div>
+        <div className="bar">
+          <div className="fill" />
+        </div>
+        <div className="message">🤖 Gathering the best from every branch...</div>
         <style>{`
-          .retro-loader { font-family: 'Courier New', monospace; text-align: center; margin: 60px 0; }
-          .retro-loader .bar { width: 280px; height: 16px; border: 3px solid #222; margin: 0 auto 12px; background: #fff; box-shadow: inset 0 0 4px rgba(0,0,0,0.3); overflow: hidden; }
-          .retro-loader .fill { width: 0; height: 100%; background: #222; animation: retro-load 3s linear forwards; }
-          .retro-loader .message { font-size: 0.95rem; color: #222; }
-          @keyframes retro-load { from { width: 0; } to { width: 100%; } }
+          .retro-loader { font-family:'Courier New', monospace; text-align:center; margin:60px 0; }
+          .retro-loader .bar { width:280px; height:16px; border:3px solid #222; margin:0 auto 12px; background:#fff; box-shadow:inset 0 0 4px rgba(0,0,0,0.3); overflow:hidden; }
+          .retro-loader .fill { width:0; height:100%; background:#222; animation:retro-load 3s linear forwards; }
+          .retro-loader .message { font-size:0.95rem; color:#222; }
+          @keyframes retro-load { from{width:0;} to{width:100%;} }
         `}</style>
       </div>
     );
@@ -148,7 +169,6 @@ export const MasterPageGrid = () => {
           font-size: 0.9rem;
           line-height: 1.3em;
           margin: 0 0 12px;
-          /* exactly 3 lines tall */
           max-height: calc(1.3em * 3);
           overflow: hidden;
           display: -webkit-box;
@@ -166,7 +186,9 @@ export const MasterPageGrid = () => {
           font-weight: 500;
           transition: background .2s;
         }
-        .page-tile a:hover { background: #2563eb; }
+        .page-tile a:hover {
+          background: #2563eb;
+        }
       `}</style>
 
       <div className="page-grid">
@@ -189,4 +211,4 @@ export const MasterPageGrid = () => {
   );
 };
 
-<MasterPageGrid />
+export default MasterPageGrid;
