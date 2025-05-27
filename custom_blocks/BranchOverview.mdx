@@ -45,11 +45,12 @@ export const BranchOverview = () => {
           'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
         );
         if (!active || !/article-feed/i.test(active.href))
-        throw new Error('Not on Article Feed page');
-      
+          throw new Error('Not on Article Feed page');
+
         const section = active.closest('section.rm-Sidebar-section');
         if (!section) throw new Error('Category section not found');
 
+        // first‐level siblings except the feed itself
         const firstLevel = Array.from(
           section.querySelectorAll(':scope > ul > li')
         ).filter(li => {
@@ -57,6 +58,7 @@ export const BranchOverview = () => {
           return a && a.href !== active.href;
         });
 
+        // second‐level groups
         const groups = firstLevel.flatMap(li =>
           Array.from(li.querySelectorAll(':scope > ul.subpages > li'))
         );
@@ -77,10 +79,11 @@ export const BranchOverview = () => {
         }).filter(Boolean);
 
         if (!rawGroups.length) throw new Error('No second-level groups found');
-
+        // hide in-page TOC
         const toc = document.querySelector('.content-toc');
         if (toc) toc.style.display = 'none';
 
+        // build initial cards (first child of each group)
         const firstChildCards = await Promise.all(
           rawGroups.map(async grp => {
             const first = grp.pages[0];
@@ -121,7 +124,7 @@ export const BranchOverview = () => {
     Promise.all([wait, load]).then(() => setLoading(false));
   }, []);
 
-  // Filter effect: switch between Overview and specific group
+  // filter effect
   useEffect(() => {
     if (selected === 'Overview') {
       setCards(initialCards);
@@ -132,7 +135,7 @@ export const BranchOverview = () => {
       Promise.all(
         grp.pages.map(async page => {
           try {
-            const html = await fetch(page.href).then(r=>r.text());
+            const html = await fetch(page.href).then(r => r.text());
             const doc  = new DOMParser().parseFromString(html,'text/html');
             const img  = doc.querySelector('article img, .rm-Page-body img');
             const p    = doc.querySelector('article p, .rm-Page-body p');
@@ -163,8 +166,8 @@ export const BranchOverview = () => {
     e.preventDefault();
     try {
       setModalHref(c.href);
-      const txt  = await fetch(c.href).then(r => r.text());
-      const doc  = new DOMParser().parseFromString(txt,'text/html');
+      const txt = await fetch(c.href).then(r => r.text());
+      const doc = new DOMParser().parseFromString(txt,'text/html');
       const content = doc.querySelector('section.content-body')
                    || doc.querySelector('.rm-Page-body')
                    || doc.querySelector('article');
@@ -176,20 +179,24 @@ export const BranchOverview = () => {
     }
   };
 
-  if (error)   return <p style={{ color:'red' }}>{error}</p>;
-  if (loading || filtering) return (
-    <div className="retro-loader">
-      <div className="bar"><div className="fill"/></div>
-      <div className="message">🤖 Retrieving Family Information...</div>
-      <style>{`
-        .retro-loader { font-family:'Courier New', monospace; text-align:center; margin:60px 0; }
-        .retro-loader .bar { width:280px;height:16px;border:3px solid #222;margin:0 auto 12px;background:#fff;box-shadow:inset 0 0 4px rgba(0,0,0,0.3);overflow:hidden; }
-        .retro-loader .fill { width:0;height:100%;animation:retro-load 2s linear 1 forwards;background:#222; }
-        .retro-loader .message { font-size:0.95rem;color:#222; }
-        @keyframes retro-load {0%{width:0;}50%{width:50%;}100%{width:100%;}}
-      `}</style>
-    </div>
-  );
+  if (error) return <p style={{ color:'red' }}>{error}</p>;
+  if (loading || filtering) {
+    return (
+      <div className="retro-loader">
+        <div className="bar"><div className="fill"/></div>
+        <div className="message">🤖 Retrieving Family Information...</div>
+        <style>{`
+          .retro-loader { font-family:'Courier New', monospace; text-align:center; margin:60px 0; }
+          .retro-loader .bar { width:280px;height:16px;border:3px solid #222;margin:0 auto 12px;
+            background:#fff;box-shadow:inset 0 0 4px rgba(0,0,0,0.3);overflow:hidden;
+          }
+          .retro-loader .fill { width:0;height:100%;animation:retro-load 2s linear forwards;background:#222; }
+          .retro-loader .message { font-size:0.95rem;color:#222; }
+          @keyframes retro-load {0%{width:0;}50%{width:50%;}100%{width:100%;}}
+        `}</style>
+      </div>
+    );
+  }
 
   return (
     <>
@@ -204,25 +211,32 @@ export const BranchOverview = () => {
           background:#3b82f6; color:#fff;
         }
         .page-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:20px; }
-        .page-tile { display:flex; flex-direction:column; justify-content:space-between; padding:20px;
-          background:linear-gradient(135deg,#fff,#f7f7f7); border:1px solid #e2e8f0; border-radius:8px;
-          box-shadow:0 2px 6px rgba(0,0,0,0.08); transition:transform .2s,box-shadow .2s;
+        .page-tile {
+          display:flex; flex-direction:column; justify-content:space-between; padding:20px;
+          background:linear-gradient(135deg,#fff,#f7f7f7); border:1px solid #e2e8f0;
+          border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.08); transition:transform .2s,box-shadow .2s;
         }
-        .page-tile:hover { transform:translateY(-4px); box-shadow:0 4px 12px rgba(0,0,0,0.12); }
+        .page-tile:hover {
+          transform:translateY(-4px); box-shadow:0 4px 12px rgba(0,0,0,0.12);
+        }
         .parent-title { font-size:0.85rem; color:#555; margin-bottom:8px; text-transform:uppercase; }
         .page-header { display:flex; align-items:center; gap:8px; margin-bottom:12px; }
-        .page-icon  { font-size:1.5rem; }
+        .page-icon { font-size:1.5rem; }
         .page-title { margin:0; font-size:1.05rem; line-height:1.2; flex:1; }
-        .view-btn { display:block; text-align:center; padding:10px 0; background:#3b82f6; color:#fff;
+        .view-btn {
+          display:block; text-align:center; padding:10px 0; background:#3b82f6; color:#fff;
           border-radius:6px; text-decoration:none; font-weight:500; transition:background .2s;
         }
         .view-btn:hover { background:#2563eb; }
-        .page-tile img, .page-tile .placeholder { width:100%; height:200px; border-radius:4px; margin-bottom:8px; object-fit:cover; }
-        .placeholder { display:flex; align-items:center; justify-content:center; background:#e2e8f0; color:#9ca3af; font-size:2rem; }
+        .page-tile img, .page-tile .placeholder {
+          width:100%; height:200px; border-radius:4px; margin-bottom:8px; object-fit:cover;
+        }
+        .placeholder { display:flex; align-items:center; justify-content:center;
+          background:#e2e8f0; color:#9ca3af; font-size:2rem;
+        }
         .page-tile p { flex:1; font-size:0.9rem; margin-bottom:12px; }
       `}</style>
 
-      {/* Filter buttons with counts */}
       <div className="filters">
         <button
           className={selected==='Overview'? 'active':''}
@@ -241,45 +255,64 @@ export const BranchOverview = () => {
         ))}
       </div>
 
-      {/* Cards */}
       <div className="page-grid">
         {cards.map((c,i)=>(
           <div key={i} className="page-tile">
             <div className="parent-title">{c.parent}</div>
             {c.image
               ? <img src={c.image} alt={c.title}/>
-              : <div className="placeholder"><i className="fa fa-image"/></div>
+              : <div className="placeholder">📄</div>
             }
             <div className="page-header">
               <span className="page-icon">{pickIcon(c.title)}</span>
               <h4 className="page-title">{c.title}</h4>
             </div>
             {c.excerpt && <p>{c.excerpt}…</p>}
-            <a href={c.href} className="view-btn" onClick={e=>handleViewClick(e,c)}>View</a>
+            <a href={c.href} className="view-btn" onClick={e=>handleViewClick(e,c)}>
+              View
+            </a>
           </div>
         ))}
       </div>
 
-      {/* Modal */}
       {modalOpen && (
-        <div className="modal-backdrop" onClick={()=>setModalOpen(false)} style={{
-          position:'fixed',top:0,left:0,width:'100%',height:'100%',background:'rgba(0,0,0,0.5)',
-          display:'flex',alignItems:'center',justifyContent:'center',zIndex:1000
-        }}>
-          <div className="modal-content" onClick={e=>e.stopPropagation()} style={{
-            background:'#fff',maxWidth:'960px',maxHeight:'80vh',overflowY:'auto',padding:'24px',borderRadius:'8px'
-          }}>
+        <div
+          className="modal-backdrop"
+          onClick={()=>setModalOpen(false)}
+          style={{
+            position:'fixed', top:0, left:0, width:'100%', height:'100%',
+            background:'rgba(0,0,0,0.5)', display:'flex',
+            alignItems:'center', justifyContent:'center', zIndex:1000
+          }}
+        >
+          <div
+            className="modal-content"
+            onClick={e=>e.stopPropagation()}
+            style={{
+              background:'#fff', maxWidth:'960px', maxHeight:'80vh',
+              overflowY:'auto', padding:'24px', borderRadius:'8px'
+            }}
+          >
             <h2>{modalTitle}</h2>
             <div className="modal-body" dangerouslySetInnerHTML={{__html:modalBody}}/>
-            <div style={{marginTop:'16px',display:'flex',gap:'8px'}}>
-              <button onClick={()=>setModalOpen(false)} style={{
-                padding:'8px 16px',background:'#3b82f6',color:'#fff',border:'none',borderRadius:'4px',cursor:'pointer'
-              }}>
+            <div style={{marginTop:'16px', display:'flex', gap:'8px'}}>
+              <button
+                onClick={()=>setModalOpen(false)}
+                style={{
+                  padding:'8px 16px', background:'#3b82f6',
+                  color:'#fff', border:'none', borderRadius:'4px', cursor:'pointer'
+                }}
+              >
                 Close
               </button>
-              <a href={modalHref} target="_blank" rel="noopener noreferrer" style={{
-                padding:'8px 16px',background:'#10b981',color:'#fff',border:'none',borderRadius:'4px',textDecoration:'none'
-              }}>
+              <a
+                href={modalHref} target="_blank" rel="noopener noreferrer"
+                style={{
+                  padding:'8px 16px', background:'#10b981',
+                  color:'#fff', border:'none', borderRadius:'4px',
+                  textDecoration:'none'
+                }}
+              >
                 View Full Page
               </a>
             </div>
