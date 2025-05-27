@@ -44,9 +44,9 @@ export const BranchOverview = () => {
         const active = nav.querySelector(
           'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
         );
-        if (!active || !/overview$/i.test(active.href))
-          throw new Error('Not on Overview page');
-
+        if (!active || !/article-feed/i.test(active.href))
+        throw new Error('Not on Article Feed page');
+      
         const section = active.closest('section.rm-Sidebar-section');
         if (!section) throw new Error('Category section not found');
 
