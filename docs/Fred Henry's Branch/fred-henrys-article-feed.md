@@ -1,5 +1,5 @@
 ---
-title: Fred Henry's Article Feed
+title: Branch Article Feed
 deprecated: false
 hidden: false
 metadata:
