@@ -1,6 +1,6 @@
 ---
 title: Branch Overview
-excerpt: Articles about the Gene Henry Family
+excerpt: Articles chronicling the Gene Henry branch of our family.
 deprecated: false
 hidden: false
 metadata:
