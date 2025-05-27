@@ -8,6 +8,12 @@ export const MasterPageGrid = () => {
   const [error, setError]     = useState(null);
   const [loading, setLoading] = useState(true);
 
+  // Modal state
+  const [modalOpen, setModalOpen]   = useState(false);
+  const [modalTitle, setModalTitle] = useState('');
+  const [modalBody, setModalBody]   = useState('');
+  const [modalHref, setModalHref]   = useState('');
+
   const iconMap = [
     { keywords: ['history', 'map', 'archive'], icon: '📜' },
     { keywords: ['article', 'story', 'news', 'blog'], icon: '📰' },
@@ -29,11 +35,8 @@ export const MasterPageGrid = () => {
 
     const fetchAll = (async () => {
       try {
-        // 1) find every top‐level category section
         const sections = Array.from(document.querySelectorAll('.rm-Sidebar-section'));
 
-        // 2) for each section, grab its first‐level <li> items
-        //    then dive into each one's subpages to get second‐level li's
         const secondLevelLis = sections.flatMap(sec => {
           const firstLevelLis = Array.from(sec.querySelectorAll(':scope > ul > li'));
           return firstLevelLis.flatMap(li =>
@@ -41,25 +44,19 @@ export const MasterPageGrid = () => {
           );
         });
 
-        // 3) from each second‐level li, pick its first child link
         const picks = secondLevelLis
           .map(li => {
-            const parentA = li.querySelector(':scope > a.rm-Sidebar-link');
             const childA  = li.querySelector(':scope > ul.subpages a.rm-Sidebar-link');
-            if (!parentA || !childA) return null;
+            if (!childA) return null;
             return {
-              href:   childA.href,
-              title:  childA.textContent.trim(),
+              href:  childA.href,
+              title: childA.textContent.trim(),
             };
           })
           .filter(Boolean);
 
-        // (optional) limit total cards if you like
-        const slice = picks; // or picks.slice(0, 12)
-
-        // 4) fetch & enrich each pick
         const enriched = await Promise.all(
-          slice.map(item =>
+          picks.map(item =>
             fetch(item.href)
               .then(r => r.text())
               .then(html => {
@@ -85,6 +82,23 @@ export const MasterPageGrid = () => {
     Promise.all([timer, fetchAll]).then(() => setLoading(false));
   }, []);
 
+  const handleViewClick = async (e, { href, title }) => {
+    e.preventDefault();
+    try {
+      setModalHref(href);
+      const text = await fetch(href).then(r => r.text());
+      const doc  = new DOMParser().parseFromString(text, 'text/html');
+      const content = doc.querySelector('section.content-body')
+                   || doc.querySelector('.rm-Page-body')
+                   || doc.querySelector('article');
+      setModalTitle(title);
+      setModalBody(content?.innerHTML || '<p>No content found.</p>');
+      setModalOpen(true);
+    } catch {
+      alert('Failed to load content.');
+    }
+  };
+
   if (error) {
     return (
       <p style={{ color: 'red', textAlign: 'center' }}>
@@ -95,13 +109,13 @@ export const MasterPageGrid = () => {
   if (loading) {
     return (
       <div className="retro-loader">
-        <div className="bar">
-          <div className="fill" />
-        </div>
+        <div className="bar"><div className="fill" /></div>
         <div className="message">🤖 Gathering the best from every branch...</div>
         <style>{`
           .retro-loader { font-family:'Courier New', monospace; text-align:center; margin:60px 0; }
-          .retro-loader .bar { width:280px; height:16px; border:3px solid #222; margin:0 auto 12px; background:#fff; box-shadow:inset 0 0 4px rgba(0,0,0,0.3); overflow:hidden; }
+          .retro-loader .bar { width:280px; height:16px; border:3px solid #222; margin:0 auto 12px;
+            background:#fff; box-shadow:inset 0 0 4px rgba(0,0,0,0.3); overflow:hidden;
+          }
           .retro-loader .fill { width:0; height:100%; background:#222; animation:retro-load 3s linear forwards; }
           .retro-loader .message { font-size:0.95rem; color:#222; }
           @keyframes retro-load { from{width:0;} to{width:100%;} }
@@ -186,9 +200,7 @@ export const MasterPageGrid = () => {
           font-weight: 500;
           transition: background .2s;
         }
-        .page-tile a:hover {
-          background: #2563eb;
-        }
+        .page-tile a:hover { background: #2563eb; }
       `}</style>
 
       <div className="page-grid">
@@ -203,10 +215,64 @@ export const MasterPageGrid = () => {
               <h4 className="page-title">{item.title}</h4>
             </div>
             {item.excerpt && <p>{item.excerpt}…</p>}
-            <a href={item.href}>View</a>
+            <a href={item.href} onClick={e => handleViewClick(e, item)}>
+              View
+            </a>
           </div>
         ))}
       </div>
+
+      {modalOpen && (
+        <div
+          className="modal-backdrop"
+          onClick={() => setModalOpen(false)}
+          style={{
+            position:'fixed', top:0, left:0,
+            width:'100%', height:'100%',
+            background:'rgba(0,0,0,0.5)',
+            display:'flex', alignItems:'center', justifyContent:'center',
+            zIndex:1000
+          }}
+        >
+          <div
+            className="modal-content"
+            onClick={e => e.stopPropagation()}
+            style={{
+              background:'#fff', maxWidth:'960px', maxHeight:'80vh',
+              overflowY:'auto', padding:'24px', borderRadius:'8px'
+            }}
+          >
+            <h2>{modalTitle}</h2>
+            <div
+              className="modal-body"
+              dangerouslySetInnerHTML={{ __html: modalBody }}
+            />
+            <div style={{ marginTop:'16px', display:'flex', gap:'8px' }}>
+              <button
+                onClick={() => setModalOpen(false)}
+                style={{
+                  padding:'8px 16px', background:'#3b82f6',
+                  color:'#fff', border:'none', borderRadius:'4px', cursor:'pointer'
+                }}
+              >
+                Close
+              </button>
+              <a
+                href={modalHref}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{
+                  padding:'8px 16px', background:'#10b981',
+                  color:'#fff', border:'none', borderRadius:'4px',
+                  textDecoration:'none'
+                }}
+              >
+                View Full Page
+              </a>
+            </div>
+          </div>
+        </div>
+      )}
     </>
   );
 };
