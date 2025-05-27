@@ -1,5 +1,5 @@
 ---
-title: Gene Henry Articles
+title: Articles
 deprecated: false
 hidden: false
 metadata:
