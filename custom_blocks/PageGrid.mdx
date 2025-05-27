@@ -14,6 +14,7 @@ export const PageGrid = () => {
   const [modalBody, setModalBody]   = useState('');
   const [modalHref, setModalHref]   = useState('');
 
+  // Icon picker (same as before)…
   const iconMap = [
     { keywords: ['history','map','archive'], icon: '📜' },
     { keywords: ['article','story','news','blog'], icon: '📰' },
@@ -31,72 +32,79 @@ export const PageGrid = () => {
   useEffect(() => {
     if (typeof document === 'undefined') return;
 
+    // Keep loader visible for at least 1.5s
     const timer = new Promise(res => setTimeout(res, 1500));
+
     const loader = new Promise(async resolve => {
       try {
         const nav = document.querySelector('.rm-Sidebar');
         if (!nav) throw new Error('Sidebar not found');
 
+        // 1) detect the active link
         const active = nav.querySelector(
           'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
         );
         if (!active) throw new Error('No active page detected');
 
-        const section = active.closest('section.rm-Sidebar-section');
-        if (!section) throw new Error('Unable to locate current category section');
+        // 2) if it's the "Family Overview" page…
+        if (/overview$/i.test(active.href)) {
+          // grab all sibling <li> under this section (skipping the overview itself)
+          const section      = active.closest('section.rm-Sidebar-section');
+          const allItems     = Array.from(section.querySelectorAll(':scope > ul > li'));
+          const parentItems  = allItems.filter(li => {
+            const a = li.querySelector('a.rm-Sidebar-link');
+            return a && a.href !== active.href;
+          });
 
-        const topLevelItems = Array.from(
-          section.querySelectorAll(':scope > ul > li')
-        );
+          // for each parent, pull its first two subpages
+          const raw = parentItems.flatMap(li => {
+            const parentName    = li.querySelector('a.rm-Sidebar-link').textContent.trim();
+            const subs          = Array.from(li.querySelectorAll('ul.subpages a.rm-Sidebar-link'));
+            return subs.slice(0, 2).map(a => ({
+              parent: parentName,
+              href:   a.href,
+              title:  a.textContent.trim(),
+            }));
+          });
 
-        // Build an array of { parent, href, title }
-        const raw = topLevelItems
-          .map(li => {
-            const parentLink = li.querySelector(':scope > a.rm-Sidebar-link');
-            const childLink  = li.querySelector('ul.subpages a.rm-Sidebar-link');
-            if (!childLink) return null;
-            return {
-              parent: parentLink.textContent.trim(),
-              href:   childLink.href,
-              title:  childLink.textContent.trim(),
-            };
-          })
-          .filter(Boolean);
+          if (!raw.length) throw new Error('No child pages found under Overview');
 
-        if (!raw.length) throw new Error('No child pages found for this category');
+          // dedupe just in case
+          const seen = new Set();
+          const pages = raw.filter(item => {
+            if (seen.has(item.href)) return false;
+            seen.add(item.href);
+            return true;
+          });
 
-        // dedupe by href
-        const seen = new Set();
-        const pages = raw.filter(item => {
-          if (seen.has(item.href)) return false;
-          seen.add(item.href);
-          return true;
-        });
+          // hide in-page TOC
+          const toc = document.querySelector('.content-toc');
+          if (toc) toc.style.display = 'none';
 
-        // hide any in-page TOC
-        const toc = document.querySelector('.content-toc');
-        if (toc) toc.style.display = 'none';
+          // fetch & enrich
+          const enriched = await Promise.all(
+            pages.map(item =>
+              fetch(item.href)
+                .then(r => r.text())
+                .then(html => {
+                  const doc = new DOMParser().parseFromString(html, 'text/html');
+                  const img = doc.querySelector('article img, .rm-Page-body img');
+                  const p   = doc.querySelector('article p, .rm-Page-body p');
+                  return {
+                    ...item,
+                    image:   img ? img.src : null,
+                    excerpt: p ? p.textContent.trim().slice(0,120) : '',
+                  };
+                })
+                .catch(() => ({ ...item, image: null, excerpt: '' }))
+            )
+          );
 
-        // fetch & enrich each page
-        const enriched = await Promise.all(
-          pages.map(item =>
-            fetch(item.href)
-              .then(r => r.text())
-              .then(html => {
-                const doc = new DOMParser().parseFromString(html, 'text/html');
-                const img = doc.querySelector('article img, .rm-Page-body img');
-                const p   = doc.querySelector('article p, .rm-Page-body p');
-                return {
-                  ...item,
-                  image:   img ? img.src : null,
-                  excerpt: p ? p.textContent.trim().slice(0,120) : '',
-                };
-              })
-              .catch(() => ({ ...item, image: null, excerpt: '' }))
-          )
-        );
-
-        setCards(enriched);
+          setCards(enriched);
+        }
+        else {
+          throw new Error('Not on Overview; this component only runs on the Family Overview page');
+        }
       } catch (e) {
         setError(e.message);
       } finally {
@@ -107,6 +115,7 @@ export const PageGrid = () => {
     Promise.all([timer, loader]).then(() => setLoading(false));
   }, []);
 
+  // same modal code as before…
   const handleViewClick = async (e, { href, title }) => {
     e.preventDefault();
     try {
@@ -154,10 +163,10 @@ export const PageGrid = () => {
         .page-header { display:flex; align-items:center; gap:8px; margin-bottom:12px; }
         .page-icon { font-size:1.5rem; }
         .page-title { margin:0; font-size:1.05rem; line-height:1.2; flex:1; }
-        .page-tile a.view-btn { display:block; text-align:center; padding:10px 0; background:#3b82f6; color:#fff; border-radius:6px; text-decoration:none; font-weight:500; transition:background .2s; }
-        .page-tile a.view-btn:hover { background:#2563eb; }
+        .view-btn { display:block; text-align:center; padding:10px 0; background:#3b82f6; color:#fff; border-radius:6px; text-decoration:none; font-weight:500; transition:background .2s; }
+        .view-btn:hover { background:#2563eb; }
         .page-tile img, .page-tile .placeholder { width:100%; height:200px; border-radius:4px; margin-bottom:8px; object-fit:cover; object-position:center; }
-        .page-tile .placeholder { display:flex; align-items:center; justify-content:center; background:#e2e8f0; color:#9ca3af; font-size:2rem; }
+        .placeholder { display:flex; align-items:center; justify-content:center; background:#e2e8f0; color:#9ca3af; font-size:2rem; }
         .page-tile p { flex:1; font-size:0.9rem; margin-bottom:12px; }
       `}</style>
 
@@ -174,7 +183,7 @@ export const PageGrid = () => {
               <h4 className="page-title">{l.title}</h4>
             </div>
             {l.excerpt && <p>{l.excerpt}…</p>}
-            <a href={l.href} className="view-btn" onClick={e => handleViewClick(e, l)}>
+            <a href={l.href} className="view-btn" onClick={e => handleViewClick(e,l)}>
               View
             </a>
           </div>
@@ -195,18 +204,10 @@ export const PageGrid = () => {
             <h2>{modalTitle}</h2>
             <div className="modal-body" dangerouslySetInnerHTML={{ __html: modalBody }} />
             <div style={{ marginTop:'16px', display:'flex', gap:'8px' }}>
-              <button
-                onClick={() => setModalOpen(false)}
-                style={{ padding:'8px 16px', background:'#3b82f6', color:'#fff', border:'none', borderRadius:'4px', cursor:'pointer' }}
-              >
+              <button onClick={() => setModalOpen(false)} style={{ padding:'8px 16px', background:'#3b82f6', color:'#fff', border:'none', borderRadius:'4px', cursor:'pointer' }}>
                 Close
               </button>
-              <a
-                href={modalHref}
-                target="_blank"
-                rel="noopener noreferrer"
-                style={{ padding:'8px 16px', background:'#10b981', color:'#fff', border:'none', borderRadius:'4px', textDecoration:'none', display:'inline-block' }}
-              >
+              <a href={modalHref} target="_blank" rel="noopener noreferrer" style={{ padding:'8px 16px', background:'#10b981', color:'#fff', border:'none', borderRadius:'4px', textDecoration:'none' }}>
                 View Full Page
               </a>
             </div>
