@@ -1,5 +1,6 @@
 ---
 title: Overview
+excerpt: Articles about the Gene Henry Family
 deprecated: false
 hidden: false
 metadata:
