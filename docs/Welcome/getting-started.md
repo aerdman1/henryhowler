@@ -8,11 +8,11 @@ metadata:
 ---
 <Cards columns={2} title="Families">
   <Card title="Don Henry’s" href="don-henrys-article-feed" icon="fa-user-alt">
-    Learn more about Don’s branch of the family
+    UNDER CONSTRUCTION
   </Card>
 
   <Card title="Fred Henry’s" href="fred-henrys-article-feed" icon="fa-user-circle">
-    Learn more about Fred’s branch of the family
+    UNDER CONSTRUCTION
   </Card>
 
   <Card title="Gene Henry’s" href="gene-henrys-article-feed" icon="fa-user-friends">
@@ -20,7 +20,7 @@ metadata:
   </Card>
 
   <Card title="John Henry’s" href="john-henrys-article-feed" icon="fa-users">
-    Learn more about John’s branch of the family
+    UNDER CONSTRUCTION
   </Card>
 </Cards>
 
