@@ -1,5 +1,6 @@
 ---
-title: Hamlet Inn Resident Spotlight – Mrs. Blanche Henry (1989 Hamlet Newsletter)
+title: 'Hamlet Inn Resident Spotlight – Mrs. Blanche Henry '
+excerpt: In the 1989 Hamlet Inn Newsletter
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
@@ -33,8 +34,8 @@ Our three older sons served in World War II. Fred as a B-17 bomber pilot who fle
 
 Of my 18 grandchildren, all are college graduates with many pluses. There are several teachers, 2 were Peace Corps volunteers in Africa, an engineer, 2 are lawyers, a psychologist, an architect and an Ohio State Senator as of last fall!  And there are 24 great grandchildren!
 
-What have I done? Sort of held thing together. There was much too much PTA! I was also active with our church.  My relaxation was painting at the Valley Art Center after we came to Hamlet, almost 20 years ago. My painting was given a honorary mention in a local show.
+What have I done? Sort of held things together. There was much too much PTA! I was also active with our church \{Valley Presbyterian in Bainbridge}.  My relaxation was painting at the Valley Art Center after we came to Hamlet, almost 20 years ago. My painting was given a honorary mention in a local show.
 
-After my husband’s death in 1982, I had several angina attack, one critical, which resulted in my having to move to the Manor. A serious eye problem developed so I remained there until the Inn was built. I was thankful to be able to move here and to get along with very little help but to know it is always available.
+After my husband’s death in 198I2, I had several angina attack, one critical, which resulted in my having to move to the Manor. A serious eye problem developed so I remained there until the Inn was built. I was thankful to be able to move here and to get along with very little help but to know it is always available.
 
 [April 22, 2021](/families/general-family/hamlet-inn-resident-spotlight-mrs-blanche-henry-1989-hamlet-newsletter/) [Linda](/author/admin/)
