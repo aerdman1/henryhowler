@@ -76,6 +76,10 @@ hidden: false
 
 ## Items from Gene Henry’s Service, Friday, March 26, 1999
 
+This is a copy of Gene’s eulogy that was beautifully written and delivered by Rev. Don Grauer.
+
+<Anchor label="Gene Henry Eulogy 1999 by Rev. Grauer (PDF)" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Henry-Eulogy-1999.compressed.pdf">Gene Henry Eulogy 1999 by Rev. Grauer (PDF)</Anchor>
+
 <Image align="center" className="border" border={true} width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/NewsHerad-article-Gene.jpg" />
 
 <Image align="center" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/ChagrinValleyTimes-Obit-Gene-Henry.jpg" />
@@ -85,11 +89,3 @@ hidden: false
 <Image align="center" width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/NewsHerald_Obit-GeneHenry.jpg" />
 
 <Image align="center" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/DanH-Eulogy-for-Dad.jpg" />
-
-<br />
-
-## Gene’s eulogy
-
-This is a copy of Gene’s eulogy that was beautifully written and delivered by Rev. Don Grauer.
-
-<Anchor label="Gene Henry Eulogy 1999 by Rev. Grauer (PDF)" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Henry-Eulogy-1999.compressed.pdf">Gene Henry Eulogy 1999 by Rev. Grauer (PDF)</Anchor>
