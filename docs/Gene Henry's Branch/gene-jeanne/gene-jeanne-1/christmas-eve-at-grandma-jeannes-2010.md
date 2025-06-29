@@ -1,10 +1,12 @@
 ---
 title: Christmas Eve at Grandma Jeanne’s 2010
-excerpt: It was a fun filled Christmas Eve at Mom’s house.
+excerpt: December 26, 2010 by Linda Henry
 date: '2010-12-26T05:00:00.000Z'
 deprecated: false
 hidden: false
 ---
+It was a fun filled Christmas Eve at Mom’s house. 
+
 ![122410\_4056](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/122410_4056.jpg)
 
 ![122410\_4057](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/122410_4057.jpg)
@@ -44,5 +46,3 @@ hidden: false
 ![122410\_4119](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/122410_4119.jpg)
 
 ![122410\_4124](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/122410_4124.jpg)
-
-**December 26, 2010 | Linda Henry**
