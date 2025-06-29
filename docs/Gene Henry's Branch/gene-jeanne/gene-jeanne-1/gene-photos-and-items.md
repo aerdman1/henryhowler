@@ -89,10 +89,6 @@ next:
 
 <Image align="center" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/ChagrinValleyTimes-Obit-Gene-Henry.jpg" />
 
-![](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/DanH-Eulogy-for-Dad.jpg)
+<Image align="center" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/DanH-Eulogy-for-Dad.jpg" />
 
-![Ed Hofstetter Eulogy for Gene](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Ed-Hofstetter-Eulogy-for-Gene.jpg)
-
-<Image align="center" width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/NewsHerald_Obit-GeneHenry.jpg" />
-
-
+<Image align="center" width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PD-obit-GeneHenry.jpg" />
