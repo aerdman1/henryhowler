@@ -79,9 +79,6 @@ export const BranchOverview = () => {
         }).filter(Boolean);
 
         if (!rawGroups.length) throw new Error('No second-level groups found');
-        // hide in-page TOC
-        const toc = document.querySelector('.content-toc');
-        if (toc) toc.style.display = 'none';
 
         // build initial cards (first child of each group)
         const firstChildCards = await Promise.all(
@@ -200,7 +197,9 @@ export const BranchOverview = () => {
 
   return (
     <>
+      {/* scoped CSS to hide TOC only while this component is mounted */}
       <style>{`
+        .content-toc { display: none; }
         .filters { display:flex; gap:8px; margin-bottom:16px; }
         .filters button {
           padding:6px 12px; border:none; border-radius:4px;
