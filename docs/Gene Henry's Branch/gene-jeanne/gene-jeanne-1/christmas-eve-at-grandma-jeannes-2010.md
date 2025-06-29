@@ -4,7 +4,9 @@ date: '2010-12-26T05:00:00.000Z'
 deprecated: false
 hidden: false
 ---
-test
+It was a fun filled Christmas Eve at Mom’s house.
+
+[December 26, 2010](/families/gene/christmas-eve-at-grandma-jeannes-2010/) [Linda](/author/admin/)
 
 ![122410\_4056](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/122410_4056.jpg)
 
