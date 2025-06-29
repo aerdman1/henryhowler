@@ -48,4 +48,6 @@ Note from Linda: I copied this text from an article that appeared in a newspaper
 
 Pioneer Sketches-SimonHenryPDF of newspaper clipping
 
-[April 8, 2018](/ancestors/pioneer-sketches-simon-henry/) [Linda](/author/admin/) <Anchor label="Pioneer Sketches-SimonHenry" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/Pioneer-Sketches-SimonHenry.pdf📋">Pioneer Sketches-SimonHenry</Anchor>
+[Pioneer Sketches-SimonHenry](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/Pioneer-Sketches-SimonHenry.pdf📋)
+
+[April 8, 2018](/ancestors/pioneer-sketches-simon-henry/) [Linda](/author/admin/)
