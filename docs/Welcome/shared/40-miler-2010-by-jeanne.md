@@ -23,6 +23,6 @@ hidden: false
 
 ![IMG\_1317](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_1317.jpg)
 
-Some pics of the 40 mile hike. We started the 40 miler at 4 A M.  That’s why the sunrise and dark pics.  The gated house is Lebron James’s.  The inside picture is in our cabin (Onwego) abutting Hinkley Park. Some of these folk were supporters keeping track of everyone out there hiking, and manning check stations..  A wonderful bunch they are.
+Some pics of the 40 mile hike. We started the 40 miler at 4 A M.  That’s why the sunrise and dark pics.  The gated house is Lebron James’s.  The inside picture is in our cabin (Onwego) abutting Hinkley Park. Some of these folk were supporters keeping track of everyone out there hiking, and manning check stations..  A wonderful bunch they are. -Jeanne
 
 [May 19, 2010](/families/gene/gene-jeanne/40-miler-2010-jeanne/) [Linda](/author/admin/)
