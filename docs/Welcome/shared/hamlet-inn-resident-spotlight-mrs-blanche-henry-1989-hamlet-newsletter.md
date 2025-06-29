@@ -1,22 +1,18 @@
 ---
-title: "Hamlet Inn Resident Spotlight – Mrs. Blanche Henry (1989 Hamlet Newsletter)"
+title: Hamlet Inn Resident Spotlight – Mrs. Blanche Henry (1989 Hamlet Newsletter)
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2021/04/blanche_chuck.jpg)
-
 
 Blanche & Chuck Henry wedding
 
-
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2021/04/IMG_0011-1.jpg)
- 
+
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2021/04/BlancheHawleyHenry.jpg)
 
-
+In her own words:\
 Since many of you already know, I will simply say that I am 96 ½ years old, that way you may better understand this story.
 
 I have been an Ohioan since my marriage in 1918, but I still have a strong attachment for New England where my Scotch-Irish and English ancestors were among the early colonists. I grew up in West Rupert, VT on the borderline of New York.  I was graduated from high school at Granville, N.Y., being the nearest one. I hoped to go to college so I applied for and got the job of teacher at a nearby country elementary grade school for – believe it or not – $36.00/month!
