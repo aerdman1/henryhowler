@@ -1,36 +1,12 @@
 ---
-title: "A Simplified Henry Family Tree"
+title: A Simplified Henry Family Tree
+date: '2017-01-02T05:00:00.000Z'
 deprecated: false
-date: "2017-01-02T05:00:00.000Z"
 hidden: false
 ---
+Simon Henry\
+(1766-1847) married Rhoda Parsons(1774-1854), 10 children, the 3rd child was John
 
-Frederick “Rick” Augustus,
-
-Scott Reynolds,
-
-Karen Cope “KC”,
-
-Heidi Anne,
-
-Robyn
-
-Michael Eugene
-
-George Atchison,
-
-Ellen Hawley
-
-James Fisher,
-
-Charles “Chip” Eugene,
-
-Patrick Owen,
-
-Daniel Hawley,
-
-Polly Louise
-
-Cori Grant
+<br />
 
 [January 2, 2017](/families/general-family/simplified-henry-family-tree/) [Linda](/author/admin/)
