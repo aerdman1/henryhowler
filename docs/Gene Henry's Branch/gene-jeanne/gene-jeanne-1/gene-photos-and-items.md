@@ -99,4 +99,4 @@ This is a copy of Gene’s eulogy that was beautifully written and delivered by 
 
 Gene Henry Eulogy 1999 by Rev. Grauer PDF
 
-[February 26, 2017](/families/gene/gene-jeanne-photos/) [Linda](/author/admin/) [Gene Henry Eulogy 1999 by Rev. Grauer PDF](/families/gene/gene-jeanne-photos/attachment/gene-henry-eulogy-1999-compressed/)
+[February 26, 2017](/families/gene/gene-jeanne-photos/) [Linda](/author/admin/) <Anchor label="Gene Henry Eulogy 1999 by Rev. Grauer PDF" target="_blank" href="uploads/2017/02/Gene-Henry-Eulogy-1999.compressed.pdf">Gene Henry Eulogy 1999 by Rev. Grauer PDF</Anchor>
