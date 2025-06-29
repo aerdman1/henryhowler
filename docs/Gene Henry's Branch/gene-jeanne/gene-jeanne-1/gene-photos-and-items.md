@@ -3,11 +3,6 @@ title: Gene Photos and Items
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
-next:
-  pages:
-    - title: PDF Rev. Grauer Eulogy
-      type: link
-      url: uploads/2017/02/Gene-Henry-Eulogy-1999.compressed.pdf
 ---
 <Image align="center" alt="Gene and Don" border={false} caption="Gene and brother Don" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/gene_don.jpg" />
 
