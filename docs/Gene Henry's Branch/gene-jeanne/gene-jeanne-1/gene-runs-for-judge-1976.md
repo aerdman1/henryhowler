@@ -5,11 +5,9 @@ date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
-Chagrin Valley Times Endorses Veit PDF
+[Chagrin Valley Times Endorses Veit PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F02%2FCVT-endorsesVeit.compressed.pdf)
 
-Gene for Judge1976 PDF
-
-[February 3, 2017](/families/gene/gene-jeanne/gene-runs-for-judge-1976/) [Linda](/author/admin/) [Chagrin Valley Times Endorses Veit PDF](/families/gene/gene-jeanne/gene-runs-for-judge-1976/attachment/cvt-endorsesveit-compressed/) [Gene for Judge1976 PDF](/families/gene/gene-jeanne/gene-runs-for-judge-1976/attachment/gene-for-judge1978-compressed/)
+[Gene for Judge - 1976 PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F02%2FGene-for-Judge1978.compressed.pdf)
 
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-for-Judge-buttons-1978-e1486169876868.jpg)
 
