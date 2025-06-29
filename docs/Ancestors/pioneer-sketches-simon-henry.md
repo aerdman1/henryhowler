@@ -20,7 +20,7 @@ hidden: false
 
 Pioneer Sketches – Bainbridge
 
-Taken from the Geauga Republican, dated Wed., June 17, 1903, pg 8
+*Taken from the Geauga Republican, dated Wed., June 17, 1903, pg 8*
 
 It will be of interest to many of your readers to learn something of the history of Simon Henry, who was one of the early pioneers of Geauga County, and whose grandsons, Nelson C. Henry, King W. Henry, and Capt. Charles E. Henry, now residing on various parts of the original farm in Bainbridge, still preserve, in their several lines, the family name.
 
@@ -44,7 +44,7 @@ Their children were:
 
 Rhoda Parsons Henry, the mother of this family, as born in Enfield, Ct., Mar. 13, 1774, and died in Bainbridge, June 15, 1847, aged 73 years.  Simon Henry, her husband was for many years, a justice of the peace in Bainbridge, and died there June 26, 1854, aged 87 years.  Both are buried in the old southeast burying ground.  Such is the life history of a couple who lived for many years in each of three States, and were pioneers in both Western Massachusetts and Northeastern Ohio.
 
-*Note from Linda: I copied this text from an article that appeared in a newspaper clipping from 1976. It’s probably the Geauga Times Leader or the Garrettsville Villager.  No clue which. I added the numbers to the children of Simon and Rhoda to make it easier to understand.*
+\_Note from Linda: I copied this text from an article that appeared in a newspaper clipping from 1976. It’s probably the Geauga Times Leader or the Garrettsville Villager.  No clue which.
 
 <Anchor label="Pioneer Sketches-SimonHenry PDF of newspaper clipping" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2018%2F04%2FPioneer-Sketches-SimonHenry.pdf">Pioneer Sketches-SimonHenry PDF of newspaper clipping</Anchor>
 
