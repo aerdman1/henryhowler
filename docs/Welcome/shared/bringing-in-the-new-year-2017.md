@@ -8,4 +8,4 @@ hidden: false
 [January 13, 2017](/families/general-family/bringing-new-year-2017/)\
 [Dan Henry](/author/uncle-dan/)
 
-[https://youtu.be/Jowgme8j9fM](https://youtu.be/Jowgme8j9fM)
+<Anchor label="https://youtu.be/Jowgme8j9fM" target="_blank" href="https://youtu.be/Jowgme8j9fM">[https://youtu.be/Jowgme8j9fM](https://youtu.be/Jowgme8j9fM)</Anchor>
