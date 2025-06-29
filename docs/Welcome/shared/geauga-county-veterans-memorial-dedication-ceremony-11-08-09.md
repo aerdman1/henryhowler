@@ -10,9 +10,7 @@ hidden: false
 
 ![veterans-memorial2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/veterans-memorial2.jpg)
 
-Chip and I attended the Geauga County Veterans Memorial dedication ceremony.  It was a gorgeous day and a moving service.  The memorial is really beautifully done. It is located at on Ravenwood Drive in Claridon, Twp, just across from Geauga Hospital.  All Geauga County veterans from all wars who served from the War of Independence thru current veterans will be listed on the walls.  They have a website if you would like to check it out <Anchor label="GeaugaVets.com" target="_blank" href="https://geaugavets.com/">GeaugaVets.com</Anchor>
-
-If you go to the website there is a list of Vets whose names will be on plaques (not done yet). The following Henry’s will be there. Linda
+Chip and I attended the Geauga County Veterans Memorial dedication ceremony.  It was a gorgeous day and a moving service.  The memorial is really beautifully done. It is located at on Ravenwood Drive in Claridon, Twp, just across from Geauga Hospital.  All Geauga County veterans from all wars who served from the War of Independence thru current veterans will be listed on the walls. The following Henry’s will be there.
 
 William – War 1812 to Mexican War
 
