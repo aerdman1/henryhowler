@@ -162,6 +162,31 @@ export const BranchOverview = () => {
     }
   }, [selected, allGroups, initialCards]);
 
+    // — new effect: force full reload on any 2nd-level nav click when on /docs —
+  useEffect(() => {
+    if (typeof document === 'undefined') return;
+    const segments = window.location.pathname.split('/').filter(Boolean);
+    // only on the top‐level /docs page
+    if (!(segments[0] === 'docs' && segments.length === 1)) return;
+
+    const sidebar = document.querySelector('.rm-Sidebar');
+    if (!sidebar) return;
+
+    const handler = e => {
+      const a = e.target.closest('a.rm-Sidebar-link');
+      if (!a) return;
+      // if it’s inside a <ul class="subpages">, it’s a 2nd‐level link
+      if (a.closest('ul')?.classList.contains('subpages')) {
+        e.preventDefault();
+        window.location.href = a.href;
+      }
+    };
+
+    sidebar.addEventListener('click', handler);
+    return () => sidebar.removeEventListener('click', handler);
+  }, []);
+
+
   const handleViewClick = async (e, c) => {
     e.preventDefault();
     try {
