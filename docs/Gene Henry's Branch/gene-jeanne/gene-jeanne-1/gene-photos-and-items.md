@@ -82,6 +82,8 @@ hidden: false
 
 <Image align="center" width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PD-obit-GeneHenry.jpg" />
 
-![Ed Hofstetter Eulogy for Gene](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/NewsHerald_Obit-GeneHenry.jpg)
+<Image align="center" width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PD-obit-GeneHenry.jpg" />
+
+<Image align="center" width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/NewsHerald_Obit-GeneHenry.jpg" />
 
 <Image align="center" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/DanH-Eulogy-for-Dad.jpg" />
