@@ -18,4 +18,4 @@ Happy Thanksgiving! Grace Henry
 
 Here is a copy of the manuscript in PDF form
 
-[November 21, 2017](/families/general-family/bainbridge-township-bicentennial-1817-2017/) [Linda](/author/admin/) [Here is a copy of the manuscript in PDF form](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/11/The-Story-of-the-.compressed.pdf)
+[November 21, 2017](/families/general-family/bainbridge-township-bicentennial-1817-2017/) [Linda](/author/admin/) <Anchor label="Here is a copy of the manuscript in PDF form" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/11/The-Story-of-the-.compressed.pdf">Here is a copy of the manuscript in PDF form</Anchor>
