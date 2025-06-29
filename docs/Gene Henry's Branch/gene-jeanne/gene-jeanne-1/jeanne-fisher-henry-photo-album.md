@@ -1,5 +1,6 @@
 ---
 title: Jeanne Fisher Henry Photo Album
+excerpt: February 3, 2017 by Linda Henry
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
@@ -181,7 +182,3 @@ Scanned from Mom’s family photo album.  She sat with me and together we came 
 ![Bobby & Jim Steinmetz with Harold and Dorothy. Reception in the Overlook house](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0052.jpg)
 
 ![This is probably Jim & Bobby's wedding reception on the porch at the Overlook Rd. house.](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0049-1-1.jpg)
-
-<br />
-
-[February 3, 2017](/families/gene/gene-jeanne/jeanne-fisher-henry-photo-album/) [Linda](/author/admin/)
