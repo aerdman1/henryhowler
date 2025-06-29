@@ -17,8 +17,7 @@ We also took a ferry to a island called Roatan and stayed a couple days and enjo
 
 We were gone only about 10 days but got to see and do a lot and managed to fall in love with the country, the people but most of all the kids at Kim’s project.  Kim herself came home in September but is already planning and plotting how to return.  I also want to return with more sewing machines to extend what we started but after becoming sick with  Dengue Fever that I contracted there I am not so sure.  We’ll see.
 
-[September 30, 2010](/families/gene/chip/mom-linda-visit-honduras-august-2010/) [Linda](/author/admin/) [Las Sonrisa’s](http://www.lasonrisa.info/)CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/vitamin-time.jpg)
-
+[September 30, 2010](/families/gene/chip/mom-linda-visit-honduras-august-2010/) [Linda](/author/admin/) [Las Sonrisa’s](http://www.lasonrisa.info/)
 
 ![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/123101_0013.jpg)
 
@@ -148,10 +147,10 @@ We were gone only about 10 days but got to see and do a lot and managed to fall 
 
 ![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/grebin-grandma.jpg)
 
-![IMG_1542](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_1542.jpg)
+![IMG\_1542](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_1542.jpg)\
 ![IMG\_1542](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_1542.jpg)
 
-![IMG_1641](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_1641.jpg)
+![IMG\_1641](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_1641.jpg)\
 ![IMG\_1641](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_1641.jpg)
 
 ![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/julia-smile.jpg)
@@ -165,5 +164,3 @@ We were gone only about 10 days but got to see and do a lot and managed to fall 
 ![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/spelling-class.jpg)
 
 ![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/vitamin-time.jpg)
-
-
