@@ -14,4 +14,10 @@ I have captured just three of the dozens of newspaper accounts that were written
 
 <br />
 
-[April 16, 2022](/families/general-family/cold-day-for-embezzlers-an-adventure-in-brazil-for-capt-henry/) [Linda](/author/admin/) <Anchor label="A Romance in Crime Akron Democrat 15Apr1893" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2022%2F04%2FA-Romance-in-Crime-Akron-Democrat-15Apr1893.pdf">A Romance in Crime Akron Democrat 15Apr1893</Anchor> <Anchor label="Cold Day for Embezzlers_Harrisburg Independent_3-APR-1893" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2022%2F04%2FCold-Day-for-Embezzlers_Harrisburg-Independent_3-APR-1893.pdf">Cold Day for Embezzlers\_Harrisburg Independent\_3-APR-1893</Anchor> <Anchor label="With Two Embezzlers _Raleigh NC 4APR1893" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2022%2F04%2FWith-Two-Embezzlers-_Raleigh-NC-4APR1893.pdf">With Two Embezzlers \_Raleigh NC 4APR1893</Anchor>
+[April 16, 2022](/families/general-family/cold-day-for-embezzlers-an-adventure-in-brazil-for-capt-henry/) [Linda](/author/admin/)
+
+<Anchor label="A Romance in Crime Akron Democrat 15Apr1893" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2022%2F04%2FA-Romance-in-Crime-Akron-Democrat-15Apr1893.pdf">A Romance in Crime Akron Democrat 15Apr1893</Anchor>
+
+<Anchor label="Cold Day for Embezzlers_Harrisburg Independent_3-APR-1893" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2022%2F04%2FCold-Day-for-Embezzlers_Harrisburg-Independent_3-APR-1893.pdf">Cold Day for Embezzlers\_Harrisburg Independent\_3-APR-1893</Anchor>
+
+<Anchor label="With Two Embezzlers _Raleigh NC 4APR1893" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2022%2F04%2FWith-Two-Embezzlers-_Raleigh-NC-4APR1893.pdf">With Two Embezzlers \_Raleigh NC 4APR1893</Anchor>
