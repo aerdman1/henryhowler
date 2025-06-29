@@ -78,7 +78,7 @@ hidden: false
 
 This is a copy of Gene’s eulogy that was beautifully written and delivered by Rev. Don Grauer.
 
-<Anchor label="Gene Henry Eulogy 1999 by Rev. Grauer (PDF)" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Henry-Eulogy-1999.compressed.pdf">Gene Henry Eulogy 1999 by Rev. Grauer (PDF)</Anchor>
+<Anchor label="Gene Henry Eulogy 1999 by Rev. Grauer" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Henry-Eulogy-1999.compressed.pdf">Gene Henry Eulogy 1999 by Rev. Grauer</Anchor>
 
 <br />
 
