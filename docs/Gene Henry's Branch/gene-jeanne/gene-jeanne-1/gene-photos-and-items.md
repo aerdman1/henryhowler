@@ -89,17 +89,18 @@ next:
 
 ![ChagrinValleyTimes Obit-Gene Henry](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/ChagrinValleyTimes-Obit-Gene-Henry.jpg)
 
-!\
 <Anchor label="DanH Eulogy for Dad" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/DanH-Eulogy-for-Dad.jpg">DanH Eulogy for Dad</Anchor>
 
 ![Ed Hofstetter Eulogy for Gene](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Ed-Hofstetter-Eulogy-for-Gene.jpg)
 
 <Image align="center" width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/NewsHerald_Obit-GeneHenry.jpg" />
 
-![PD-obit-GeneHenry](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PD-obit-GeneHenry.jpg)
+<Image
+  align="center"
+  alt="PD-obit-GeneHenry"
+  border={false}
+  caption="This is a copy of Gene’s eulogy that was beautifully written and delivered by Rev. Don Grauer.
 
-<br />
-
-This is a copy of Gene’s eulogy that was beautifully written and delivered by Rev. Don Grauer.
-
-[Gene Henry Eulogy 1999 by Rev. Grauer PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F02%2FGene-Henry-Eulogy-1999.compressed.pdf)
+[Gene Henry Eulogy 1999 by Rev. Grauer PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F02%2FGene-Henry-Eulogy-1999.compressed.pdf)"
+  src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PD-obit-GeneHenry.jpg"
+/>
