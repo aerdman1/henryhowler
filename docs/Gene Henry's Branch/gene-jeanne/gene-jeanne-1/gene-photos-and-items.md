@@ -86,4 +86,6 @@ hidden: false
 
 <Image align="center" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/DanH-Eulogy-for-Dad.jpg" />
 
-https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Henry-Eulogy-1999.compressed.pdf
+[https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Henry-Eulogy-1999.compressed.pdf](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Henry-Eulogy-1999.compressed.pdf)
+
+<Embed typeOfEmbed="pdf" url="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Henry-Eulogy-1999.compressed.pdf" html="%3Ciframe%20src%3D%22https%3A%2F%2Fdrive.google.com%2Fviewerng%2Fviewer%3Furl%3Dhttps%253A%2F%2Fhenry-howler.s3.us-east-2.amazonaws.com%2Fuploads%2F2017%2F02%2FGene-Henry-Eulogy-1999.compressed.pdf%26embedded%3Dtrue%22%20width%3D%22600%22%20height%3D%22780%22%20style%3D%22border%3A%20none%3B%22%3E%3C%2Fiframe%3E" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Henry-Eulogy-1999.compressed.pdf" providerUrl="https://henry-howler.s3.us-east-2.amazonaws.com" providerName="Henry-howler" />
