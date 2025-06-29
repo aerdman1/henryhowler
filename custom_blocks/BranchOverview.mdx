@@ -4,12 +4,6 @@ name: BranchOverview
 import React, { useState, useEffect } from 'react';
 
 export const BranchOverview = () => {
-  // only render this component on URLs containing "article-feed"
-  const isArticleFeed =
-    typeof window !== 'undefined' &&
-    window.location.href.includes('article-feed');
-  if (!isArticleFeed) return null;
-
   const [allGroups, setAllGroups]       = useState([]);   // full grouping data
   const [initialCards, setInitialCards] = useState([]);   // one‐card‐per‐group snapshot
   const [cards, setCards]               = useState([]);   // what we actually render
