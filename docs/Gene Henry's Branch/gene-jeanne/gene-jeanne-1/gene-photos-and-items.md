@@ -80,6 +80,10 @@ This is a copy of Gene’s eulogy that was beautifully written and delivered by 
 
 <Anchor label="Gene Henry Eulogy 1999 by Rev. Grauer (PDF)" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Henry-Eulogy-1999.compressed.pdf">Gene Henry Eulogy 1999 by Rev. Grauer (PDF)</Anchor>
 
+***
+
+<br />
+
 <Image align="center" className="border" border={true} width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/NewsHerad-article-Gene.jpg" />
 
 <Image align="center" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/ChagrinValleyTimes-Obit-Gene-Henry.jpg" />
