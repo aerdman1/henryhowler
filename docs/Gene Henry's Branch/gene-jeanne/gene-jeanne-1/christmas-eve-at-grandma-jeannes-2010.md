@@ -7,8 +7,6 @@ hidden: false
 ---
 It was a fun filled Christmas Eve at Mom’s house.
 
-***
-
 <br />
 
 ![122410\_4056](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/122410_4056.jpg)
