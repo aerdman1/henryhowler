@@ -12,10 +12,14 @@ The arrival of Baby Esther Hawley Anderson has sparked an interesting discussion
 
 It got me wondering who all has Hawley as part of their name.  From the flying e-mails I have surmised the following list:
 
-Esther Hawley Anderson\
+Esther Hawley Anderson
+
 Fredrick Hawley Henry (Uncle Fred)
+
 Dan Hawley Henry
+
 Ellen Hawley Henry Morrison
+
 Honorary member of this club should be Holly Blanche Henry!
 
 Who have I missed?  Anybody else out there? Let me know…..
