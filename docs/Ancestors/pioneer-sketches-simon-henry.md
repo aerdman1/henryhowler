@@ -1,25 +1,22 @@
 ---
-title: "Pioneer Sketches – Simon Henry"
+title: Pioneer Sketches – Simon Henry
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![Mary Henry French](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/Mary-Henry-French.jpg)
- 
-![Rhoda Henry Root](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/Rhoda-Henry-Root.jpg)
- 
-![Simon Henry Portrait](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/Simon-Henry-Portrait.jpg)
- 
-![SimonHchildren](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/SimonHchildren.jpg)
- 
-![Simon Henry tombstone at Fowler Cemetery in Bainbridge, OH](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/simon_henry_headstone.jpg)
- 
-![Rhoda Henry tombstone at Fowler Cemetery in Bainbridge, OH](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/rhoda_henry_headstone.jpg)
- 
-![The Henry's at Fowler Cemetery in Bainbridge, OH](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/simon-rhoda_headstones.jpg)
 
+![Rhoda Henry Root](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/Rhoda-Henry-Root.jpg)
+
+![Simon Henry Portrait](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/Simon-Henry-Portrait.jpg)
+
+![SimonHchildren](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/SimonHchildren.jpg)
+
+![Simon Henry tombstone at Fowler Cemetery in Bainbridge, OH](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/simon_henry_headstone.jpg)
+
+![Rhoda Henry tombstone at Fowler Cemetery in Bainbridge, OH](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/rhoda_henry_headstone.jpg)
+
+![The Henry's at Fowler Cemetery in Bainbridge, OH](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/simon-rhoda_headstones.jpg)
 
 Pioneer Sketches – Bainbridge
 
@@ -51,4 +48,4 @@ Note from Linda: I copied this text from an article that appeared in a newspaper
 
 Pioneer Sketches-SimonHenryPDF of newspaper clipping
 
-[April 8, 2018](/ancestors/pioneer-sketches-simon-henry/) [Linda](/author/admin/) [Pioneer Sketches-SimonHenry](/ancestors/pioneer-sketches-simon-henry/attachment/pioneer-sketches-simonhenry/)
+[April 8, 2018](/ancestors/pioneer-sketches-simon-henry/) [Linda](/author/admin/) <Anchor label="Pioneer Sketches-SimonHenry" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/Pioneer-Sketches-SimonHenry.pdf📋">Pioneer Sketches-SimonHenry</Anchor>
