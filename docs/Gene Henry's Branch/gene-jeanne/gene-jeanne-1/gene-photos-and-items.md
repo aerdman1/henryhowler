@@ -30,7 +30,7 @@ hidden: false
 
 <Image align="center" alt="Gene and baby Dodie" border={false} caption="Gene and baby Dodie 1955" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0001-1.jpg" />
 
-<Image align="center" alt="The Gene's circa 1970" border={false} caption="The Gene's circa 1970. Standing: Daniel, Chip, Dodie, Jim, Patrick. Sitting: Gene holding Polly and Jeanne." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Henry-family-circa-1968.jpg" />
+<Image align="center" alt="The Gene's circa 1970" border={false} caption="The Gene's circa 1970. Standing: Dan, Chip, Dodie, Jim, Patrick. Sitting: Gene holding Polly and Jeanne." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Henry-family-circa-1968.jpg" />
 
 <Image align="center" alt="With John and Barb on a canoe trip" border={false} caption="With Barb and John Henry on a canoe trip on the Upper Cuyahoga River." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0029-2.jpg" />
 
