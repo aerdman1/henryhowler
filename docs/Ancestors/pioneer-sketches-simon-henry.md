@@ -46,8 +46,6 @@ Rhoda Parsons Henry, the mother of this family, as born in Enfield, Ct., Mar. 13
 
 Note from Linda: I copied this text from an article that appeared in a newspaper clipping from 1976. It’s probably the Geauga Times Leader or the Garrettsville Villager.  No clue which. I added the numbers to the children of Simon and Rhoda to make it easier to understand.
 
-Pioneer Sketches-SimonHenryPDF of newspaper clipping
-
-[Pioneer Sketches-SimonHenry](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/Pioneer-Sketches-SimonHenry.pdf📋)
+<Anchor label="Pioneer Sketches-SimonHenry PDF of newspaper clipping" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2018%2F04%2FPioneer-Sketches-SimonHenry.pdf">Pioneer Sketches-SimonHenry PDF of newspaper clipping</Anchor>
 
 [April 8, 2018](/ancestors/pioneer-sketches-simon-henry/) [Linda](/author/admin/)
