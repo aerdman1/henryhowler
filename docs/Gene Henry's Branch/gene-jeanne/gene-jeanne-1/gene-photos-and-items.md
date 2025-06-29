@@ -3,6 +3,11 @@ title: Gene Photos and Items
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
+next:
+  pages:
+    - title: PDF Rev. Grauer Eulogy
+      type: link
+      url: uploads/2017/02/Gene-Henry-Eulogy-1999.compressed.pdf
 ---
 <Image align="center" alt="Gene and Don" border={false} caption="Gene and brother Don" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/gene_don.jpg" />
 
@@ -97,6 +102,4 @@ hidden: false
 
 This is a copy of Gene’s eulogy that was beautifully written and delivered by Rev. Don Grauer.
 
-Gene Henry Eulogy 1999 by Rev. Grauer PDF
-
-[February 26, 2017](/families/gene/gene-jeanne-photos/) [Linda](/author/admin/) <Anchor label="Gene Henry Eulogy 1999 by Rev. Grauer PDF" target="_blank" href="uploads/2017/02/Gene-Henry-Eulogy-1999.compressed.pdf">Gene Henry Eulogy 1999 by Rev. Grauer PDF</Anchor>
+[Gene Henry Eulogy 1999 by Rev. Grauer PDF]()
