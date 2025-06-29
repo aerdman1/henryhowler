@@ -79,20 +79,14 @@ next:
 
 <Image align="center" alt="Holding baby Kim, summer 1988" border={false} caption="With baby Kimberly Henry, 1988" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Kim1988.jpg" width="400px" />
 
-<br />
-
 ## Items from Gene Henry’s Service, Friday, March 26, 1999
 
 <Image align="center" className="border" border={true} width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/NewsHerad-article-Gene.jpg" />
 
-<br />
-
 <Image align="center" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/ChagrinValleyTimes-Obit-Gene-Henry.jpg" />
-
-<Image align="center" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/DanH-Eulogy-for-Dad.jpg" />
 
 <Image align="center" width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PD-obit-GeneHenry.jpg" />
 
-<br />
-
 ![Ed Hofstetter Eulogy for Gene](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/NewsHerald_Obit-GeneHenry.jpg)
+
+<Image align="center" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/DanH-Eulogy-for-Dad.jpg" />
