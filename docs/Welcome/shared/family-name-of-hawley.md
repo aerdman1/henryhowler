@@ -4,11 +4,17 @@ date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
-![Blanche Hawley Henry](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2015/10/BlancheHawleyHenry-e1445906741492.jpg)
+<Image
+  align="center"
+  alt="Blanche Hawley Henry"
+  border={false}
+  caption="Blanche Hawley Henry – “GG”
 
-Blanche Hawley Henry – “GG”
+The arrival of Baby Esther Hawle"
+  src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2015/10/BlancheHawleyHenry-e1445906741492.jpg"
+/>
 
-The arrival of Baby Esther Hawley Anderson has sparked an interesting discussion of the family name Hawley.  For anyone that might not know this tidbit of family lore, Hawley was Grandma Blanche Henry’s maiden name.
+y Anderson has sparked an interesting discussion of the family name Hawley.  For anyone that might not know this tidbit of family lore, Hawley was Grandma Blanche Henry’s maiden name.
 
 It got me wondering who all has Hawley as part of their name.  From the flying e-mails I have surmised the following list:
 
