@@ -4,19 +4,19 @@ date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
-<Image align="center" alt="Gene and Don" border={false} caption="Andrew Test Caption" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/gene_don.jpg" />
+<Image align="center" alt="Gene and Don" border={false} caption="Gene and brother Don" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/gene_don.jpg" />
 
-![Gene and Don](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Don-03-1.jpg)
+<Image align="center" alt="Gene and Don" border={false} caption="Gene and Don" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Don-03-1.jpg" />
 
-![Blanche with her boys about 1927. Gene is on her lap.](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/John_Fred_Blanche_Gene-2.jpg)
+<Image align="center" alt="Blanche with her boys about 1927. Gene is on her lap." border={false} caption="Mother Blanche Henry with Fred, John and Gene on her lap. About 1927." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/John_Fred_Blanche_Gene-2.jpg" />
 
-![Gene and Fred with little brother Don](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0024-1.jpg)
+<Image align="center" alt="Gene and Fred with little brother Don" border={false} caption="Gene, Fred with little brother Don." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0024-1.jpg" />
 
-![Gene on the right, not sure who the friend in the overalls is.](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-and-friend.jpg)
+<Image align="center" alt="Gene on the right, not sure who the friend in the overalls is." border={false} caption="Gene on the right, not sure who the friend in the overalls is." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-and-friend.jpg" />
 
-![Happy groom Gene](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/gene.jpg)
+<Image align="center" alt="Happy groom Gene" border={false} caption="Gene at his wedding to Jeanne Fisher." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/gene.jpg" />
 
-![Dad and his Plymouth](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/gene-plymouth.jpg)
+<Image align="center" alt="Dad and his Plymouth" border={false} caption="Gene and the (new to us) Plymouth" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/gene-plymouth.jpg" />
 
 <Image align="center" alt="Dad and 2 month old Dodie" border={false} caption="Gene and daughter Dodie, 2 months old, April, 1955" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/dodie-2mos.jpg" />
 
