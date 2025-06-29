@@ -4,9 +4,9 @@ date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Chips_Program.png)
+<Image align="center" className="border" border={true} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Chips_Program.png" />
 
-This is a poem from the program for Chip’s funeral service.  A small version was also made that was given out at the Burr Funeral Home during visitation hours.  ServiceCard PDF
+This is a poem from the program for Chip’s funeral service.  A small version was also made that was given out at the Burr Funeral Home during visitation hours.  <Anchor label="ServiceCard PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F01%2FServiceCard.pdf">ServiceCard PDF</Anchor>
 
 Chip we miss you… Your whole family clan. Some how we will manage, The best that we can.
 
