@@ -95,12 +95,4 @@ next:
 
 <Image align="center" width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/NewsHerald_Obit-GeneHenry.jpg" />
 
-<Image
-  align="center"
-  alt="PD-obit-GeneHenry"
-  border={false}
-  caption="This is a copy of Gene’s eulogy that was beautifully written and delivered by Rev. Don Grauer.
 
-[Gene Henry Eulogy 1999 by Rev. Grauer PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F02%2FGene-Henry-Eulogy-1999.compressed.pdf)"
-  src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PD-obit-GeneHenry.jpg"
-/>
