@@ -18,4 +18,4 @@ Thanks Gramma Janet.
 
 Liz
 
-[November 20, 2010](/families/fred-henry/yes-beat-goes/) [Linda](/author/admin/)
+November 20, 2010 Linda
