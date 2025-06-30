@@ -14,11 +14,15 @@ You heard ‘im folks! The contest is on! Send your entries to Ross at the above
 
 **May 17** – Ross has carefully tallied the votes for the “Animals in Winter” theme. Here are your winners! Congratulations everyone, especially Robyn Westlake., she took 2 categories. I guess you just can’t beat Kotzebue for “animals in winter”.
 
-**Wild animal: picture 13 by Liz Martin\
+\*\*Wild animal: picture 13 by Liz Martin
+
 Domestic: picture 15 by Robyn Westlake
+
 Creative: picture 8 by Linda Henry
+
 Difficulty: picture 16 by Ross Henry
-Amusing: picture 17 by Robyn Westlake, a close one with picture 1 by Polly Henry**.\*\*
+
+Amusing: picture 17 by Robyn Westlake, a close one with picture 1 by Polly Henry\*\*.\*\*
 
 CONGRATULATIONS to all the winners. Thanks to everyone that entered a photo and to everyone that voted. Photo contests are a fun excuse to get us out there with our camera’s. I hope everyone enjoyed the process and that someone will come up with another theme for our next competition soon.
 
