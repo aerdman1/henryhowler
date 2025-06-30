@@ -12,4 +12,4 @@ Makes 4 quarts 1 cup brown sugar 1/2 cup butter (one stick) 1/4 cup white corn s
 
 Put popped corn in a large paper bag (I use  clean grocery bag) and pour syrup over popcorn.  Close and shake. Place bag in microwave, and microwave on high 1 1/2 munutes. Shake. Microwave on high 30 seconds. Shake. Repeat the 30 second “mic and shake” twice more. (Shake carefully, syrup gets very hot and burns easily). Spread on cookie sheet to cool and dry.  Store in tight covered container.
 
-[January 15, 2010](/families/gene/gene-jeanne/microwave-caramel-corn/) [Linda](/author/admin/) <Anchor label="Microwave Caramel Corn PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F01%2FMicrowave-Caramel-Corn.pdfcip">Microwave Caramel Corn PDF</Anchor>
+[January 15, 2010](/families/gene/gene-jeanne/microwave-caramel-corn/) [Linda](/author/admin/) <Anchor label="Microwave Caramel Corn PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F01%2FMicrowave-Caramel-Corn.pdf">Microwave Caramel Corn PDF</Anchor>
