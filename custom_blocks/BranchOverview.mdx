@@ -35,7 +35,7 @@ export const BranchOverview = () => {
   // Initial load: build groups and first‐child cards
   useEffect(() => {
     if (typeof document === 'undefined') return;
-    const wait = new Promise(r => setTimeout(r, 1500));
+    const wait = new Promise(r => setTimeout(r, 1000));
     const load = new Promise(async resolve => {
       try {
         const nav = document.querySelector('.rm-Sidebar');
@@ -44,11 +44,8 @@ export const BranchOverview = () => {
         const active = nav.querySelector(
           'a.rm-Sidebar-link[aria-current="page"], a.rm-Sidebar-link.active'
         );
-        if (!active || !/article-feed/i.test(active.href))
-          throw new Error('Not on Article Feed page');
 
         const section = active.closest('section.rm-Sidebar-section');
-        if (!section) throw new Error('Category section not found');
 
         // first‐level siblings except the feed itself
         const firstLevel = Array.from(
