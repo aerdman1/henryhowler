@@ -10,7 +10,7 @@ Back in the day, before the World Wide Web, Dan Henry had an idea.  He wanted a
 
 <Anchor label="1991-January" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F01%2F1991-1-1.pdf">1991-January</Anchor>
 
-1<Anchor label="1991- February" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F01%2F1991-2.pdf">1991- February</Anchor>
+**<Anchor label="1991- February" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F01%2F1991-2.pdf">1991- February</Anchor>**
 
 1991-March
 
