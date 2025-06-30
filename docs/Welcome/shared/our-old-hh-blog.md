@@ -4,7 +4,7 @@ date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
-There was lots of activity on our old Henry Howler Blog, I just couldn’t let it fade away so here are some of the old posts.
+There was lots of activity on our old Henry Howler Blog, I just couldn’t let it fade away so here are some of the old posts. Read at your own risk...
 
 <Anchor label="Feb. 13 – you-are-getting-preview-of-latest-john" target="_blank" href="http://www.henryhowler.com/wp-content/uploads/2017/02/you-are-getting-preview-of-latest-john.html">Feb. 13 – you-are-getting-preview-of-latest-john</Anchor>
 
