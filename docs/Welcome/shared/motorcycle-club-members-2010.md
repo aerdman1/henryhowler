@@ -6,8 +6,6 @@ hidden: false
 ---
 There are lots of bikes in this family and I would eventually like to get a photo and bike stats from everybody.  It is not necessary to actually own a bike to be a Henry Motorcycle Club Member.  Here the members and their bikes that I have so far:
 
-Some additional family motorcycle pics
-
 <Image align="center" alt="Adam Henry - Okay, this photo was taken when Adam was about 12 years old riding in the mountains in Idaho and having a great time. He has plans to get a bike ASAP." border={false} caption="Adam" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/adam-idaho-1.jpg" />
 
 <Image align="center" alt="Andy Bergman" border={false} caption="Andy" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/andy_bike-1.jpg" />
@@ -80,8 +78,6 @@ Some additional motorcycle pics.
 
 ![todd-bike1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/todd-bike1.jpg)
 
-There are lots of bikes in this family and I would eventually like to get a photo and bike stats from everybody.  It is not necessary to actually own a bike to be a Henry Motorcycle Club Member.  Here the members and their bikes that I have so far:
-
-Some additional family motorcycle pics
+<br />
 
 [December 17, 2010](/families/general-family/motorcycle-club-members-2010/) [Linda](/author/admin/)
