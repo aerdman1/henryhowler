@@ -11,7 +11,7 @@ First Place :“Reflecting on Cap’t Henry of Geauga”\*\* by Chip Henry
 
 Chip
 
-![02-Ellen\_ed](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/02-Ellen_ed.jpg)
+<Image align="center" alt="02-Ellen_ed" border={false} caption="Ellen" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/02-Ellen_ed.jpg" />
 
 ![Polly](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/03-Polly.jpg)
 
