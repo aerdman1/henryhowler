@@ -6,15 +6,15 @@ hidden: false
 ---
 Here are photos and items from an album that belonged to Blanche and Chuck. Please add any that you may have.  Thanks.
 
-![“Wedding of Blanche Moore Hawley and Lieut. Charles A. Henry at Hiram Ohio, June 1918 in Marcia Henry’s garden”](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/blance-chuck-wedding.jpg)
+<Image align="center" alt="“Wedding of Blanche Moore Hawley and Lieut. Charles A. Henry at Hiram Ohio, June 1918 in Marcia Henry’s garden”" border={false} caption="“Wedding of Blanche Moore Hawley and Lieut. Charles A. Henry at Hiram Ohio, June 1918 in Marcia Henry’s garden”" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/blance-chuck-wedding.jpg" />
 
-![Blanche with Baby ?](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Blanche-and.jpg)
+<Image align="center" alt="Blanche with Baby ?" border={false} caption="Blanche with which baby?" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Blanche-and.jpg" />
 
-![Four-Generations-1925](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Four-Generations-1925-1.jpg)
+<Image align="center" alt="Four-Generations-1925" border={false} caption="Four generations of Henry's." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Four-Generations-1925-1.jpg" />
 
-![ChuckHenryandfarmer (1)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/ChuckHenryandfarmer-1.jpg)
+<Image align="center" alt="ChuckHenryandfarmer (1)" border={false} caption="Chuck Henry and unknown farmer." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/ChuckHenryandfarmer-1.jpg" />
 
-![John\_Fred\_Blanche\_Gene](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/John_Fred_Blanche_Gene-1.jpg)
+<Image align="center" alt="John_Fred_Blanche_Gene" border={false} caption="John, Fred, Blanche and Gene, about 1927" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/John_Fred_Blanche_Gene-1.jpg" />
 
 ![IMG\_0052](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0052-1.jpg)
 
@@ -22,23 +22,21 @@ Here are photos and items from an album that belonged to Blanche and Chuck. Plea
 
 ![BlancheHawleyHenry](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/BlancheHawleyHenry.jpg)
 
-![IMG\_0039](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0039-2.jpg)
+<Image align="center" alt="IMG_0039" border={false} caption="Chuck and Blanche" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0039-2.jpg" />
 
-![IMG\_0038 (1)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0038-1.jpg)
+<Image align="center" alt="IMG_0038 (1)" border={false} caption="Blanche and Chuck" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0038-1.jpg" />
 
-![IMG\_0042](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0042-1.jpg)
+<Image align="center" alt="IMG_0042" border={false} caption="Daughter-in-law Janet with Chuck" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0042-1.jpg" />
 
-![Chip, Grandpa Chuck, Patrick and Dodie](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PICT0007-1.jpg)
+<Image align="center" alt="Chip, Grandpa Chuck, Patrick and Dodie" border={false} caption="Chip, Grandpa Chuck, Patrick and Dodie" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PICT0007-1.jpg" />
 
 ![IMG\_0011](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0011-2.jpg)
 
-![ChuckHenryandfarmer (1)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/ChuckHenryandfarmer-1-1.jpg)
-
-![IMG\_0031 6](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0031-6.jpg)
+<Image align="center" alt="IMG_0031 6" border={false} caption="Blanche with two of her daughter-in-laws, Dottie and Barbie." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0031-6.jpg" />
 
 ![Henry grandpa02 (1)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Henry-grandpa02-1.jpg)
 
-![Fred, Chuck and Gene- looks like it was a birthday cake for Chuck.](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PICT0004-1.jpg)
+<Image align="center" alt="Fred, Chuck and Gene- looks like it was a birthday cake for Chuck." border={false} caption="red, Chuck and Gene- looks like it was a birthday cake for Chuck." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PICT0004-1.jpg" />
 
 ![My beautiful picture](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/chuck-blanche102.jpg)
 
@@ -56,7 +54,7 @@ Here are photos and items from an album that belonged to Blanche and Chuck. Plea
 
 ![blanche-chuck103](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/blanche-chuck103.jpg)
 
-![Blanche with daughter-in-law Jeanne holding Danny](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PICT0008.jpg)
+<Image align="center" alt="Blanche with daughter-in-law Jeanne holding Danny" border={false} caption="Blanche with daughter-in-law Jeanne holding Danny" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PICT0008.jpg" />
 
 ![Blanche and Chuck, undated](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Blanche-Chuck101.jpg)
 
@@ -70,13 +68,13 @@ Here are photos and items from an album that belonged to Blanche and Chuck. Plea
 
 ![Chuck & Blanche's War Ration books](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_20170225_0009.jpg)
 
-![A very sweet poem to ](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Blanche-Dear.jpg)
+<Image align="center" alt="A very sweet poem to " border={false} caption="A very sweet poem to “Blanche Dear”" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Blanche-Dear.jpg" />
 
 ![Chuck & Blanche dated 1973](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/chuck-blanche1973.jpg)
 
 ![Chuck-Blanche12](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Chuck-Blanche12.jpg)
 
-![Just before Chip left for Africa 1980 ](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1980GeneBlancheChipChuckDodie.jpg)
+<Image align="center" alt="Just before Chip left for Africa 1980 " border={false} caption="Just before Chip left for Africa 1980 “Off on your big adventure and Dodie too it seems” written by Blanche" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1980GeneBlancheChipChuckDodie.jpg" />
 
 <br />
 
