@@ -1,37 +1,38 @@
 ---
-title: "Old Interesting Maps of Bainbridge"
+title: Old Interesting Maps of Bainbridge
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
-![1857 Geauga County Map](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/1857Geauga-sm.jpg)
- 
-![1857 detail of C.E. Henry properties](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/Bainbridge-SW-corner-1857-map.jpg)
- 
-![From the Capt. Henry of Geauga book](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/oldPropertymap.jpg)
- 
-![1900 Bainbridge map detail](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/1900-Bainbridge-map-SE-corner.jpg)
- 
-![Cover of 1874 Lake and Geauga Atlas](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/Atlas-cover-scaled.jpg)
- 
-![Front page](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/Atlas-page1-scaled.jpg)
- 
-![Bainbridge Township 1874](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/1874BainbridgeMap-reconstructed_sm.jpg)
- 
-![Top left](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/Bainbridge-Map-top-Left-sm.jpg)
- 
-![Top right](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/Bainbridge-Map-TopRight_sm-scaled.jpg)
- 
-![Bottom left](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/Bainbridge-Map-bottom-left-scaled.jpg)
- 
-![Bottom right](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/Bainbridge-Map-BottomRight_sm-scaled.jpg)
-
-
 I have scanned or downloaded images of old maps of the Bainbridge area. I’d like to continue to add more map images. If anyone has any to contribute, please send to me and I’ll upload them here.
 
 Linda
+
+<Image align="center" alt="1857 Geauga County Map" border={false} caption="1857 Geauga County Map" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/1857Geauga-sm.jpg" />
+
+<Image align="center" alt="1857 detail of C.E. Henry properties" border={false} caption="1857 detail of C.E. Henry properties" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/Bainbridge-SW-corner-1857-map.jpg" />
+
+<Image align="center" alt="From the Capt. Henry of Geauga book" border={false} caption="From the Capt. Henry of Geauga book" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/oldPropertymap.jpg" />
+
+<Image align="center" alt="1900 Bainbridge map detail" border={false} caption="1900 Bainbridge map detail" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/1900-Bainbridge-map-SE-corner.jpg" />
+
+In the stuff from Gene and Jeanne is an old 1874 Lake & Geauga County Atlas. Because this Atlas is very large, I scanned the Bainbridge page and then broke it down to 4 sections to see the details.
+
+![Cover of 1874 Lake and Geauga Atlas](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/Atlas-cover-scaled.jpg)
+
+<Image align="center" alt="Front page" border={false} caption="Front page of Atlas" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/Atlas-page1-scaled.jpg" />
+
+<Image align="center" alt="Bainbridge Township 1874" border={false} caption="Bainbridge Township 1874" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/1874BainbridgeMap-reconstructed_sm.jpg" />
+
+<Image align="center" alt="Top left" border={false} caption="Top left" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/Bainbridge-Map-top-Left-sm.jpg" />
+
+<Image align="center" alt="Top right" border={false} caption="Top right." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/Bainbridge-Map-TopRight_sm-scaled.jpg" />
+
+<Image align="center" alt="Bottom left" border={false} caption="Bottom left" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/Bainbridge-Map-bottom-left-scaled.jpg" />
+
+<Image align="center" alt="Bottom right" border={false} caption="Bottom right" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/Bainbridge-Map-BottomRight_sm-scaled.jpg" />
+
+<br />
 
 In the stuff from Gene and Jeanne is an old 1874 Lake & Geauga County Atlas. I scanned the Bainbridge page and then broke it down to 4 sections to see the details.
 
