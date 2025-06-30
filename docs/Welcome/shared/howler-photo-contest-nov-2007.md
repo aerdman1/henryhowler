@@ -87,6 +87,6 @@ Chip
 
 <Image align="center" alt="Lauren P." border={false} caption="Lauren" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/41-Lauren.jpg" />
 
-First Place :“Reflecting on Cap’t Henry of Geauga” by Chip Henry
+<br />
 
 [November 19, 2007](/families/general-family/howler-photo-contest-nov-2007/) [Linda](/author/admin/)
