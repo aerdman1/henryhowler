@@ -1,10 +1,9 @@
 ---
-title: "Kamikaze Crow (Henry Tails : Full)"
+title: 'Kamikaze Crow (Henry Tails : Full)'
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
 Another time, Uncle Gene and I were in a canoe, duck hunting down the Cuyahoga from Daniels park…
 
 Quietly drifting down, freezing our butts of, with light snow on both sides of us…
@@ -25,8 +24,8 @@ Around and around and around, coming right down towards us like a Kamikaze crow!
 
 “Damdest thing I ever saw” he would say every time we reminisced…
 
-\-Scott Henry-
+-Scott Henry-
 
-(function($) (window.fnames = new Array(); window.ftypes = new Array();fnames\[1\]='FNAME';ftypes\[1\]='text';fnames\[0\]='EMAIL';ftypes\[0\]='email';fnames\[2\]='LNAME';ftypes\[2\]='text';fnames\[3\]='BIRTHDAY';ftypes\[3\]='birthday';)(jQuery));var $mcj = jQuery.noConflict(true);
+<br />
 
 [July 16, 2017](/families/general-family/kamikaze-crow-henry-tails-full/) [Brian Lee](/author/brianlee/)
