@@ -1,5 +1,6 @@
 ---
 title: Henry’s in Africa
+excerpt: December 2007 trip to Lesotho and South Africa. Chip, Linda and Dan.
 date: '2007-12-20T05:00:00.000Z'
 deprecated: false
 hidden: false
