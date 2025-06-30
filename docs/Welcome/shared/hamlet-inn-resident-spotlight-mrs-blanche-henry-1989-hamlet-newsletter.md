@@ -20,9 +20,9 @@ I have been an Ohioan since my marriage in 1918, but I still have a strong attac
 
 The next year I attended Heidelberg University through the offer of a kind uncle living in Tiffin, Ohio, to share their home.  I was also able to take an excellent course in china painting.  In order to earn college money I bought a small kiln and taught china painting to high school friends for 2 years.
 
-A second year was spent at Heidelberg but in 1916 I transferred to Hiram College. Many people from our church in West Rupert, including my father, had attended Hiram. The uncle in Tiffin was a ministerial graduate from Hiram.  I had entered Hiram as a junior.
+A second year was spent at Heidelberg but in 1916 I transferred to Hiram College. Many people from our church in West Rupert, including my father, had attended Hiram. The uncle in Tiffin was a ministerial graduate from Hiram.  I entered Hiram as a junior.
 
-The following spring, 1917, America joined England in the 1st World War and many young men enlisted, including my fiancé, Charles Henry. He was trained and stationed at two or three camps, finally at Ft. Meade in Baltimore, Maryland. I went back to Hiram for my senior year. We decided to marry the day after graduation.  The small wedding took place in his Aunt Marcia’s lovely garden. After a short honeymoon, he returned to camp and I lived in Baltimore. We were there until the war ended.
+The following spring, 1917, America joined England in the 1st World War and many young men enlisted, including my fiancé, Charles Henry. He was trained and stationed at two or three camps, finally at Ft. Meade in Baltimore, Maryland. I went back to Hiram for my senior year. We decided to marry the day after graduation.  The small wedding took place in his Aunt Marcia’s lovely garden \{on the Hiram campus}. After a short honeymoon, he returned to camp and I lived in Baltimore. We were there until the war ended.
 
 He was discharged in January, it was decided that he would finish his education at Ohio State taking a combined course by which he would receive his A.B. from Hiram and a degree in Agriculture in 2 years.  Agriculture because of his love of the family farmland acquired in the early 1800’s from the Connecticut Land Company. He had grown up in Cleveland, but his family spent summers there. The farmland had been rented out for many years.
 
@@ -36,6 +36,6 @@ Of my 18 grandchildren, all are college graduates with many pluses. There are se
 
 What have I done? Sort of held things together. There was much too much PTA! I was also active with our church \{Valley Presbyterian in Bainbridge}.  My relaxation was painting at the Valley Art Center after we came to Hamlet, almost 20 years ago. My painting was given a honorary mention in a local show.
 
-After my husband’s death in 198I2, I had several angina attack, one critical, which resulted in my having to move to the Manor. A serious eye problem developed so I remained there until the Inn was built. I was thankful to be able to move here and to get along with very little help but to know it is always available.
+After my husband’s death in 1982, I had several angina attacks, one critical, which resulted in my having to move to the Manor. A serious eye problem developed so I remained there until the Inn was built. I was thankful to be able to move here and to get along with very little help but to know it is always available.
 
 [April 22, 2021](/families/general-family/hamlet-inn-resident-spotlight-mrs-blanche-henry-1989-hamlet-newsletter/) [Linda](/author/admin/)
