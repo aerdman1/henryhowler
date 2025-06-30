@@ -16,4 +16,4 @@ This Challenge is open to anybody….send photo proof of your best game."
 
 <br />
 
-[January 31, 2009](/families/gene/chip/wii-wii-1-31-09/) [Linda](/author/admin/)
+January 31, 2009 Linda
