@@ -32,4 +32,4 @@ Back in the day, before the World Wide Web, Dan Henry had an idea.  He wanted a
 
 ENJOY!
 
-[January 16, 2017](/for-fun/old-henry-howlers/howler-pdfs-2008-2009/) [Linda](/author/admin/)
+January 16, 2017 Linda
