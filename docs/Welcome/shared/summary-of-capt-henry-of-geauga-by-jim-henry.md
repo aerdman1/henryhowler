@@ -6,7 +6,7 @@ hidden: false
 ---
 This summary was written by Jim in preparation for his presentation to the Bainbridge Historical Society on May 11, 2022.  It is a very brief summary intended to get you interested to read the original.
 
-<Anchor label="PDF version Captain Henry of Geauga summary 5-14-22notes by Jim Henry (3)" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2022%2F04%2FSummary-of-Captain-Henry-of-Geauga-Google-Docs.pdf">PDF version Captain Henry of Geauga summary 5-14-22notes by Jim Henry (3)</Anchor>
+<Anchor label="PDF version Captain Henry of Geauga summary 5-14-22 notes by Jim Henry" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2022%2F04%2FSummary-of-Captain-Henry-of-Geauga-Google-Docs.pdf">PDF version Captain Henry of Geauga summary 5-14-22 notes by Jim Henry</Anchor>
 
 Below are some images from the book and maps that are related to the stories.
 
