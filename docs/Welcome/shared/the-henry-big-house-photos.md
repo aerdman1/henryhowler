@@ -22,6 +22,6 @@ Here are some photos of the interiors from the collection of Gene & Jeanne Henry
 
 ![big-house-interior4](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/big-house-interior4-scaled.jpg)
 
-Here are some photos of the interiors from the collection of Gene & Jeanne Henry. Also, in John & Barbie’s collection is a post card that apparently was used to advertise the sale of the Big House in 1955. The asking price was $45,000 for the house on a 500′ x 600′ lot. Seller was Chuck Henry.
+<br />
 
 [May 19, 2022](/families/general-family/the-henry-big-house-photos/) [Linda](/author/admin/)
