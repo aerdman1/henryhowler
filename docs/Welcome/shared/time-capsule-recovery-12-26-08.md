@@ -30,4 +30,4 @@ hidden: false
 
 <br />
 
-[December 26, 2008](/families/general-family/time-capsule-recovery-12-26-08/) [Linda](/author/admin/)
+December 26, 2008 Linda
