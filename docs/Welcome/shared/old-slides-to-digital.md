@@ -16,7 +16,7 @@ Scott did us all a favor and found out that both Walgreens and Walmart are now c
 
 ![Church Portrait](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Church-Portrait.jpg)
 
-<Image align="center" width="400px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/FHHenry-Sibs-1963.jpg" />
+<Image align="center" border={false} caption="Rickk, Chris, Scott, KC, Heidi and Robyn" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/FHHenry-Sibs-1963.jpg" width="400px" />
 
 <Image align="center" alt="FHHenry Sibs" border={false} caption="Janet with Chris, Rick, Scott and KC" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/FHHenry-Sibs.jpg" width="400px" />
 
