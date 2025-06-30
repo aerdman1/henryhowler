@@ -32,10 +32,6 @@ In the stuff from Gene and Jeanne is an old 1874 Lake & Geauga County Atlas. Bec
 
 <Image align="center" alt="Bottom right" border={false} caption="Bottom right" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/05/Bainbridge-Map-BottomRight_sm-scaled.jpg" />
 
-<br />
-
-In the stuff from Gene and Jeanne is an old 1874 Lake & Geauga County Atlas. I scanned the Bainbridge page and then broke it down to 4 sections to see the details.
-
 The handwriting across the top says:
 
 From C. C. Monharp, Ch\_\_ 9 & 5
