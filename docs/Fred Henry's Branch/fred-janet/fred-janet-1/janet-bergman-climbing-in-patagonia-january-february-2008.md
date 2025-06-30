@@ -1,61 +1,58 @@
 ---
-title: "Janet Bergman Climbing in Patagonia January – February 2008"
+title: Janet Bergman Climbing in Patagonia January – February 2008
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/lindodia.jpg)
- 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Exploring_Southern_Patagonia_Map.jpg)
- 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/c-fp3.jpg)
- 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/guillsummit.jpg)
- 
-![trail](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/trail.jpg)
- 
-![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/sunrise.jpg)
- 
-![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/red_pillar_summit.jpg)
- 
-![red_pillar_p11](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/red_pillar_p11.jpg)
- 
-![red_pillar_p3](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/red_pillar_p3.jpg)
- 
-![piedra negra bivy](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/piedra-negra-bivy.jpg)
- 
-![mark_postle_on_the_brenner_ridge_2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/mark_postle_on_the_brenner_ridge_2.jpg)
- 
-![kremer](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/kremer.jpg)
- 
-![kremer_glacier](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/kremer_glacier.jpg)
- 
-![guillsummit](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/guillsummit.jpg)
- 
-![guillamet_col](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/guillamet_col.jpg)
- 
-![guill-summitsnow](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/guill-summitsnow.jpg)
- 
-![guill-mermoz-fitz](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/guill-mermoz-fitz.jpg)
- 
-![freddiejanetmaddog](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/freddiejanetmaddog.jpg)
- 
-![f&jfitzraps](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/fjfitzraps.jpg)
- 
-![comasanafonrougepitch1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/comasanafonrougepitch1.jpg)
- 
-![c-fp7](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/c-fp7.jpg)
- 
-![c-fp3](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/c-fp3.jpg)
- 
-![bangs](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/bangs.jpg)
- 
-![aguja_mermoz-_the_red_pillar](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/aguja_mermoz-_the_red_pillar.jpg)
- 
-![lindodia](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/lindodia.jpg)
 
+![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Exploring_Southern_Patagonia_Map.jpg)
+
+![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/c-fp3.jpg)
+
+![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/guillsummit.jpg)
+
+![trail](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/trail.jpg)
+
+![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/sunrise.jpg)
+
+![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/red_pillar_summit.jpg)
+
+![red\_pillar\_p11](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/red_pillar_p11.jpg)
+
+![red\_pillar\_p3](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/red_pillar_p3.jpg)
+
+![piedra negra bivy](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/piedra-negra-bivy.jpg)
+
+![mark\_postle\_on\_the\_brenner\_ridge\_2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/mark_postle_on_the_brenner_ridge_2.jpg)
+
+![kremer](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/kremer.jpg)
+
+![kremer\_glacier](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/kremer_glacier.jpg)
+
+![guillsummit](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/guillsummit.jpg)
+
+![guillamet\_col](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/guillamet_col.jpg)
+
+![guill-summitsnow](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/guill-summitsnow.jpg)
+
+![guill-mermoz-fitz](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/guill-mermoz-fitz.jpg)
+
+![freddiejanetmaddog](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/freddiejanetmaddog.jpg)
+
+![f\&jfitzraps](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/fjfitzraps.jpg)
+
+![comasanafonrougepitch1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/comasanafonrougepitch1.jpg)
+
+![c-fp7](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/c-fp7.jpg)
+
+![c-fp3](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/c-fp3.jpg)
+
+![bangs](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/bangs.jpg)
+
+![aguja\_mermoz-\_the\_red\_pillar](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/aguja_mermoz-_the_red_pillar.jpg)
+
+![lindodia](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/lindodia.jpg)
 
 The first note from Janet who is in Patagonia for 9 weeks or so….. e-mailed 01-19-08 Hola muchachos/as: Just down from a fantastic few days up and around our camp at Piedra Negra, which even included a day of climbing! Kirsten and I have a history of unplanned bivies here…mostly by her choosing/insistence (which is a whole ‘nother story of its own)…so I got smart this time and insisted we start at 1 am to ensure we spend the following night in our tent and not shivering on some ledge. Our plan was to climb the ‘sit start’ to the Comasana-Fonrouge (600 m, 6b) on Aguja Guillamet (the northern most peak of the Fitz Roy group). The ‘sit start’ part is about 600 additional meters of easy simul-climbing on a sharp ridge leading directly to the base of the route. The ridge had fun 5.2-5.7 climbing and we moved well in the dark, arriving at the start of the Comasana-Fonrouge around 9 am. Some of the cracks on the upper route were icy because it was the first good day after lots of bad ones—but still passable. It stayed warm and sunny through the afternoon, with a few clouds rolling in as we booted up the final snowfield to the summit that evening. We rested the next day and tried to climb the two days after that, waking at 3 am to approach climbs before sunrise…but stormy-seeming conditions kept us from even starting. We did hang out for magical sunrises before turning back for camp though. Some images are attached from the climb and those gorgeous mornings—enjoy! The meteogram is showing 4 more promising days of good weather this coming week, we are very excited! Chow, Jnut PS I got a haircut from Ceci and now have bangs—haven’t had them since I was like 5 when you used to cut them for me, mom! x
 
