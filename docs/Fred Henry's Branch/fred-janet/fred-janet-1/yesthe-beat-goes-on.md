@@ -1,13 +1,10 @@
 ---
-title: "Yes….the beat goes on!"
+title: Yes….the beat goes on!
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/beat_goes_on.jpg)
-
 
 I sat for a moment holding one measly piece of borrowed copy, starting to sweat a little, when suddenly a light went on. By some miracle I had put three of Gramma’s books in my purse this morning just as I was walking out the door. I had some thought of eventually sharing them with my boss and others. So I gave the reference to my partner in crime and said I’d be right back. I ran to my office and grabbed the books, scanning them in the hallway, placing post-it notes to look extra prepared.
 
