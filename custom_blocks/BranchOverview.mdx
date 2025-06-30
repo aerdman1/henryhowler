@@ -78,8 +78,6 @@ export const BranchOverview = () => {
           };
         }).filter(Boolean);
 
-        if (!rawGroups.length) throw new Error('No second-level groups found');
-
         // build initial cards (first child of each group)
         const firstChildCards = await Promise.all(
           rawGroups.map(async grp => {
