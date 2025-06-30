@@ -13,7 +13,7 @@ Chip
 
 <Image align="center" alt="02-Ellen_ed" border={false} caption="Ellen" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/02-Ellen_ed.jpg" />
 
-![Polly](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/03-Polly.jpg)
+<Image align="center" alt="Polly" border={false} caption="Polly" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/03-Polly.jpg" />
 
 <Image align="center" alt="Jeanne H" border={false} caption="Jeanne H." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/04-Jeanne-H.jpg" />
 
