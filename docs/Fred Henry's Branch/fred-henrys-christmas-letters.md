@@ -1,14 +1,15 @@
 ---
-title: "Fred Henry’s Christmas Letters"
+title: Fred Henry’s Christmas Letters
+date: '2019-01-11T05:00:00.000Z'
 deprecated: false
-date: "2019-01-11T05:00:00.000Z"
 hidden: false
 ---
-
 The Fred Henry’s have a long tradition of reading a family Christmas Letter.  Here are links to past letters – ENJOY!
 
-2008 Henry Christmas Letter
+<Anchor label="**2008 Henry Christmas Letter**" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2019%2F01%2F2008-Henry-Christmas-Letter.pdf">**2008 Henry Christmas Letter**</Anchor>
 
-2018 Henry Christmas Letter
+**<Anchor label="2018 Henry Christmas Letter" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2019%2F01%2F2018-Henry-Christmas-Letter.pdf">2018 Henry Christmas Letter</Anchor>**
 
-[January 11, 2019](/families/fred-henry/fred-henrys-christmas-letters/) [Linda](/author/admin/) [2008 Henry Christmas Letter](/families/fred-henry/fred-henrys-christmas-letters/attachment/2008-henry-christmas-letter/) [2018 Henry Christmas Letter](/families/fred-henry/fred-henrys-christmas-letters/attachment/2018-henry-christmas-letter/)
+<br />
+
+January 11, 2019 Linda
