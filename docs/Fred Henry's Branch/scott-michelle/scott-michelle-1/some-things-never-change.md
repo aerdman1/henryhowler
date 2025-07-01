@@ -10,4 +10,4 @@ hidden: false
 
 This poem by Aunt Janet and photo of McKinley really made me smile, thanks Scott.
 
-[March 19, 2009](/families/fred-henry/scott/some-things-never-change/) [Linda](/author/admin/)
+March 19, 2009 Linda
