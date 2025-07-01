@@ -12,4 +12,4 @@ Your support would be greatly appreciated. Scott“
 
 I am not sure Scott can take anymore participants but download an Invitation PDF of the event info and give him a call.
 
-September 6, 2008 Linda **[download an Invitation PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/JCHgolf2008.pdf)**
+September 6, 2008 Linda **<Anchor label="download an Invitation PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/JCHgolf2008.pdf">download an Invitation PDF</Anchor>**
