@@ -30,5 +30,5 @@ hidden: false
 
 KC’s beautiful beloved horse “Cloud Nine” passed away on Saturday after contracting colic. Cloud was a special horse to anybody that had ever observed him with KC; or lately, with Kelly and Henry. I have a few photos that Paula and I took of him a couple years ago to share.
 
-[June 28, 2008](/families/fred-henry/kc/cloud-nine-passes-06-28-08/)\
-[Linda](/author/admin/)
+June 28, 2008\
+Linda
