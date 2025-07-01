@@ -1,10 +1,9 @@
 ---
-title: "Swing Along Sweet Hope by Chris Henry"
+title: Swing Along Sweet Hope by Chris Henry
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
 This moving essay was written and delivered by Chris at her church – Feb. 4, 2007
 
 In 2001 I was flying high. I had come through divorce and 10 years of single parenting, and I had recently remarried. I felt sure that the difficult and unwanted divorce was the worst thing that could ever happen to me, and I had survived it. I had earned a Master’s in nonprofit management as my divorce therapy, and had just begun my own business consulting to nonprofits. My new husband is Jewish, and I was basking in a rather cocky midlife state, feeling worldly and progressive in my embrace of an interfaith approach to my personal spirituality. I had been a member of Forest Hill Church since 1978, but I wrote John Lentz a letter, telling him that I was on this adventure, and that I might or might not come back to Forest Hill someday. Life was good.
@@ -35,4 +34,4 @@ I’m still not sure what to do with Christmas. And it’s hard when someone ask
 
 Christine E. Henry February 4, 2007
 
-[February 4, 2007](/families/fred-henry/swing-along-sweet-hope-chris-henry/) [Linda](/author/admin/)
+February 4, 2007 Linda
