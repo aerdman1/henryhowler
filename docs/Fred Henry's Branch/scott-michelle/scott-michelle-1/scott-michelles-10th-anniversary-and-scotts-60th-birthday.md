@@ -1,29 +1,26 @@
 ---
-title: "Scott & Michelle’s 10th anniversary and Scott’s 60th birthday"
+title: Scott & Michelle’s 10th anniversary and Scott’s 60th birthday
+date: '2011-01-13T05:00:00.000Z'
 deprecated: false
-date: "2011-01-13T05:00:00.000Z"
 hidden: false
 ---
-
-
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/img_1717-e1484277102636.jpg)
- 
-![Vegas11golf](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Vegas11golf.jpg)
- 
-![Vegas11D](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Vegas11D.jpg)
- 
-![Vegas11C](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Vegas11C.jpg)
- 
-![vegas11B](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/vegas11B.jpg)
- 
-![vegas11A](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/vegas11A.jpg)
- 
-![img_1717](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/img_1717-e1484277102636.jpg)
 
+![Vegas11golf](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Vegas11golf.jpg)
+
+![Vegas11D](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Vegas11D.jpg)
+
+![Vegas11C](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Vegas11C.jpg)
+
+![vegas11B](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/vegas11B.jpg)
+
+![vegas11A](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/vegas11A.jpg)
+
+![img\_1717](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/img_1717-e1484277102636.jpg)
 
 My sibs sent me off w/ a great party at Heidi’s the nite before (1/25), we had a great Grand Canyon helicopter ride, played a fantastic golf course, had a ball w/ Mik and Holly, …the four of us saw “Love” (The Beatles)… a great show!… the food in Vegas is now WAY over priced and too much cig smoke in public places… we barely gambled at all …but Holly won $57 on a $1.00 investment in a slot machine… and then quit!!! Great move! We all agreed that we want to go back to Vegas again, in another 30 years! Great friends, and the excursions were a riot, but none of us are into “the lights”!  Here’s a pic of Mike and Holly with us at dinner Friday night in Vegas…
 
-Poem/Toast for Scott’s 60th Birthday by Chris
+**Poem/Toast for Scott’s 60th Birthday by Chris**
 
 There once was a young man named Scotty
 
@@ -55,4 +52,4 @@ How he loves “Reply all”
 
 Cause he can’t resist stirring that pot!
 
-[January 13, 2011](/families/fred-henry/scott-michelles-10th-anniversary-scotts-60th-birthday/) [Linda](/author/admin/)
+January 13, 2011 Linda
