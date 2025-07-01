@@ -20,4 +20,6 @@ I scanned this note from Blanche’s stuff from Janet to Blanche, 1958.
 
 **<Anchor label="Note from Janet to Blanche-1958 PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F02%2Fnotef-janet-1958.pdf">Note from Janet to Blanche-1958 PDF</Anchor>**
 
-[February 1, 2017](/families/fred-henry/fred-janet/original-poems-by-janet/) [Linda](/author/admin/) [Twas the night before Christmas ’66…. PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/janetxmasepoem.pdf) [Note from Janet to Blanche-1958 PDF](/families/fred-henry/fred-janet/original-poems-by-janet/attachment/notef-janet-1958/)
+<br />
+
+February 1, 2017 Linda
