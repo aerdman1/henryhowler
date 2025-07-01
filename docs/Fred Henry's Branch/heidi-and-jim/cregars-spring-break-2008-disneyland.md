@@ -12,4 +12,4 @@ hidden: false
 
 We went to Disneyland out in California over spring break.  Henry got to meet his hero (see pic) and we all had a blast! Heidi
 
-[April 8, 2008](/families/fred-henry/heidi/cregars-spring-break-2008-disneyland/) [Linda](/author/admin/)
+April 8, 2008 Linda
