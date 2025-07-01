@@ -1,19 +1,16 @@
 ---
-title: "Tim’s Birthday"
+title: Tim’s Birthday
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
+![IMG00101-20090531-1715\_1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG00101-20090531-1715_1.jpg)
 
+![IMG00103-20090531-1722\_1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG00103-20090531-1722_1.jpg)
 
-![IMG00101-20090531-1715_1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG00101-20090531-1715_1.jpg)
- 
-![IMG00103-20090531-1722_1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG00103-20090531-1722_1.jpg)
- 
-![IMG00104-20090531-1745_1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG00104-20090531-1745_1.jpg)
- 
-![IMG00112-20090531-1751_1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG00112-20090531-1751_1.jpg)
+![IMG00104-20090531-1745\_1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG00104-20090531-1745_1.jpg)
 
+![IMG00112-20090531-1751\_1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG00112-20090531-1751_1.jpg)
 
 From Chris:
 
@@ -29,6 +26,5 @@ The neighborhood is having a fundraiser for everyone who was affected. Matt has 
 
 Again, I can’t say enough about the Red Cross – they were on the scene immediately. They are providing three nights in a hotel, food vouchers, and $500 towards a new rent deposits for everyone affected.. ” Chris
 
-
-[June 22, 2009](/families/fred-henry/tims-birthday/)
- [Linda](/author/admin/)
+June 22, 2009\
+Linda
