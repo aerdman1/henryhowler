@@ -4,6 +4,10 @@ date: '2011-01-01T05:00:00.000Z'
 deprecated: false
 hidden: false
 ---
+These photos taken by Aunt Jeanne showing family arriving at Janet & Freddie’s Shabin, wedding preparations, New Year’s Eve at the Inn, The Wedding and Reception. Send any photos that we can add here.
+
+Congratulations Janet & Freddie!
+
 ![IMG\_1987](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_1987.jpg)
 
 ![IMG\_1989](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_1989.jpg)
@@ -96,8 +100,6 @@ hidden: false
 
 ![IMG\_2148](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_2148.jpg)
 
-These photos taken by Jeanne showing family arriving at Janet & Freddie’s Shabin, wedding preparations, New Year’s Eve at the Inn, The Wedding and Reception. Send any photos that we can add here.
+<br />
 
-Congratulations Janet & Freddie!
-
-[January 1, 2011](/families/general-family/wedding-photos-janet-freddie-01-01-11/) [Linda](/author/admin/)
+January 1, 2011 Linda
