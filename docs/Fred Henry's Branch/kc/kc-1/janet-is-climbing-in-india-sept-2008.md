@@ -1,23 +1,22 @@
 ---
-title: "Janet is Climbing in India! Sept 2008"
+title: Janet is Climbing in India! Sept 2008
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Manikaran-010.jpg)
-
 
 Ben Ditto luvin it high on the route.
 
 From KC on 09-28-08 Below are emails from Janet who is in India for month – she is sponsored by Mountain Hardware and is being videoed and photographed while rock climbing.
 
-Also Read> Excerpt of Blog from Pat Goodman, one of Janet’s climbing companions KC
+**<Anchor label="Also Read> Excerpt of Blog from Pat Goodman" target="_blank" href="https://henry-howler.readme.io/docs/manikaran-spires-an-adventure-in-the-indian-himalaya-friday-october-03-2008-by-pat-goodman#/">Also Read> Excerpt of Blog from Pat Goodman</Anchor>**, one of Janet’s climbing companions KC
 
 This is already quite a story and they haven’t even arrived at the climbing location yet! Janet is on yet another awesome adventure.  Linda
 
-Sept. 28, 2008 – Greeting from Manali, India!
+***
+
+**Sept. 28, 2008 – Greeting from Manali, India!**
 
 Here is the play by play on our three day journey, if you care to read it:
 
@@ -29,11 +28,11 @@ We all head through customs, with the mission of finding a taxi to leave immedia
 
 September 12: We all crack a beer to toast the fact that we are actually here at around 9 am. Mr. Pal asks us if this is normal. We keep driving. We arrive in the late afternoon at the Tourist Hotel in Manali, a true retreat at the bargain deal of 200 rupees ($5) per night. We meet the wonderful host Gupka. Dinner and sleep quickly follow.
 
-September 13: Motived to get planning and packing for the next stage,
+**September 13: Motived to get planning and packing for the next stage**,
 
 climbing int he Manikaran towers. On our first errand in town, we that there is no isobutane, ANYWHERE in town. And we have three isobutane stoves and no whisperlights (which take unleaded fuel among other fuels if necessary) between all of us (All of us, as it turns out, had actually packed the whisperlight at home and then unpacked them at the last minute). Grr. Still waiting for Pat’s bags too. None of the phone numbers they gave him were working, no information found. We decide these two issues were cause to take the rest of the day off. So we wandered the town snapping photos, found some cool bouldering, went to yoga class, watched the wild monkeys and had many many cups of chai tea.
 
-September 14 (today): Ben wakes up and writes home to get info on making a stove out of two tin cans like his family did when we was a kid, and starts creating prototypes. This inspires us to then start bribing local treking people and anyone else we can think of for butane cans and pursuing other ideas for cooking in the mountains. We also still have to shop for food and eventually head to the market. The boys are quickly sidetracked at a barber shop where they stopped for a shave. This quickly turned into facial massages, cold creams, steam baths, face masks, shoulder and back massages, knuckle, shoulder and neck cracking and lots of laughs (a GREAT video footage of the ordeal by yours truly!). Not your typical spa, as you can imagine. The pictures and video may do the whole ordeal more justice than mere words.
+**September 14 (today):** Ben wakes up and writes home to get info on making a stove out of two tin cans like his family did when we was a kid, and starts creating prototypes. This inspires us to then start bribing local treking people and anyone else we can think of for butane cans and pursuing other ideas for cooking in the mountains. We also still have to shop for food and eventually head to the market. The boys are quickly sidetracked at a barber shop where they stopped for a shave. This quickly turned into facial massages, cold creams, steam baths, face masks, shoulder and back massages, knuckle, shoulder and neck cracking and lots of laughs (a GREAT video footage of the ordeal by yours truly!). Not your typical spa, as you can imagine. The pictures and video may do the whole ordeal more justice than mere words.
 
 So that brings us to now.
 
@@ -47,7 +46,9 @@ Tomorrow morning we will resolve that somehow and take a ride for the last three
 
 So the next you hear from me will likely be after we come out of the mountains in early October. Love to you all, Janet
 
-Updated on 10-04-08 from Janet. See her first entry below dated 09-28-08: Greetings from Dharamsala:
+***
+
+**Updated on 10-04-08 from Janet**. See her first entry below dated 09-28-08: Greetings from Dharamsala:
 
 I am writing with scabs on the backs of my hands and legs still sore, so the short of it is, yes, we did get to climb! As luck has it, I do not have to get into all the nitty gritty details of the account, because Pat already did, for the backcountry.com  blog (who supplied us with oodles of freeze dried dinners and gu’s!): Read> Excerpt of Blog from Pat Goodman, one of Janet’s climbing companions Did you read it? OK, here are my comments to add:
 
@@ -63,4 +64,6 @@ I’ll be home in less than a week now…I trust I haven’t missed too much bes
 
 Love to you all, Janet
 
-[October 10, 2008](/families/fred-henry/kc/janet-freddie/janet-climbing-india-sept-2008/) [Linda](/author/admin/) [Read> Excerpt of Blog from Pat Goodman, one of Janet’s climbing companions](/manikaran-spires-adventure-indian-himalaya-friday-october-03-2008-pat-goodman/) [http://backcountry.com/](http://backcountry.com/) [Read> Excerpt of Blog from Pat Goodman, one of Janet’s climbing companions](/manikaran-spires-adventure-indian-himalaya-friday-october-03-2008-pat-goodman/)
+<br />
+
+October 10, 2008 Linda
