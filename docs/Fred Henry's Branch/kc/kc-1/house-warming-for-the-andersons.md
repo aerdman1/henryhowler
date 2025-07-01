@@ -10,8 +10,6 @@ hidden: false
 
 ![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2015/10/123101_8148.jpg)
 
-![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2015/10/123101_8149.jpg)
-
 ![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2015/10/123101_8150.jpg)
 
 ![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2015/10/123101_8152.jpg)
@@ -22,8 +20,8 @@ hidden: false
 
 ![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2015/10/123101_8158.jpg)
 
-![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2015/10/bobbi-daryl-newhouse.jpg)
-
 Their very cute house is on W. 54th St. in Cleveland.  Sounds far but was a very easy quick drive.  There were lots of people, of course, as B & D have about a gazilion friends and family.  I was impressed with the nice looking, quiet neighborhood, I was expecting something a little different when they said they bought a house in Cleveland for $400!  Great job B, D and baby bump!
 
-[July 19, 2010](/families/fred-henry/kc/house-warming-for-the-andersons/) [Linda](/author/admin/)
+<br />
+
+July 19, 2010 Linda
