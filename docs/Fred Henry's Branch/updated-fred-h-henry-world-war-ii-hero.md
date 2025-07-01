@@ -46,4 +46,4 @@ Following is the text and photo from a local newspaper article, not dated but pr
 
 <br />
 
-April 9, 2018 Linda [Download a PDF version of this scanned copy – 8 pages](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/fred_henry_ww2-info.pdf) [Missing Crew Report page 4 PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/Fold3_Page_4.pdf) [Missing Crew Report page 5 PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/Fold3_Page_5.pdf) [Actual Photograph of Fred’s on fire B17 PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/Fold3_Page_1_Black_and_White_and_Color_Photographs_of_US_Air_Force_and_Predecessor_Agencies_Activities_Facilities_and_Personnel_World_War_II.pdf)
+April 9, 2018 Linda
