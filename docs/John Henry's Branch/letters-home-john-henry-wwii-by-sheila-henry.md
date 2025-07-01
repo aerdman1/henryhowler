@@ -1,10 +1,9 @@
 ---
-title: "Letter’s Home – John Henry WWII, by Sheila Henry"
+title: Letter’s Home – John Henry WWII, by Sheila Henry
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
 Hello all!
 
 In December 2010, there was a fire at Barbara Henry’s storage unit and the fire department had to drench everything in every unit to make sure that everything was out.  Ellen, George and Tim went to salvage what was inside the unit and took home various boxes to store for the time being. My dad (Tim, you know him, the tall-ish, bald-ish, FedEx guy) and I took what was in the boxes that he brought home out to air dry and found that the contents was not just tax information and various paperwork, but probably close to 250 letters, dating from December 1942 to late 1945 from John Henry.
@@ -17,17 +16,27 @@ I’ll be happy to answer any questions as well as welcome any additional inform
 
 Sheila
 
+***
+
+**<Anchor label="1942 Enlistment Letters" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F01%2F1942_letters.pdf">1942 Enlistment Letters</Anchor>**
+
 The letters as promised!  I’ve put them into PDF format, which will hopefully work.  There are only a couple, but there were only a couple letters from 1942.  The next update will be 1943, probably January and February, depending on how many letters there are in each month.  Enjoy!
 
 A quick note: there might be spelling errors and grammatical mistakes, but those are all transcribed as written.  Other things are/were very very VERY difficult to read when I was transcribing (Grandpa’s handwriting can be classified as worse then my Dad’s in places) so I did the best I could to translate and there were really only a couple of places where I couldn’t understand what he was saying so it shouldn’t be too hard to read.
 
-1942 Letters PDF
+**<Anchor label="1942 Letters PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F01%2F1942_letters.pdf">1942 Letters PDF</Anchor>**
+
+***
 
 As follows in the attached file (PDF format) are the letters from January – February 1943, when John Henry was in going through basic training in Miami Beach and at Buckley Field, Denver, Colorado when he was going through Armorer School.
 
 In these letters he mentions just about everything in his training and what he is going through in his day to day life as an in-training soldier. He also mentions Ball & Chaines, which to my understanding is a fraternity at Hiram as well as mentions the Fenn-Hiram Wooden Brick.  One of these letters is addressed, not to his parents as other letters have been, but to Uncle Don, which I found particularly sweet. Enjoy!
 
-January – February 1943 Letters PDF
+**<Anchor label="January – February 1943 Letters PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F01%2F1943_Jan_Feb_letters.pdf">January – February 1943 Letters PDF</Anchor>**
+
+***
+
+<br />
 
 Only one month for this update. These letters start with Grandpa’s bout of the Measles and take us on an adventure of what his day to day life at Buckley Field was like.
 
