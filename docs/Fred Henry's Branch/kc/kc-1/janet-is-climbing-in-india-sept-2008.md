@@ -10,7 +10,7 @@ Ben Ditto luvin it high on the route.
 
 From KC on 09-28-08 Below are emails from Janet who is in India for month – she is sponsored by Mountain Hardware and is being videoed and photographed while rock climbing.
 
-**<Anchor label="Also Read> Excerpt of Blog from Pat Goodman" target="_blank" href="https://henry-howler.readme.io/docs/manikaran-spires-an-adventure-in-the-indian-himalaya-friday-october-03-2008-by-pat-goodman#/">Also Read> Excerpt of Blog from Pat Goodman</Anchor>**, one of Janet’s climbing companions KC
+**<Anchor label="Also Read> Excerpt of Blog from Pat Goodman" target="_blank" href="https://henry-howler.readme.io/docs/manikaran-spires-an-adventure-in-the-indian-himalaya-friday-october-03-2008-by-pat-goodman#/">Also Read> Excerpt of Blog from Pat Goodman</Anchor>**, And see more photos from one of Janet’s climbing companions. KC
 
 This is already quite a story and they haven’t even arrived at the climbing location yet! Janet is on yet another awesome adventure.  Linda
 
