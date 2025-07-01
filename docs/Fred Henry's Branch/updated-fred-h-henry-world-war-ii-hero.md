@@ -13,6 +13,11 @@ Also this: “9 July 1944: the official caption doesn’t begin to tell the whol
 
 Also this: “Broken oil line on #3 engine – wing is not on fire, just trailing flames from burning oil. 7 crew members bailed out without orders (including Co-Pilot who panicked).”
 
+> 📘 Read more about  Fred’s amazing WWII missions (50 missions!) in his own words in this “Chronology of Military Service of Frederick Hawley Henry of Geauga Lake, Ohio In World War II 1941-1944 and Award to him of the Distinguished Flying Cross”\
+> **<Anchor label="Download a PDF version of this scanned copy – 8 pages" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F01%2Ffred_henry_ww2-info.pdf">Download a PDF version of this scanned copy – 8 pages</Anchor>**
+
+![]()
+
 Thank you KC for sending these items about your Dad. I am blown away at his descriptions of the missions. He succeeded in telling of some his horrendous experiences in very few words. Honestly, I think they could/should made a movie of this. **Linda**
 
 Following is the text and photo from a local newspaper article, not dated but probably during 1944. **KC**
@@ -21,7 +26,7 @@ Following is the text and photo from a local newspaper article, not dated but pr
 
 \*\*<Anchor label="Missing Crew Report page 4 PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2018%2F04%2FFold3_Page_4.pdf">Missing Crew Report page 4 PDF</Anchor> \*\*
 
-**<Anchor label="Missing Crew Report page 5 PDF " target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2018%2F04%2FFold3_Page_5.pdf">Missing Crew Report page 5 PDF</Anchor>**
+**<Anchor label="Missing Crew Report page 5 PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2018%2F04%2FFold3_Page_5.pdf">Missing Crew Report page 5 PDF</Anchor>**
 
 \*\*[Actual Photograph of Fred’s on fire B17 PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2018%2F04%2FFold3_Page_1_Black_and_White_and_Color_Photographs_of_US_Air_Force_and_Predecessor_Agencies_Activities_Facilities_and_Personnel_World_War_II.pdf) \*\*
 
