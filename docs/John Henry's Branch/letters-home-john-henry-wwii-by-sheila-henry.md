@@ -18,7 +18,7 @@ Sheila
 
 ***
 
-**<Anchor label="1942 Enlistment Letters" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F01%2F1942_letters.pdf">1942 Enlistment Letters</Anchor>**
+**1942 Enlistment Letters**
 
 The letters as promised!  I’ve put them into PDF format, which will hopefully work.  There are only a couple, but there were only a couple letters from 1942.  The next update will be 1943, probably January and February, depending on how many letters there are in each month.  Enjoy!
 
