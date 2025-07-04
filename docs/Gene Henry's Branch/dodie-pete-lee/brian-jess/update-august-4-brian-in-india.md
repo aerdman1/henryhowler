@@ -26,7 +26,7 @@ Love, me
 
 July 8, 2010:
 
-Haven’t heard much from Brian except that he is posting photos to a Flickr account. Really great to see what he is seeing! Check out more of his photos at [http://www.flickr.com/photos/brianinindia/](http://www.flickr.com/photos/brianinindia/)
+Haven’t heard much from Brian except that he is posting photos to a Flickr account. Really great to see what he is seeing! Check out more of his photos at <Anchor label="http://www.flickr.com/photos/brianinindia/" target="_blank" href="http://www.flickr.com/photos/brianinindia/">[http://www.flickr.com/photos/brianinindia/](http://www.flickr.com/photos/brianinindia/)</Anchor>
 
 Just in from Dodie 06-28-10:
 
