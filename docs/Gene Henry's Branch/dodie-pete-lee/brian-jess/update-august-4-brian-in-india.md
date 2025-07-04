@@ -1,19 +1,16 @@
 ---
-title: "Update August 4 – Brian in India"
+title: Update August 4 – Brian in India
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/brian-india5.jpg)
- 
-![4751059598_906c4f8d7b_z](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/4751059598_906c4f8d7b_z.jpg)
- 
-![4751064386_e3fb89af11](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/4751064386_e3fb89af11.jpg)
- 
-![brianindia1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/brianindia1.jpg)
 
+![4751059598\_906c4f8d7b\_z](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/4751059598_906c4f8d7b_z.jpg)
+
+![4751064386\_e3fb89af11](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/4751064386_e3fb89af11.jpg)
+
+![brianindia1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/brianindia1.jpg)
 
 August 4, 2010 via Dodie
 
@@ -21,7 +18,7 @@ We talk to Brian every other day but not getting a lot of written material from 
 
 It is an Island with 3 villages on it  full of cave temples that have lots of sculptures.  It is located in Mumbai Harbour which is east of Mumbai full of palm and mango trees.  Brian enjoyed it and bought gems that are mined on the island.  He is working on a scary movie due to be released around Halloween and is enjoying his students and colleagues.  On Saturday night he went out to a local establishment and went dancing.   Jessie and he have scheduled her flight to India for sometime in mid-September when he will be done with his work…they plan to travel the area for several weeks and currently are looking to go to Viet Nam, Thailand and Bali.    I will give you more update when I can.   Dodie
 
-From: Brian Lee \[mailto: buckeyemedia@yahoo.com\]  Sent: Thursday, July 15, 2010 3:16 AM To: Lee, Dorothy Subject: the taj
+From: Brian Lee \[mailto: [buckeyemedia@yahoo.com](mailto:buckeyemedia@yahoo.com)]  Sent: Thursday, July 15, 2010 3:16 AM To: Lee, Dorothy Subject: the taj
 
 the taj was great, i fealt like i was in an indiana jones movie, there were camels and little tiny streets that were like a maze. there were venders all over the place selling everything from flowers to rubees and emeralds. i looked at some pretty colorfull rocks trying to hagel some prices but they never went low enough for me. then all of a sudden the streets opened up to this giant Palace (Taj mahal)(Royal Palace). we hired a guide to tell us all about the story behind the giant palace, quite romantic until he got to the part about cutting the hands off all the arttisans that worked on the sculptures and detail work. there are only two days of the year that they let people into the original tombs that the king and queen are burried. we happened to be there on one of those days. i laid down 10 ruppees on the kings tomb! on the way out we were swarmed by vendors trying to get us to buy things we didnt need. they didnt take no for an answer and we finally found salvation back in the car where are driver was waiting…. more later
 
@@ -29,7 +26,7 @@ Love, me
 
 July 8, 2010:
 
-Haven’t heard much from Brian except that he is posting photos to a Flickr account. Really great to see what he is seeing! Check out more of his photos at http://www.flickr.com/photos/brianinindia/
+Haven’t heard much from Brian except that he is posting photos to a Flickr account. Really great to see what he is seeing! Check out more of his photos at [http://www.flickr.com/photos/brianinindia/](http://www.flickr.com/photos/brianinindia/)
 
 Just in from Dodie 06-28-10:
 
