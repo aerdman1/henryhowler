@@ -1,10 +1,9 @@
 ---
-title: "Brian’s in Borneo!"
+title: Brian’s in Borneo!
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
 Dodie is forwarding e-mails from Brian as he leaves his job in India and travels home.  This time he is spending time in Borneo.  He is taking photos and video so I hope to add those when we get them. AL
 
 April 11, 2001, Heading Back West 2 – Last email from Brian on his adventure. He should be arriving LA this AM – Dodie
@@ -17,7 +16,7 @@ in a few hours i begin my trip back west. i fly into kuala lumpur tonight and ha
 
 April 7, 2011 Borneo Update
 
-Just got back from an island off the coast of Kunta kintabalu, mamutuk. when i reached the island i treked into the jungle for an hour before i found my campsight. there was an old abandoned lintu overlooking a beautiful ocean with crystal clear water, suroounded by tropical wilderness. my first night went great, i had my hammock all set up under the lintu with and extra rain fly that i bought in KK positioned to the south west. i cooked my own food went swimming in the water with my goggles and saw all sorts of wonderfull colored fish in the coral reef. i kept an eye out for jelly fish but never saw one, thankfully.the night came quickly i put out the fire and crawled into the hammock with my journal and fell asleep to waves crashing and strange animals howling and squeeking in the woods. 2 hours later i iawoke to a tropical thunderstormn blowing sideways through my campsite not from the south west but from the NW.i scrammbled out of my hammock accidentally kicking the support beam for my rain sling and it went tumbling into the nearby brush.when i finally regained control of the situation the storm had passed and i sat out of breath and stressed out. luckily i moved things fast enough that nothing became soaking wet so getting back to sleep wasnt to terrible. woke up in the morning to birds churping and the gentle sounds of the ocean. went for a skinny dip to wash the sleep off and tried some unsuccsesful fishing.other than the catfish i caught on the river i havent had any luck. the reality of it is , you just need to through a hunk of meat in the water and wait for 5 minutes compared to throwing fancy lures into the water a hundred times.my second night was much the same except the storm was worse. i had prepared better this time and except for a few drips there was no problem.the next morning i wentback to the other side of the island and sat on a beach while awaiting my prearranged boat to pick me up. i have a belly full of italian food at the moment and am staying in a very dry hotel tonight. tomorrow is my last day in borneo and i leave at 8 pm for kuala lumpur where i will stay a night and catch my plane back to india for my connecting flight back home.im trying to arrange a white water rafting trip or wind surfing for the morning before i leave. miss you Love Brian
+Just got back from an island off the coast of Kunta kintabalu, mamutuk. when i reached the island i treked into the jungle for an hour before i found my campsight. there was an old abandoned lintu overlooking a beautiful ocean with crystal clear water, suroounded by tropical wilderness. my first night went great, i had my hammock all set up under the lintu with and extra rain fly that i bought in KK positioned to the south west. i cooked my own food went swimming in the water with my goggles and saw all sorts of wonderfull colored fish in the coral reef. i kept an eye out for jelly fish but never saw one, thankfully.the night came quickly i put out the fire and crawled into the hammock with my journal and fell asleep to waves crashing and strange animals howling and squeeking in the woods. 2 hours later i iawoke to a tropical thunderstormn blowing sideways through my campsite not from the south west but from the NW\.i scrammbled out of my hammock accidentally kicking the support beam for my rain sling and it went tumbling into the nearby brush.when i finally regained control of the situation the storm had passed and i sat out of breath and stressed out. luckily i moved things fast enough that nothing became soaking wet so getting back to sleep wasnt to terrible. woke up in the morning to birds churping and the gentle sounds of the ocean. went for a skinny dip to wash the sleep off and tried some unsuccsesful fishing.other than the catfish i caught on the river i havent had any luck. the reality of it is , you just need to through a hunk of meat in the water and wait for 5 minutes compared to throwing fancy lures into the water a hundred times.my second night was much the same except the storm was worse. i had prepared better this time and except for a few drips there was no problem.the next morning i wentback to the other side of the island and sat on a beach while awaiting my prearranged boat to pick me up. i have a belly full of italian food at the moment and am staying in a very dry hotel tonight. tomorrow is my last day in borneo and i leave at 8 pm for kuala lumpur where i will stay a night and catch my plane back to india for my connecting flight back home.im trying to arrange a white water rafting trip or wind surfing for the morning before i leave. miss you Love Brian
 
 April 4  – Kapit – Myrimar – Bakun – Belaga – Miri
 
@@ -57,6 +56,6 @@ March 23 – Lonely Planet Link to Borneo
 
 Brian leaves for Borneo Friday—the below link sure makes it look like a great place to explore!
 
-http://www.lonelyplanet.com/searchResult?q=borneo
+<Anchor label="http://www.lonelyplanet.com/searchResult?q=borneo" target="_blank" href="http://www.lonelyplanet.com/searchResult?q=borneo">[http://www.lonelyplanet.com/searchResult?q=borneo](http://www.lonelyplanet.com/searchResult?q=borneo)</Anchor>
 
-[April 7, 2011](/families/gene/dodie/brians-in-borneo/) [Linda](/author/admin/) [http://www.lonelyplanet.com/searchResult?q=borneo](http://www.lonelyplanet.com/searchResult?q=borneo)
+April 7, 2011 Linda
