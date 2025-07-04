@@ -36,8 +36,6 @@ In these letters he mentions just about everything in his training and what he i
 
 ***
 
-<br />
-
 Only one month for this update. These letters start with Grandpa’s bout of the Measles and take us on an adventure of what his day to day life at Buckley Field was like.
 
 In other news, I’m doing a side project along with this one.  I’m actually writing a paper for one of my classes on Boeing B-17 “Flying Fortress” Bombers, which is the craft Uncle Fred flew.  Also I’ve found a couple pictures which I will try to get uploaded here soon.
@@ -46,7 +44,9 @@ Thank you for the support!  I really appreciate it and I’m glad people are en
 
 Until next time!
 
-March 1943 Letters PDF
+**<Anchor label="March 1943 Letters PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F01%2F1943_March.pdf">March 1943 Letters PDF</Anchor>**
+
+***
 
 Back with tales of seeing “Pride of the Yankees” for the first time, a little girl trouble, gas mask training, being transferred to Hunter Field in Savannah, Georgia, being assigned to his squadron,  and the start of the Army Censorship.
 
@@ -58,7 +58,11 @@ On a completely different note, I’ve been officially accepted to Hiram College
 
 Until next time!
 
-April-May 1943 Letters PDF
+**<Anchor label="April-May 1943 Letters PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F01%2F1943_Apr_May.pdf">April-May 1943 Letters PDF</Anchor>**
+
+***
+
+<br />
 
 Hello fellow Henry Howlers!
 
@@ -70,4 +74,4 @@ Thanks to all and have a Happy Easter!!
 
 Sheila
 
-[March 13, 2011](/families/general-family/letters-home-john-henry-wwii-sheila-henry/) [Linda](/author/admin/) [1942 Enlistment Letters](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1942_letters.pdf) [1942 Letters PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1942_letters.pdf) [January – February 1943 Letters](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1943_Jan_Feb_letters.pdf) [January – February 1943 Letters PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1943_Jan_Feb_letters.pdf) [March 1943 Letters](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1943_March.pdf) [March 1943 Letters PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1943_March.pdf) [April – May 1943 Letters](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1943_Apr_May.pdf) [April-May 1943 Letters PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1943_Apr_May.pdf)
+March 13, 2011 Linda [1942 Enlistment Letters](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1942_letters.pdf) [1942 Letters PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1942_letters.pdf) [January – February 1943 Letters](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1943_Jan_Feb_letters.pdf) [January – February 1943 Letters PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1943_Jan_Feb_letters.pdf) [March 1943 Letters](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1943_March.pdf) [March 1943 Letters PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1943_March.pdf) [April – May 1943 Letters](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1943_Apr_May.pdf) [April-May 1943 Letters PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1943_Apr_May.pdf)
