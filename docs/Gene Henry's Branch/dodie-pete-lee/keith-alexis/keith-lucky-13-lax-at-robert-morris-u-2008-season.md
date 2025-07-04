@@ -1,45 +1,42 @@
 ---
-title: "Keith, Lucky #13, LAX at Robert Morris U – 2008 season"
+title: 'Keith, Lucky #13, LAX at Robert Morris U – 2008 season'
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
+![IMG\_0087](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_0087.jpg)
 
+![IMG\_0088](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_0088.jpg)
 
-![IMG_0087](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_0087.jpg)
- 
-![IMG_0088](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_0088.jpg)
- 
-![IMG_0089_2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_0089_2.jpg)
- 
-![IMG_0091_2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_0091_2.jpg)
- 
-![IMG_0097](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_0097.jpg)
- 
-![IMG_0102_2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_0102_2.jpg)
- 
-![IMG_0105_2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_0105_2.jpg)
- 
-![lax_faceoff](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/lax_faceoff.jpg)
- 
-![rmu_group](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/rmu_group.jpg)
- 
+![IMG\_0089\_2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_0089_2.jpg)
+
+![IMG\_0091\_2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_0091_2.jpg)
+
+![IMG\_0097](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_0097.jpg)
+
+![IMG\_0102\_2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_0102_2.jpg)
+
+![IMG\_0105\_2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_0105_2.jpg)
+
+![lax\_faceoff](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/lax_faceoff.jpg)
+
+![rmu\_group](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/rmu_group.jpg)
+
 ![rmu3](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/rmu3.jpg)
- 
-![rmu4](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/rmu4.jpg)
- 
-![rmu13](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/rmu13.jpg)
- 
-![rmu14](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/rmu14.jpg)
- 
-![rmu15](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/rmu15.jpg)
- 
-![rmu18](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/rmu18.jpg)
- 
-![rmu19](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/rmu19.jpg)
- 
-![rmu21](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/rmu21.jpg)
 
+![rmu4](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/rmu4.jpg)
+
+![rmu13](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/rmu13.jpg)
+
+![rmu14](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/rmu14.jpg)
+
+![rmu15](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/rmu15.jpg)
+
+![rmu18](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/rmu18.jpg)
+
+![rmu19](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/rmu19.jpg)
+
+![rmu21](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/rmu21.jpg)
 
 April 16, 2008 UPDATE from Dodie
 
@@ -61,4 +58,4 @@ Today was Game Day for Keith and the Fight’n Colonials at RMU.  They played T
 
 Below is a gallery of photos taken at the RMU games during 2008
 
-[April 12, 2008](/families/gene/keith-lucky-13-lax-robert-morris-u-2008-season/) [Linda](/author/admin/)
+April 12, 2008 Linda
