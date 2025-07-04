@@ -26,10 +26,10 @@ Love, me
 
 July 8, 2010:
 
-Haven’t heard much from Brian except that he is posting photos to a Flickr account. Really great to see what he is seeing! Check out more of his photos at <Anchor label="http://www.flickr.com/photos/brianinindia/" target="_blank" href="http://www.flickr.com/photos/brianinindia/">[http://www.flickr.com/photos/brianinindia/](http://www.flickr.com/photos/brianinindia/)</Anchor>
+Haven’t heard much from Brian except that he is posting photos to a Flickr account. Really great to see what he is seeing! Check out more of his photos at <Anchor label="[http://www.flickr.com/photos/brianinindia/](http://www.flickr.com/photos/brianinindia/)" target="_blank" href="http://www.flickr.com/photos/brianinindia/" />
 
 Just in from Dodie 06-28-10:
 
 Brian just called 11:30 AM  our time, 9:00 PM his time so he is 14.5 hours ahead of us. He had just gotten off work.   He is very tired but extremely happy.  He is loving teaching-he said he thinks his students are about his age but they look so young he can’t tell, mostly men, few women.  They are very attentive but quiet, the language barrier is there, so he has to  be very attentive.  The hotel is beautiful he said, a walk-in shower, a window overlooking the bay a 4-star breakfast every morning, air conditioning.  ….he said getting to work is a “trip” with goats, sheep cows in the roads, people running red lights, no signs, the dogs run in packs, birds hunting (luckily they are driven there).  He has yet to see monkeys.  Though it is monsoon season, the rains haven’t hit yet, it is very humid.  He experienced the market place yesterday, and did a lot of touring as well as a full day of work…….he will write more and send pictures after he gets some sleep.
 
-[August 4, 2010](/families/gene/dodie/update-august-4-brian-india/) [Linda](/author/admin/) [buckeyemedia@yahoo.com](mailto:buckeyemedia@yahoo.com) [http://www.flickr.com/photos/brianinindia/](http://www.flickr.com/photos/brianinindia/)
+August 4, 2010 Linda
