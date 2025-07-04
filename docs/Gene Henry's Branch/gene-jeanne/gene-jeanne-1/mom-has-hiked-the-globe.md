@@ -1,19 +1,16 @@
 ---
-title: "Mom has Hiked the Globe!"
+title: Mom has Hiked the Globe!
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![Cindy and Kathryn presenting the award](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/globe_mom_award.jpg)
- 
-![The Sunrise Hiking group](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/globe_hikers.jpg)
- 
-![The Henry family surrounding Jeanne and her award](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/globe-family.jpg)
- 
-![Jeanne with her patch](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/globe_mom_patch.jpg)
 
+![The Sunrise Hiking group](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/globe_hikers.jpg)
+
+![The Henry family surrounding Jeanne and her award](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/globe-family.jpg)
+
+![Jeanne with her patch](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/globe_mom_patch.jpg)
 
 On Sunday, March 25, 2018 the Cleveland Hiking Club Sunrise Hikers awarded Jeanne Henry a special award.  She has logged 25,000 miles, the circumference of the earth!  The award is called the Globe Award and very few hikers attain this amazing feat.
 
@@ -41,4 +38,6 @@ Cheers to your incredible accomplishments, Jeanne!
 
 Merryl   – Sunday, March 25, 2018
 
-[April 8, 2018](/families/general-family/mom-has-hiked-the-globe/) [Linda](/author/admin/)
+<br />
+
+April 8, 2018 Linda
