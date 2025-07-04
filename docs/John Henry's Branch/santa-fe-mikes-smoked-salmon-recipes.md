@@ -1,17 +1,14 @@
 ---
-title: "Santa Fe Mike’s Smoked Salmon Recipes"
+title: Santa Fe Mike’s Smoked Salmon Recipes
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![salmon1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/salmon1.jpg)
- 
-![salmon2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/salmon2.jpg)
- 
-![salmon3](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/salmon3.jpg)
 
+![salmon2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/salmon2.jpg)
+
+![salmon3](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/salmon3.jpg)
 
 All of you Henry’s with the Alaska connection, I recently acquired a smoker and have been experimenting with the standard stuff like chicken, ribs, corn… this weekend however I went way out there and along with a friend, processed 65 pounds of Alaskan salmon.
 
@@ -27,4 +24,4 @@ Squaw Candy – hot smoke Again, this should be prepped in 45F or less temperatu
 
 Squaw Candy will last 3 weeks in the refrigerator and a year in the freezer.
 
-[November 13, 2007](/families/john/mikesf/santa-fe-mikes-smoked-salmon-recipes/) [Linda](/author/admin/) [Santa Fe Mike’s Smoked Salmon Recipes PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/smoked-salmon.pdf)
+November 13, 2007
