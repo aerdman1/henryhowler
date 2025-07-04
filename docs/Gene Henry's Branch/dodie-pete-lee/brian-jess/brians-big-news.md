@@ -1,57 +1,54 @@
 ---
-title: "Brian’s Big News"
+title: Brian’s Big News
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![india-2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india-2.jpg)
- 
-![india-3](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india-3.jpg)
- 
-![india-4](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india-4.jpg)
- 
-![india-5](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india-5.jpg)
- 
-![india-6](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india-6.jpg)
- 
-![india-7](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india-7.jpg)
- 
-![india-8](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india-8.jpg)
- 
-![india-9](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india-9.jpg)
- 
-![india-brian-1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india-brian-1.jpg)
- 
-![india12](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india12.jpg)
- 
-![india13](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india13.jpg)
- 
-![india14](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india14.jpg)
- 
-![india15](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india15.jpg)
- 
-![india16](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india16.jpg)
- 
-![india17](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india17.jpg)
- 
-![india18](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india18.jpg)
- 
-![india19](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india19.jpg)
- 
-![india20](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india20.jpg)
- 
-![india21](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india21.jpg)
- 
-![india22](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india22.jpg)
- 
-![india23](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india23.jpg)
- 
-![inia-11](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/inia-11.jpg)
- 
-![inida-10](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/inida-10.jpg)
 
+![india-3](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india-3.jpg)
+
+![india-4](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india-4.jpg)
+
+![india-5](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india-5.jpg)
+
+![india-6](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india-6.jpg)
+
+![india-7](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india-7.jpg)
+
+![india-8](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india-8.jpg)
+
+![india-9](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india-9.jpg)
+
+![india-brian-1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india-brian-1.jpg)
+
+![india12](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india12.jpg)
+
+![india13](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india13.jpg)
+
+![india14](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india14.jpg)
+
+![india15](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india15.jpg)
+
+![india16](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india16.jpg)
+
+![india17](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india17.jpg)
+
+![india18](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india18.jpg)
+
+![india19](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india19.jpg)
+
+![india20](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india20.jpg)
+
+![india21](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india21.jpg)
+
+![india22](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india22.jpg)
+
+![india23](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/india23.jpg)
+
+![inia-11](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/inia-11.jpg)
+
+![inida-10](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/inida-10.jpg)
 
 Brian is headed to Mumbai, India   June 20th.  The company will get him his passport and the shots he needs.  This is the same city that Slum Dog Millionare was filmed in (see link below for information and pictures of the city-it is the second largest city in the world with extremely wealthy areas and extremely poor areas)  His job will be to train the native Indians the vfx that he does here.  The goal is to have them working on their own full length features so the company can accept more work from the movie industry (apparently they have to much work in LA).  He is very excited, a little nervous about the language barrier.
 
@@ -71,6 +68,5 @@ B p.s i may not have everyones current email Adr. .
 
 Some Photos from Brian’s Facebook:
 
-
-[June 14, 2010](/families/fred-henry/chris-ken/brians-big-news/)
- [Linda](/author/admin/)
+June 14, 2010\
+Linda
