@@ -1,13 +1,12 @@
 ---
-title: "Brian & Jess Lee – Art and Travel Video Blog"
+title: Brian & Jess Lee – Art and Travel Video Blog
+date: '2017-01-25T05:00:00.000Z'
 deprecated: false
-date: "2017-01-25T05:00:00.000Z"
 hidden: false
 ---
-
 Digital Art Nomad is a business and lifestyle blog built for people interested in achieving a fun business travel lifestyle. Jess and I have built several business’ around our art allowing us to achieve freedom we never imagined was possible. Through hard work we have achieved the ability to live anywhere we want. We have created this YouTube channel especially for those who want to do the same. We have a lot of great information on the way and some really entertaining videos on the way so make sure to subscribe.
 
-You can get more information at www.digitalartnomad.com. Brian Lee digitalartnomad llc phone: 7779510654 digitalartnomad@gmail.com
+You can get more information at <Anchor label="www.digitalartnomad.com" target="_blank" href="http://www.digitalartnomad.com">[www.digitalartnomad.com](http://www.digitalartnomad.com)</Anchor>. Brian Lee digitalartnomad llc phone: 7779510654
 
 Here are the episodes so far:
 
