@@ -62,8 +62,6 @@ Until next time!
 
 ***
 
-<br />
-
 Hello fellow Henry Howlers!
 
 I wanted to let everyone who has been following the “Letters to Home” series know that there is going to be a delay for the next few weeks on the next update.  Things with me are a bit crazy, mostly due to the very happy news of my acceptance to Hiram!  Whoever said the application process of college was hard was wrong; it’s the paperwork and meetings after the paperwork that are the hard part!  April is a favorite month for orientations, form deadlines, and meetings so I’m tied up with that and other delightful things involving my last few weeks at Lakeland such as finals and projects.
@@ -74,4 +72,4 @@ Thanks to all and have a Happy Easter!!
 
 Sheila
 
-March 13, 2011 Linda [1942 Enlistment Letters](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1942_letters.pdf) [1942 Letters PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1942_letters.pdf) [January – February 1943 Letters](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1943_Jan_Feb_letters.pdf) [January – February 1943 Letters PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1943_Jan_Feb_letters.pdf) [March 1943 Letters](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1943_March.pdf) [March 1943 Letters PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1943_March.pdf) [April – May 1943 Letters](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1943_Apr_May.pdf) [April-May 1943 Letters PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1943_Apr_May.pdf)
+March 13, 2011 Linda
