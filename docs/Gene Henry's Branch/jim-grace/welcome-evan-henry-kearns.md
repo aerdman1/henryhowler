@@ -1,23 +1,18 @@
 ---
-title: "Welcome Evan Henry Kearns!"
+title: Welcome Evan Henry Kearns!
+date: '2017-01-26T05:00:00.000Z'
 deprecated: false
-date: "2017-01-26T05:00:00.000Z"
 hidden: false
 ---
-
-
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/evan_kearns2.jpg)
- 
-![Image](https://i0.wp.com/www.facebook.com/images/emoji.php/v7/fb/2/16/1f499.png)
- 
-![Newborn Evan 01-13-17](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/evan_kearns1.jpg)
- 
-![Welcome Evan Henry Kearns](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/evan_kearns2.jpg)
- 
-![Evan on 2-2-17](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1Evan-2-2-17.jpg)
- 
-![Evan on 2-2-17](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/2Evan-2-2-17.jpg)
 
+![Image](https://i0.wp.com/www.facebook.com/images/emoji.php/v7/fb/2/16/1f499.png)
+
+![Newborn Evan 01-13-17](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/evan_kearns1.jpg)
+
+![Evan on 2-2-17](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1Evan-2-2-17.jpg)
+
+![Evan on 2-2-17](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/2Evan-2-2-17.jpg)
 
 From Erin & Jeremy: We are so happy to announce that Evan Henry Kearns was born last week. We are a healthy, happy family of three?
 
@@ -31,4 +26,4 @@ He is a beautiful baby!
 
 Happy New Year!
 
-[January 26, 2017](/families/gene/jim/erin-jeremy/welcome-evan-henry-kearns/) [Linda](/author/admin/)
+January 26, 2017 Linda
