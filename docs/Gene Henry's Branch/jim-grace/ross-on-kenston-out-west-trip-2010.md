@@ -1,19 +1,16 @@
 ---
-title: "Ross on Kenston Out West Trip 2010"
+title: Ross on Kenston Out West Trip 2010
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![WEBSection5-1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/WEBSection5-1.jpg)
- 
-![WEBSection5-2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/WEBSection5-2.jpg)
- 
-![WEBSection5-3](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/WEBSection5-3.jpg)
- 
-![WEBSection5](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/WEBSection5.jpg)
 
+![WEBSection5-2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/WEBSection5-2.jpg)
+
+![WEBSection5-3](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/WEBSection5-3.jpg)
+
+![WEBSection5](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/WEBSection5.jpg)
 
 Ross is traveling with the Kenston Out West Trip. He has eloquently written about the experience for the Spirit of Bainbridge newspaper.  A quote from Ross:
 
@@ -21,7 +18,11 @@ The Kenston Field Experience trip created such a camaraderie with one another th
 
 Here are the articles and photos to download.
 
-July3-2010Spirit-Ross july27-2010Spirit-Ross
+**<Anchor label="July3-2010Spirit-Ross " target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2010%2F07%2FJuly3-2010Spirit-Ross.pdf">July3-2010Spirit-Ross</Anchor>**
+
+<br />
+
+**<Anchor label="July27-2010Spirit-Ross" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2010%2F07%2Fjuly27-2010Spirit-Ross.pdf">July27-2010Spirit-Ross</Anchor>**
 
 Part II  By Ross Henry Three weeks, three days, 16 hours, 8,373 miles driven, 65+ miles hiked, four showers and 40 strangers to friends made, is the Kenston Out West Trip 2010 in conclusion. When I wrote the previous Spirit article, I covered a meager three days of the trip, and since then we have lived a tent-and-Coleman lifestyle for three weeks non-stop. The expectation was that we were to keep up a schoolwork philosophy as well as a rugged lifestyle, all under the grading eye of a counselor, but unlike school our textbooks became alive; the dangers and wonders of the world were not read, but rather experienced. During the three-week interval, we accomplished more than what was thought possible. Plus the diversity was abundant, from exploring the underground depths of Wind Cave with all its mystery, to standing on the white-capped mountains of the Rockies, that look out at the vast countryside. Just like that we as a group had our high moments as well as our low ones. Some of our greatest high moments were when everyone interacted with one another, and this occurred in no better of a place than on long hikes. When we were in Glacier National Park, we hiked a grand 10 miles. This hike was out to Iceberg Lake, which resembles the name quite well, and along the way people who hiked relatively close to one another would begin to strike up conversations with each other and almost instantly become friends. The hike itself was a little less than strenuous, and when we were at our halfway point we soon began to think, “What is everyone else doing at home? What could ever compare to what we were doing/seeing right here and now!” From Glacier National Park, all 40 of us boarder-jumped to Canada. At first reaction everyone seemed a little less than impressed, because all name-brand material for the US was different for the Canadians, and everything bought in US dollars was not currency exchanged for its Canadian worth, so in essence everything cost more. While taking our stay in Canada we saw every aspect of dinosaurs there is, from where the dinosaurs are excavated to where they are displayed in the Tyrrell Museum, and not to mention seeing the world’s largest dinosaur ever in a park nearby the museum. By far one of the highlights of the trip was our first annual KFE glacier hike on Athabasca Glacier. No one knew what to expect, so when we started everyone was taken to a new chilling world. Somehow, unexpectedly, we were part of the “exhibit” of the glacier, in that whenever a bus on monster wheels rolled tourists by where we were hiking, we became an attraction. Because we had our pictures taken by who knows how many other tourists on all the buses that rolled by, I guess one could call us legit. Crossing back into the United States created a pretty big deal, in that when our bus came up to the line we were all hustled out of the bus by border patrol and bunched into the confines of the security building. One at a time we had to go up to the desk and be stamped back into our country. Intimidation must be what they’re trained to do, and without a doubt they performed flawlessly.
 
