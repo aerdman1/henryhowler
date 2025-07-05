@@ -64,4 +64,4 @@ Pg 1 of News Herald article – 1999
 
 <br />
 
-[January 24, 2017](/families/gene/chip/judge-chip-henry/) [Linda](/author/admin/) [Chip News Herald Article 1999 PDF](/families/gene/chip/judge-chip-henry/attachment/chip-newhearld-article-1999/)
+January 24, 2017 Linda
