@@ -1,13 +1,10 @@
 ---
-title: "Katie’s Blog – Produce on Parade"
+title: Katie’s Blog – Produce on Parade
+date: '2017-01-25T05:00:00.000Z'
 deprecated: false
-date: "2017-01-25T05:00:00.000Z"
 hidden: false
 ---
-
-
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Screen-Shot-2017-01-25-at-2.55.41-PM.png)
-
 
 Katie’s cookbook , PURE & BEAUTIFUL VEGAN COOKING – available on Amazon, Barnes & Noble and other book outlets.
 
