@@ -1,10 +1,9 @@
 ---
-title: "Kenston boys win Chagrin Valley Conference track titles"
+title: Kenston boys win Chagrin Valley Conference track titles
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
 Kenston won only one running event, freshman Ross Henry’s triumph in the 3,200, but the Bombers beat Orange, 139-131, for the Chagrin Valley Conference Chagrin Division boys track meet title Thursday at Kenston.  John Kolibab won the high jump and Jack Rolf took the long jump for the Bombers. Orange’s Fred Roberts swept the 110 and 300 hurdles, Jacob Brister won the 100 and anchored the winning 4×100, and Michael Martin was the 1,600-meter champ. West Geauga won the girls title over Perry, 130-120. The Wolverines’ Chantel Richardson won the 100 and ran on the winning 4×200 and Allison Tyree won the 400 and ran on the winning 4×400. Aly Platek took the 800. Perry’s Abbie Clifford swept the 1,600 and 3,200.
 
 CONGRATS ROSS AND THE REST OF THE BOMBERS!
@@ -15,4 +14,4 @@ Also, this from Aunt Dodie: O, ROSS HENRY IS ON THE FRONT PAGE OF THE NEWS HERAL
 
 Way to go Ross, good job and great quote!!!!!!  I will send you the article.  Aunt Dodie
 
-[May 18, 2010](/families/gene/jim/ross/kenston-boys-win-chagrin-valley-conference-track-titles/) [Linda](/author/admin/)
+May 18, 2010
