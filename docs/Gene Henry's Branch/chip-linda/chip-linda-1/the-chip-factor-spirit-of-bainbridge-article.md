@@ -1,15 +1,12 @@
 ---
-title: "The Chip Factor – Spirit of Bainbridge article"
+title: The Chip Factor – Spirit of Bainbridge article
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
+<Image align="center" alt="Image" width="400px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/spirit-article-6-25-11.jpg" />
 
-
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/spirit-article-6-25-11.jpg)
- 
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/Chip-Factor-card.jpg)
-
 
 Spirit of Bainbridge – June 25, 2011
 
@@ -35,8 +32,8 @@ Don’t just be a friend…be the best friend you can possibly be.  Some of Chi
 
 Family is a superlative in life.  Chip obviously relished being one of six siblings, and cherished huge family gatherings dearly.  And he kept communications perking by means of email with far-flung family.  Maybe I need to try again with my New Year’s resolution to contact each of my 26 cousins this year!
 
-To keep momentum behind the inspiration, we at the Spirit of Bainbridge are having small “The Chip Factor” wallet-size cards and discs created-perfect for pocket, purse or desktop!  Each will serve as a reminder of the goodness we can share with others in our community and our world.  We’ll have them here at the Spirit office (above A&A Medical Supply in Knowles Plaza West, across from Chagrin Cinema) from 9 a.m. to noon Monday through Friday, beginning July 1.  They will also be available at Watson’s 87 Furniture in Middlefield. (Oh, if you would like to “chip in” on this project, we would gladly welcome your donation to underwrite costs.)  And if you bump into John Bauswein, aka Junkyard Chef, at the grocery store, he’s sure to have “The Chip Factor” with him!
+To keep momentum behind the inspiration, we at the Spirit of Bainbridge are having small “The Chip Factor” wallet-size cards and discs created-perfect for pocket, purse or desktop!  Each will serve as a reminder of the goodness we can share with others in our community and our world.  We’ll have them here at the Spirit office (above A\&A Medical Supply in Knowles Plaza West, across from Chagrin Cinema) from 9 a.m. to noon Monday through Friday, beginning July 1.  They will also be available at Watson’s 87 Furniture in Middlefield. (Oh, if you would like to “chip in” on this project, we would gladly welcome your donation to underwrite costs.)  And if you bump into John Bauswein, aka Junkyard Chef, at the grocery store, he’s sure to have “The Chip Factor” with him!
 
 A chip is just a small piece of something, like Chip Henry was just one person in the grand scheme of life.  He made a lasting statement simply by living a good life.  His dynamic spirit and passion for life continues on in us.
 
-[April 8, 2018](/families/gene/chip/the-chip-factor-spirit-of-bainbridge-article-6-25-11/) [Linda](/author/admin/)
+April 8, 2018 Linda
