@@ -1,19 +1,12 @@
 ---
-title: "Ipso Jure – Magazine of the Geauga Co. Bar Assn. June 2011"
+title: Ipso Jure – Magazine of the Geauga Co. Bar Assn. June 2011
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
+**The Ipso Jure – magazine of the Geauga County Bar Association Published June 2011**
 
-
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/ipso-jure-2.jpg)
- 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/ipso-jure-mag-6-2011-p1.jpg)
-
-
-The Ipso Jure – magazine of the Geauga County Bar Association Published June 2011
-
-President’s Page by Lisa J. Carey, Esq.
+**President’s Page by Lisa J. Carey, Esq.**
 
 Lawyers and judges have somewhat of a love-hate relationship. By that, I mean we, as lawyers, have to argue and present our cases and the judges have to make a decision, which we sometimes like and sometimes not.
 
@@ -39,4 +32,10 @@ The family has asked that if anyone has any stories about Judge Henry, to please
 
 As the Judge always used to say at the end of his hearings (at all the ones I ever went to anyway), “You folks have a good day”.
 
-[April 7, 2018](/families/gene/chip/ipso-jure-magazine-of-the-geauga-co-bar-assn-june-2011/) [Linda](/author/admin/)
+![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/ipso-jure-2.jpg)
+
+![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/04/ipso-jure-mag-6-2011-p1.jpg)
+
+<br />
+
+April 7, 2018 Linda
