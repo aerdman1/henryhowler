@@ -1,163 +1,10 @@
 ---
-title: "We Miss You Chip- Poems by Dan"
+title: We Miss You Chip- Poems by Dan
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
-![20-2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/20-2.jpg)
- 
-![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/2005misc-036.jpg)
- 
-![2005misc 093](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/2005misc-093.jpg)
- 
-![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/010102_2782.jpg)
- 
-![022010_4349](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/022010_4349.jpg)
- 
-![053110_7204](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/053110_7204.jpg)
- 
-![080509_8776](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/080509_8776.jpg)
- 
-![080809_8887](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/080809_8887.jpg)
- 
-![091909_0568](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/091909_0568.jpg)
- 
-![A Kids 2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/A-Kids-2.jpg)
- 
-![Adam and Dad](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Adam-and-Dad.jpg)
- 
-![annesophie 2000](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/annesophie-2000.jpg)
- 
-![baby-chip1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/baby-chip1.jpg)
- 
-![C + L beach](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/C-L-beach.jpg)
- 
-![cairo1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/cairo1.jpg)
- 
-![canada2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/canada2.jpg)
- 
-![chip 88-90 (6)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-88-90-6.jpg)
- 
-![chip 88-90 (7)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-88-90-7.jpg)
- 
-![chip 88-90 (8)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-88-90-8.jpg)
- 
-![chip 88-90 (9)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-88-90-9.jpg)
- 
-![chip 88-90 (12)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-88-90-12.jpg)
- 
-![chip 1994 (1)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-1994-1.jpg)
- 
-![chip 1994 (2)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-1994-2.jpg)
- 
-![chip 1994 (5)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-1994-5.jpg)
- 
-![chip 2006 (1)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-2006-1.jpg)
- 
-![chip 2006 (3)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-2006-3.jpg)
- 
-![chip 2006](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-2006.jpg)
- 
-![chip and dan 95](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-and-dan-95.jpg)
- 
-![Chip Senior Pic](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Chip-Senior-Pic.jpg)
- 
-![chip swearing-in 1994](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-swearing-in-1994.jpg)
- 
-![chip_brian](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip_brian.jpg)
- 
-![chip_joel85](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip_joel85.jpg)
- 
-![chip-dogs](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-dogs.jpg)
- 
-![chip-kimber4](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-kimber4.jpg)
- 
-![Chip3_ed](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Chip3_ed.jpg)
- 
-![chip4 (1)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip4-1.jpg)
- 
-![chip5 (1)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip5-1.jpg)
- 
-![ChipAdam3](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/ChipAdam3.jpg)
- 
-![Christmas08_16](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Christmas08_16.jpg)
- 
-![cip mom jim](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/cip-mom-jim.jpg)
- 
-![dodie_jim_chip](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/dodie_jim_chip.jpg)
- 
-![DSC_0022](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/DSC_0022.jpg)
- 
-![DSC_0068](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/DSC_0068.jpg)
- 
-![DSC_0092](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/DSC_0092.jpg)
- 
-![DSC_0437](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/DSC_0437.jpg)
- 
-![DSCF0053](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/DSCF0053.jpg)
- 
-![DSCF0133](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/DSCF0133.jpg)
- 
-![fishing AK](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/fishing-AK.jpg)
- 
-![At the Girdwood Forest Fair entrance](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Girdwood-Forest-Fair-Sign.jpg)
- 
-![HF Museum1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/HF-Museum1.jpg)
- 
-![IMG_0564](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_0564.jpg)
- 
-![IMG](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG.jpg)
- 
-![JarbidgeJail](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/JarbidgeJail.jpg)
- 
-![Judge Henry pic](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Judge-Henry-pic.jpg)
- 
-![marley-chip4x6](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/marley-chip4x6.jpg)
- 
-![Mother's Day2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Mothers-Day2.jpg)
- 
-![mudslide-Dave-Chip-Bob](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/mudslide-Dave-Chip-Bob.jpg)
- 
-![niagara93](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/niagara93.jpg)
- 
-![P1010045-1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/P1010045-1.jpg)
- 
-![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/P3070016_edited.jpg)
- 
-![PCV Chip in TT](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/PCV-Chip-in-TT.jpg)
- 
-![pcv chip_linda](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/pcv-chip_linda.jpg)
- 
-![Roll 17 - 289](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Roll-17-289.jpg)
- 
-![RS Karaoke4](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/RS-Karaoke4.jpg)
- 
-![Turkey Bowl 60](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Turkey-Bowl-60.jpg)
- 
-![Wahinya dinner 6](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Wahinya-dinner-6.jpg)
- 
-![wedding (3)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/wedding-3.jpg)
- 
-![wedding](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/wedding.jpg)
- 
-![wedding2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/wedding2.jpg)
- 
-![wedding3](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/wedding3.jpg)
- 
-![Yough kayaking](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Yough-kayaking.jpg)
- 
-![Roll 17 - 325](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Roll-17-325.jpg)
- 
-![Roll 17 - 375](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Roll-17-375.jpg)
- 
-![Roll 17 - 390](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Roll-17-390.jpg)
- 
-![Mom haircutting](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Mom-haircutting.jpg)
-
-
-A Brother Loved by Dan Henry
+**A Brother Loved by Dan Henry**
 
 Our lives changed forever the day that he left. One call – we were shattered, shocked, and bereft.
 
@@ -210,5 +57,157 @@ Just wanted to thank you, You made me feel great. I’ll honor your memory, Till
 Love and miss you,
 
 all of us
+
+![20-2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/20-2.jpg)
+
+![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/2005misc-036.jpg)
+
+![2005misc 093](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/2005misc-093.jpg)
+
+![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/010102_2782.jpg)
+
+![022010\_4349](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/022010_4349.jpg)
+
+![053110\_7204](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/053110_7204.jpg)
+
+![080509\_8776](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/080509_8776.jpg)
+
+![080809\_8887](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/080809_8887.jpg)
+
+![091909\_0568](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/091909_0568.jpg)
+
+![A Kids 2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/A-Kids-2.jpg)
+
+![Adam and Dad](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Adam-and-Dad.jpg)
+
+![annesophie 2000](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/annesophie-2000.jpg)
+
+![baby-chip1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/baby-chip1.jpg)
+
+![C + L beach](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/C-L-beach.jpg)
+
+![cairo1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/cairo1.jpg)
+
+![canada2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/canada2.jpg)
+
+![chip 88-90 (6)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-88-90-6.jpg)
+
+![chip 88-90 (7)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-88-90-7.jpg)
+
+![chip 88-90 (8)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-88-90-8.jpg)
+
+![chip 88-90 (9)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-88-90-9.jpg)
+
+![chip 88-90 (12)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-88-90-12.jpg)
+
+![chip 1994 (1)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-1994-1.jpg)
+
+![chip 1994 (2)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-1994-2.jpg)
+
+![chip 1994 (5)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-1994-5.jpg)
+
+![chip 2006 (1)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-2006-1.jpg)
+
+![chip 2006 (3)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-2006-3.jpg)
+
+![chip 2006](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-2006.jpg)
+
+![chip and dan 95](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-and-dan-95.jpg)
+
+![Chip Senior Pic](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Chip-Senior-Pic.jpg)
+
+![chip swearing-in 1994](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-swearing-in-1994.jpg)
+
+![chip\_brian](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip_brian.jpg)
+
+![chip\_joel85](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip_joel85.jpg)
+
+![chip-dogs](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-dogs.jpg)
+
+![chip-kimber4](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip-kimber4.jpg)
+
+![Chip3\_ed](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Chip3_ed.jpg)
+
+![chip4 (1)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip4-1.jpg)
+
+![chip5 (1)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/chip5-1.jpg)
+
+![ChipAdam3](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/ChipAdam3.jpg)
+
+![Christmas08\_16](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Christmas08_16.jpg)
+
+![cip mom jim](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/cip-mom-jim.jpg)
+
+![dodie\_jim\_chip](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/dodie_jim_chip.jpg)
+
+![DSC\_0022](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/DSC_0022.jpg)
+
+![DSC\_0068](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/DSC_0068.jpg)
+
+![DSC\_0092](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/DSC_0092.jpg)
+
+![DSC\_0437](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/DSC_0437.jpg)
+
+![DSCF0053](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/DSCF0053.jpg)
+
+![DSCF0133](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/DSCF0133.jpg)
+
+![fishing AK](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/fishing-AK.jpg)
+
+![At the Girdwood Forest Fair entrance](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Girdwood-Forest-Fair-Sign.jpg)
+
+![HF Museum1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/HF-Museum1.jpg)
+
+![IMG\_0564](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_0564.jpg)
+
+![IMG](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG.jpg)
+
+![JarbidgeJail](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/JarbidgeJail.jpg)
+
+![Judge Henry pic](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Judge-Henry-pic.jpg)
+
+![marley-chip4x6](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/marley-chip4x6.jpg)
+
+![Mother's Day2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Mothers-Day2.jpg)
+
+![mudslide-Dave-Chip-Bob](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/mudslide-Dave-Chip-Bob.jpg)
+
+![niagara93](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/niagara93.jpg)
+
+![P1010045-1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/P1010045-1.jpg)
+
+![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/P3070016_edited.jpg)
+
+![PCV Chip in TT](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/PCV-Chip-in-TT.jpg)
+
+![pcv chip\_linda](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/pcv-chip_linda.jpg)
+
+![Roll 17 - 289](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Roll-17-289.jpg)
+
+![RS Karaoke4](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/RS-Karaoke4.jpg)
+
+![Turkey Bowl 60](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Turkey-Bowl-60.jpg)
+
+![Wahinya dinner 6](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Wahinya-dinner-6.jpg)
+
+![wedding (3)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/wedding-3.jpg)
+
+![wedding](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/wedding.jpg)
+
+![wedding2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/wedding2.jpg)
+
+![wedding3](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/wedding3.jpg)
+
+![Yough kayaking](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Yough-kayaking.jpg)
+
+![Roll 17 - 325](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Roll-17-325.jpg)
+
+![Roll 17 - 375](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Roll-17-375.jpg)
+
+![Roll 17 - 390](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Roll-17-390.jpg)
+
+![Mom haircutting](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Mom-haircutting.jpg)
+
+<br />
 
 [July 28, 2011](/families/gene/miss-chip-poem-dan/) [Linda](/author/admin/)
