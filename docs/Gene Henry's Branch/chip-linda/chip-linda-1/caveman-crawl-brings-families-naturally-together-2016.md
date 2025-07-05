@@ -1,19 +1,16 @@
 ---
-title: "Caveman Crawl Brings Families Naturally Together – 2016"
+title: Caveman Crawl Brings Families Naturally Together – 2016
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
+<Image align="center" alt="Image" border={false} caption="Grandma Jeanne and Adam at the 2016 Caveman Crawl" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/03/Jeanne-Adam-CavemanCrawl-2016.jpg" />
 
+<br />
 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/03/Jeanne-Adam-CavemanCrawl-2016.jpg)
+**This article was printed in the Maple Leaf, June 16, 2016**
 
-
-Grandma Jeanne and Adam at the 2016 Caveman Crawl
-
-This article was printed in the Maple Leaf, June 16, 2016
-
-Caveman Crawl Brings Families Naturally Together June 16, 2016 by Rose Nemunaitis
+**Caveman Crawl Brings Families Naturally Together June 16, 2016 by Rose Nemunaitis**
 
 Some ran to beat a personal record, others for the sheer excitement of participation, and one to continue a special initiative established in the memory of his dad.
 
