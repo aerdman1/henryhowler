@@ -1,15 +1,12 @@
 ---
-title: "Jim Henry’s Turkey Trot"
+title: Jim Henry’s Turkey Trot
+date: '2006-01-30T05:00:00.000Z'
 deprecated: false
-date: "2006-01-30T05:00:00.000Z"
 hidden: false
 ---
-
-
 ![turkeyjim](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/turkeyjim.jpg)
- 
-![turkey_run](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/turkey_run.jpg)
 
+![turkey\_run](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/turkey_run.jpg)
 
 A hilarious story (photo illustrations included) of a incident that occurred while Uncle Jim was out running with Dakota.
 
@@ -29,4 +26,4 @@ There are two pictures included: me in the kitchen and a picture of me running w
 
 Jim 12-30-06
 
-[January 30, 2006](/families/gene/jim/jim-henrys-turkey-trot/) [Linda](/author/admin/)
+January 30, 2006
