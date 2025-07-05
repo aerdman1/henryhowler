@@ -1,21 +1,18 @@
 ---
-title: "Another Henry in Lesotho – June 2009"
+title: Another Henry in Lesotho – June 2009
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![giraffe-sunset-touched](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/giraffe-sunset-touched.jpg)
- 
-![IMG_1902_touched](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_1902_touched.jpg)
- 
-![IMG_1946_touched](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_1946_touched.jpg)
- 
-![IMG_1965-touched](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_1965-touched.jpg)
- 
-![IMG_2165-touched](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_2165-touched.jpg)
 
+![IMG\_1902\_touched](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_1902_touched.jpg)
+
+![IMG\_1946\_touched](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_1946_touched.jpg)
+
+![IMG\_1965-touched](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_1965-touched.jpg)
+
+![IMG\_2165-touched](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_2165-touched.jpg)
 
 Anna had an amazing trip to Lesotho, southern Africa (yes, land of Chip and Linda!) with a group from college. Here are a few pictures and a very short summary from her:
 
@@ -23,6 +20,5 @@ I went to Lesotho for a month with Wittenberg doing service projects (building p
 
 Love, Anna
 
-
-[June 30, 2009](/families/gene/jim/anna/another-henry-lesotho-june-2009/)
- [Linda](/author/admin/)
+June 30, 2009\
+Linda
