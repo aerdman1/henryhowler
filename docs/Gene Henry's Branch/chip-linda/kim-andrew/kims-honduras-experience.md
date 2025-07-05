@@ -14,7 +14,7 @@ We will post updates with lots of photos from Kimbo here:
 
 **<Anchor label="Update Letters July 11-13" target="_blank" href="https://henry-howler.readme.io/docs/update-kims-honduras-experience-july-11-13-2010#/">Update Letters July 11-13</Anchor>**
 
-\*\*\<Anchor label="Update Letters July 17-23\*\*" target="\_blank" href="https\://henry-howler.readme.io/docs/update-kims-honduras-experience-july-17-23#/">Update Letters July 17-23\*\*\</Anchor>
+**\<Anchor label="Update Letters July 17-23**" target="\_blank" href="[https://henry-howler.readme.io/docs/update-kims-honduras-experience-july-17-23#/">Update](https://henry-howler.readme.io/docs/update-kims-honduras-experience-july-17-23#/">Update) Letters July 17-23\*\*\</Anchor>
 
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2010/07/34593_523845933501_211000828_31281135_6641764_n.jpg)
 
