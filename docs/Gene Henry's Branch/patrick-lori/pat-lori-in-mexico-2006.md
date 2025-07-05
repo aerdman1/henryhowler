@@ -1,19 +1,16 @@
 ---
-title: "Pat & Lori in Mexico 2006"
+title: Pat & Lori in Mexico 2006
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2006/03/seaturtlebaby-1.jpg)
- 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2006/03/pat_turtlebaby.jpg)
- 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2006/03/pat_sailfish.jpg)
- 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2006/03/lori_sunset.jpg)
 
+![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2006/03/pat_turtlebaby.jpg)
+
+![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2006/03/pat_sailfish.jpg)
+
+![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2006/03/lori_sunset.jpg)
 
 This is a quick note about our trip . . . Patrick and I left for Manzanillo, Mexico the day after Christmas. Manzanillo is located on the pacific side of Mexico and this region was the most lush and economically stable part of that country we’ve visited so far. There were very few tourists from North America and those whom we met were mostly from Canada. A lot of the tourists were from Central America (mostly Guadalajara) and seemed well to do. We stayed in a condo right on the beach in Santiago Bay. When we learned that this is where Bo Derek did her famous run on the beach in the film, ’10’, we were reminiscent of her image and the music from the movie but no matter how hard we looked, she never appeared!
 
@@ -23,4 +20,4 @@ While much of the time was spent on the beach right where we stayed we did some 
 
 Finally, each evening we made sure that we were always on the beach so we could watch the sun set. This photo was taken when I sat on the sand right outside our condo. When we arrived back in Anchorage early this morning (January 6th) we were hit with a blast of reality as we deplaned and were met by a cold breeze, not at all like the gentle, tropical breeze we had been enjoying. Its definitely winter here! The eight days of sun and beach seems so very long ago . . . Lori
 
-[March 7, 2006](/families/gene/patrick/pat-lori-mexico-2006/) [Linda](/author/admin/)
+March 7, 2006 Linda
