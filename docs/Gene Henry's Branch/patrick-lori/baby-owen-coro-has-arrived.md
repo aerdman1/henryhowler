@@ -1,17 +1,14 @@
 ---
-title: "Baby Owen Coro has ARRIVED!"
+title: Baby Owen Coro has ARRIVED!
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![owen-day1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/owen-day1.jpg)
- 
-![owen-parents](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/owen-parents.jpg)
- 
-![robyn-owen](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/robyn-owen.jpg)
 
+![owen-parents](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/owen-parents.jpg)
+
+![robyn-owen](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/robyn-owen.jpg)
 
 Baby Owen Henry Coro arrived on Valentine’s Day in Seattle WA.  Grandma Lori was there and Grandpa Patrick was forwarding her  e-mails with pictures from home in Anchorage to keep us all apprised.
 
@@ -19,4 +16,4 @@ Owen arrived a very healthy 9.5 lbs 20.5 inches.  He joins Mom Robyn and Dad He
 
 Welcome to the family Owen Henry Coro!
 
-[February 19, 2011](/families/gene/patrick/baby-owen-coro-arrived/) [Linda](/author/admin/)
+February 19, 2011 Linda
