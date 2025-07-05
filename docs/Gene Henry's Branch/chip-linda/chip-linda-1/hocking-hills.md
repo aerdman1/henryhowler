@@ -5,6 +5,12 @@ hidden: false
 metadata:
   robots: index
 ---
+Over the MLK holiday weekend Chip and I went to a magical park in southern Ohio called Hocking Hills State Park. This park has some very unique geological features and is a popular place to visit in the summertime.  We had heard that it is even more spectacular in the winter with the crazy ice formations.  We weren’t disappointed…..
+
+We rented a tiny cabin called The Eagle’s Nest with a hot tub and it was very cool to sit in the tub at night with the bright moon and stars lighting the snowy woods all around.  Because this park is so close to Columbus, Kim and her boyfriend Andrew traveled down for dinner with us at the cabin.  And we got to stop in at her work the next day (Yoga on High) and took her and Andrew out for her 23rd B-day!
+
+We barely scratched the surface of all the trails and sights at Hocking Hills and plan to go back again soon.  We had a great time and highly recommend this short trip to everyone. Linda
+
 ![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/010102_4539.jpg)
 
 ![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/010102_4543.jpg)
@@ -61,12 +67,8 @@ metadata:
 
 ![011711\_4636](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/011711_4636.jpg)
 
-Over the MLK holiday weekend Chip and I went to a magical park in southern Ohio called Hocking Hills State Park. This park has some very unique geological features and is a popular place to visit in the summertime.  We had heard that it is even more spectacular in the winter with the crazy ice formations.  We weren’t disappointed…..
+<br />
 
-We rented a tiny cabin called The Eagle’s Nest with a hot tub and it was very cool to sit in the tub at night with the bright moon and stars lighting the snowy woods all around.  Because this park is so close to Columbus, Kim and her boyfriend Andrew traveled down for dinner with us at the cabin.  And we got to stop in at her work the next day (Yoga on High) and took her and Andrew out for her 23rd B-day!
-
-We barely scratched the surface of all the trails and sights at Hocking Hills and plan to go back again soon.  We had a great time and highly recommend this short trip to everyone. Linda
-
-[January 18, 2011](/families/gene/chip/hocking-hills-magic/) [Linda](/author/admin/)
+January 18, 2011 Linda
 
 2011-01-18T05:00:00.000Z
