@@ -28,11 +28,9 @@ We’ll remember and cherish him though we’re apart Together we’ll keep him 
 
 I know that he loves us, and we’ll meet on that shore, Where sorrow, and sadness, and pain are no more.
 
-We Miss You – **by Dan Henry, July 23, 2011**
-
 ***
 
-<br />
+**We Miss You – by Dan Henry, July 23, 2011**
 
 Dear Chip,
 
