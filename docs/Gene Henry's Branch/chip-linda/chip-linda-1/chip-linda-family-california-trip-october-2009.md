@@ -88,4 +88,4 @@ I have been planning my family reunion for about a year and we finally got it to
 
 <br />
 
-[October 12, 2009](/families/gene/chip/california-trip-october-2009/) [Linda](/author/admin/)
+October 12, 2009 Linda
