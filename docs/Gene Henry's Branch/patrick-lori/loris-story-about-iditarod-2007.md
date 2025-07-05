@@ -1,19 +1,16 @@
 ---
-title: "Lori’s Story about Iditarod 2007"
+title: Lori’s Story about Iditarod 2007
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![Sigrid Ekran, Ed Iten, Louis Nelson (Uncle Louis), John Baker and Tolef Monson](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/kotz_fab_5.jpg)
- 
+
 ![Lori with Tolef Monson's Mom, Joanne , who was visiting from Minnesota](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/lori_joanne_monson.jpg)
- 
+
 ![Tahayla Baker (John's daughter) with the award given Uncle Louis](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/tahalya_award.jpg)
 
-
-Lori Henry’s story about Iditarod 2007 that has been submitted to the Arctic Sounder, newspaper of NW Alaska -http://www.alaskanewspapers.com/arcticsounder.asp
+Lori Henry’s story about Iditarod 2007 that has been submitted to the Arctic Sounder, newspaper of NW Alaska -[http://www.alaskanewspapers.com/arcticsounder.asp](http://www.alaskanewspapers.com/arcticsounder.asp)
 
 Fish Creek must have some magic in the water. Or the sheefish which can be found there must be loaded with something special. Located just over 20 miles from Kotzebue that creek has become known for the raging success of the mushers who live within a few miles of each other and train their dog teams there. Louis Nelson, Sr., Ed Iten, John Baker, Tollef Monson, and our Norwegian guest, Sigrid Ekran, have all put Kotzebue and Fish Creek on the radar screen of everyone who followed the 35th Annual Iditarod Sled Dog Race. What these five teams accomplished in the 2007 Iditarod was phenomenal! Three of the teams finished in the top 10 with Iten in 6th, Baker in 8th, and Monson in 10th. The other two teams, Ekran and Nelson, finished in 20th and 23rd.
 
@@ -31,4 +28,4 @@ The Kotzebue Dog Mushers Association hosts competitive races during the season a
 
 Even with all of this great support, I still wonder, is there a secret we should keep hidden in the hills, valleys, and creeks where our teams live and train? Is it in the sheefish fed to the dogs? Whatever it is, let’s encourage them to keep doing what they are doing and give them the recognition they so deserve. They inspired many with the images they left along the Iditarod trail and will be remembered fondly. Louie, for being friendly, affectionate, and humble; Ed for being strategic, down to earth, and just plain tough; John for being calm, steady, and having a great sense of humor; Tollef for being positive, focused, and unfazed to be running with the big boys; and Sigrid for being determined and always smiling even when experiencing physical pain. Congratulations Louie, Ed, John, Tollef, and Sigrid, we’re very proud of you!
 
-[March 20, 2007](/families/gene/patrick/loris-article-arctic-sounder-newspaper-33107/) [Linda](/author/admin/)
+March 20, 2007 Linda
