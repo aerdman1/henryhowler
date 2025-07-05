@@ -1,68 +1,9 @@
 ---
-title: "Alaskan Adventure by Adam Henry – August 2008"
+title: Alaskan Adventure by Adam Henry – August 2008
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
-![7 Mile Run](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/7-mile-run.jpg)
- 
-![Kenai camping](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Kenai-Camping.jpg)
- 
-![Adam pre flight](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Adam-PreFlight.jpg)
- 
-![Adam mid flight](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Adam-Mid-Flight.jpg)
- 
-![Keith mid flight](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Keith-Mid-Flight.jpg)
- 
-![Before floating the Kenai](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Beforefloating-the-Kenai.jpg)
- 
-![Drive down to Ken](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Drive-down-to-Kenai.jpg)
- 
-![Adam & David Kenai coffin](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Adam-David-Kenai-Coffin.jpg)
- 
-![Adam & David going](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Adam-David-Going.jpg)
- 
-![Adam & David gone](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Adam-David-Gone.jpg)
- 
-![Adam & David still smiling](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Still-Smiling.jpg)
- 
-![Fishing the Kenai](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Fishing-the-Kenai.jpg)
- 
-!
-[Dan floating the Kenai](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Floating-the-Kenai.jpg)
-
- 
-![Hand Tram Hike](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Hand-Tram-Hike.jpg)
- 
-![Hand Tram](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Hand-Tram.jpg)
- 
-![Hike group](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Hike-Break.jpg)
- 
-![Hike](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Hike.jpg)
- 
-![IMG_1416](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/IMG_1416.jpg)
- 
-![IMG_1625](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/IMG_1625.jpg)
- 
-![IMG_1626](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/IMG_1626.jpg)
- 
-![Walking trail](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Walking-trail.jpg)
- 
-![Keith](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Keith.jpg)
- 
-![Pat & Glenn](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Pat-Glen.jpg)
- 
-![UD's ribs](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/UDs-Ribs.jpg)
- 
-![Adam's ribs](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Adams-Ribs.jpg)
- 
-![David and Glenn](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Ugly-Glen-David.jpg)
- 
-![UD's backyard](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/UP-Keith.jpg)
-
-
 Around this time last year Keith and I had just graduated; myself from Miami and Keith from WRA. Our prize for graduating from Uncle Pat and Aunt Lori were plane tickets. They, of course, were hoping that these tickets would bring us to Alaska but they were mileage tickets that we could redeem at any time. Well, time went on and Keith was off to school busy with lacrosse and I was wandering the country trying to find my place in life and the tickets just sat there. Towards the end of June I found myself needing to get away from my daily routine and coordinated with Keith a good time for us both to cash in those tickets and head north to Alaska. We came to our Uncle and Aunt with the idea and within hours we had round trip adventures to Anchorage.
 
 The next month seemed to fly by and before I knew it I was at the baggage claim of Ted Stevens Int’l Airport waiting for my bag at 1:00 in the morning. It was then that Keith tapped me on the shoulder and woke me up from my daze just in time to see my bag scoot by on the conveyer belt. We headed out into the warm Alaskan night and our adventure began.
@@ -87,6 +28,63 @@ My flight was to leave at 8:30 Wednesday morning which left UP and I enough time
 
 Thank You
 
-~Adam Henry
+\~Adam Henry
 
-[August 6, 2008](/families/gene/alaskan-adventure-adam-henry-august-2008/) [Linda](/author/admin/)
+![7 Mile Run](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/7-mile-run.jpg)
+
+![Kenai camping](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Kenai-Camping.jpg)
+
+![Adam pre flight](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Adam-PreFlight.jpg)
+
+![Adam mid flight](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Adam-Mid-Flight.jpg)
+
+![Keith mid flight](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Keith-Mid-Flight.jpg)
+
+![Before floating the Kenai](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Beforefloating-the-Kenai.jpg)
+
+![Drive down to Ken](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Drive-down-to-Kenai.jpg)
+
+![Adam & David Kenai coffin](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Adam-David-Kenai-Coffin.jpg)
+
+![Adam & David going](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Adam-David-Going.jpg)
+
+![Adam & David gone](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Adam-David-Gone.jpg)
+
+![Adam & David still smiling](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Still-Smiling.jpg)
+
+![Fishing the Kenai](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Fishing-the-Kenai.jpg)
+
+!\
+[Dan floating the Kenai](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Floating-the-Kenai.jpg)
+
+![Hand Tram Hike](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Hand-Tram-Hike.jpg)
+
+![Hand Tram](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Hand-Tram.jpg)
+
+![Hike group](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Hike-Break.jpg)
+
+![Hike](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Hike.jpg)
+
+![IMG\_1416](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/IMG_1416.jpg)
+
+![IMG\_1625](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/IMG_1625.jpg)
+
+![IMG\_1626](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/IMG_1626.jpg)
+
+![Walking trail](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Walking-trail.jpg)
+
+![Keith](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Keith.jpg)
+
+![Pat & Glenn](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Pat-Glen.jpg)
+
+![UD's ribs](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/UDs-Ribs.jpg)
+
+![Adam's ribs](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Adams-Ribs.jpg)
+
+![David and Glenn](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/Ugly-Glen-David.jpg)
+
+![UD's backyard](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2008/08/UP-Keith.jpg)
+
+<br />
+
+August 6, 2008 Linda
