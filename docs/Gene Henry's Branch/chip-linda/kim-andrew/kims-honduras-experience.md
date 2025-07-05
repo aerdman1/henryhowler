@@ -1,10 +1,11 @@
 ---
 title: Kim’s Honduras Experience
+excerpt: 07-05-2010 from Chip
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
-**07-05-10 from Chip: Friends & Family,**
+**Friends & Family,**
 
 Kim has arrived in Honduras and has a special cell phone that allows her to receive text messages for free.  Unfortunately, a lot of US carriers, including Verizon, are not compatible with her phone.  If you want to be able to send her text messages, you can sign up at the website below and send her text messages  for  15 cents.  You have to send the text messages to her Belgium cell phone number which is  32489963299.  It costs her about 50 cents for her to reply to your text message,  but nothing to receive your text message.
 
@@ -14,7 +15,7 @@ We will post updates with lots of photos from Kimbo here:
 
 **<Anchor label="Update Letters July 11-13" target="_blank" href="https://henry-howler.readme.io/docs/update-kims-honduras-experience-july-11-13-2010#/">Update Letters July 11-13</Anchor>**
 
-**\<Anchor label="Update Letters July 17-23**" target="\_blank" href="[https://henry-howler.readme.io/docs/update-kims-honduras-experience-july-17-23#/">Update](https://henry-howler.readme.io/docs/update-kims-honduras-experience-july-17-23#/">Update) Letters July 17-23\*\*\</Anchor>
+**\<Anchor label="Update Letters July 17-23**" target="\_blank" href="<Anchor label="https://henry-howler.readme.io/docs/update-kims-honduras-experience-july-17-23#/&#x22;>Update" target="_blank" href="https://henry-howler.readme.io/docs/update-kims-honduras-experience-july-17-23#/&#x22;>Update">[https://henry-howler.readme.io/docs/update-kims-honduras-experience-july-17-23#/">Update](https://henry-howler.readme.io/docs/update-kims-honduras-experience-july-17-23#/">Update)</Anchor> Letters July 17-23\*\*\</Anchor>
 
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2010/07/34593_523845933501_211000828_31281135_6641764_n.jpg)
 
