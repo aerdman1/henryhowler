@@ -1,15 +1,12 @@
 ---
-title: "Polly’s Amazing Ring Story"
+title: Polly’s Amazing Ring Story
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![Screen Shot 2017-01-06 at 8.22.09 PM](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Screen-Shot-2017-01-06-at-8.22.09-PM.png)
- 
-![Screen Shot 2017-01-06 at 8.22.20 PM](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Screen-Shot-2017-01-06-at-8.22.20-PM.png)
 
+![Screen Shot 2017-01-06 at 8.22.20 PM](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Screen-Shot-2017-01-06-at-8.22.20-PM.png)
 
 This is a remarkable and true tale of Polly’s lost Kenston class ring and how it came back to her.
 
@@ -29,4 +26,4 @@ I’m also excited to hear your in the school system, perhaps I could get some p
 
 Below are three emails in the order they were received. February 21, 2007 To whom it may concern: Recently walking on a Florida Beach I found a Kenston High School ring. The HS ring is from the Class of 1985 with an engraving of Polly L. Henry. I would like to get the ring back to her. If it’s possible to get in contact with Polly or someone in her Class, I’d appreciate the passing of my email address, so arrangements can be made to get her ring back. Many Thanks, Lisa Thompson February 22, 2007 Ronnie, many thanks to you and Anna. This certainly made my day. Polly and I have been in contact. Thanks so much! Lisa February 24, 2007 Hi Mr. Continenza! This is the Polly Henry. Thanks so much for your part in this beautiful story. Lisa and I have been back and forth with communications, and this is just a wonderful ending to one story, and a great beginning of another. I think I have made a new friend! So the story goes like this. I moved down here to Naples 3 and a half years ago, and I met a wonderful man. About a year and a half later, he presented me with an engagement ring and a marriage proposal. Later he whined about how the gal gets a ring to wear, and the guy has to wait until the wedding, so I let him wear my high school class ring. He didn’t wear it much, but he DID have it on when we were at the beach one day, Wiggins Pass. We were playing catch with a football when the ring flew off his little finger. We searched and searched, but came up with nothing. This was a year and a half ago! Last year, this angel, Lisa, found it while walking the beach. She and her husband had purchased a second home down here, and they are here only 3 times a year. You know the rest of the story! Thank you for your part in this. I don’t remember having my name engraved in the ring. Warm wishes! Polly Henry Polly received her ring in the mail, safe and sound. Here are some pictures she sent to prove it. Aunt Linda
 
-[February 24, 2007](/families/gene/polly/pollys-amazing-ring-story/) [Linda](/author/admin/)
+February 24, 2007 Linda
