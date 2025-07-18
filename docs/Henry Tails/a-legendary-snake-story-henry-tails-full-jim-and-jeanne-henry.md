@@ -12,4 +12,4 @@ Well, the only one home was Grandma.  Knowing that we were missing “Monty Boa
 
 -Jim Henry-
 
-[August 6, 2017](/henry-tails/a-legendary-snake-story-henry-tails-full-jim-and-jeanne-henry/) [Brian Lee](/author/brianlee/)
+August 6, 2017 Brian Lee
