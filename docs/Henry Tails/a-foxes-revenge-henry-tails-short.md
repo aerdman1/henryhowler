@@ -10,6 +10,6 @@ Seems that while in the woods he ran across a Red Fox that I guess he thought wo
 
 After proudly returning to camp and showing off his catch, he shortly discovered to his extreme discomfort that all the clothes he was wearing were totally infested with fleas.
 
-(function($) (window\.fnames = new Array(); window\.ftypes = new Array();fnames\[1]='FNAME';ftypes\[1]='text';fnames\[0]='EMAIL';ftypes\[0]='email';fnames\[2]='LNAME';ftypes\[2]='text';fnames\[3]='BIRTHDAY';ftypes\[3]='birthday';)(jQuery));var $mcj = jQuery.noConflict(true);
+<br />
 
-[July 10, 2017](/henry-tails/a-foxes-revenge/) [Brian Lee](/author/brianlee/)
+July 10, 2017 Brian Lee
