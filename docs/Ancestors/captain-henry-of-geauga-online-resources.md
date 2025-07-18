@@ -11,7 +11,7 @@ hidden: false
 **Captain Henry of Geauga A memoir by his son, Frederick A. Henry (1867-1949)** (Cleveland: The Gates Press, 1942)
 
 The ENTIRE book is online and searchable through the HathiTrust Digital Library!  \
-Use this link: <Anchor label="[https://babel.hathitrust.org]()   -Capt. Henry" target="_blank" href="https://babel.hathitrust.org" />
+Use this link: <Anchor label="HathiTrust-Capt Henry" target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=wu.89062145354&view=1up&seq=1">HathiTrust-Capt Henry</Anchor>
 
 ***
 
