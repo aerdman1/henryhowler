@@ -1,13 +1,10 @@
 ---
-title: "A Very Sad Tale by Dan & Cindy"
+title: A Very Sad Tale by Dan & Cindy
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/dan.jpg)
-
 
 Dan: This will be short cause typing is no longer a easy skill. short story: my bicept muscle pulled away from the bone while doing some work -ouch. I hope to be seen by a surgeon on Thursday, and hope to have surgery on Tuesday of next week. Not much pain, but I am next to useless (don’t say it).
 
@@ -17,6 +14,5 @@ Cindy: Dan was trying to put a trailer that was loaded with three pieces of furn
 
 The difficult part of all this is to get him to not lift and try to do things to further injure himself. 😐 He doesn’t do well to idle.
 
-
-[June 10, 2008](/families/gene/dan/a-very-sad-tale-by-dan-cindy/)
- [Linda](/author/admin/)
+June 10, 2008\
+Linda
