@@ -1,31 +1,26 @@
 ---
-title: "1903 Roster of Survivors of the 42nd Regiment O.V.I."
+title: 1903 Roster of Survivors of the 42nd Regiment O.V.I.
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Charles-e1538965601359.jpg)
-
 
 Captain Charles E. Henry(1836-1906)
 
-
 ![pg 179 CaptofGeauga](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/pg-179-CaptofGeauga.jpeg)
- 
-![Cover](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Roster-42nd-Reg-1903_1-1.jpg)
- 
-![Inside cover and first poem](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Roster-42nd-Reg-1903_2.jpg)
- 
-![Second page - note Capt. Henry was in Company A, one of the first to sign up to join the Union Army](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Roster-42nd-Reg-1903_3.jpg)
- 
-![This poem appears on the last 2 pages](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Roster-42nd-Reg-1903_4.jpg)
- 
-![Last page of booklet](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Roster-42nd-Reg-1903_5.jpg)
- 
-![This photo taken 3 years before the Reunion](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/pg-628-Capof-Geauga.jpeg)
 
+![Cover](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Roster-42nd-Reg-1903_1-1.jpg)
+
+![Inside cover and first poem](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Roster-42nd-Reg-1903_2.jpg)
+
+![Second page - note Capt. Henry was in Company A, one of the first to sign up to join the Union Army](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Roster-42nd-Reg-1903_3.jpg)
+
+![This poem appears on the last 2 pages](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Roster-42nd-Reg-1903_4.jpg)
+
+![Last page of booklet](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Roster-42nd-Reg-1903_5.jpg)
+
+![This photo taken 3 years before the Reunion](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/pg-628-Capof-Geauga.jpeg)
 
 Captain C. E. Henry was the Secretary of this committee to reunite their old Civil War Regiment of the O.V.I. (Ohio Voluntary Infantry) after 40 years.  The little booklet lists several hundred names and the cities where the men now reside.
 
@@ -37,7 +32,7 @@ The second poem is called “Growing Love” and is sung to a tune called “The
 
 Roster of 42nd Regiment\_1903 PDF
 
-Note: I only scanned the pages for this PDF that pertain to Capt. Henry which include the Poems and his regiment. There are about 15 pages of names not scanned.
+Note: I only scanned the pages for this PDF that pertain to Capt. Henry which include the Poems and his regiment. There are about 15 pages of names not scanned. <Anchor label="1903 Roster of Survivors of the 42nd Regiment O.V.I." target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F03%2FRoster-of-42nd-Regiment_1903.pdf">1903 Roster of Survivors of the 42nd Regiment O.V.I.</Anchor>PDF
 
 Charles Eugene Henry enlisted in Company A, Ohio 42nd Infantry Regiment on 25 Sep 1861. Promoted to Full 2nd Lieutenant on 25 Jul 1862. Promoted to Full 1st Lieutenant on 01 May 1863. Promoted to Full Adjutant on 22 Aug 1864. Mustered out on 02 Dec 1864 at Columbus, OH. Source – Official Roster of the Soldiers of the State of OhioUnion Blue: History of MOLLUS
 
