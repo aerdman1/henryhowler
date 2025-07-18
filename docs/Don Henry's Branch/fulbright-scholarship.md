@@ -14,4 +14,4 @@ WORCESTER, Mass.– May 12, 2009 – – Kristen L. Billiar, associate professor
 
 This is exciting news! Kris, Cori, Lucy and Simone will be in Ireland for the next academic year. Read the whole News Release from Worcester Polytechnic Institute.
 
-[May 17, 2009](/families/don/cori/wpi-professor-receives-fulbright-scholarship-to-conduct-research-on-tissue-engineering-in-ireland/) [Linda](/author/admin/) [News Release](file:///Users/lindahenry/Sites/HenryHowler/Stories/cori-kris/stories_kris_ireland.html)
+May 17, 2009 Linda News Release
