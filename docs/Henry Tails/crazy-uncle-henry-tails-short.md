@@ -1,10 +1,12 @@
 ---
-title: "Crazy Uncle (Henry Tails : Short)"
+title: 'Crazy Uncle (Henry Tails : Short)'
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
+I was only 10 or 11 years old when I was deer hunting on the property. I was by myself, walking behind dans property when all the sudden I hear him yell to me in the woods “Hey you!!! Get the hell off my property!!!”\
+I responded with ” But, Uncle Dan, it’s me, Justin!!!” And his response was ” I know who you are! Now get the hell off my property!!!”
+We still joke about that to this day.
+-Justin Henry-
 
-(function($) (window.fnames = new Array(); window.ftypes = new Array();fnames\[1\]='FNAME';ftypes\[1\]='text';fnames\[0\]='EMAIL';ftypes\[0\]='email';fnames\[2\]='LNAME';ftypes\[2\]='text';fnames\[3\]='BIRTHDAY';ftypes\[3\]='birthday';)(jQuery));var $mcj = jQuery.noConflict(true);
-
-[July 10, 2017](/henry-tails/crazy-uncle-henry-tails-short/) [Brian Lee](/author/brianlee/)
+July 10, 2017 Brian Lee
