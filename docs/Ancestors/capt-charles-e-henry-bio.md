@@ -1,17 +1,15 @@
 ---
-title: "Capt. Charles E. Henry Bio"
+title: Capt. Charles E. Henry Bio
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Charles-e1538965601359.jpg)
-
 
 Captain Charles E. Henry(1836-1906)
 
-A Hiram Alumni wrote the attached bio about  Charles E. Henry. I do not know him but apparently he enjoys doing research on various Hiram Alum and shares on the Hiram Alumni Facebook page. Enjoy!  Heidi Download PDF version with bonus pictures!
+A Hiram Alumni wrote the attached bio about  Charles E. Henry. I do not know him but apparently he enjoys doing research on various Hiram Alum and shares on the Hiram Alumni Facebook page. Enjoy!  Heidi\
+<Anchor label="Download PDF version" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2018%2F10%2FCharles-E.-Henry-HiramAlumni-article.pdf">Download PDF version</Anchor> with bonus pictures!
 
 Captain Charles E. Henry, Class of 1861, could be described as a man of action, an Army officer, a cop, a campaign canvasser, a soldier of fortune, and a bounty hunter. None of these descriptions are completely accurate. His lifestyle was like a cross between Indiana Jones and Wyatt Earp. As I mull over Captain Henry’s adventures, I feel like whistling the theme song of Steven Spielberg’s movie, Raiders of the Lost Ark.
 
@@ -41,4 +39,4 @@ Charles never wavered in his loyalty to the Garfield family, and his enduring co
 
 Charles led a remarkable life of travel and adventure, but he always returned to the quiet life on his Bainbridge farm. He died at the age of 70 in 1906, and Sophia survived him for 21 years. I truly wish I could go back in a time machine to sit on Charles’s front porch, sip some Bourbon with him, and listen to his stories.
 
-[October 7, 2018](/ancestors/capt-charles-sophia/capt-charles-e-henry-bio/) [Linda](/author/admin/) [Download PDF version with bonus pictures!](/ancestors/capt-charles-sophia/capt-charles-e-henry-bio/attachment/charles-e-henry-hiramalumni-article/)
+October 7, 2018 Linda
