@@ -1,14 +1,9 @@
 ---
-title: "The Float Plane (Henry Tails: Full) Jeanne Henry"
+title: 'The Float Plane (Henry Tails: Full) Jeanne Henry'
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
-![Image](https://i0.wp.com/ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif)
-
-
 Another Canada Fishing Story
 
 It was summertime and Janet and Fred along with Gene and I were on a fishing trip.  The accommodations featured a lodge and several cabins, one of which the four of us rented.  Very basic conditions.
@@ -29,10 +24,4 @@ When we got back to the cabin we had a good excuse for no fish and a great story
 
 Epilogue:
 
-#mc\_embed\_signup(background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; )  
-/\* Add your own MailChimp form style overrides in your site stylesheet or in this style block.  
-We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. \*/  
-
-(function($) (window.fnames = new Array(); window.ftypes = new Array();fnames\[1\]='FNAME';ftypes\[1\]='text';fnames\[0\]='EMAIL';ftypes\[0\]='email';fnames\[2\]='LNAME';ftypes\[2\]='text';fnames\[3\]='BIRTHDAY';ftypes\[3\]='birthday';)(jQuery));var $mcj = jQuery.noConflict(true);
-
-[July 30, 2017](/henry-tails/the-float-plane-henry-tails-full-jeanne-henry/) [Brian Lee](/author/brianlee/)
+July 30, 2017 Brian Lee
