@@ -10,7 +10,7 @@ hidden: false
 
 Captain Henry of Geauga A memoir by his son, Frederick A. Henry (1867-1949) (Cleveland: The Gates Press, 1942)
 
-The ENTIRE book is online and searchable through the HathiTrust Digital Library!  Use this link: [https://babel.hathitrust.org](https://babel.hathitrust.org) -Capt. Henry
+The ENTIRE book is online and searchable through the HathiTrust Digital Library!  Use this link: <Anchor label="https://babel.hathitrust.org" target="_blank" href="https://babel.hathitrust.org">[https://babel.hathitrust.org](https://babel.hathitrust.org)</Anchor> -Capt. Henry
 
 ***
 
@@ -20,7 +20,7 @@ The ENTIRE book is online and searchable through the HathiTrust Digital Library!
 
 Captain Henry of Geauga A memoir by his son, Frederick A. Henry (1867-1949) (Cleveland: The Gates Press, 1942)
 
-The ENTIRE book is online and searchable through the HathiTrust Digital Library!  Use this link: <Anchor label="[https://babel.hathitrust.org](https://babel.hathitrust.org)" target="_blank" href="https://babel.hathitrust.org" /> -Capt. Henry
+The ENTIRE book is online and searchable through the HathiTrust Digital Library!  Use this link: <Anchor target="_blank" href="https://babel.hathitrust.org" /> -Capt. Henry
 
 ***
 
@@ -44,7 +44,7 @@ Published in 1880, this is the written memories of members of the Bainbridge co
 
 ***
 
-<Anchor label="Pioneer Women of Geauga" target="_blank" href="Pioneer Women of Geauga  also makes several references to different Henry family members during the 1800’s and the settling of Bainbridge Township." />  also makes several references to different Henry family members during the 1800’s and the settling of Bainbridge Township.
+<Anchor target="_blank" href="Pioneer Women of Geauga  also makes several references to different Henry family members during the 1800’s and the settling of Bainbridge Township." />  also makes several references to different Henry family members during the 1800’s and the settling of Bainbridge Township.
 
 ***
 
@@ -80,4 +80,4 @@ Prepared by Joanne Sawyer, 1988 Updated by Lisa Johnson, September 15, 2004 8 re
 
 <br />
 
-February 7, 2017 Linda [Captain Henry of Geauga](https://babel.hathitrust.org/cgi/pt?id=wu.89062145354;view=1up;seq=11) <Anchor label="https://babel.hathitrust.org -Capt. Henry" target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=wu.89062145354;view=1up;seq=1">[https://babel.hathitrust.org](https://babel.hathitrust.org) -Capt. Henry</Anchor> <Anchor label="http://sidneyrigdon.com/books/Hnry1942.htm" target="_blank" href="http://sidneyrigdon.com/books/Hnry1942.htm">[http://sidneyrigdon.com/books/Hnry1942.htm](http://sidneyrigdon.com/books/Hnry1942.htm)</Anchor> <Anchor label="Pioneer and General History" target="_blank" href="http://sidneyrigdon.com/books/1880Pion.htm">Pioneer and General History</Anchor> <Anchor label="Pioneer Women of Geauga" target="_blank" href="http://www.sidneyrigdon.com/books/1896Wick.htm#pg287b">Pioneer Women of Geauga</Anchor> <Anchor label="Centerville Mills and the Old Chillicothe Road…Paper written by Frederick Henry" target="_blank" href="http://sidneyrigdon.com/books/Hnry1942.htm#1946">Centerville Mills and the Old Chillicothe Road…Paper written by Frederick Henry</Anchor> <Anchor label="The Henry Collection at Hiram College" target="_blank" href="http://library.hiram.edu/index.php/finding-aids/personal-papers-finding-aids/1325-the-henry-collection">The Henry Collection at Hiram College</Anchor> <Anchor label="http://library.hiram.edu/index.php/finding-aids/personal-papers-finding-aids/1325-the-henry-collection" target="_blank" href="http://library.hiram.edu/index.php/finding-aids/personal-papers-finding-aids/1325-the-henry-collection">[http://library.hiram.edu/index.php/finding-aids/personal-papers-finding-aids/1325-the-henry-collection](http://library.hiram.edu/index.php/finding-aids/personal-papers-finding-aids/1325-the-henry-collection)</Anchor>
+February 7, 2017 Linda [Captain Henry of Geauga](https://babel.hathitrust.org/cgi/pt?id=wu.89062145354;view=1up;seq=11) <Anchor label="[https://babel.hathitrust.org](https://babel.hathitrust.org/cgi/pt?id=wu.89062145354;view=1up;seq=1) -Capt. Henry" target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=wu.89062145354;view=1up;seq=1" /> <Anchor label="[http://sidneyrigdon.com/books/Hnry1942.htm](http://sidneyrigdon.com/books/Hnry1942.htm)" target="_blank" href="http://sidneyrigdon.com/books/Hnry1942.htm" /> <Anchor label="Pioneer and General History" target="_blank" href="http://sidneyrigdon.com/books/1880Pion.htm">Pioneer and General History</Anchor> <Anchor label="Pioneer Women of Geauga" target="_blank" href="http://www.sidneyrigdon.com/books/1896Wick.htm#pg287b">Pioneer Women of Geauga</Anchor> <Anchor label="Centerville Mills and the Old Chillicothe Road…Paper written by Frederick Henry" target="_blank" href="http://sidneyrigdon.com/books/Hnry1942.htm#1946">Centerville Mills and the Old Chillicothe Road…Paper written by Frederick Henry</Anchor> <Anchor label="The Henry Collection at Hiram College" target="_blank" href="http://library.hiram.edu/index.php/finding-aids/personal-papers-finding-aids/1325-the-henry-collection">The Henry Collection at Hiram College</Anchor> <Anchor label="[http://library.hiram.edu/index.php/finding-aids/personal-papers-finding-aids/1325-the-henry-collection](http://library.hiram.edu/index.php/finding-aids/personal-papers-finding-aids/1325-the-henry-collection)" target="_blank" href="http://library.hiram.edu/index.php/finding-aids/personal-papers-finding-aids/1325-the-henry-collection" />
