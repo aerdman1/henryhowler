@@ -18,4 +18,4 @@ I had also read that if you put vaseline on a tick it will make them back out an
 
 -Dodie Lee-
 
-[August 13, 2017](/henry-tails/ticks-everywhere-henry-tails-full/) [Brian Lee](/author/brianlee/)
+August 13, 2017 Brian Lee
