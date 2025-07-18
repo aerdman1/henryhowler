@@ -36,7 +36,8 @@ hidden: false
 
 ![IMG\_0058](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0058.jpg)
 
-“Mimi’s Story – written about 1985 – An autobiographical sketch was given to us for the website by Andy Messner.
+“Mimi’s Story – written about 1985 – An autobiographical sketch was given to us for the website by Andy Messner &#x20;
+\{Andy is the son of Vern and Rhoda Messner}
 
 When I was a little girl, we lived in the country every summer from June to September.  I always came home on the last day of school to find our house looking bare and our trunks already off to the railroad station.  Hardly anybody had cars in those days, so we went places by train.
 
