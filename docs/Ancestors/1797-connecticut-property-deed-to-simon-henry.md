@@ -1,19 +1,16 @@
 ---
-title: "1797 Connecticut Property Deed to Simon Henry"
+title: 1797 Connecticut Property Deed to Simon Henry
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![Front of Simon Henry deed for Connecticut Property dated 1797](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/deed-front-SimonH.jpg)
- 
+
 ![Back of the Simon Henry deed](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/deed-back-SimonH.jpg)
 
+This very old and tattered document was found between the pages of the 1874 Lake-Geauga Atlas.  I attempted to translate the writing on both sides of the document.  Because of the large gaps and tears, it is impossible to get every word so I have used the letters “xxx” to show what is missing.  Linda Henry.    <Anchor label="Translation PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F02%2FSimon-Henry-Deed-translation.pdf">Translation PDF</Anchor>
 
-This very old and tattered document was found between the pages of the 1874 Lake-Geauga Atlas.  I attempted to translate the writing on both sides of the document.  Because of the large gaps and tears, it is impossible to get every word so I have used the letters “xxx” to show what is missing.  Linda Henry
-
-To all People to whom these presents shall come: Greeting.
+*To all People to whom these presents shall come: Greeting.*\*
 
 Know ye, that I James Hooker of Windsor in Hartford County  State of Connecticut for the consideration of Seventy five pounds  Money received to my full satisfaction of Simon Henry of Washington in the Commonwealth of Massachusetts  Do give, grant, bargain, sell ——–said Simon Henry to his heirs and after ——- the north half (for quantity) of xxxxxxx  xxxying in said Washington laid out togexxxx  xxwell in the Second Division  & is the lot No.  xxxxhole  lot contains Two Hundred acres
 
@@ -49,4 +46,4 @@ Examined xx Samuel Quincy
 
 Simon Henry Deed-translation PDF
 
-[February 25, 2017](/ancestors/other-henry-relates/1797-property-deed-to-simon-henry-connecticut/) [Linda](/author/admin/) [Simon Henry Deed-translation PDF](/ancestors/other-henry-relates/1797-property-deed-to-simon-henry-connecticut/attachment/simon-henry-deed-translation/)
+February 25, 2017 Linda <Anchor label="Simon Henry Deed-translation PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F02%2FSimon-Henry-Deed-translation.pdf">Simon Henry Deed-translation PDF</Anchor>
