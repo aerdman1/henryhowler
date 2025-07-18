@@ -1,10 +1,15 @@
 ---
-title: "The Art of Sleep Fishing (Henry Tails : Short)"
+title: 'The Art of Sleep Fishing (Henry Tails : Short)'
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
+\*\*Mike: \*\*“One year Fink caught a monster walleye – biggest fish of the trip.  As soon as we got the fish in the boat he slipped and fell and his rod and reel went overboard!  There may or may not have been whiskey involved in the incident.”\
+We tried diving down to find the rod the next day and it was too deep.  I think the prize money he won for the fish was enough to replace the rod and reel…
+Now that I think about it, one or both of us may have been in the middle of an afternoon snooze when the fish bit!
+\*\*Kevin: \*\*Sleep-fishing is an art.
+The trick is waking-up spastically enough to
+set the hook.
+-Kevin Fink with Mike Henry –
 
-(function($) (window.fnames = new Array(); window.ftypes = new Array();fnames\[1\]='FNAME';ftypes\[1\]='text';fnames\[0\]='EMAIL';ftypes\[0\]='email';fnames\[2\]='LNAME';ftypes\[2\]='text';fnames\[3\]='BIRTHDAY';ftypes\[3\]='birthday';)(jQuery));var $mcj = jQuery.noConflict(true);
-
-[July 10, 2017](/henry-tails/the-art-of-sleep-fishing/) [Brian Lee](/author/brianlee/)
+July 10, 2017 Brian Lee
