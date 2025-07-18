@@ -1,7 +1,8 @@
 ---
-title: "News From Ireland"
+title: News From Ireland
+excerpt: by Kris Billiar
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
 
