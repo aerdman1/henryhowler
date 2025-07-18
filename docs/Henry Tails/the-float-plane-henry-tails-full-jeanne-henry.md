@@ -24,4 +24,8 @@ When we got back to the cabin we had a good excuse for no fish and a great story
 
 Epilogue:
 
+We did get a very appreciative letter from the pilot and an invitation for a ride in his new plane the next time we were in Canada.  Gene did visit him the next time he went up and he says he didn’t take him up on the flight invite.  Oh Well !!  Also, Robyn Henry’s birthday is April 26.  Nine months after our pickerel outing 🙂
+
+<br />
+
 July 30, 2017 Brian Lee
