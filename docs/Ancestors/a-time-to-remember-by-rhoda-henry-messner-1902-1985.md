@@ -1,43 +1,40 @@
 ---
-title: "A Time to Remember – by Rhoda Henry Messner 1902-1985"
+title: A Time to Remember – by Rhoda Henry Messner 1902-1985
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
+![IMG\_0041 copy](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0041-copy.jpg)
 
+![IMG\_0038](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0038-2.jpg)
 
-![IMG_0041 copy](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0041-copy.jpg)
- 
-![IMG_0038](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0038-2.jpg)
- 
-![IMG_0036](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0036.jpg)
- 
-![IMG_0036 copy](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0036-copy.jpg)
- 
+![IMG\_0036](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0036.jpg)
+
+![IMG\_0036 copy](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0036-copy.jpg)
+
 ![1905HenryKids](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/1905HenryKids.jpg)
- 
-![IMG_0047](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0047.jpg)
- 
-![IMG_0041 copy 2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0041-copy-2.jpg)
- 
-![IMG_0040](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0040.jpg)
- 
-![IMG_0040 copy](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0040-copy.jpg)
- 
-![IMG_0039](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0039.jpg)
- 
-![IMG_0039 copy](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0039-copy.jpg)
- 
-![IMG_0041](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0041.jpg)
- 
-![IMG_0042 copy](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0042-copy.jpg)
- 
-![IMG_0042](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0042.jpg)
- 
-![IMG_0043](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0043.jpg)
- 
-![IMG_0058](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0058.jpg)
 
+![IMG\_0047](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0047.jpg)
+
+![IMG\_0041 copy 2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0041-copy-2.jpg)
+
+![IMG\_0040](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0040.jpg)
+
+![IMG\_0040 copy](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0040-copy.jpg)
+
+![IMG\_0039](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0039.jpg)
+
+![IMG\_0039 copy](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0039-copy.jpg)
+
+![IMG\_0041](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0041.jpg)
+
+![IMG\_0042 copy](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0042-copy.jpg)
+
+![IMG\_0042](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0042.jpg)
+
+![IMG\_0043](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0043.jpg)
+
+![IMG\_0058](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0058.jpg)
 
 “Mimi’s Story – written about 1985 – An autobiographical sketch was given to us for the website by Andy Messner.
 
@@ -69,6 +66,6 @@ But fall was in the air.  Even my thoughts were turning city-ward.
 
 Back in town the first of September, I roamed through the house turning on faucets and pressing light switches.  Although the hard city water didn’t taste or smell as good as our country spring water, it was wonderful to have a tub with running water.  City bathrooms were better all around than tin tubs and plumbing out back.  And after a summer of oil lamps, electric lights seemed like white magic.  It was good to roller skate on sidewalks again, go t to the library for books and see my neighbors and school friends.  In fact it was good to get back to my whole city world again.
 
-A-Time-To-Remember by Rhoda Henry Messner PDF
+<Anchor label="A-Time-To-Remember by Rhoda Henry Messner PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F03%2FA-Time-To-Remember.pdf">A-Time-To-Remember by Rhoda Henry Messner PDF</Anchor>
 
-[March 8, 2017](/ancestors/fredrick-louise/a-time-to-remember-by-rhoda-henry-messner-1902-1985/) [Linda](/author/admin/) [A-Time-To-Remember by Rhoda Henry Messner PDF](/ancestors/fredrick-louise/a-time-to-remember-by-rhoda-henry-messner-1902-1985/attachment/a-time-to-remember/)
+March 8, 2017 Linda
