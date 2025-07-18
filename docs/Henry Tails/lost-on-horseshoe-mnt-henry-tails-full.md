@@ -10,7 +10,7 @@ Dad said as long as I kept my left foot downhill I would go right around the hor
 
 By now it was dark and I was facing the prospect of spending a cold night on the mountain. After another hour or so I spotted a light through the trees. It was a house and I gratefully knocked on the front door and told the farmer I was lost. He said to come in and warm up. He also mentioned how unusual it was that I was the second lost person to show up lost in the last 15 minutes. Sure enough there in the living room by the fire sat Dad.
 
-Turns out that halfway around the horseshoe there was a saddleback (dip) and because of the fog neither of us saw it and wound up going right around to the back side of the mountain. How we wound up at the same house that night was a huge coincidence.
+Turns out that halfway around the horseshoe there was a saddleback (dip) and because of the fog neither of us saw it and wound up going right around to the back side of the mountain. How we wound up at the same house that night was a huge coincidence.\
 -Rick Henry-
 
-[July 10, 2017](/henry-tails/lost-on-horseshoe-mnt-henry-tails-full/) [Brian Lee](/author/brianlee/)
+July 10, 2017 Brian Lee
