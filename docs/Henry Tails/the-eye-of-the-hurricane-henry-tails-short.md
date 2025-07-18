@@ -13,4 +13,4 @@ We knocked on the door to be let in and the lodge owner said ” I think someone
 The Eye of The Hurricane.
 -Justin Henry-
 
-[July 10, 2017](/henry-tails/theeyeofthehurricane/) [Brian Lee](/author/brianlee/) [current gen.](/tag/current-gen/) [short story](/tag/short-story/)
+July 10, 2017 Brian Lee current gen. short story
