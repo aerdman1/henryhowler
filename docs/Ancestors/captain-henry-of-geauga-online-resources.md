@@ -76,7 +76,9 @@ Charles E. Henry 1836 – 1908
 Frederick A. Henry 1867 – 1949
 Marcia Henry 1869 – 1958**
 
-Prepared by Joanne Sawyer, 1988 Updated by Lisa Johnson, September 15, 2004 8 record storage boxes, 3 half-size record storage boxes, 1 quarter-size record storage box, 1 phase box, oversize books and folders, 11 cubic feet.
+Prepared by Joanne Sawyer, 1988\
+Updated by Lisa Johnson, September 15, 2004
+8 record storage boxes, 3 half-size record storage boxes, 1 quarter-size record storage box, 1 phase box, oversize books and folders, 11 cubic feet.
 
 [http://library.hiram.edu/index.php/finding-aids/personal-papers-finding-aids/1325-the-henry-collection](http://library.hiram.edu/index.php/finding-aids/personal-papers-finding-aids/1325-the-henry-collection)
 
