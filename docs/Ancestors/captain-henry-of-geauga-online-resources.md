@@ -63,7 +63,7 @@ This paper was written by Frederick Henry to preserve the history of the Centrev
 
 <br />
 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Screen-Shot-2017-02-08-at-12.48.53-PM.png)
+<Image align="center" alt="Image" width="600px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Screen-Shot-2017-02-08-at-12.48.53-PM.png" />
 
 <br />
 
