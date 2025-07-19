@@ -67,6 +67,8 @@ This paper was written by Frederick Henry to preserve the history of the Centrev
 
 <br />
 
+**UPDATE 2025- This link to the Henry Family Collection at Hiram College no longer works. Someone needs tomake a trip over to Hiram and discuss where these items are and how to link to them on our website.**
+
 Check out the well written Introduction page of the Henry Family Collection on the Hiram College website.  I was privileged to visit the library there with Ellen a few years ago.  We viewed some of these materials and some scans of photos were given to us to use on our family website.
 
 Henry Family Papers, 1864 – 1944  Charles E. Henry 1836 – 1908 Frederick A. Henry 1867 – 1949 Marcia Henry 1869 – 1958
