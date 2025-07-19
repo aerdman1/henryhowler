@@ -19,9 +19,7 @@ Use this link: <Anchor label="HathiTrust-Capt Henry" target="_blank" href="https
 
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1880GeaugaPioneerHistory.jpg)
 
-Captain Henry of Geauga A memoir by his son, Frederick A. Henry (1867-1949) (Cleveland: The Gates Press, 1942)
-
-The ENTIRE book is online and searchable through the HathiTrust Digital Library!  Use this link: <Anchor target="_blank" href="https://babel.hathitrust.org" /> -Capt. Henry
+<br />
 
 ***
 
