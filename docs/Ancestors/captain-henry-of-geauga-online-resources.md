@@ -71,13 +71,10 @@ This paper was written by Frederick Henry to preserve the history of the Centrev
 
 Check out the well written Introduction page of the Henry Family Collection on the Hiram College website.  I was privileged to visit the library there with Ellen a few years ago.  We viewed some of these materials and some scans of photos were given to us to use on our family website.
 
-Henry Family Papers, 1864 – 1944  
-
+**Henry Family Papers, 1864 – 1944\
 Charles E. Henry 1836 – 1908
-
 Frederick A. Henry 1867 – 1949
-
-Marcia Henry 1869 – 1958
+Marcia Henry 1869 – 1958**
 
 Prepared by Joanne Sawyer, 1988 Updated by Lisa Johnson, September 15, 2004 8 record storage boxes, 3 half-size record storage boxes, 1 quarter-size record storage box, 1 phase box, oversize books and folders, 11 cubic feet.
 
