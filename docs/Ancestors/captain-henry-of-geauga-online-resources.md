@@ -43,7 +43,8 @@ Published in 1880, this is the written memories of members of the Bainbridge co
 
 ***
 
-<Anchor target="_blank" href="Pioneer Women of Geauga  also makes several references to different Henry family members during the 1800’s and the settling of Bainbridge Township." />  also makes several references to different Henry family members during the 1800’s and the settling of Bainbridge Township.
+**Pioneer Women of Geauga**  also makes several references to different Henry family members during the 1800’s and the settling of Bainbridge Township also makes several references to different Henry family members during the 1800’s and the settling of Bainbridge Township.  <Anchor label="Pioneer Women of Bainbridge." target="_blank" href="http://www.sidneyrigdon.com/books/1896Wick.htm#pg287b">Pioneer Women of Bainbridge.</Anchor>\
+I have made a PDF of the Bainbriged
 
 ***
 
@@ -63,7 +64,7 @@ This paper was written by Frederick Henry to preserve the history of the Centrev
 
 <br />
 
-<Image align="center" alt="Image" width="800px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Screen-Shot-2017-02-08-at-12.48.53-PM.png" />
+<Image align="left" alt="Image" width="800px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Screen-Shot-2017-02-08-at-12.48.53-PM.png" />
 
 <br />
 
