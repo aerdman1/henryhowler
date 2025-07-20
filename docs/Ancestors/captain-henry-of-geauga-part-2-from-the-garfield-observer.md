@@ -1,8 +1,16 @@
 ---
-title: "Captain Henry of Geauga, Part 2 from The Garfield Observer"
+title: Captain Henry of Geauga, Part 2 from The Garfield Observer
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
+next:
+  pages:
+    - slug: getting-started
+      title: Welcome to The Henry Howler!
+      type: basic
+    - slug: shared
+      title: Shared Family Articles
+      type: basic
 ---
 
 
