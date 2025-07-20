@@ -14,4 +14,8 @@ hidden: false
 
 The difficult part of all this is to get him to not lift and try to do things to further injure himself. 😐 He doesn’t do well to idle.
 
+<Image align="center" width="300px" src="https://files.readme.io/0e52d787a960860d152b9d49ad536e76b371ed98278fb4932b46ea91c2b274da-Mr._bad_attitude.jpg" />
+
+<br />
+
 June 10, 2008
