@@ -10,7 +10,7 @@ hidden: false
 
 Charles E. Henry as he looked in 1900. From the book “Captain Henry of Geauga,” by Frederick A. Henry
 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/07/wrei-wikipedia-hiram-college-archives_1.jpg)
+<Image align="center" alt="Image" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/07/wrei-wikipedia-hiram-college-archives_1.jpg" />
 
 An early view of the Western Reserve Eclectic Institute (now Hiram College) around the time Charles Henry was a student and James A. Garfield was the school’s principal. Hiram College Archives
 
