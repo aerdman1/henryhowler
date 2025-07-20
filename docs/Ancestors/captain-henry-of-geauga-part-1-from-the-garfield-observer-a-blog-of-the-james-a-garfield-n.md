@@ -1,45 +1,32 @@
 ---
-title: "Captain Henry of Geauga, Part 1 from the Garfield Observer a blog of the James A Garfield National Historic Site"
+title: >-
+  Captain Henry of Geauga, Part 1 from the Garfield Observer a blog of the James
+  A Garfield National Historic Site
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![Charles E. Henry as he looked in 1900. From the book “Captain Henry of Geauga,” by Frederick A. Henry](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/charlesehenry-1.jpg)
-
 
 Charles E. Henry as he looked in 1900. From the book “Captain Henry of Geauga,” by Frederick A. Henry
 
-
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/07/wrei-wikipedia-hiram-college-archives_1.jpg)
 
-
 An early view of the Western Reserve Eclectic Institute (now Hiram College) around the time Charles Henry was a student and James A. Garfield was the school’s principal. Hiram College Archives
-
 
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/07/general_james_garfield_-_brady-handy1.jpg)
 
-
 General James Garfield. Brady photo.
-
 
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/07/42nd_1_1.jpg)
 
-
 Company A of the 42nd Ohio, the regiment in which Charles Henry served.Hiram College Archives
-
 
 ![An early view of the Western Reserve Eclectic Institute (now Hiram College) around the time Charles Henry was a student and James A. Garfield was the school’s principal. Hiram College Archives](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/wrei-wikipedia-hiram-college-archives_1.jpg)
 
-
 An early view of the Western Reserve Eclectic Institute (now Hiram College) around the time Charles Henry was a student and James A. Garfield was the school’s principal. Hiram College Archives
 
-
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/07/GarfieldObserver.jpg)
-
-
-Garfield Observer – from the Garfield Museum
+Garfield Observer – from the Garfield Museum, \**Captain Henry of Geauga, Part I*)
 
 Of all the soldiers that filled the ranks of the 42nd Ohio Volunteers, perhaps none had a more adventurous life than that of Captain Charles E. Henry. This is no easy assertion to make considering the regimental commander was future President James A. Garfield. Besides our twentieth President, there would be Colonel Lionel Sheldon, a congressman and territorial Governor, and Colonel Don Pardee, a United States Circuit Court judge. These are men of great distinction, but their lives were somewhat sedate when compared to that of Captain Henry.
 
@@ -71,6 +58,6 @@ Eventually they returned to Bainbridge where Charles put away the law books and 
 
 Several months later Charles proved his value to the railroad. A group of tough guys boarded his train, carrying roosters on their way to a cock fight. On the return trip the men were obviously drunk and harassing the passengers. Though not part of his duties Charles confronted the men, grabbed several and threw them off the train. This action would benefit him in later years.
 
-\-Scott Longert, Park Guide
+-Scott Longert, Park Guide
 
 [February 1, 2017](/ancestors/capt-charles-sophia/captain-henry-of-geauga-part-1/) [Linda](/author/admin/) [March 13, 2014](https://garfieldnps.wordpress.com/2014/03/13/captain-henry-of-geauga-part-i/) [Part II of this article!](/ancestors/capt-charles-sophia/captain-henry-of-geauga-part-2-from-the-garfield-observer/)
