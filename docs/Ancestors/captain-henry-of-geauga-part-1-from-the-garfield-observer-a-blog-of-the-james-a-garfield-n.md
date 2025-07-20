@@ -6,25 +6,25 @@ date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
-![Charles E. Henry as he looked in 1900. From the book “Captain Henry of Geauga,” by Frederick A. Henry](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/charlesehenry-1.jpg)
+<Image align="center" alt="Charles E. Henry as he looked in 1900. From the book “Captain Henry of Geauga,” by Frederick A. Henry" border={false} caption="Charles E. Henry as he looked in 1900. From the book “Captain Henry of Geauga,” by Frederick A. Henry" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/charlesehenry-1.jpg" />
 
-Charles E. Henry as he looked in 1900. From the book “Captain Henry of Geauga,” by Frederick A. Henry
+<br />
 
-<Image align="center" alt="Image" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/07/wrei-wikipedia-hiram-college-archives_1.jpg" />
+<Image align="center" alt="Image" border={false} caption="An early view of the Western Reserve Eclectic Institute (now Hiram College) around the time Charles Henry was a student and James A. Garfield was the school’s principal. Hiram College Archives" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/07/wrei-wikipedia-hiram-college-archives_1.jpg" />
 
-An early view of the Western Reserve Eclectic Institute (now Hiram College) around the time Charles Henry was a student and James A. Garfield was the school’s principal. Hiram College Archives
+<br />
 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/07/general_james_garfield_-_brady-handy1.jpg)
+<Image align="center" alt="Image" border={false} caption="General James Garfield. Brady photo." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/07/general_james_garfield_-_brady-handy1.jpg" />
 
-General James Garfield. Brady photo.
+<br />
 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/07/42nd_1_1.jpg)
+<Image align="center" alt="Image" border={false} caption="Company A of the 42nd Ohio, the regiment in which Charles Henry served.Hiram College Archives" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2022/07/42nd_1_1.jpg" />
 
-Company A of the 42nd Ohio, the regiment in which Charles Henry served.Hiram College Archives
+<br />
 
-![An early view of the Western Reserve Eclectic Institute (now Hiram College) around the time Charles Henry was a student and James A. Garfield was the school’s principal. Hiram College Archives](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/wrei-wikipedia-hiram-college-archives_1.jpg)
+<Image align="center" alt="An early view of the Western Reserve Eclectic Institute (now Hiram College) around the time Charles Henry was a student and James A. Garfield was the school’s principal. Hiram College Archives" border={false} caption="An early view of the Western Reserve Eclectic Institute (now Hiram College) around the time Charles Henry was a student and James A. Garfield was the school’s principal. Hiram College Archives" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/wrei-wikipedia-hiram-college-archives_1.jpg" />
 
-An early view of the Western Reserve Eclectic Institute (now Hiram College) around the time Charles Henry was a student and James A. Garfield was the school’s principal. Hiram College Archives
+<br />
 
 ***
 
