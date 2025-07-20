@@ -4,7 +4,7 @@ date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
-![IMG\_0016](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_0016.jpg)
+<Image align="center" alt="IMG_0016" border={false} caption="Donald Henry" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/IMG_0016.jpg" />
 
 ![With big brother Gene](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Gene-Don-03.jpg)
 
