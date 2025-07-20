@@ -12,30 +12,21 @@ next:
       title: Shared Family Articles
       type: basic
 ---
+<Image align="center" alt="Image" border={false} caption="Congressman James A. Garfield. Charles Henry became an important political advisor and operative for his former commanding officer. Library of Congress" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/jagarfield_1.jpg" />
 
+<br />
 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/jagarfield_1.jpg)
+<Image align="center" alt="Image" border={false} caption="Col. George Armstrong Custer. Charles Henry met Custer, Gen. Philip Sheridan, and other notables during his summer 1874 visit to the Garfields’ in Washington. Library of Congress" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/georgearmstrongcusterweb.jpg" />
 
+<br />
 
-Congressman James A. Garfield. Charles Henry became an important political advisor and operative for his former commanding officer. Library of Congress
+<Image align="center" alt="Image" border={false} caption="Charles E. Henry as Marshal of the District of Columbia. His old friend and commanding officer, President James A. Garfield, appointed him to this position. From the book “Captain Henry of Geauga”" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/marshal-charles-e-henry-1.jpg" />
 
+<br />
 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/georgearmstrongcusterweb.jpg)
+<Image align="center" alt="Image" border={false} caption="Charles E. Henry around 1900. This is the last known photo of him. He died in November 1906. From the book “Captain Henry of Geauga”" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/charles-henrys-last-photo.jpg" />
 
-
-Col. George Armstrong Custer. Charles Henry met Custer, Gen. Philip Sheridan, and other notables during his summer 1874 visit to the Garfields’ in Washington. Library of Congres
-
-
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/marshal-charles-e-henry-1.jpg)
-
-
-Charles E. Henry as Marshal of the District of Columbia. His old friend and commanding officer, President James A. Garfield, appointed him to this position. From the book “Captain Henry of Geauga”
-
-
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/charles-henrys-last-photo.jpg)
-
-
-Charles E. Henry around 1900. This is the last known photo of him. He died in November 1906. From the book “Captain Henry of Geauga”
+<br />
 
 Henry was always grateful to Congressman Garfield for the railroad job. It allowed him to earn a decent living and not worry too much about farming. He began to pay attention to men having conversations about politics, particularly those in Garfield’s district. Charles wrote letters to his friend reporting on what he heard and how it related to the Congressman. Before long Charles became Garfield’s political agent. He asked questions of local folks on their views of politics in general and on important issues of the day. This was a great help to Garfield who did not have the means to keep close tab on his constituents. Henry sent newspapers to Washington for Garfield to read and decide which editors were favorable to him. Anybody in Garfield’s district that wanted a postmaster job had to have an unofficial visit with Mr. Henry before being recommended.
 
@@ -67,6 +58,6 @@ Due to his remarkable adventure, Charles received a job offer from the American 
 
 Captain Charles Henry was an extraordinary man: soldier, political ally, lawman, and dedicated family man. His strength of character and honesty brought him to a plateau few men occupy.
 
-\-Scott Longert, Park Guide
+-Scott Longert, Park Guide
 
 [February 1, 2017](/ancestors/capt-charles-sophia/captain-henry-of-geauga-part-2-from-the-garfield-observer/) [Linda](/author/admin/) [March 25, 2014](https://garfieldnps.wordpress.com/2014/03/25/captain-henry-of-geauga-part-ii/) [From The Blog of the James A. Garfield National Historic Site](https://www.nps.gov/articles/000/captain-henry-of-geauga-part-ii.htm)
