@@ -66,4 +66,4 @@ Several months later Charles proved his value to the railroad. A group of tough 
 
 -Scott Longert, Park Guide
 
-February 1, 2017 Linda  Part II of this article!
+February 1, 2017 Linda
