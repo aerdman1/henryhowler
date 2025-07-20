@@ -8,7 +8,7 @@ hidden: false
 metadata:
   robots: index
 ---
-Story One: The F-Bomb\
+**Story One: The F-Bomb**\
 This is the story of the time I called my brother an “effer.”
 You know what I mean by that, right?
 
@@ -48,7 +48,9 @@ I just nodded. “Okay, Mom.”
 
 That was the first time I remember seriously wondering if maybe—just maybe—there was a higher power out there watching out for me.
 
-Story Two: The Three-for-One Rule\
+***
+
+**Story Two: The Three-for-One Rule**\
 Of all my brothers, the one I clashed with the least was Jim.
 
 Jim was the fun brother. He invented games—lake games, yard games, and legendary night games that brought together kids from all over the neighborhood. When word got out that Jim and our brother Chip were organizing something, kids came from blocks away to join in. My childhood often felt like a dream because of it.
@@ -81,7 +83,9 @@ My room was always such a disaster that they couldn’t retaliate.
 
 “I win!”
 
-Story Three: Dad’s Towel\
+***
+
+**Story Three: Dad’s Towel**\
 In a house with two working parents and six kids, there was always plenty of love—but almost never a clean towel.
 
 Everyone knew the rule: Dad’s towel was off limits. It hung in his bathroom, dry and pristine, and nobody dared touch it. To do so was to risk his wrath—and that was no joke.
