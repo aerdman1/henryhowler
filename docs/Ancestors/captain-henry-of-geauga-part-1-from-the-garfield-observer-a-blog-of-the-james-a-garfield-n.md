@@ -26,7 +26,7 @@ Company A of the 42nd Ohio, the regiment in which Charles Henry served.Hiram Col
 
 An early view of the Western Reserve Eclectic Institute (now Hiram College) around the time Charles Henry was a student and James A. Garfield was the school’s principal. Hiram College Archives
 
-\**Garfield Observer – from the Garfield Museum,**Captain Henry of Geauga, Part I*)**
+\*\*\<Anchor label="\*\_Garfield Observer – from the Garfield Museum,\_\_Captain Henry of Geauga, Part I\_)\_\_" target="\_blank" href="https\://www\.nps.gov/articles/000/captain-henry-of-geauga-part-i.htm">\*\_Garfield Observer – from the Garfield Museum,\_\*Captain Henry of Geauga, Part I\*)\_\_\</Anchor>\*\*
 
 ***
 
