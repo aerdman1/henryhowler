@@ -14,7 +14,9 @@ hidden: false
 
 The difficult part of all this is to get him to not lift and try to do things to further injure himself. 😐 He doesn’t do well to idle.
 
-<Image align="center" width="300px" src="https://files.readme.io/0e52d787a960860d152b9d49ad536e76b371ed98278fb4932b46ea91c2b274da-Mr._bad_attitude.jpg" />
+<Image align="left" width="288px" src="https://files.readme.io/0e52d787a960860d152b9d49ad536e76b371ed98278fb4932b46ea91c2b274da-Mr._bad_attitude.jpg" />
+
+<Image align="left" width="300px" src="https://files.readme.io/bf0f39e328039f0a46f306d67d3d7bc9137ec7f3468a8ad8031e2c33840580b4-presurgery.jpg" />
 
 <br />
 
