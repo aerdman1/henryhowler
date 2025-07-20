@@ -26,9 +26,9 @@ Company A of the 42nd Ohio, the regiment in which Charles Henry served.Hiram Col
 
 An early view of the Western Reserve Eclectic Institute (now Hiram College) around the time Charles Henry was a student and James A. Garfield was the school’s principal. Hiram College Archives
 
-\*\*\<Anchor label="\*\_Garfield Observer – from the Garfield Museum,\_\_Captain Henry of Geauga, Part I\_)\_\_" target="\_blank" href="https\://www\.nps.gov/articles/000/captain-henry-of-geauga-part-i.htm">\*\_Garfield Observer – from the Garfield Museum,\_\*Captain Henry of Geauga, Part I\*)\_\_\</Anchor>\*\*
-
 ***
+
+<Anchor label="**Captain Henry of Geauga, Part I. ** James A Garfield National Historic Site" target="_blank" href="https://www.nps.gov/articles/000/captain-henry-of-geauga-part-i.htm">\*\*Captain Henry of Geauga, Part I. \*\* James A Garfield National Historic Site</Anchor>
 
 Of all the soldiers that filled the ranks of the 42nd Ohio Volunteers, perhaps none had a more adventurous life than that of Captain Charles E. Henry. This is no easy assertion to make considering the regimental commander was future President James A. Garfield. Besides our twentieth President, there would be Colonel Lionel Sheldon, a congressman and territorial Governor, and Colonel Don Pardee, a United States Circuit Court judge. These are men of great distinction, but their lives were somewhat sedate when compared to that of Captain Henry.
 
