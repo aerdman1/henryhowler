@@ -5,6 +5,12 @@ title: >-
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
+next:
+  description: Read Part II of this article from the National Park Service website
+  pages:
+    - slug: captain-henry-of-geauga-part-2-from-the-garfield-observer
+      title: Captain Henry of Geauga, Part 2 from The Garfield Observer
+      type: basic
 ---
 <Image align="center" alt="Charles E. Henry as he looked in 1900. From the book “Captain Henry of Geauga,” by Frederick A. Henry" border={false} caption="Charles E. Henry as he looked in 1900. From the book “Captain Henry of Geauga,” by Frederick A. Henry" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/charlesehenry-1.jpg" />
 
