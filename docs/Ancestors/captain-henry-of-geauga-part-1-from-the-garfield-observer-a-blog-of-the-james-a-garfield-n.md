@@ -32,9 +32,7 @@ next:
 
 <br />
 
-***
-
-<Anchor label="**Captain Henry of Geauga, Part I. ** James A Garfield National Historic Site" target="_blank" href="https://www.nps.gov/articles/000/captain-henry-of-geauga-part-i.htm">\*\*Captain Henry of Geauga, Part I. \*\* James A Garfield National Historic Site</Anchor>
+**<Anchor label="Captain Henry of Geauga Part I" target="_blank" href="https://www.nps.gov/articles/000/captain-henry-of-geauga-part-i.htm">Captain Henry of Geauga Part I</Anchor>**
 
 Of all the soldiers that filled the ranks of the 42nd Ohio Volunteers, perhaps none had a more adventurous life than that of Captain Charles E. Henry. This is no easy assertion to make considering the regimental commander was future President James A. Garfield. Besides our twentieth President, there would be Colonel Lionel Sheldon, a congressman and territorial Governor, and Colonel Don Pardee, a United States Circuit Court judge. These are men of great distinction, but their lives were somewhat sedate when compared to that of Captain Henry.
 
