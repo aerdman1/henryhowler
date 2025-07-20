@@ -15,11 +15,11 @@ Use this link: <Anchor label="HathiTrust-Capt Henry" target="_blank" href="https
 
 ***
 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Screen-Shot-2017-03-06-at-12.14.16-PM.png)
+<Image align="center" alt="Image" border={false} caption="<Anchor label=&#x22;hhh&#x22; target=&#x22;_blank&#x22; href=&#x22;http://sidneyrigdon.com/books/Hnry1942.htm#comments&#x22;>hhh</Anchor>" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Screen-Shot-2017-03-06-at-12.14.16-PM.png" />
 
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1880GeaugaPioneerHistory.jpg)
 
-<br />
+[http://sidneyrigdon.com/books/Hnry1942.htm#comments](http://sidneyrigdon.com/books/Hnry1942.htm#comments)
 
 ***
 
