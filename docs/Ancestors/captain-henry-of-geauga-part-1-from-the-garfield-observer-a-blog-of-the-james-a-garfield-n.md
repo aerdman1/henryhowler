@@ -62,4 +62,4 @@ Several months later Charles proved his value to the railroad. A group of tough 
 
 -Scott Longert, Park Guide
 
-[February 1, 2017](/ancestors/capt-charles-sophia/captain-henry-of-geauga-part-1/) [Linda](/author/admin/) [March 13, 2014](https://garfieldnps.wordpress.com/2014/03/13/captain-henry-of-geauga-part-i/) [Part II of this article!](/ancestors/capt-charles-sophia/captain-henry-of-geauga-part-2-from-the-garfield-observer/)
+February 1, 2017 Linda  Part II of this article!
