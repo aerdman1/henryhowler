@@ -6,12 +6,6 @@ hidden: false
 next:
   description: 'Did you catch PART I of this article? '
   pages:
-    - slug: getting-started
-      title: Welcome to The Henry Howler!
-      type: basic
-    - slug: shared
-      title: Shared Family Articles
-      type: basic
     - slug: >-
         captain-henry-of-geauga-part-1-from-the-garfield-observer-a-blog-of-the-james-a-garfield-n
       title: >-
