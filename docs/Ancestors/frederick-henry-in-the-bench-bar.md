@@ -1,15 +1,12 @@
 ---
-title: "Frederick Henry in the Bench & Bar"
+title: Frederick Henry in the Bench & Bar
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2018/03/Frederick-Henry-Bench-and-Bar.jpg)
 
-
-I found this Google eBook with a nice article about Judge Frederick A. Henry.
+I found this <Anchor label="Google eBook" target="_blank" href="https://www.google.com/books/edition/Bench_and_Bar_of_Northern_Ohio/DgwwAAAAYAAJ?hl=en&gbpv=1&dq=Henry+family+record++geauga+ohio&pg=PA454&printsec=frontcover#v=onepage&q&f=true">Google eBook</Anchor> with a nice article about Judge Frederick A. Henry.
 
 Below is the transcription of the text:
 
@@ -31,4 +28,4 @@ Residence 1827 Wilton Road Cleveland Heights office 940 Leader News Building Cle
 
 Born in Geauga County Ohio August 4 1862.  Son of Nelson C. Henry and Mary L. Chase Henry. Married to Mary E. Cheshire, October 17 1900.  Attended Bainbridge District School,  graduate Buchtel College with degree of B.S., 1887; received degree of LL. B from Cincinnati Law School, 1890.  Admitted to the bar of Ohio, 1890.  Appointed Assistant City Solicitor in April ,1893; In partnership with Howard A Couse, 1896-10.
 
-[March 13, 2018](/ancestors/frederick-henry-in-the-bench-bar/) [Linda](/author/admin/) [Google eBook](https://books.google.com/books?id=DgwwAAAAYAAJ&pg=PA454&lpg=PA454&dq=Henry+family+record++geauga+ohio&source=bl&ots=8_D0SCO1lJ&sig=cuR-HJfjJaSTQ5cGdo1ZUJ48vcE&hl=en&sa=X&ved=0ahUKEwillr3qrunZAhVR32MKHaQDAwQQ6AEImAEwEg#v=onepage&q&f=true)
+[March 13, 2018](/ancestors/frederick-henry-in-the-bench-bar/) [Linda](/author/admin/) [Google eBook](https://books.google.com/books?id=DgwwAAAAYAAJ\&pg=PA454\&lpg=PA454\&dq=Henry+family+record++geauga+ohio\&source=bl\&ots=8_D0SCO1lJ\&sig=cuR-HJfjJaSTQ5cGdo1ZUJ48vcE\&hl=en\&sa=X\&ved=0ahUKEwillr3qrunZAhVR32MKHaQDAwQQ6AEImAEwEg#v=onepage\&q\&f=true)
