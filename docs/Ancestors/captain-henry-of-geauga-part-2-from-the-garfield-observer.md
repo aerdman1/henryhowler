@@ -18,6 +18,9 @@ next:
         Captain Henry of Geauga, Part 1 from the Garfield Observer a blog of the
         James A Garfield National Historic Site
       type: basic
+    - title: Capt Henry Part 2, Natl Park Article
+      type: link
+      url: https://www.nps.gov/articles/000/captain-henry-of-geauga-part-ii.htm
 ---
 <Image align="center" alt="Image" border={false} caption="Congressman James A. Garfield. Charles Henry became an important political advisor and operative for his former commanding officer. Library of Congress" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/jagarfield_1.jpg" />
 
