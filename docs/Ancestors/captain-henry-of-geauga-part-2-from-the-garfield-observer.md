@@ -4,12 +4,19 @@ date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 next:
+  description: 'Did you catch PART I of this article? '
   pages:
     - slug: getting-started
       title: Welcome to The Henry Howler!
       type: basic
     - slug: shared
       title: Shared Family Articles
+      type: basic
+    - slug: >-
+        captain-henry-of-geauga-part-1-from-the-garfield-observer-a-blog-of-the-james-a-garfield-n
+      title: >-
+        Captain Henry of Geauga, Part 1 from the Garfield Observer a blog of the
+        James A Garfield National Historic Site
       type: basic
 ---
 <Image align="center" alt="Image" border={false} caption="Congressman James A. Garfield. Charles Henry became an important political advisor and operative for his former commanding officer. Library of Congress" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/jagarfield_1.jpg" />
@@ -63,4 +70,4 @@ Captain Charles Henry was an extraordinary man: soldier, political ally, lawman,
 
 -Scott Longert, Park Guide
 
-[February 1, 2017](/ancestors/capt-charles-sophia/captain-henry-of-geauga-part-2-from-the-garfield-observer/) [Linda](/author/admin/) [March 25, 2014](https://garfieldnps.wordpress.com/2014/03/25/captain-henry-of-geauga-part-ii/) [From The Blog of the James A. Garfield National Historic Site](https://www.nps.gov/articles/000/captain-henry-of-geauga-part-ii.htm)
+February 1, 2017 Linda
