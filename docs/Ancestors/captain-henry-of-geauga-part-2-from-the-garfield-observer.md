@@ -28,6 +28,9 @@ next:
 
 <br />
 
+**Copied from the National Park Service website:** <Anchor label="Captain Henry of Geauga Part II" target="_blank" href="https://www.nps.gov/articles/000/captain-henry-of-geauga-part-ii.htm">Captain Henry of Geauga Part II</Anchor>\
+<Anchor label="Read Part I here" target="_blank" href="https://www.nps.gov/articles/000/captain-henry-of-geauga-part-i.htm">Read Part I here</Anchor>
+
 Henry was always grateful to Congressman Garfield for the railroad job. It allowed him to earn a decent living and not worry too much about farming. He began to pay attention to men having conversations about politics, particularly those in Garfield’s district. Charles wrote letters to his friend reporting on what he heard and how it related to the Congressman. Before long Charles became Garfield’s political agent. He asked questions of local folks on their views of politics in general and on important issues of the day. This was a great help to Garfield who did not have the means to keep close tab on his constituents. Henry sent newspapers to Washington for Garfield to read and decide which editors were favorable to him. Anybody in Garfield’s district that wanted a postmaster job had to have an unofficial visit with Mr. Henry before being recommended.
 
 In 1873 Charles got a promotion to special agent of the post office department. He got a significant raise, free railroad transportation, a gun, and three dollars a day for meals. His new job allowed him to settle disputes between postmasters, investigate people for mail fraud and stealing. His duties allowed him time to stop at various points in Garfield’s district and determine which way the political winds were blowing. He reported any areas where Garfield might be losing support and what to do about it. Charles visited men who supported Garfield to make certain they were doing their utmost to keep the Congressman in office.
