@@ -1,35 +1,32 @@
 ---
-title: "1800’s Bainbridge Maps of Land Parcels"
+title: 1800’s Bainbridge Maps of Land Parcels
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/oldPropertymap-1.jpg)
- 
-![1857 Geauga County map](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1857Geauga-sm.jpg)
- 
-![Bainbridge SW corner 1857 map](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-SW-corner-1857-map.jpg)
- 
-![Atlas-cover](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Atlas-cover.jpg)
- 
-![Atlas-page1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Atlas-page1.jpg)
- 
-![1874BainbridgeMap-reconstructed](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1874BainbridgeMap-reconstructed-1.jpg)
- 
-![Bainbridge Map bottom left](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-bottom-left.jpg)
- 
-![Bainbridge Map BottomRight](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-BottomRight.jpg)
- 
-![Bainbridge Map top Left](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-top-Left.jpg)
- 
-![Bainbridge Map TopRight](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-TopRight.jpg)
- 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1900-Bainbridge-map-SE-corner.jpg)
- 
-![1900 Bainbridge map](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1900-Bainbridge-map.jpg)
 
+![1857 Geauga County map](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1857Geauga-sm.jpg)
+
+![Bainbridge SW corner 1857 map](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-SW-corner-1857-map.jpg)
+
+![Atlas-cover](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Atlas-cover.jpg)
+
+![Atlas-page1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Atlas-page1.jpg)
+
+![1874BainbridgeMap-reconstructed](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1874BainbridgeMap-reconstructed-1.jpg)
+
+![Bainbridge Map bottom left](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-bottom-left.jpg)
+
+![Bainbridge Map BottomRight](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-BottomRight.jpg)
+
+![Bainbridge Map top Left](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-top-Left.jpg)
+
+![Bainbridge Map TopRight](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-TopRight.jpg)
+
+![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1900-Bainbridge-map-SE-corner.jpg)
+
+![1900 Bainbridge map](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1900-Bainbridge-map.jpg)
 
 This Henry Property  Map is in the Captain Henry  of Geauga book.
 
@@ -49,4 +46,4 @@ Bottom right portion of the Map PDF
 
 This is Bainbridge map dated 1900. I have included a full size image, a close-up image of the C.E. Henry properties and also a Downloadable version PDF.  This PDF was given to me by Lou Rorimer.
 
-[February 6, 2017](/families/general-family/1874-bainbridge-map-of-land-parcels/) [Linda](/author/admin/) [Reconstructed Bainbridge Township page -entire PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1874BainbridgeMap-reconstructed.compressed.pdf) [Top left portion of the Map PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-top-Left.pdf) [Top right portion of the Map PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-TopRight.pdf) [Bottom left portion of the Map PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-bottom-left.pdf) [Bottom right portion of the Map PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-BottomRight.pdf) [Downloadable version PDF.](/general-family/1874-bainbridge-map-of-land-parcels/attachment/1900-bainbridge-map-2/)
+February 6, 2017 Linda [Reconstructed Bainbridge Township page -entire PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1874BainbridgeMap-reconstructed.compressed.pdf) [Top left portion of the Map PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-top-Left.pdf) [Top right portion of the Map PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-TopRight.pdf) [Bottom left portion of the Map PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-bottom-left.pdf) [Bottom right portion of the Map PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-BottomRight.pdf) [Downloadable version PDF.](/general-family/1874-bainbridge-map-of-land-parcels/attachment/1900-bainbridge-map-2/)
