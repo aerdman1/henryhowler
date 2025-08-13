@@ -30,7 +30,7 @@ next:
 
 <Image align="center" alt="An early view of the Western Reserve Eclectic Institute (now Hiram College) around the time Charles Henry was a student and James A. Garfield was the school’s principal. Hiram College Archives" border={false} caption="An early view of the Western Reserve Eclectic Institute (now Hiram College) around the time Charles Henry was a student and James A. Garfield was the school’s principal. Hiram College Archives" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/wrei-wikipedia-hiram-college-archives_1.jpg" />
 
-<br />
+This article is copied from the March 25, 2014, Blog of the James A. Garfield National Historic Site at the National Park Service website.
 
 **<Anchor label="Captain Henry of Geauga Part I" target="_blank" href="https://www.nps.gov/articles/000/captain-henry-of-geauga-part-i.htm">Captain Henry of Geauga Part I</Anchor>**
 
