@@ -37,3 +37,5 @@ I still have the train ticket from that trip. When I look back on it now, I’m 
 I remember my time in Cuba so vividly. Oddly, I don’t recall worrying about my mother. I don’t think I was told how sick she was. I had thought I’d be gone for just a week or two, not months. It was the only time in my childhood I was separated from her for so long.
 
 Looking back, my journey to Cuba as a young girl during World War II remains one of the most defining experiences of my childhood. What began as a necessary separation from my ailing mother turned into an eye-opening adventure that shaped my understanding of the world. I witnessed both privilege and poverty, navigated unfamiliar places, and learned to rely on my own judgment at a young age. Though I didn’t fully grasp the seriousness of my mother’s illness at the time, the experience gave me a deeper resilience and a lasting appreciation for the family who cared for me—and for the broader world I got to see, if only briefly, through a child’s eyes.
+
+<Image align="center" src="https://files.readme.io/585a3ad061376823ddd5afb915d073e1e2b9dc3ca1b0739b612abf20ea7b332f-aaaaa.jpg" />
