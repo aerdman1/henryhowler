@@ -10,8 +10,7 @@ link:
 metadata:
   robots: index
 ---
-Story One: The F-Bomb
-
+<Accordion title="Story One: The F-Bomb" icon="bomb">
 This is the story of the time I called my brother an "effer." You know what I mean by that, right?Patrick and I used to get home from school by bus before Mom returned from work. Our older siblings were usually off doing their own thing, so it was just the two of us. Patrick knew exactly how to push my buttons. He was older, bigger, and stronger—and he loved to torture me.
 One day, after relentless teasing, I finally snapped.
 “Pat, you… FUCKER!”
@@ -30,9 +29,9 @@ Then she walked over to me. But instead of punishment, she knelt in front of me 
 “People who use bad words like that usually aren’t smart enough to say something better.”
 I just nodded. “Okay, Mom.”
 That was the first time I remember seriously wondering if there might be a higher power—someone who might actually be watching out for me.
+</Accordion>
 
-Story Two: The Three-for-One Rule
-
+<Accordion title="Story Two: The Three-for-One Rule" icon="hand-fist">
 Of all my brothers, the one I clashed with the least was Jim.Jim was the fun brother. He invented games—lake games, yard games, and elaborate night games that brought the whole neighborhood together. When word got out that Jim and Chip were organizing something, kids came from blocks away. My childhood often felt like a dream because of that.
 But every once in a while, even Jim and I would have our conflicts.
 We didn’t throw punches to the face or gut. Our fights were limited to arms and legs. Still, I usually came out on the back end of things. I always had this unshakable faith that, no matter how mad I got, Jim wouldn’t actually hurt me too badly.
@@ -47,9 +46,9 @@ For the most part, I was more of a wrestler. I’d try to grab and throw them do
 Once they let me up, I’d march straight to their rooms, yank open their dresser drawers, and dump all their clothes on the floor. Sometimes I’d mess up their beds for good measure.
 My room was always such a disaster that they couldn’t really retaliate.
 “I win!”.
+</Accordion>
 
-Story Three: Dad’s Towel
-
+<Accordion title="Story Three: Dad’s Towel" icon="towel">
 In a house with two working parents and six kids, there was always a lot of love—but rarely a clean towel.Everyone knew the rule: Dad’s towel, which hung in his bathroom, was off limits. Touching it was a serious offense. Dad’s wrath wasn’t something anyone wanted to deal with.
 But there were only two showers in the house: one in the middle bathroom, and one in Mom and Dad’s bathroom. The towels in the middle bath were usually damp and smelled vaguely of mildew. Dad’s towel? Dry. Clean. Perfect.
 And irresistible.
@@ -62,3 +61,4 @@ Then he turned back to the rest of us.
 “Now—who was it?”
 I’m pretty sure it was either Patrick or me. It was almost always Patrick or me when something went wrong or missing.
 Thanks anyway, Jim.
+</Accordion>
