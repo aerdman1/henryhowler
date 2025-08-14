@@ -45,3 +45,5 @@ He was still scared, still teary, but he stood tall, took a breath, and whispere
 As he soared, he shouted: “I’m gonna do iiiiiit!” He popped up from the water with a huge grin—pure joy and pride illuminating his face. Then he did it again. And again. And again.
 
 When we got home, Peter retold the story—every jump, every rapid, every rescue—with the kind of energy only a nine-year-old can bring. I simply sat back, smiled, and listened. He now had his story, and it was a good one.
+
+<Image align="center" src="https://files.readme.io/72fc5a6de462b74a6aefea98061d852b520a581511d8525a2a893c224d1c86d9-ffffff.gif" />
