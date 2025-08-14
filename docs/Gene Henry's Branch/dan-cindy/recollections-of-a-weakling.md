@@ -5,6 +5,8 @@ excerpt: >-
   2025
 deprecated: false
 hidden: false
+link:
+  new_tab: false
 metadata:
   robots: index
 ---
@@ -33,8 +35,8 @@ Story Two: The Three-for-One Rule
 
 Of all my brothers, the one I clashed with the least was Jim.Jim was the fun brother. He invented games—lake games, yard games, and elaborate night games that brought the whole neighborhood together. When word got out that Jim and Chip were organizing something, kids came from blocks away. My childhood often felt like a dream because of that.
 But every once in a while, even Jim and I would have our conflicts.
-We didn’t throw punches to the face or gut. Our fights were limited to arms and legs. Still, I usually came out on the bac end of things. I always had this unshakable faith that, no matter how mad I got, Jim wouldn’t actually hurt me too badly.
-That said, sometimes I’d get so angry I’d haul back and take a swing at his arm or leg. Every time, Jim would calmly remind me of hia policy he called the “Three-for-One Rule.”
+We didn’t throw punches to the face or gut. Our fights were limited to arms and legs. Still, I usually came out on the back end of things. I always had this unshakable faith that, no matter how mad I got, Jim wouldn’t actually hurt me too badly.
+That said, sometimes I’d get so angry I’d haul back and take a swing at his arm or leg. Every time, Jim would calmly remind me of his policy he called the “Three-for-One Rule.”
 “Dan,” he’d say kindly, “I know you’re upset, and I know you want to hit me. But just remember: for every one hit you give me, I give three back. And not just in number—but in intensity. So think carefully.”
 Usually, I’d end up giving him a light tap.
 He’d congratulate me by saying. “Smart move. Now hold on—here come your three. They’ll be a little harder than yours, but hey, you made a wise choice keeping it light.”
@@ -60,7 +62,3 @@ Then he turned back to the rest of us.
 “Now—who was it?”
 I’m pretty sure it was either Patrick or me. It was almost always Patrick or me when something went wrong or missing.
 Thanks anyway, Jim.
-
-<br />
-
-&#x20;
