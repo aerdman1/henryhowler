@@ -22,7 +22,7 @@ Keep in mind, I grew up in a home where swearing was practically nonexistent. I 
 
 Patrick froze, staring at me in disbelief. Then a slow, wicked grin spread across his face.
 
-“I can’t wait for Mom to get home. I’m going to tell her what you said—and you are in sooo much truble.”
+“I can’t wait for Mom to get home. I’m going to tell her what you said—and you are in sooo much trouble.”
 
 I was doomed. Mom didn’t get home for another hour, and Patrick spent every minute gleefully reminding me of my impending doom. By the time she walked through the door, I was a nervous wreck.
 
