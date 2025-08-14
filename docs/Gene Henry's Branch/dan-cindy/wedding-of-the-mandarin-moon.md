@@ -3,6 +3,8 @@ title: Wedding of the Mandarin Moon
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
+link:
+  new_tab: false
 ---
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2023/06/Wed1-scaled.jpg)
 
@@ -18,8 +20,8 @@ hidden: false
 
 ![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2023/06/Wed7-scaled.jpg)
 
-June 15, 2023
+**Date:** June 15, 2023
 
-Dan Henry
+**Author:** Dan Henry
 
 <DanHenry />
