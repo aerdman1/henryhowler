@@ -10,6 +10,6 @@ hidden: false
 
 On Saturday, February 24, about 50 members of the West Anchorage High School staff met in downtown Anchorage for the Fur Rondezvous Frostbite Footrace. The race was well name as the temps were well below zero. Our group took 3rd over all in the ‘group’ division. That was unexpected as half of us walked the 5K race. I coordinated our groups effort and it was a huge success. Although it was a cold day, the warmth of our staff fellowship shined through with lots of laughs, smiles and a general good time. Good Morning America was filming the race. We were told that it would be aired nationwide on Thursday, March 2, so keep your eyes peeled if you watch that show for lots of people dressed in our school colors, orange and black. UNCLE PAT
 
-Fur Rondy is a BIG DEAL in Anchorage, check it out at <Anchor label="http://www.furrondy.net/" target="_blank" href="http://www.furrondy.net/">[http://www.furrondy.net/](http://www.furrondy.net/)</Anchor>
+Fur Rondy is a BIG DEAL in Anchorage, check it out at [http://www.furrondy.net/](http://www.furrondy.net/) <Anchor target="_blank" href="http://www.furrondy.net/" />
 
 February 28, 2007 Linda
