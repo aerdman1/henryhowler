@@ -1,6 +1,6 @@
 ---
 title: Rain Garden
-excerpt: By Danbh
+excerpt: By Dan
 deprecated: false
 hidden: false
 link:
@@ -12,7 +12,7 @@ Cindy and I started a garden in our backyard with very poor soil. As we amended 
 
 In 2023, I addressed this by digging a deep trench through the garden and burying a 12-inch culvert to allow water to pass underneath. On the downhill side, the water flowed into a narrow ditch and continued its path.
 
-In August 2025, Cindy and I attended a rain garden workshop with Linda and Casey. Inspired by the workshop, I decided to build a rain garden—designed to capture runoff in a low spot, creating a wetland-like area for moisture-loving plants—on our property. This article documents the beginning of that project and will be updated as the rain garden matures.
+In August 2025, Cindy and I attended a rain garden workshop with Linda and KC. Inspired by the workshop, I decided to build a rain garden—designed to capture runoff in a low spot, creating a wetland-like area for moisture-loving plants—on our property. This article documents the beginning of that project and will be updated as the rain garden matures.
 
 ### Step 1: Digging the Basin
 
