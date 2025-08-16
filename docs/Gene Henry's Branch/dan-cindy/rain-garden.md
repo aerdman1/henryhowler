@@ -18,9 +18,9 @@ In August 2025, Cindy and I attended a rain garden workshop with Linda and Casey
 
 I began by excavating an area on the downhill side of the culvert. Using the front-end loader on my small tractor, I scraped away a significant amount of clay soil to form a depression a few inches lower than the culvert outlet.
 
-<Image align="center" className="border" border={true} width="20% " src="https://files.readme.io/5e364ed9908d31b071b998ec5693cfefd12d72ed1baaa238af5695c5ceab19ce-1_dig_start.jpg" />
+<Image align="center" width="20% " src="https://files.readme.io/5e364ed9908d31b071b998ec5693cfefd12d72ed1baaa238af5695c5ceab19ce-1_dig_start.jpg" />
 
-<Image align="center" width="20% " src="https://files.readme.io/39383d68e277b6313da875fb93e35cd1c68d38889501471b480c5202c48498b1-2_finished_dig.jpg" />
+<Image align="center" src="https://files.readme.io/7bf9f25eb01c3be88591b3aaea1db260137d763804685125e2c85a142200a6b7-2_finished_dig.jpg" />
 
 ### Step 2: Lining with Stone
 
