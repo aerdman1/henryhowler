@@ -18,13 +18,11 @@ In August 2025, Cindy and I attended a rain garden workshop with Linda and Casey
 
 I began by excavating an area on the downhill side of the culvert. Using the front-end loader on my small tractor, I scraped away a significant amount of clay soil to form a depression a few inches lower than the culvert outlet.
 
-<Image align="center" src="https://files.readme.io/f6004c32afb52438c32e8bba23d5606cff33dbcc9b90114651cfcfdf99169112-1_dig_start.jpg" />
+<Image align="center" width="50% " src="https://files.readme.io/e5e25ddec51ab5872e316362da9dc8c67ccb60aecde40abad11fc1d35721311c-1_dig_start_25.jpg" />
 
 ### Step 2: Lining with Stone
 
 Next, I lined the basin with stone. I sourced rocks from a neighbor’s driveway project, where I helped remove approximately 300 large stones. Some went to Pat’s house, others to Todd’s pond-building efforts, and the rest I stockpiled for myself. One large rectangular sandstone slab became the overflow outlet; when the rain garden fills, excess water will spill over this stone onto the surrounding grass.
-
-![]()
 
 ### Step 3: Installing the Pipe
 
