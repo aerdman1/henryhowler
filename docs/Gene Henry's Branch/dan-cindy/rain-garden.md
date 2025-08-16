@@ -30,9 +30,15 @@ Next, I lined the basin with stone. I sourced rocks from a neighbor’s driveway
 
 To manage water flow, I placed a smaller pipe inside the culvert with the end turned upward. This setup allows water to flow through the culvert without completely bypassing the rain garden, enabling the depression to gradually saturate while preventing flooding. I set the pipe’s outlet just below the level of the sandstone overflow, ensuring excess water escapes once the basin is full.
 
+<Image align="center" width="20% " src="https://files.readme.io/5094d7d0c453aad446a8221275bd3233d909a9e4cf3e5723d2b55865b9f13597-4_rock_start.jpg" />
+
+<Image align="center" width="20% " src="https://files.readme.io/143e1dc059c374dc76d862299fb93507f9e9fd69c4cef7452828c7e133fa53e1-6_rocks2.jpg" />
+
 ### Step 4: Adding Soil
 
 With the boulders and pipe in place, I backfilled the depression with compost and topsoil. This created a planting area ready for moisture-loving plants that will help the rain garden thrive.
+
+<Image align="center" width="40% " src="https://files.readme.io/6b22d686faa206db1dc217ed4867b814b2dd95ecb6bb474f446919305de362e3-8_final.jpg" />
 
 ### Planting the Rain Garden
 
