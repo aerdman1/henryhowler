@@ -26,7 +26,7 @@ I spent most of the day by the pool and ordered room service. The Gerardo area t
 
 Tonight, I’ll be in Mumbai around midnight and will write again.
 
-Love you,
+Love you,\
 Brian
 
 ## April 8, 2011 – Heading Back West
@@ -37,7 +37,7 @@ I don’t look forward to returning to India—everything there is complicated, 
 
 I’m hoping for a smoother process this time. I’ll write again when I reach KL.
 
-Got a flight and a meal to catch—
+Got a flight and a meal to catch—\
 Love you,
 Brian
 
@@ -57,7 +57,7 @@ The next morning, I sat on a beach waiting for my prearranged boat. Tonight, I�
 
 I’m trying to arrange a morning of whitewater rafting or windsurfing before I go.
 
-Miss you,
+Miss you,\
 Love Brian
 
 ## April 4, 2011 – Kapit – Myrimar – Bakun – Belaga – Miri
@@ -72,17 +72,17 @@ I’ve been trying to find a word to describe the people of Sarawak. “Nice” 
 
 Adventures these past days include:
 
-*   Staying in a traditional longhouse and later a logging camp
-*   A wild 4WD expedition through jungle mountains
-*   A long-distance boat ride across a lake “the size of Singapore”
-*   Eating smoked catfish with a shop owner
-*   Exploring the Niah Caves
-*   Sprinting through jungle to make a boat on time
-*   Staying in a hostel in Batu Niah
+* Staying in a traditional longhouse and later a logging camp
+* A wild 4WD expedition through jungle mountains
+* A long-distance boat ride across a lake “the size of Singapore”
+* Eating smoked catfish with a shop owner
+* Exploring the Niah Caves
+* Sprinting through jungle to make a boat on time
+* Staying in a hostel in Batu Niah
 
 Today I’ll decide whether to fly to the Kelabit Highlands or Kota Kinabalu. I’m glad to be back in civilization, but I already miss the river.
 
-Will write again soon—
+Will write again soon—\
 Love Brian
 
 ## March 29, 2011 – Sibu to Kapit
@@ -97,7 +97,7 @@ After checking into a grimy hotel (dead cockroaches, stained bed, but at least a
 
 Tomorrow, I’ll try to reach Belaga if river levels allow. Otherwise, I may connect with a guide I just bumped into—he’s even listed in Lonely Planet!
 
-Wish you were here.
+Wish you were here.\
 Love,
 Brian
 
@@ -109,7 +109,7 @@ The hike was unforgettable: boardwalks, thick jungle, monkeys crashing through t
 
 Today I crossed the South China Sea to Sibu—five hours of beautiful scenery. Tomorrow I head up the Batang Rejang River toward Kapit, possibly staying with a local tribe in a longhouse.
 
-Wish you were here.
+Wish you were here.\
 Love,
 Brian
 
@@ -123,9 +123,13 @@ I explored markets (everything from scorpions to DVDs), temples, and the aviary�
 
 Tomorrow, I head to Borneo. Looking forward to leaving the chaos of KL behind for the jungle.
 
-Love,
+Love,\
 Brian
 
 ## March 23, 2011 – Lonely Planet Link to Borneo
 
 **From Dodie:** Brian leaves for Borneo Friday—the Lonely Planet link below makes it look like an amazing place to explore!
+
+[]()
+
+[https://www.lonelyplanet.com/destinations/borneo](https://www.lonelyplanet.com/destinations/borneo)
