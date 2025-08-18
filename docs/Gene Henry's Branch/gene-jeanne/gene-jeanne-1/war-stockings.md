@@ -3,17 +3,20 @@ title: War Stockings
 excerpt: by Jeanne Henry (Remembered in 2025)
 deprecated: false
 hidden: false
+link:
+  new_tab: false
 metadata:
   robots: index
 ---
-This story takes place in the early 1940s, during World War II. I was born in 1930, so I was eleven years old when the U.S. entered the war in 1941 after the attack on Pearl Harbor.
 
-At that age, I wasn’t yet wearing stockings, but many older girls I knew were. Back then, stockings were made of silk. Once the war began, silk was needed for parachutes, so stockings disappeared from store shelves. The older girls—preteens and teenagers—came up with a clever workaround: “liquid stockings.” It was a kind of makeup they smeared on their legs to mimic the look of real stockings. Then, with an ink pen, someone would carefully draw a seam up the back of the leg, just as real stockings had. It was an ingenious way to keep up appearances despite the shortages.
+This story, remembered in 2025 by Jeanne Henry, recounts experiences from the early 1940s during World War II. Born in 1930, I was eleven when the U.S. entered the war in 1941, following the attack on Pearl Harbor.
 
-Stockings may not seem important now, but in the 1940s women didn’t wear pants; only dresses. For dressing up, liquid stockings offered a creative solution to a very real wartime problem.
+While I was too young to wear stockings, many older girls I knew did. Back then, stockings were made of silk. With the war demanding silk for parachutes, stockings vanished from stores. Resourceful preteens and teenagers devised "liquid stockings"—a makeup applied to their legs to mimic the look of real stockings. Someone would then meticulously draw a seam up the back of the leg with an ink pen, replicating the authentic appearance. This ingenious solution allowed them to maintain appearances despite severe shortages.
 
-Of course, stockings weren’t the only thing in short supply. Meat, sugar, gasoline, and other essentials were rationed. Families managed with ration coupons or by standing in long lines, often receiving far less than they wanted. Cigarettes were also rationed—one pack per person. To get enough, everyone in the family stood in line, including my brother and me. Children buying cigarettes wasn’t unusual then; either there weren’t age limits, or no one enforced them. To us, it felt more like a game than a burden, waiting our turn to pick up a pack.
+Today, stockings may seem insignificant, but in the 1940s, women exclusively wore dresses, not pants. For formal wear, liquid stockings provided a creative and practical answer to a genuine wartime challenge.
 
-Gasoline was another headache. I remember sitting in the car at long lines for the pump, hoping the fuel wouldn’t run out before it was our turn. I’m sure there were other shortages too, but I was just a child, and some of those details have faded with time.
+Stockings were far from the only item in short supply. Essentials like meat, sugar, and gasoline were rationed. Families relied on ration coupons or endured long queues, often receiving less than desired. Even cigarettes were rationed to one pack per person. To secure enough, every family member, including my brother and me, would stand in line. Children buying cigarettes was common then, either due to a lack of age limits or unenforced regulations. For us, it felt more like a game than a chore, waiting our turn to pick up a pack.
 
-Looking back, I realize that wartime shortages taught people how to adapt in small but clever ways. Whether it was liquid stockings, ration coupons, or long waits at the gas pump, everyone found ways to get by. It wasn’t easy, but it showed the kind of resilience that defined those years.
+Gasoline posed another significant challenge. I recall sitting in the car, waiting in lengthy lines at the pump, always hoping fuel wouldn't run out before our turn. I'm certain there were other shortages, but as a child, some details have faded over time.
+
+Reflecting now, I recognize how wartime shortages taught people to adapt in small yet remarkably clever ways. Whether it was the innovation of liquid stockings, the use of ration coupons, or the patient waits at the gas pump, everyone found methods to manage. It wasn't easy, but it exemplified the profound resilience that characterized those years.
