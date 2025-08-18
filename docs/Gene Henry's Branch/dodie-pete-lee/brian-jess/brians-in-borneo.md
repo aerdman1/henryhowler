@@ -56,6 +56,6 @@ March 23 – Lonely Planet Link to Borneo
 
 Brian leaves for Borneo Friday—the below link sure makes it look like a great place to explore!
 
-<Anchor label="http://www.lonelyplanet.com/searchResult?q=borneo" target="_blank" href="http://www.lonelyplanet.com/searchResult?q=borneo">[http://www.lonelyplanet.com/searchResult?q=borneo](http://www.lonelyplanet.com/searchResult?q=borneo)</Anchor>
+<Anchor label="[http://www.lonelyplanet.com/searchResult?q=borneo](http://www.lonelyplanet.com/searchResult?q=borneo)" target="_blank" href="http://www.lonelyplanet.com/searchResult?q=borneo" />
 
 April 7, 2011 Linda
