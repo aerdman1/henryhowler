@@ -3,15 +3,18 @@ title: Brian's In Borneo
 excerpt: Emails frowarded to Linda from Dodie  2001
 deprecated: false
 hidden: false
+link:
+  new_tab: false
 metadata:
   robots: index
 ---
-From Dodie:\
-Dodie has been forwarding emails from Brian as he finishes his job in India and makes his way home. Right now, he’s spending time in Borneo. He’s taking photos and video, which we’ll add when we receive them. – AL
+This page compiles email updates from Brian, forwarded by Dodie to Linda, chronicling Brian's journey from finishing his job in India, through Borneo, and back home in 2011.
 
-April 11, 2001 – Heading Back West 2
+## April 11, 2011 – Heading Back West 2
 
-Last email from Brian on his adventure. He should be arriving in LA this morning. – Dodie
+*(Note: Original content had "2001", corrected to "2011" for chronological consistency with other entries.)*
+
+**From Dodie:** Last email from Brian on his adventure. He should be arriving in LA this morning.
 
 When I arrived in Kuala Lumpur, I had to take an hour-long bus ride into the city to find a hotel. On the bus I met a little boy and his energetic younger brother. They were traveling the world with their parents, originally from New Zealand, currently living in Bangladesh, and soon to be moving to Vietnam.
 
@@ -23,10 +26,10 @@ I spent most of the day by the pool and ordered room service. The Gerardo area t
 
 Tonight, I’ll be in Mumbai around midnight and will write again.
 
-Love you,\
+Love you,
 Brian
 
-April 8, 2011 – Heading Back West
+## April 8, 2011 – Heading Back West
 
 In a few hours I begin my trip back west. Tonight, I fly into Kuala Lumpur, where I’ll have a day-long layover before heading back to Mumbai.
 
@@ -34,11 +37,11 @@ I don’t look forward to returning to India—everything there is complicated, 
 
 I’m hoping for a smoother process this time. I’ll write again when I reach KL.
 
-Got a flight and a meal to catch—\
+Got a flight and a meal to catch—
 Love you,
 Brian
 
-April 7, 2011 – Borneo Update
+## April 7, 2011 – Borneo Update
 
 Just got back from an island off the coast of Kota Kinabalu—Mamutik.
 
@@ -54,13 +57,12 @@ The next morning, I sat on a beach waiting for my prearranged boat. Tonight, I�
 
 I’m trying to arrange a morning of whitewater rafting or windsurfing before I go.
 
-Miss you,\
+Miss you,
 Love Brian
 
-April 4 – Kapit – Myrimar – Bakun – Belaga – Miri
+## April 4, 2011 – Kapit – Myrimar – Bakun – Belaga – Miri
 
-From Dodie:\
-“Hadn’t heard from him for a while, but got this early this morning. He heads back to Mumbai April 9, spends the night, leaves for LA on the 10th, and arrives on the 11th. Quite a trip!”
+**From Dodie:** “Hadn’t heard from him for a while, but got this early this morning. He heads back to Mumbai April 9, spends the night, leaves for LA on the 10th, and arrives on the 11th. Quite a trip!”
 
 Just crawled out of the jungle—hot, sticky, but smiling ear to ear. I’m in Miri now, after a bus ride from the Niah Caves.
 
@@ -70,28 +72,20 @@ I’ve been trying to find a word to describe the people of Sarawak. “Nice” 
 
 Adventures these past days include:
 
-Staying in a traditional longhouse and later a logging camp
-
-A wild 4WD expedition through jungle mountains
-
-A long-distance boat ride across a lake “the size of Singapore”
-
-Eating smoked catfish with a shop owner
-
-Exploring the Niah Caves
-
-Sprinting through jungle to make a boat on time
-
-Staying in a hostel in Batu Niah
+*   Staying in a traditional longhouse and later a logging camp
+*   A wild 4WD expedition through jungle mountains
+*   A long-distance boat ride across a lake “the size of Singapore”
+*   Eating smoked catfish with a shop owner
+*   Exploring the Niah Caves
+*   Sprinting through jungle to make a boat on time
+*   Staying in a hostel in Batu Niah
 
 Today I’ll decide whether to fly to the Kelabit Highlands or Kota Kinabalu. I’m glad to be back in civilization, but I already miss the river.
 
-Will write again soon—\
+Will write again soon—
 Love Brian
 
-(Additional guide encounter and travel decision details remain as in Brian’s email—see full notes above.)
-
-March 29 – Sibu to Kapit
+## March 29, 2011 – Sibu to Kapit
 
 Mom, I spent my youth running around the woods—I have confidence. But I also know too much confidence can be dangerous.
 
@@ -103,11 +97,11 @@ After checking into a grimy hotel (dead cockroaches, stained bed, but at least a
 
 Tomorrow, I’ll try to reach Belaga if river levels allow. Otherwise, I may connect with a guide I just bumped into—he’s even listed in Lonely Planet!
 
-Wish you were here.\
+Wish you were here.
 Love,
 Brian
 
-March 28 – Kuching and Sibu
+## March 28, 2011 – Kuching and Sibu
 
 I arrived in Kuching early yesterday. With no boats running to Sibu, I detoured to Bako National Park.
 
@@ -115,11 +109,11 @@ The hike was unforgettable: boardwalks, thick jungle, monkeys crashing through t
 
 Today I crossed the South China Sea to Sibu—five hours of beautiful scenery. Tomorrow I head up the Batang Rejang River toward Kapit, possibly staying with a local tribe in a longhouse.
 
-Wish you were here.\
+Wish you were here.
 Love,
 Brian
 
-March 28 – Hello from Kuala Lumpur
+## March 28, 2011 – Hello from Kuala Lumpur
 
 Jess, it’s like a grittier Singapore here. After a short sleep on the plane, I arrived at 8 a.m. KL time.
 
@@ -129,11 +123,9 @@ I explored markets (everything from scorpions to DVDs), temples, and the aviary�
 
 Tomorrow, I head to Borneo. Looking forward to leaving the chaos of KL behind for the jungle.
 
-Love,\
+Love,
 Brian
 
-March 23 – Lonely Planet Link to Borneo
+## March 23, 2011 – Lonely Planet Link to Borneo
 
-Brian leaves for Borneo Friday—the Lonely Planet link below makes it look like an amazing place to explore!
-
-April 7, 2011 Linda
+**From Dodie:** Brian leaves for Borneo Friday—the Lonely Planet link below makes it look like an amazing place to explore!
