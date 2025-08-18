@@ -1,5 +1,6 @@
 ---
 title: Brian's In Borneo
+excerpt: Emails frowarded to Linda from Dodie  2001
 deprecated: false
 hidden: false
 metadata:
