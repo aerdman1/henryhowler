@@ -8,7 +8,6 @@ link:
 metadata:
   robots: index
 ---
-
 This story, remembered in 2025 by Jeanne Henry, recounts experiences from the early 1940s during World War II. Born in 1930, I was eleven when the U.S. entered the war in 1941, following the attack on Pearl Harbor.
 
 While I was too young to wear stockings, many older girls I knew did. Back then, stockings were made of silk. With the war demanding silk for parachutes, stockings vanished from stores. Resourceful preteens and teenagers devised "liquid stockings"—a makeup applied to their legs to mimic the look of real stockings. Someone would then meticulously draw a seam up the back of the leg with an ink pen, replicating the authentic appearance. This ingenious solution allowed them to maintain appearances despite severe shortages.
@@ -20,3 +19,7 @@ Stockings were far from the only item in short supply. Essentials like meat, sug
 Gasoline posed another significant challenge. I recall sitting in the car, waiting in lengthy lines at the pump, always hoping fuel wouldn't run out before our turn. I'm certain there were other shortages, but as a child, some details have faded over time.
 
 Reflecting now, I recognize how wartime shortages taught people to adapt in small yet remarkably clever ways. Whether it was the innovation of liquid stockings, the use of ration coupons, or the patient waits at the gas pump, everyone found methods to manage. It wasn't easy, but it exemplified the profound resilience that characterized those years.
+
+<Image align="center" src="https://files.readme.io/8290cd84f54ddd971bebf0ea4f8d2f1cc15bc5c02518e650c0e3afde6d3c197f-nylon_stockings_6.jpg" />
+
+<Image align="center" src="https://files.readme.io/97df70ce08b240bbcaa8dbfd6ca03859bd6a87a184514527b9537fcc55924f2c-silk_stocking_1.jpg" />
