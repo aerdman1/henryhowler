@@ -135,3 +135,5 @@ Brian
 March 23 – Lonely Planet Link to Borneo
 
 Brian leaves for Borneo Friday—the Lonely Planet link below makes it look like an amazing place to explore!
+
+April 7, 2011 Linda
