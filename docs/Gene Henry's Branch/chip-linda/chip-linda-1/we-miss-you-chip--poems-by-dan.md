@@ -208,7 +208,7 @@ all of us
 
 ![Roll 17 - 390](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Roll-17-390.jpg)
 
-![Mom haircutting](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Mom-haircutting.jpg)
+<Image align="center" alt="Mom haircutting" border={false} caption="Mom threatening to cut Chip's Hair" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Mom-haircutting.jpg" />
 
 <br />
 
