@@ -10,7 +10,7 @@ hidden: false
 
 <Image align="center" alt="Blanche with her boys about 1927. Gene is on her lap." border={false} caption="Mother Blanche Henry with Fred, John and Gene on her lap. About 1927." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/John_Fred_Blanche_Gene-2.jpg" />
 
-<Image align="center" alt="Gene and Fred with little brother Don" border={false} caption="Gene, Fred with little brother Don." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0024-1.jpg" />
+<Image align="center" alt="Gene and Fred with little brother Don" border={false} caption="Gene with little brother Don and Father Chuck" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0024-1.jpg" />
 
 <Image align="center" alt="Gene on the right, not sure who the friend in the overalls is." border={false} caption="Gene on the right, not sure who the friend in the overalls is." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-and-friend.jpg" />
 
