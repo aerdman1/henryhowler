@@ -72,9 +72,7 @@ hidden: false
 
 <Image align="center" alt="Just before Chip left for Africa 1980 " border={false} caption="Just before Chip left for Africa 1980 “Off on your big adventure&#x22;" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1980GeneBlancheChipChuckDodie.jpg" />
 
-<Image align="center" src="https://files.readme.io/9aa7a88b8b3ab2a3f59276b23892d56cefccae5ee9309043dc90b75f38c7538e-Gene_Fred_and_Chuck.jpg" />
-
-Fred, Grampa Chuck, and Gene (early WWII)
+<Image align="center" border={false} caption="Fred, Chuck, and Gene (early WWII)" src="https://files.readme.io/9aa7a88b8b3ab2a3f59276b23892d56cefccae5ee9309043dc90b75f38c7538e-Gene_Fred_and_Chuck.jpg" />
 
 ## Items from Gene Henry’s Service, Friday, March 26, 1999
 
