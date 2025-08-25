@@ -72,7 +72,9 @@ hidden: false
 
 <Image align="center" alt="Just before Chip left for Africa 1980 " border={false} caption="Just before Chip left for Africa 1980 “Off on your big adventure&#x22;" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1980GeneBlancheChipChuckDodie.jpg" />
 
-<Image align="center" alt="Holding baby Kim, summer 1988" border={false} caption="With baby Kimberly Henry, 1988" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Kim1988.jpg" width="400px" />
+<Image align="center" src="https://files.readme.io/9aa7a88b8b3ab2a3f59276b23892d56cefccae5ee9309043dc90b75f38c7538e-Gene_Fred_and_Chuck.jpg" />
+
+Fred, Grampa Chuck, and Gene (early WWII)
 
 ## Items from Gene Henry’s Service, Friday, March 26, 1999
 
@@ -95,5 +97,3 @@ This is a copy of Gene’s eulogy that was beautifully written and delivered by 
 <Image align="center" width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/NewsHerald_Obit-GeneHenry.jpg" />
 
 <Image align="center" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/DanH-Eulogy-for-Dad.jpg" />
-
-<Image align="center" src="https://files.readme.io/e9299dc56186ffa597d2546d9161c5c6e257fbbaadf4de0e743b330270cfd379-Gene_Fred_and_Chuck.jpg" />
