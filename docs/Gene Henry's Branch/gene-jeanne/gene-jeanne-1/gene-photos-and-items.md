@@ -56,7 +56,7 @@ hidden: false
 
 <Image align="center" alt="Dad toasting Mom" border={false} caption="Dad toasting Mom with Dan." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PICT0120.jpg" />
 
-<Image align="center" alt="Alaska fishing trip with his 4 boys. About 1996." border={false} caption="Alaska fishing trip with his 4 boys. About 1996" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PICT0112.jpg" />
+<Image align="center" alt="Alaska fishing trip with his 4 boys. About 1996." border={false} caption="Alaska fishing trip Pat, Chip, Jim, Gene, Dan 1996" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PICT0112.jpg" />
 
 <Image align="center" alt="Dad contemplating he Shed foundation." border={false} caption="Contemplating the Shed fouundation." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PICT0056.jpg" />
 
