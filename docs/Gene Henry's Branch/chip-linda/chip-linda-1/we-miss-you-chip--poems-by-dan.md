@@ -60,17 +60,17 @@ Love and miss you,
 
 all of us
 
-![20-2](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/20-2.jpg)
+<Image align="center" alt="20-2" border={false} caption="Two double uglies" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/20-2.jpg" />
 
-![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/2005misc-036.jpg)
+<Image align="center" alt="OLYMPUS DIGITAL CAMERA" border={false} caption="Chip and mom hiking with the Cleveland Hiking Club" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/2005misc-036.jpg" />
 
 ![2005misc 093](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/2005misc-093.jpg)
 
 ![OLYMPUS DIGITAL CAMERA](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/010102_2782.jpg)
 
-![022010\_4349](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/022010_4349.jpg)
+<Image align="center" alt="022010_4349" border={false} caption="Chip presiding over Polly and John's Wedding" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/022010_4349.jpg" />
 
-![053110\_7204](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/053110_7204.jpg)
+<Image align="center" alt="053110_7204" border={false} caption="Betty's pool at the cabin (Chip, Marley Dog, Keith, and Ross )" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/053110_7204.jpg" />
 
 ![080509\_8776](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/080509_8776.jpg)
 
