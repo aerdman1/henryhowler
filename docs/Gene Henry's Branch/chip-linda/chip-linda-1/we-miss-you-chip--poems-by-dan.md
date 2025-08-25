@@ -8,7 +8,7 @@ hidden: false
 
 Our lives changed forever the day that he left. One call – we were shattered, shocked, and bereft.
 
-Geauga morned with us – on news that he past. With tears in their eyes and flags at half mast.
+Geauga mourned with us – on news that he past. With tears in their eyes and flags at half mast.
 
 We rallied our efforts to send him off well. Chose music he liked and good stories to tell.
 
@@ -24,7 +24,7 @@ Heart ache – he was taken – so totally wrong. Yet I know he would tell us, �
 
 There’s no happy ending to a story like this. Didn’t get to say bye with a hug or a kiss.
 
-We’ll remember and cherish him though we’re apart Together we’ll keep him in mind and in heart.
+We’ll remember and cherish him though we’re apart, Together we’ll keep him in mind and in heart.
 
 I know that he loves us, and we’ll meet on that shore, Where sorrow, and sadness, and pain are no more.
 
