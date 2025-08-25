@@ -78,7 +78,7 @@ hidden: false
 
 This is a copy of Gene’s eulogy that was beautifully written and delivered by Rev. Don Grauer.
 
-<Anchor label="Gene Henry Eulogy 1999 by Rev. Grauer" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Henry-Eulogy-1999.compressed.pdf">Gene Henry Eulogy 1999 by Rev. Grauer</Anchor>
+[Gene Henry Eulogy 1999 by Rev. Grauer](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Henry-Eulogy-1999.compressed.pdf)
 
 <br />
 
@@ -95,3 +95,5 @@ This is a copy of Gene’s eulogy that was beautifully written and delivered by 
 <Image align="center" width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/NewsHerald_Obit-GeneHenry.jpg" />
 
 <Image align="center" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/DanH-Eulogy-for-Dad.jpg" />
+
+<Image align="center" src="https://files.readme.io/e9299dc56186ffa597d2546d9161c5c6e257fbbaadf4de0e743b330270cfd379-Gene_Fred_and_Chuck.jpg" />
