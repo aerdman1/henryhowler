@@ -64,11 +64,11 @@ hidden: false
 
 <Image align="center" alt="Father of the Groom, Groom, Best Man" border={false} caption="1982 Twin Falls, Idaho. Father of the Groom, The Groom and Best Man." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/wedding82.jpg" />
 
-<Image align="center" alt="Dad Gene and his 4 boys at Chip's wedding" border={false} caption="Dad Gene and his 4 boys at Chip’s Idaho wedding. December 19, 1982." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/wedding-3.jpg" />
+<Image align="center" alt="Dad Gene and his 4 boys at Chip's wedding" border={false} caption="Jim, Dan, Gene, Pat, Chip at Chip’s Idaho wedding. December 19, 1982." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/wedding-3.jpg" />
 
 <Image align="center" alt="After a day of door-to-door campaigning for Chip's State Senate race - 1988" border={false} caption="After a day of door-to-door campaigning for Chip’s State Senate race – 1988" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/chip-88-90-8.jpg" />
 
-<Image align="center" alt="Dad and Mom about 1998" border={false} caption="About 1998, during his illness with colon cancer." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PICT0091.jpg" />
+<Image align="center" alt="Dad and Mom about 1998" border={false} caption="About 1998, during Gene's illness with colon cancer." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PICT0091.jpg" />
 
 <Image align="center" alt="Just before Chip left for Africa 1980 " border={false} caption="Just before Chip left for Africa 1980 “Off on your big adventure&#x22;" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1980GeneBlancheChipChuckDodie.jpg" />
 
