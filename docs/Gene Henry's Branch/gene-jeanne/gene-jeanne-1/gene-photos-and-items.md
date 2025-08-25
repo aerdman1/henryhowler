@@ -44,7 +44,7 @@ hidden: false
 
 <Image align="center" alt="Toasting a vacation trip somewhere" border={false} caption="Gene and Jeanne on vacation somewhere." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PICT0012.jpg" />
 
-<Image align="center" alt="Gene holding a baby with Dodie and Jim looking on. Is the baby Chip? Pat? Dan?" border={false} caption="Gene holding a baby with Dodie and Jim looking on. Is the baby Chip? Pat? Dan?" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PICT0123.jpg" />
+<Image align="center" alt="Gene holding a baby with Dodie and Jim looking on. Is the baby Chip? Pat? Dan?" border={false} caption="Gene holding a Chip with Dodie and Jim looking on." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PICT0123.jpg" />
 
 <Image align="center" alt="Captain Gene in Canada about 1984" border={false} caption="Capt. Gene Henry in Canada about 1984." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PICT0132.jpg" />
 
