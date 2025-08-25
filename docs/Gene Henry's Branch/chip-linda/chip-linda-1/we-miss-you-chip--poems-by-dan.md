@@ -72,7 +72,7 @@ all of us
 
 <Image align="center" alt="053110_7204" border={false} caption="Betty's pool at the cabin (Chip, Marley Dog, Keith, and Ross )" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/053110_7204.jpg" />
 
-![080509\_8776](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/080509_8776.jpg)
+<Image align="center" alt="080509_8776" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/080509_8776.jpg" />
 
 ![080809\_8887](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/080809_8887.jpg)
 
