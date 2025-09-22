@@ -1,5 +1,5 @@
 ---
-title: Young Cousings
+title: Young Cousins
 deprecated: false
 hidden: false
 metadata:
