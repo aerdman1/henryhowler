@@ -10,7 +10,7 @@ metadata:
 ---
 Peter, aged nine, and David, aged twelve, were part of a large family group preparing to raft the Youghiogheny River, affectionately known to locals as “the Yawk,” in Ohiopyle State Park, approximately 65 miles southeast of Pittsburgh.
 
-David, with his own inflatable kayak—a “ducky”—quickly proved to be a confident and capable paddler. Peter, however, was disappointed to learn he couldn't paddle solo and would instead have to join a raft or tandem boat. Consequently, he and I teamed up in a double ducky.
+David, with his own inflatable kayak—a “ducky”—quickly proved to be a confident and capable paddler. Peter, however, was disappointed to learn he couldn't paddle solo because of his young age and would instead have to join a raft or tandem boat. Consequently, he and I teamed up in a double ducky.
 
 When rafting the Youghiogheny, two primary options exist: the Upper River, characterized by mostly flat water with gentle Class I and II rapids, or the Lower River, which boasts larger, faster Class III and IV rapids. The latter, while thrilling, can be potentially dangerous, especially during high water. Our group opted for the Lower River.
 
@@ -46,4 +46,4 @@ As he soared, he shouted: “I’m gonna do iiiiiit!” He popped up from the wa
 
 When we got home, Peter retold the story—every jump, every rapid, every rescue—with the kind of energy only a nine-year-old can bring. I simply sat back, smiled, and listened. He now had his story, and it was a good one.
 
-<Image align="center" src="https://files.readme.io/72fc5a6de462b74a6aefea98061d852b520a581511d8525a2a893c224d1c86d9-ffffff.gif" />
+<Image align="center" border={false} src="https://files.readme.io/72fc5a6de462b74a6aefea98061d852b520a581511d8525a2a893c224d1c86d9-ffffff.gif" />
