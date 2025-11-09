@@ -7,7 +7,6 @@ metadata:
   robots: index
 ---
 <Cards columns={2} title="Cards">
-
   <Card title="Families" href="families-home" icon="fa-people-roof">
     Family Articles
   </Card>
@@ -24,12 +23,7 @@ metadata:
     Images, videos, and other media
   </Card>
 
-  <Card title="Other" href="other-home" icon="fa-ellipsis">
-    Miscellaneous Resources
-  </Card>
-
 </Cards>
-
 
 <Cards class="otherCard" columns={1} title="Other">
   <Card title="Other" href="other-home" icon="" />
