@@ -67,6 +67,11 @@ Delight in Rhoda Henry Messner’s soul-stirring poetry and join Janet Henry’s
       color: #fff;
 }
 
-#content-container > section.content-body.grid-75 > div.rm-Markdown.markdown-body.rm-Markdown.markdown-body.ng-non-bindable > div:nth-child(3){}
+#content-container > section.content-body.grid-75 > div.rm-Markdown.markdown-body.rm-Markdown.markdown-body.ng-non-bindable > div:nth-child(3) {
+    grid-template-columns: repeat(1, 1fr) !important;
+  text-align: center;
+background:grey !important;
+
+}
 </style>
 `}</HTMLBlock>
