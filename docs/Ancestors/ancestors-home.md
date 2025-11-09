@@ -1,5 +1,5 @@
 ---
-title: Ancestors Home
+title: '*Ancestors HOME'
 deprecated: false
 hidden: false
 metadata:
