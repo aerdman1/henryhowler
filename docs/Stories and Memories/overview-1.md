@@ -1,5 +1,5 @@
 ---
-title: Todd Dig That Hole (Video)
+title: 'Video: Todd Dig That Hole'
 excerpt: Todd, Linda, Ashely, Dan, Henry, Cam, Danny, Will, Chip
 deprecated: false
 hidden: false
