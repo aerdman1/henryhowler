@@ -46,8 +46,8 @@ metadata:
     background: grey !important;
 }
 #content-container > section.content-body.grid-75 > div.rm-Markdown.markdown-body.rm-Markdown.markdown-body.ng-non-bindable > div:nth-child(3) {
-    grid-template-columns: repeat(1, 1fr) !important;
-  text-align:center;
+
+text-align:center;
 font-size:15px !important;
 
 }
