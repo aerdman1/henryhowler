@@ -1,5 +1,5 @@
 ---
-title: Families Home
+title: '*Families HOME'
 deprecated: false
 hidden: false
 metadata:
