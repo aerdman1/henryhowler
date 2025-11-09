@@ -1,5 +1,5 @@
 ---
-title: Other Home
+title: Other HOME
 deprecated: false
 hidden: false
 metadata:
