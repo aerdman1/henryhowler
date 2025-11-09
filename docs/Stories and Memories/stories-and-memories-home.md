@@ -1,5 +1,5 @@
 ---
-title: '*Stories and Memories HOME'
+title: Home
 deprecated: false
 hidden: false
 metadata:
