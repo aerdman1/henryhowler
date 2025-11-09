@@ -42,12 +42,11 @@ metadata:
   .CardsGrid .Card-content {
       color: #fff;
 }
-#content-container > section.content-body.grid-75 > div.rm-Markdown.markdown-body.rm-Markdown.markdown-body.ng-non-bindable > div:nth-child(3) .Card:nth-child(1) {
-    background: grey !important;
-}
+
 a[href="other-home"] {
 text-align:center;
 font-size:15px !important;
+    background: grey !important;
 }
 
 </style>
