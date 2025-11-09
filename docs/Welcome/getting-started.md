@@ -25,33 +25,10 @@ metadata:
 </Cards>
 
 <Cards columns={1} title="Other">
-  <Card title="Other" href="other-home" icon="">
-  </Card>
+  <Card title="Other" href="other-home" icon="" />
 </Cards>
 
 <br />
-
-<MasterPageGrid />
-
-## Join Us in Exploring:
-
-***
-
-### Roots & Migration
-
-Trace the path from Simon Henry’s 1797 Connecticut land deed through subsequent waves of migration into Ohio, California, and beyond—each move weaving new threads into our family tapestry.
-
-### Heroes & Service
-
-Read the gripping firsthand accounts of Capt. Charles E. Henry leading the 42nd Regiment O.V.I. and follow Fred H. Henry’s journey of valor in World War II, where courage defined our legacy.
-
-### Law & Legacy
-
-Discover how Judge Frederick A. Henry’s rulings on Cleveland’s bench left an indelible mark on justice in our community—and how that commitment to fairness still resonates today.
-
-### Art & Adventure
-
-Delight in Rhoda Henry Messner’s soul-stirring poetry and join Janet Henry’s high-altitude adventures, from mountaintop climbs to globe-spanning explorations that expand the family story.
 
 <HTMLBlock>{`
 <style>
