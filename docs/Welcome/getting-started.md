@@ -66,7 +66,7 @@ a.Card[href="other-home"] {
 <style>
 .add-article-btn {
   position: fixed;
-  top: 20px;
+  top: 120px;
   right: 20px;
   z-index: 1000;
   background: linear-gradient(135deg, #2563eb, #1e40af); /* blue gradient */
