@@ -59,10 +59,11 @@ a.Card[href="other-home"] {
 `}</HTMLBlock>
 
 <HTMLBlock>{`
-<button class="add-article-btn" onclick="window.location.href='https://dash.readme.com/to/henry-howler-group?redirect=%2Fdocs%2Fhow-to-add-articles'">
+<button class="add-article-btn" onclick="window.location.href='v1.0_new-stuff/update/docs/how-to-add-articles#/'">
   <i class="fa-solid fa-plus"></i>
   Add an Article!
 </button>
+
 <style>
 .add-article-btn {
   position: fixed;
