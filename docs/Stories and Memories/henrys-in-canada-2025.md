@@ -1,5 +1,5 @@
 ---
-title: Henrys in Canada 2025
+title: Video - Henrys in Canada 2025
 deprecated: false
 hidden: false
 metadata:
