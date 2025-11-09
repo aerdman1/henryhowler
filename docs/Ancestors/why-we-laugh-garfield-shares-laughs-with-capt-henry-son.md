@@ -1,13 +1,10 @@
 ---
-title: "Why We Laugh – Garfield shares Laughs with Capt. Henry & Son"
+title: Why We Laugh – Garfield shares Laughs with Capt. Henry & Son
+date: '2013-12-05T05:00:00.000Z'
 deprecated: false
-date: "2013-12-05T05:00:00.000Z"
 hidden: false
 ---
-
-
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/GarfeldObserver-laughing.png)
-
+<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/GarfeldObserver-laughing.png" />
 
 I copied this post from the Garfield Observer Blog  which does not exist anymore.
 
@@ -21,7 +18,7 @@ Garfield’s life-long friend Burke Hinsdale described his reading habits:
 
 And in the spring of 1881:
 
-Visitors noticed that the White House now seemed filled with books: “Everywhere—in every nook and corner,” a reporter wrote. “A case in the parlor contains editions of Waverly \[sic—referring to the Waverly novels by Sir Walter Scott.\] and Dickens,” along with “French history in the original, old English poets and dramatists richly bound in black and gold” in the hallways and dining room. (Kenneth D. Ackerman, Dark Horse, p. 322)
+Visitors noticed that the White House now seemed filled with books: “Everywhere—in every nook and corner,” a reporter wrote. “A case in the parlor contains editions of Waverly [sic—referring to the Waverly novels by Sir Walter Scott.] and Dickens,” along with “French history in the original, old English poets and dramatists richly bound in black and gold” in the hallways and dining room. (Kenneth D. Ackerman, Dark Horse, p. 322)
 
 Now, all those books (except, we hope, for the ones borrowed from the “Congressional Library” as Garfield called it) fill the shelves of the President’s home in Mentor, Ohio. The Waverly novels are in the parlor, Dickens is in the boys’ room. About half of the books are in the Memorial Library—an eclectic collection that includes law, religion and philosophy, political history and biography, poetry, and interesting titles like Hygiene of the Brain, Mizpah, and Natural Laws of Husbandry. On a low shelf in a corner hides Why We Laugh, by S. S. Cox.
 
@@ -29,7 +26,7 @@ Samuel S. Cox was born in Zanesville, Ohio, in 1824; practiced law in Cincinnati
 
 Perhaps to impress his readers with his scholarship, Cox begins his book with a classical definition of humor. “Humor, in its literal meaning, is moisture. Its derived sense is different; but while it is now a less sluggish element than moisture, we still associate with humor some of its old relations. In old times, physicians reckoned several kinds of moisture in the human body—phlegm, blood, choler, and melancholy. They found one vein particularly made for a laugh to run in, the blood of which, being stirred, the man laughed, even if he felt like crying…” It quickly becomes apparent that the “We” in Cox’s title refers to Americans in general and legislators in particular.
 
-He asserts repeatedly that American humor is based most often on exaggeration. “The Declaration of Independence is a splendid exaggeration…’all men are created equal’…’all government derives its powers from the consent of the governed’…With such a chart\[er\], and with such a grand initial momentum, need we wonder at the magnitude of our ideas, the magniloquence of our orators, and the exaggerations of our humor? Our large lakes, our long rivers, our mountain ranges, our mammoth conifers, our vast mineral treasures, our wide prairies, our great crops, our growing cities, our enlarging territory, our unrivaled telegraphs, our extensive railroads and their equally extensive disasters, our mechanical skill and its infinite production, our unexampled civil unpleasantness and its results, would seem to call for an aggrandized view of our political and social position, and, as a consequence, for a broad, big, Brobdingnagian humor.”
+He asserts repeatedly that American humor is based most often on exaggeration. “The Declaration of Independence is a splendid exaggeration…’all men are created equal’…’all government derives its powers from the consent of the governed’…With such a chart[er], and with such a grand initial momentum, need we wonder at the magnitude of our ideas, the magniloquence of our orators, and the exaggerations of our humor? Our large lakes, our long rivers, our mountain ranges, our mammoth conifers, our vast mineral treasures, our wide prairies, our great crops, our growing cities, our enlarging territory, our unrivaled telegraphs, our extensive railroads and their equally extensive disasters, our mechanical skill and its infinite production, our unexampled civil unpleasantness and its results, would seem to call for an aggrandized view of our political and social position, and, as a consequence, for a broad, big, Brobdingnagian humor.”
 
 Eighteen of Cox’s twenty-five chapters are about legislative humor. Filled with quotes, quips and epigrams, it is quite apparent that Cox found his colleagues to be his most important source of material; this volume is a classic study in the fine Washington art of name dropping. Garfield’s name only appears a few times, most notably in the chapter called Legislative Retort and Repartee: “ It was a railroad grant. ‘Where is all this to lead?’ exclaimed Washburne. ‘To the Pacific coast,’ said Garfield. ‘To the bottom of the treasury rather,’ was the prompt rejoinder.” It doesn’t seem to me that Garfield was an active participant in the repartee. I wonder if every man named between the covers of Why WeLaugh received a signed copy.
 
@@ -49,6 +46,6 @@ House colleagues and social friends, Cox and Garfield seem to have had very diff
 
 Perhaps Mr. Garfield could agree with that.
 
-\-Joan Kapsch, Park Guide
+-Joan Kapsch, Park Guide
 
-[February 1, 2017](/ancestors/capt-charles-sophia/why-we-laugh-garfield-shares-laughs-with-capt-henry-son/) [Linda](/author/admin/) [December 5, 2013](https://garfieldnps.wordpress.com/2013/12/05/why-we-laugh/)
+February 1, 2017 Linda December 5, 2013
