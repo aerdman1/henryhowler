@@ -5,6 +5,6 @@ hidden: false
 metadata:
   robots: index
 ---
-Click [HERE](https://henry-howler-group.readme.io/v1.0_new-stuff/update/docs/how-to-add-articles#/)
+Click HERE
 
 blah blah blah (put instructions here)
