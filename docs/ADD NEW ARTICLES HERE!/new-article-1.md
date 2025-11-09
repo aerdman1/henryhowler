@@ -16,4 +16,4 @@ Be sure to give your page a clear title and save your work regularly as you make
 
 You can type "/" to insert specialized content such as images or embedding video.
 
-<Image align="center" border={false} width="500px" src="https://files.readme.io/75f58ad9012788cdeb26f127104a1ab7574b3de2991cafc5c7adc90c5fee8e2c-Screenshot_2025-11-09_at_1.28.11_PM.png" />
+<Image align="center" border={false} width="100% " src="https://files.readme.io/75f58ad9012788cdeb26f127104a1ab7574b3de2991cafc5c7adc90c5fee8e2c-Screenshot_2025-11-09_at_1.28.11_PM.png" />
