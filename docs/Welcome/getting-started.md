@@ -52,7 +52,7 @@ grid-template-columns: auto !important;
 a.Card[href="other-home"] {
   text-align: center;
   font-size: 15px !important;
-  background: grey !important;
+  background: #b2b0b0 !important;
 }
 
 </style>
