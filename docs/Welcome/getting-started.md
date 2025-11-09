@@ -6,21 +6,21 @@ hidden: false
 metadata:
   robots: index
 ---
-<Cards columns={2} title="Families">
-  <Card title="Don Henry’s" href="families-home" icon="fa-user-alt">
-    UNDER CONSTRUCTION
+<Cards columns={2} title="Cards">
+  <Card title="Families" href="families-home" icon="fa-user-alt">
+    Family Articles
   </Card>
 
-  <Card title="Fred Henry’s" href="fred-henrys-article-feed" icon="fa-user-circle">
-    UNDER CONSTRUCTION
+  <Card title="Ancestors" href="ancestors-home" icon="fa-user-circle">
+    Ancenstor Articles
   </Card>
 
-  <Card title="Gene Henry’s" href="gene-henrys-article-feed" icon="fa-user-friends">
-    Learn more about Gene’s branch of the family
+  <Card title="Stories & Memories" href="stories-and-memories-home" icon="fa-user-friends">
+    Find Stories & Memories
   </Card>
 
-  <Card title="John Henry’s" href="john-henrys-article-feed" icon="fa-users">
-    UNDER CONSTRUCTION
+  <Card title="Media" href="media-home" icon="fa-users">
+    Images, videos, and other media
   </Card>
 </Cards>
 
