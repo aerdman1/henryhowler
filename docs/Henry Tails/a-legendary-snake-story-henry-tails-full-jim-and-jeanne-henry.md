@@ -1,5 +1,6 @@
 ---
-title: 'A Legendary Snake Story (Henry Tails: Full) Jim and Jeannee Henry'
+title: A Legendary Snake Story
+excerpt: by Jim and Jeanne Henry
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
