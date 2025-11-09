@@ -22,11 +22,10 @@ metadata:
   <Card title="Media" href="media-home" icon="fa-photo-film">
     Images, videos, and other media
   </Card>
-
 </Cards>
 
 <Cards class="otherCard" columns={1} title="Other">
-  <Card title="Other" href="other-home" icon="" />
+  <Card title="Other" href="other-home" icon="fa-ellipsis" />
 </Cards>
 
 <br />
