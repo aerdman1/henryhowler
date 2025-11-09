@@ -1,7 +1,8 @@
 ---
-title: "2017 “Special Fishing Event” with Rotary & Chip Henry Institute"
+title: 'Article: Special Fishing Event'
+excerpt: 2017  Rotary & Chip Henry Institute
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
 
