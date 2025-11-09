@@ -59,7 +59,7 @@ a.Card[href="other-home"] {
 `}</HTMLBlock>
 
 <HTMLBlock>{`
-<button class="add-article-btn" onclick="window.location.href='/docs/new-article-1'">
+<button class="add-article-btn" onclick="window.location.href='/docs/'">
   <i class="fa-solid fa-plus"></i>
   Add an Article!
 </button>
