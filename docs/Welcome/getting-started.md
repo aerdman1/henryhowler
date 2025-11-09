@@ -25,19 +25,16 @@ metadata:
 </Cards>
 
 <Cards columns={3} title="Other">
-  <Card title="" href="" icon="">
-   
-  </Card>
-  <Card title="Other" href="other-home" icon="fa-user-alt">
- Other fun stuff!
-  </Card>
-  <Card title="Other" href="" icon="">
+  <Card title="" href="" icon="" />
 
+  <Card title="Other" href="other-home" icon="fa-user-alt">
+    Other fun stuff!
   </Card>
+
+  <Card title="" href="" icon="" />
 </Cards>
 
 <br />
-
 
 <MasterPageGrid />
 
