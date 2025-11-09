@@ -49,6 +49,7 @@ a.Card[href="other-home"] {
   font-size: 15px !important;
   background: grey !important;
   display:block; margin:0 auto;width:100% !important;
+grid-template-columns: none !important;
 }
 
 
