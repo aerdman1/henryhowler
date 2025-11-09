@@ -43,11 +43,12 @@ metadata:
       color: #fff;
 }
 
-a[href="other-home"] {
-text-align:center;
-font-size:15px !important;
-    background: grey !important;
+div:has(a[href="other-home"]) {
+  text-align: center;
+  font-size: 15px !important;
+  background: grey !important;
 }
+
 
 </style>
 `}</HTMLBlock>
