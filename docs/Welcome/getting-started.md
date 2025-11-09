@@ -26,7 +26,6 @@ metadata:
 
 <Cards columns={1} title="Other">
   <Card title="Other" href="other-home" icon="">
-    Other fun stuff!
   </Card>
 </Cards>
 
