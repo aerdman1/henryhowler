@@ -44,15 +44,14 @@ Their children were:
 
 1. Orrin, born at Enfield, Ct., Oct. 17 1792; married Dincey Thompson, Mar. 16, 1827; had a large family and moved to Illinois.
 2. William, born in Middlefield, Mass., Nov. 3, 1794; married Rachel McConoughey, and had seven children, of whom King W., the sixth, still lives in Bainbridge:
-   John, born in Washington, Mass., Sept. 28, 1796; married Polly Jaqua, July 1, 1819, and had nine children, of whom Mrs. Martha Ann Brewster and Capt. Charles E. Henry still live in Bainbridge. He died Jan. 10, 1869, age 72.
-
-Rhoda, born in Washington, June 30, 1798, married Robert Root and had five children, of whom the third, Delos, still resides in Bainbridge.
-Anne Osborne, born March 26, 1800, married Jasper Lacey and had 10 children.
-Mary, born Jan. 9, 1802, married Elijah French, and died without issue.
-Simon Nelson was born in Washington, Mass., July 27, 1803.
-Calvin Parsons, born March 24, 1807, married Lorette Jackson, Sept. 4, 1832, and had four children, of whom Nelson C. the second, still lives in Bainbridge.
-Milo born Mar. 9, 1810, married Chole Ann B. Osborn, Feb. 24, 1833, and had two children:
-Newton, born Mar. 27, 1813, served in the Seminole War, and was afterwards mate of a whaling vessel. He died at sea, unmarried.
+3. John, born in Washington, Mass., Sept. 28, 1796; married Polly Jaqua, July 1, 1819, and had nine children, of whom Mrs. Martha Ann Brewster and Capt. Charles E. Henry still live in Bainbridge. He died Jan. 10, 1869, age 72.
+4. Rhoda, born in Washington, June 30, 1798, married Robert Root and had five children, of whom the third, Delos, still resides in Bainbridge.
+5. Anne Osborne, born March 26, 1800, married Jasper Lacey and had 10 children.
+6. Mary, born Jan. 9, 1802, married Elijah French, and died without issue.
+7. Simon Nelson was born in Washington, Mass., July 27, 1803.
+8. Calvin Parsons, born March 24, 1807, married Lorette Jackson, Sept. 4, 1832, and had four children, of whom Nelson C. the second, still lives in Bainbridge.
+9. Milo born Mar. 9, 1810, married Chole Ann B. Osborn, Feb. 24, 1833, and had two children:
+10. Newton, born Mar. 27, 1813, served in the Seminole War, and was afterwards mate of a whaling vessel. He died at sea, unmarried.
 
 Rhoda Parsons Henry, the mother of this family, as born in Enfield, Ct., Mar. 13, 1774, and died in Bainbridge, June 15, 1847, aged 73 years.  Simon Henry, her husband was for many years, a justice of the peace in Bainbridge, and died there June 26, 1854, aged 87 years.  Both are buried in the old southeast burying ground.  Such is the life history of a couple who lived for many years in each of three States, and were pioneers in both Western Massachusetts and Northeastern Ohio.
 
