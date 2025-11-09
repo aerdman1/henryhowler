@@ -1,5 +1,5 @@
 ---
-title: Copy of New Article 1
+title: New Article 2
 excerpt: >-
   Change this title, description, and add your new article below!  Once
   approved, we will publish it!
