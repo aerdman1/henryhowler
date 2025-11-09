@@ -24,14 +24,10 @@ metadata:
   </Card>
 </Cards>
 
-<Cards columns={3} title="Other">
-
-
+<Cards columns={1} title="Other">
   <Card title="Other" href="other-home" icon="fa-user-alt">
     Other fun stuff!
   </Card>
-
-
 </Cards>
 
 <br />
