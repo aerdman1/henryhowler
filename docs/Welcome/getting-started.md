@@ -44,7 +44,7 @@ metadata:
 }
 
 
-.CardsGrid:has(a[href="other-home"]) {
+a.Card[href="other-home"] {
   text-align: center;
   font-size: 15px !important;
   background: grey !important;
