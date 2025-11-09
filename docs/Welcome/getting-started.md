@@ -7,22 +7,29 @@ metadata:
   robots: index
 ---
 <Cards columns={2} title="Cards">
-  <Card title="Families" href="families-home" icon="fa-user-alt">
+
+  <Card title="Families" href="families-home" icon="fa-people-roof">
     Family Articles
   </Card>
 
-  <Card title="Ancestors" href="ancestors-home" icon="fa-user-circle">
+  <Card title="Ancestors" href="ancestors-home" icon="fa-tree">
     Ancestor Articles
   </Card>
 
-  <Card title="Stories & Memories" href="stories-and-memories-home" icon="fa-user-friends">
+  <Card title="Stories & Memories" href="stories-and-memories-home" icon="fa-book-open">
     Find Stories & Memories
   </Card>
 
-  <Card title="Media" href="media-home" icon="fa-users">
+  <Card title="Media" href="media-home" icon="fa-photo-film">
     Images, videos, and other media
   </Card>
+
+  <Card title="Other" href="other-home" icon="fa-ellipsis">
+    Miscellaneous Resources
+  </Card>
+
 </Cards>
+
 
 <Cards class="otherCard" columns={1} title="Other">
   <Card title="Other" href="other-home" icon="" />
