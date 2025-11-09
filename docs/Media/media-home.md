@@ -1,5 +1,5 @@
 ---
-title: Media Home
+title: Media HOME
 deprecated: false
 hidden: false
 metadata:
