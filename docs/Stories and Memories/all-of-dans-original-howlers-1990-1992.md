@@ -1,5 +1,6 @@
 ---
-title: All of Dan’s Original Howler’s 1990-1992
+title: 'Stories: Original Howler’s 1990-1992'
+excerpt: Dan and Cindy's school newspaper from Danger Bay Alaska
 date: '2017-01-16T05:00:00.000Z'
 deprecated: false
 hidden: false
