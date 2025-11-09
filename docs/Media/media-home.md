@@ -1,5 +1,5 @@
 ---
-title: Media HOME
+title: '*Media HOME'
 deprecated: false
 hidden: false
 metadata:
