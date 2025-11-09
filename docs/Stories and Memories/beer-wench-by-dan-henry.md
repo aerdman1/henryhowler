@@ -1,5 +1,6 @@
 ---
-title: Beer Wench by Dan Henry
+title: 'video: Beer Wench'
+excerpt: ' by Dan Henry June 2010'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
