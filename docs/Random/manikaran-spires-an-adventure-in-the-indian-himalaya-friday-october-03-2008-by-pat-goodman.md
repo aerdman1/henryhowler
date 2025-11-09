@@ -1,27 +1,25 @@
 ---
-title: "Manikaran Spires – an adventure in the Indian Himalaya FRIDAY, OCTOBER 03, 2008  by Pat Goodman"
+title: Janet and Freddy Climb Manikaran Spires
+excerpt: an adventure in the Indian Himalaya FRIDAY, OCTOBER 03, 2008  by Pat Goodman
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
+<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Manikaran-010.jpg" />
 
+<Image alt="Ben Ditto luvin it high on the route." border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Manikaran-010.jpg" />
 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Manikaran-010.jpg)
- 
-![Ben Ditto luvin it high on the route.](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Manikaran-010.jpg)
- 
-![Freddie Wilkinson buried in a chimney a few pitches up the lower wall.](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Manikaran-008.jpg)
- 
-![Basecamp, Peak 5394 is on the left. Our route follows the left skyline, across the ridge then up the the summit headwall.](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Manikaran-005.jpg)
- 
-![The snowy south face of peak 5394](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Manikaran-003.jpg)
- 
-![Ben and Janet overlooking the village of Manikaran.](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Manikaran-002.jpg)
- 
-![Fred, Ben and Janet looking at the postcard that inspired this adventure.](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Manikaran-001.jpg)
- 
-![The view from the roof top of the Deep Forest Hotel.](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1Manikaran.jpg)
+<Image alt="Freddie Wilkinson buried in a chimney a few pitches up the lower wall." border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Manikaran-008.jpg" />
 
+<Image alt="Basecamp, Peak 5394 is on the left. Our route follows the left skyline, across the ridge then up the the summit headwall." border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Manikaran-005.jpg" />
+
+<Image alt="The snowy south face of peak 5394" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Manikaran-003.jpg" />
+
+<Image alt="Ben and Janet overlooking the village of Manikaran." border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Manikaran-002.jpg" />
+
+<Image alt="Fred, Ben and Janet looking at the postcard that inspired this adventure." border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Manikaran-001.jpg" />
+
+<Image alt="The view from the roof top of the Deep Forest Hotel." border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1Manikaran.jpg" />
 
 As luck would have it Freddie Wilkinson, Janet Bergman, Ben Ditto, and I (Pat Goodman) found the one Hotel in Kasol that has a splendid roof top view of our climbing objectives in the Manikaran Spire Group. It was kind of surreal to stand their with bent necks looking up at was once just a picture on a postcard.
 
@@ -40,3 +38,5 @@ The next day – another gorgeous morning – started with waist deep snow waddl
 We barely made the snowfield below the wall before nightfall and spent a few hrs waddling through more waist deep snow to get back to camp at around 8:00 pm. We split camp the next day making it back to the village of Manikaran in 7 hrs, with swollen feet and tired bodies. After a day in Kasol the four of us hitched a jeep ride back to Manali where Ben and I said our goodbye’s to Freddie and Janet. Fred has plans to climb in Nepal and Janet went to Dharamsala to practice yoga. Ben and I are going to the Chhota Shigri Glacier north east of Manali to do a little bouldering and hopefully find another wall to climb. The weather looks ok and from what we can tell the adventure potential is great!
 
 Stay tuned for an update….. By Pat Goodman
+
+an adventure in the Indian Himalaya FRIDAY, OCTOBER 03, 2008  by Pat Goodman
