@@ -6,6 +6,6 @@ hidden: false
 ---
 johnhenryinterview
 
-January 7, 2017 [Linda](/author/admin/) [johnhenryinterview](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/johnhenryinterview.pdf)
+January 7, 2017 [Linda](/author/admin/) johnhenryinterview
 
 <br />
