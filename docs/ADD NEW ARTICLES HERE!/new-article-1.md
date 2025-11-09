@@ -8,8 +8,6 @@ hidden: false
 metadata:
   robots: index
 ---
-<br />
-
 # Adding New Articles to the Henry Howler!
 
 This is where you’ll add your content. You can type directly in this editor or paste text from another source—just keep in mind that this page uses Markdown, so some formatting (like font sizes, colors, or special spacing from Word or Google Docs) may not transfer exactly. You can use standard Markdown tools (bold, italics, links, lists, etc.) to reformat as needed.
