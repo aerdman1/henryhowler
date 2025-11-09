@@ -12,7 +12,7 @@ metadata:
   </Card>
 
   <Card title="Ancestors" href="ancestors-home" icon="fa-user-circle">
-    Ancenstor Articles
+    Ancestor Articles
   </Card>
 
   <Card title="Stories & Memories" href="stories-and-memories-home" icon="fa-user-friends">
