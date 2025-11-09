@@ -45,13 +45,15 @@ metadata:
 
 
 #content-container > section.content-body.grid-75 > div.rm-Markdown.markdown-body.rm-Markdown.markdown-body.ng-non-bindable > div:nth-child(4) {
-  text-align: center;
-  font-size: 15px !important;
-  background: grey !important;
-  display:grid; margin:0 auto;width:100% !important;
+display:grid; margin:0 auto;width:100% !important;
 grid-template-columns: auto !important;
 }
 
+a.Card[href="other-home"] {
+  text-align: center;
+  font-size: 15px !important;
+  background: grey !important;
+}
 
 </style>
 `}</HTMLBlock>
