@@ -1,5 +1,6 @@
 ---
-title: 08 Shed Clean-Up Day a Raging Success!
+title: 'Album: Shed Clean-Up Day a Raging Success!'
+excerpt: Summer 2008
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
