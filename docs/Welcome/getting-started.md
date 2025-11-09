@@ -24,7 +24,7 @@ metadata:
   </Card>
 </Cards>
 
-<Cards columns={1} title="Other">
+<Cards class="otherCard" columns={1} title="Other">
   <Card title="Other" href="other-home" icon="" />
 </Cards>
 
@@ -46,10 +46,8 @@ metadata:
     background: grey !important;
 }
 #content-container > section.content-body.grid-75 > div.rm-Markdown.markdown-body.rm-Markdown.markdown-body.ng-non-bindable > div:nth-child(3) {
-
 text-align:center;
 font-size:15px !important;
-
 }
 </style>
 `}</HTMLBlock>
