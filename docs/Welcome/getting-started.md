@@ -30,6 +30,9 @@ metadata:
   </Card>
 </Cards>
 
+<br />
+
+
 <MasterPageGrid />
 
 ## Join Us in Exploring:
