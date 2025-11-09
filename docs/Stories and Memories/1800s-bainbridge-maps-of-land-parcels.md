@@ -1,5 +1,6 @@
 ---
-title: 1800’s Bainbridge Maps of Land Parcels
+title: 'Maps: 1800’s Bainbridge Maps'
+excerpt: Bainbridge Maps of Land Parcels
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
