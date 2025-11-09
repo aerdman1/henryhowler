@@ -4,7 +4,7 @@ excerpt: >-
   Change this title, description, and add your new article below!  Once
   approved, we will publish it!
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
