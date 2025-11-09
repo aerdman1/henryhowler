@@ -1,5 +1,5 @@
 ---
-title: Stories and Memories Home
+title: Stories and Memories HOME
 deprecated: false
 hidden: false
 metadata:
