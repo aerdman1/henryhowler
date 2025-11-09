@@ -12,4 +12,4 @@ After proudly returning to camp and showing off his catch, he shortly discovered
 
 <br />
 
-July 10, 2017 Brian Lee
+Remembered July 10, 2017 Brian Lee
