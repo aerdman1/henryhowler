@@ -48,7 +48,7 @@ a.Card[href="other-home"] {
   text-align: center;
   font-size: 15px !important;
   background: grey !important;
-  display:block; margin:0 auto;
+  display:block; margin:0 auto;width:100% !important;
 }
 
 
