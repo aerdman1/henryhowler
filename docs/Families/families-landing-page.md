@@ -1,5 +1,5 @@
 ---
-title: Families Landing Page
+title: Families Home
 deprecated: false
 hidden: false
 metadata:
