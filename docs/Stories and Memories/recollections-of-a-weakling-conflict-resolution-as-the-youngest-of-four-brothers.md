@@ -1,8 +1,6 @@
 ---
-title: >-
-  Recollections of a Weakling: Conflict Resolution as the Youngest of Four
-  Brothers
-excerpt: By Dan Henry
+title: 'Story: Recollections of a Weakling'
+excerpt: Conflict Resolution as the Youngest of Four Brothers By Dan Henry
 deprecated: false
 hidden: false
 metadata:
