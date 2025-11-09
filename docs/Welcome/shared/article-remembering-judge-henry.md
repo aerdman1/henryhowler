@@ -5,7 +5,7 @@ date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/06/HenryJ-e1497975229101.jpg)
+<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/06/HenryJ-e1497975229101.jpg" />
 
 This article was published as a Letter to the Editor in the Geauga Maple Leaf and Chesterland News.  It was written by one of Chip’s past court employee’s. She wanted folks to know that he is still very missed in the community. Linda
 
@@ -23,5 +23,5 @@ Michele Schroeder, Retired CPO Geauga County Juvenile Court
 
 PDF Version from the Chesterland News
 
-[June 20, 2017](/families/gene/chip/article-remembering-judge-henry/)\
-[Linda](/author/admin/) <Anchor label="PDF Version from the Chesterland News" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/06/Chip-article-in-Chesterland-newspaper-last-week...-1.pdf">PDF Version from the Chesterland News</Anchor>
+June 20, 2017  
+Linda <Anchor label="PDF Version from the Chesterland News" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/06/Chip-article-in-Chesterland-newspaper-last-week...-1.pdf">PDF Version from the Chesterland News</Anchor>
