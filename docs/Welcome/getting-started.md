@@ -25,7 +25,7 @@ metadata:
 </Cards>
 
 <Cards columns={1} title="Other">
-  <Card title="Other" href="other-home" icon="fa-user-alt">
+  <Card title="Other" href="other-home" icon="">
     Other fun stuff!
   </Card>
 </Cards>
@@ -71,7 +71,9 @@ Delight in Rhoda Henry Messner’s soul-stirring poetry and join Janet Henry’s
 }
 #content-container > section.content-body.grid-75 > div.rm-Markdown.markdown-body.rm-Markdown.markdown-body.ng-non-bindable > div:nth-child(3) {
     grid-template-columns: repeat(1, 1fr) !important;
-    align-items: center;
+  text-align:center;
+font-size:15px !important;
+
 }
 </style>
 `}</HTMLBlock>
