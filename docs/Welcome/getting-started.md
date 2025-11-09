@@ -45,9 +45,10 @@ metadata:
 #content-container > section.content-body.grid-75 > div.rm-Markdown.markdown-body.rm-Markdown.markdown-body.ng-non-bindable > div:nth-child(3) .Card:nth-child(1) {
     background: grey !important;
 }
-#content-container > section.content-body.grid-75 > div.rm-Markdown.markdown-body.rm-Markdown.markdown-body.ng-non-bindable > div:nth-child(3) {
+a[href="other-home"] {
 text-align:center;
 font-size:15px !important;
 }
+
 </style>
 `}</HTMLBlock>
