@@ -60,6 +60,6 @@ _Note from Linda: I copied this text from an article that appeared in a newspape
 
 <Anchor label="Pioneer Sketches-SimonHenry PDF of newspaper clipping" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2018%2F04%2FPioneer-Sketches-SimonHenry.pdf">Pioneer Sketches-SimonHenry PDF of newspaper clipping</Anchor>
 
-[April 8, 2018](/ancestors/pioneer-sketches-simon-henry/) [Linda](/author/admin/)
+`April 8, 2018 Linda`
 
 <br />
