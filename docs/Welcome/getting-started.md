@@ -28,7 +28,7 @@ metadata:
   <Card title="Other" href="other-home" icon="fa-ellipsis" />
 </Cards>
 
-# Recent Articles (coming soon)
+## Recent Articles (coming soon)
 
 <HTMLBlock>{`
 <style>
