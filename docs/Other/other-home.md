@@ -1,5 +1,5 @@
 ---
-title: Other HOME
+title: '*Other HOME'
 deprecated: false
 hidden: false
 metadata:
