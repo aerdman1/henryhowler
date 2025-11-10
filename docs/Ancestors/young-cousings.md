@@ -1,5 +1,5 @@
 ---
-title: Young Cousins
+title: 'Photo: Young Cousins'
 deprecated: false
 hidden: false
 metadata:
