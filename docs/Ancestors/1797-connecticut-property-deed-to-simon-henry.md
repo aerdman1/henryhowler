@@ -1,5 +1,6 @@
 ---
-title: 1797 Connecticut Property Deed to Simon Henry
+title: 'Family Documents: 1797 Property Deed'
+excerpt: 1797 Connecticut Property Deed to Simon Henry
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
