@@ -1,5 +1,6 @@
 ---
-title: Captain Henry of Geauga, Part 2 from The Garfield Observer
+title: 'Album and Article: Captain Henry of Geauga, Part 2'
+excerpt: Captain Henry of Geauga, Part 2 from The Garfield Observer
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
