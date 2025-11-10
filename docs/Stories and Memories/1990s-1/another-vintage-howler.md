@@ -1,5 +1,5 @@
 ---
-title: Another Vintage Howler
+title: 'Stories: Another Vintage Howler'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
