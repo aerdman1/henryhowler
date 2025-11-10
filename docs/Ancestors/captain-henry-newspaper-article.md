@@ -20,11 +20,11 @@ The story of how Capt. C. E. Henry, a Nationally known Bain-bridge man, made a t
 
 The narrative was compiled from personal letters received at home, and from notes made in diaries on the trip.
 
-Capt. Henry was employed in the U. S. Secret Service for some years previosly, and made many trips after criminals to all parts of the U. S.
+Capt. Henry was employed in the U. S. Secret Service for some years previously, and made many trips after criminals to all parts of the U. S.
 
 He was always sure to get his man, and recognized as one of the most successful operators in the service.
 
-He was mild-mannered, far-seeing, always resourceful in an emergency, stern if need be, relentless and daring in his pursuit of crimnals. The trip to Brazil was his longest. He was reticent about relating his experiences.
+He was mild-mannered, far-seeing, always resourceful in an emergency, stern if need be, relentless and daring in his pursuit of criminals. The trip to Brazil was his longest. He was reticent about relating his experiences.
 
 Capt. Henry and President Garfield were personal friends dating from their school days in Hiram. He was Marshal of the District of Columbia when Garfield was assassinated.
 
