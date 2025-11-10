@@ -1,5 +1,6 @@
 ---
-title: A Time to Remember – by Rhoda Henry Messner 1902-1985
+title: 'Album and Story: Rhoda Henry Messner 1902-1985'
+excerpt: A Time to Remember – by Rhoda Henry Messner 1902-1985
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
