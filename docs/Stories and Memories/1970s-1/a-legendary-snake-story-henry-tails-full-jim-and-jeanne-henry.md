@@ -1,5 +1,5 @@
 ---
-title: A Legendary Snake Story
+title: 'Story: Finding the Boa'
 excerpt: by Jim and Jeanne Henry
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
