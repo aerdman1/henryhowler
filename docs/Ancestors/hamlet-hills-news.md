@@ -1,7 +1,8 @@
 ---
-title: "Hamlet Hills News!"
+title: 'Article and Album: Cabin Water Show for Hamlet'
+excerpt: Betty Cope hosts Chuck, Blanch and all Hamlet Hills at the Pool for water show
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
 
