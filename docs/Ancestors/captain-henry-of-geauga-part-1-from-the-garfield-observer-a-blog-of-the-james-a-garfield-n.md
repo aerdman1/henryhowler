@@ -1,5 +1,6 @@
 ---
-title: >-
+title: 'Album and Article: Captain Henry of Geauga, Part 1'
+excerpt: >-
   Captain Henry of Geauga, Part 1 from the Garfield Observer a blog of the James
   A Garfield National Historic Site
 date: '2025-01-01T00:00:00.000Z'
