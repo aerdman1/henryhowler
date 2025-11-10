@@ -1,5 +1,5 @@
 ---
-title: Captain Henry Newspaper Article
+title: 'Article: Captain Henry - Friend of Garfield'
 date: '2011-01-14T05:00:00.000Z'
 deprecated: false
 hidden: false
