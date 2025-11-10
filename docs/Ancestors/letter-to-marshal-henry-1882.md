@@ -1,19 +1,17 @@
 ---
-title: "Letter to Marshal Henry 1882"
+title: 'Historical Document: "CE Henry, You Illegitimate Bastard"'
+excerpt: Friend of Charles Julius Guiteau writes Marshal Henry to insult him
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
-
-
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Screen-Shot-2017-01-13-at-5.24.11-PM.png)
-
+<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Screen-Shot-2017-01-13-at-5.24.11-PM.png" />
 
 Charles Julius Guiteau – Assassin of President James Garfield
 
 What follows is the typed text (misspellings and all) from an interesting letter that was sent to Captain Henry received from a friend of Charles Guiteau, the assassin of President Garfield.  Marshal Henry was assigned to guard Guiteau and apparently the writer, Frignif Ihinnoe, didn’t think the Captain could be unbiased. We don’t have a photo of Frignif but I found one of Charles Guiteau.
 
-New York January 4th 1882 Marshal Henry Courthouse Washington D.C. You Illegitimate Bastard, low ignorant Scoundrel Villain. You are too fresh On Your Stiff wrist.
+New York January 4th 1882 Marshal Henry Courthouse Washington D.C. You, low ignorant Scoundrel Villain. You are too fresh On Your Stiff wrist.
 
 You are Only a dirty Cowardly crawling vagabond snake and if I was near you I would very quick put a stop to your empty prate.
 
@@ -27,6 +25,6 @@ Now I have done & if you consider yourself insulted and want any satisfaction yo
 
 By an American Frignif Ihinnoe Always for right & against wrong (Signature) Frignif Ihinnoe New York City
 
-Download PDF version of this letter: Charles\_Guiteau\_letterPDF
+Download PDF version of this letter: Charles_Guiteau_letterPDF
 
-[March 29, 2011](/ancestors/letter-marshal-henry-1882/) [Linda](/author/admin/) [Charles\_Guiteau\_letterPDF](/past/letter-marshal-henry-1882/attachment/charles_guiteau_letter/)
+March 29, 2011 Linda [Charles_Guiteau_letterPDF](/past/letter-marshal-henry-1882/attachment/charles_guiteau_letter/)
