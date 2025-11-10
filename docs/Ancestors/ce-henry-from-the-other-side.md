@@ -1,5 +1,5 @@
 ---
-title: CE Henry From the Other Side
+title: 'Video: CE Henry From the Other Side'
 deprecated: false
 hidden: false
 metadata:
