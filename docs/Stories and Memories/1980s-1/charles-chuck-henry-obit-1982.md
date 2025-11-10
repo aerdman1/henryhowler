@@ -1,7 +1,8 @@
 ---
-title: "Charles Chuck Henry Obit 1982"
+title: 'Article: Charles Chuck Henry Obit 1982'
+excerpt: Grandpa Chuck's Obituary
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
 
