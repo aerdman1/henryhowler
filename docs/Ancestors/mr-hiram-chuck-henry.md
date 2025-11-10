@@ -1,7 +1,8 @@
 ---
-title: "Mr. Hiram – Chuck Henry"
+title: Mr. Hiram – Chuck Henry
+excerpt: A Gallary of images and documents related to Chuck Henry and Hiram College
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
 
