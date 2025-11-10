@@ -1,6 +1,6 @@
 ---
-title: '2MNY2L8 '
-excerpt: '[Too Many Too Late]  June 6 2008'
+title: 'Story: 2MNY2L8 '
+excerpt: June 6 2008
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
