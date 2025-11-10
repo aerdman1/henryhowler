@@ -1,5 +1,5 @@
 ---
-title: Capt. Charles E. Henry Bio
+title: 'Article: Capt. Charles E. Henry Bio'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
