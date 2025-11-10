@@ -1,5 +1,5 @@
 ---
-title: Captain Henry Post Office Badge
+title: 'Document: Captain Henry Post Office Badge'
 date: '2017-01-14T05:00:00.000Z'
 deprecated: false
 hidden: false
