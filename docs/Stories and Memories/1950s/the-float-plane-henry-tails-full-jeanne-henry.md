@@ -1,5 +1,6 @@
 ---
-title: 'The Float Plane (Henry Tails: Full) Jeanne Henry'
+title: 'Story: The Float Plane '
+excerpt: Told by Jeanne Henry and written by Brian Lee
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
