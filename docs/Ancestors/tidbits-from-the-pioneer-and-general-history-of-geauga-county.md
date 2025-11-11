@@ -1,15 +1,12 @@
 ---
-title: "Tidbits from The Pioneer and General History of Geauga County"
+title: Tidbits from The Pioneer and General History of Geauga County
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
+<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1880GeaugaPioneerHistory.jpg" />
 
-
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1880GeaugaPioneerHistory.jpg)
-
-
-Pioneer and General History of Geauga County Published in 1880 by the Geauga Historical Society has a lot of Henry history facts.  I have transcribed some below. The whole document is available at http://sidneyrigdon.com/books/1880Pion.htm#pg137b
+Pioneer and General History of Geauga County Published in 1880 by the Geauga Historical Society has a lot of Henry history facts.  I have transcribed some below. The whole document is available at [http://sidneyrigdon.com/books/1880Pion.htm#pg137b](http://sidneyrigdon.com/books/1880Pion.htm#pg137b)
 
 “On the eighteenth of September, 1817, Simon Henry and family started from Washington, Berkshire county, Massachusetts, and arrived in what is now Bainbridge, on the first of November. The family consisted of himself, wife, and ten children — Orrin, William, John, Rhoda, Nelson, Ann, Mary, Calvin, Milo, and Newton. Orrin and John came on the season before, cleared a piece of ground, raised some corn, and built a cabin to receive the family. They settled on lot fourteen, tract three, the first land being procured of Simon Perkins in exchange for the Massachusetts farm. Subsequent purchases were made from Medad Eames, and others.
 
@@ -29,6 +26,6 @@ There are now forty grandchildren, about sixty great-grandchildren, and ten grea
 
 The farm of John Henry is occupied by his widow, and owned by her and her son, Charles E. Henry who resides in Cleveland. He is the well known detective in the United States mail service. Simon J. removed to Michigan some years since. The daughters married. The eldest, Maria, married S. P. Goodsell, and has resided for some years in Bainbridge. Martha Ann married Henry Brewster, and resides in Bainbridge. Eliza married James Brown, and resides in Newburgh. Newton, the second son, is a Methodist minister. He has no settled place of residence.
 
-\* From notes by N. C. Henry.
+* From notes by N. C. Henry.
 
-[March 12, 2018](/ancestors/tidbits-from-the-pioneer-and-general-history-of-geauga-county/) [Linda](/author/admin/) [http://sidneyrigdon.com/books/1880Pion.htm#pg137b](http://sidneyrigdon.com/books/1880Pion.htm#pg137b)
+March 12, 2018 Linda [http://sidneyrigdon.com/books/1880Pion.htm#pg137b](http://sidneyrigdon.com/books/1880Pion.htm#pg137b)
