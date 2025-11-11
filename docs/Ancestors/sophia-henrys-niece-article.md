@@ -1,13 +1,10 @@
 ---
-title: "Sophia Henry’s Niece Article"
+title: Sophia Henry’s Niece Article
+date: '2011-01-14T05:00:00.000Z'
 deprecated: false
-date: "2011-01-14T05:00:00.000Z"
 hidden: false
 ---
-
-
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Sophie_clarice_newton_ward.jpg)
-
+<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Sophie_clarice_newton_ward.jpg" />
 
 Sophia Clarice Newton Ward, the niece and namesake of Capt. Henry’s wife Sophia.
 
@@ -29,4 +26,4 @@ During the first three years in Cleveland she only saw one member of her immedia
 
 Sophie arrived back at the Newton Place on September 1, 1881, just in time to move into the new home that her father had built. It replaced the old log house, the home of her childhood that Sophie cherished and remembered fondly throughout her life.”
 
-[January 14, 2011](/ancestors/capt-charles-sophia/sophia-henrys-niece-article/) [Linda](/author/admin/) [Newton Family of Wisconsin site](http://www.myronnewton.com/NewtWeb/SophiaN_1862/SophiaN_B.htm)
+January 14, 2011 Linda [Newton Family of Wisconsin site](http://www.myronnewton.com/NewtWeb/SophiaN_1862/SophiaN_B.htm)
