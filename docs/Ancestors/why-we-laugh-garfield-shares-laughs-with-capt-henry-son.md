@@ -1,12 +1,13 @@
 ---
 title: Why We Laugh – Garfield shares Laughs with Capt. Henry & Son
+excerpt: by Joan Kapsch, National Park Guide, Garfield Observer Blog
 date: '2013-12-05T05:00:00.000Z'
 deprecated: false
 hidden: false
 ---
 <Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/GarfeldObserver-laughing.png" />
 
-I copied this post from the Garfield Observer Blog  which does not exist anymore.
+I copied this post from the , ,  which does not exist anymore.
 
 Good friends and casual visitors often remarked about James Garfield’s passion for books and their contents. A visitor to the Congressman’s home on I Street in Washington, D.C.:
 
@@ -46,6 +47,6 @@ House colleagues and social friends, Cox and Garfield seem to have had very diff
 
 Perhaps Mr. Garfield could agree with that.
 
--Joan Kapsch, Park Guide
+-by
 
 February 1, 2017 Linda December 5, 2013
