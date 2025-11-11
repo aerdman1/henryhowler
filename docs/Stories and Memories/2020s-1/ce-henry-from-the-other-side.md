@@ -1,5 +1,6 @@
 ---
 title: 'Video: CE Henry From the Other Side'
+excerpt: Created by Dan Henry, October 2025
 deprecated: false
 hidden: false
 metadata:
