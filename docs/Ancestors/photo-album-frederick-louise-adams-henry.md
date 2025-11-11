@@ -78,4 +78,4 @@ Frederick Henry 80th Birthday Poem by Janet Henry PDF
 
 This poem was evidently written and delivered by Aunt Janet at Frederick’s 80th Birthday party.
 
-[March 5, 2017](/ancestors/photo-album-frederick-louise-adams-henry/) [Linda](/author/admin/) [Frederick Henry 80th Birthday Poem by Janet Henry PDF](/ancestors/photo-album-frederick-louise-adams-henry/attachment/fah-80th-birthday-poem/)
+March 5, 2017 Linda [Frederick Henry 80th Birthday Poem by Janet Henry PDF](/ancestors/photo-album-frederick-louise-adams-henry/attachment/fah-80th-birthday-poem/)
