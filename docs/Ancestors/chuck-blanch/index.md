@@ -1,5 +1,5 @@
 ---
-title: Chuck & Blanch
+title: Chuck & Blanche
 deprecated: false
 hidden: false
 metadata:
