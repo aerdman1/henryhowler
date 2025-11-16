@@ -10,20 +10,25 @@ link:
 metadata:
   robots: index
 ---
+<Image align="center" border={false} src="https://files.readme.io/7d5277cb6e68ec2576e032a182e7f9b2df24166e83ab6d90683c617a911213f1-Blanche_Obit..jpg" />
+
+<br />
+
 # Blanche Hawley Henry
-*September 11, 1892 - January 10, 1991*
+
+_September 11, 1892 - January 10, 1991_
 
 Blanche Hawley Henry, 98, of Bainbridge Township, died January 10 at St. Luke's Hospital following a brief illness.
 
 ## Life and Education
 
-- **Born:** September 11, 1892, in West Rupert, Vermont
-- **Education:** 1918 graduate of Hiram College
-- **Career:** Taught school for several years in Vermont
-- **Residence:** 
-  - Hiram resident for 20 years
-  - Bainbridge resident for 50 years
-- **Faith:** Member of Valley Presbyterian Church
+* **Born:** September 11, 1892, in West Rupert, Vermont
+* **Education:** 1918 graduate of Hiram College
+* **Career:** Taught school for several years in Vermont
+* **Residence:**
+  * Hiram resident for 20 years
+  * Bainbridge resident for 50 years
+* **Faith:** Member of Valley Presbyterian Church
 
 ## Family
 
@@ -32,22 +37,25 @@ Blanche Hawley Henry, 98, of Bainbridge Township, died January 10 at St. Luke's 
 ### Surviving Family
 
 **Sons:**
-- John W. Henry
-- Donald G. Henry
+
+* John W. Henry
+* Donald G. Henry
 
 **18 Grandchildren:**
-- Chris Martin
-- Rick, Scott, Robyn, Tim, Michael, George, Jim, Chip, Pat, Dan, Polly, Holly, and Cori Henry
-- K.C. Bergman
-- Heidi Cregar
-- Ellen Morrison
-- Dodie Lee
+
+* Chris Martin
+* Rick, Scott, Robyn, Tim, Michael, George, Jim, Chip, Pat, Dan, Polly, Holly, and Cori Henry
+* K.C. Bergman
+* Heidi Cregar
+* Ellen Morrison
+* Dodie Lee
 
 **30 Great-grandchildren**
 
 ### Preceded in Death
-- Son Frederick Henry (died two months prior)
-- Husband Charles A. Henry (1982)
+
+* Son Frederick Henry (died two months prior)
+* Husband Charles A. Henry (1982)
 
 ## Services and Memorials
 
