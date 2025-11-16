@@ -1,5 +1,5 @@
 ---
-title: 'Naked in Alaska (Henry Tails : Full)'
+title: 'Story: Naked and cold in Alaska'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
