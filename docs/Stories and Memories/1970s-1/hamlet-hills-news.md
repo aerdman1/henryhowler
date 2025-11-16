@@ -33,6 +33,6 @@ The Henrys have four sons and 18 grandchildren. Three of the families live in th
 
 Download the whole article Hamlet Hills Newsletter PDF
 
-February 8, 2017 Linda [Hamlet Hills Newsletter PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Hamlet-Hills-Newsletter-1971.compressed.pdf)
+February 8, 2017 Linda <Anchor label="Hamlet Hills Newsletter PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Hamlet-Hills-Newsletter-1971.compressed.pdf">Hamlet Hills Newsletter PDF</Anchor>
 
 <br />
