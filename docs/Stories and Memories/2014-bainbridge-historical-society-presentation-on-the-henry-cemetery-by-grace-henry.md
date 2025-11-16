@@ -1,5 +1,6 @@
 ---
-title: >-
+title: 'Album and Story: Bainbridge Hist. Soc.'
+excerpt: >-
   2014 Bainbridge Historical Society Presentation on the Henry Cemetery – by
   Grace Henry
 date: '2025-01-01T00:00:00.000Z'
