@@ -1,5 +1,6 @@
 ---
-title: 'Lost on Horseshoe Mnt. ( Henry Tails: Full )'
+title: 'Story: Lost on Horseshoe Mnt.'
+excerpt: 1960s
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
