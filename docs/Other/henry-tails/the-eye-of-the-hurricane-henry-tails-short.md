@@ -1,5 +1,5 @@
 ---
-title: 'The Eye of The Hurricane (Henry Tails : Short)'
+title: 'Story: The Eye of The Hurricane'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
