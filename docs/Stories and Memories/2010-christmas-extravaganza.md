@@ -1,5 +1,6 @@
 ---
-title: 2010 Christmas Extravaganza
+title: 'Album: 2010 Christmas'
+excerpt: At Don and Dotie's House
 date: '2010-12-26T05:00:00.000Z'
 deprecated: false
 hidden: false
