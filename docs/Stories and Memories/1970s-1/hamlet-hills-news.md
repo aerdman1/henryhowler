@@ -5,18 +5,15 @@ date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
+<Image alt="1Hamlet News -1971" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1Hamlet-News-1971.jpg" />
 
+<Image alt="2Hamlet News 1971" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/2Hamlet-News-1971.jpg" />
 
-![1Hamlet News -1971](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1Hamlet-News-1971.jpg)
- 
-![2Hamlet News 1971](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/2Hamlet-News-1971.jpg)
- 
-![3Hamlet News 1971](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/3Hamlet-News-1971.jpg)
- 
-![4Hamlet News 1971](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/4Hamlet-News-1971.jpg)
- 
-![Hamlet News 1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Hamlet-News-1.jpg)
+<Image alt="3Hamlet News 1971" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/3Hamlet-News-1971.jpg" />
 
+<Image alt="4Hamlet News 1971" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/4Hamlet-News-1971.jpg" />
+
+<Image alt="Hamlet News 1" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Hamlet-News-1.jpg" />
 
 Here are some pages from a Hamlet Hills Newsletter but I am not sure of the year.  I’m guessing the 1970’s. I have heard about the legendary Hamlet Hills Picnics where every one of the residents were invited to Betty’s cabin. Here is some of the text:
 
@@ -36,4 +33,6 @@ The Henrys have four sons and 18 grandchildren. Three of the families live in th
 
 Download the whole article Hamlet Hills Newsletter PDF
 
-[February 8, 2017](/ancestors/hamlet-hills-news/) [Linda](/author/admin/) [Hamlet Hills Newsletter PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Hamlet-Hills-Newsletter-1971.compressed.pdf)
+February 8, 2017 Linda [Hamlet Hills Newsletter PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Hamlet-Hills-Newsletter-1971.compressed.pdf)
+
+<br />
