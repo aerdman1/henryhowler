@@ -1,5 +1,6 @@
 ---
-title: 2008 Iditarod Race – by Lori and Patrick
+title: Iditarod Dogsled Race
+excerpt: 2008 Iditarod Race – by Lori and Patrick
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
