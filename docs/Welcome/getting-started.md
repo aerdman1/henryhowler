@@ -59,50 +59,7 @@ a.Card[href="other-home"] {
 `}</HTMLBlock>
 
 <HTMLBlock>{`
-<button class="add-article-btn" onclick="window.location.href='https://dash.readme.com/to/henry-howler-group?redirect=%2Fdocs%2Fhow-to-add-articles'">
-  <i class="fa-solid fa-plus"></i>
-  Add an Article!
-</button>
 
-<style>
-.add-article-btn {
-  position: fixed;
-  top: 120px;
-  right: 20px;
-  z-index: 1000;
-  background: linear-gradient(135deg, #2563eb, #1e40af); /* blue gradient */
-  color: #fff;
-  border: none;
-  border-radius: 9999px;
-  padding: 12px 22px;
-  font-family: 'Segoe UI', Roboto, sans-serif;
-  font-size: 15px;
-  font-weight: 600;
-  letter-spacing: 0.3px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
-}
-
-.add-article-btn:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
-  background: linear-gradient(135deg, #1d4ed8, #1e3a8a);
-}
-
-.add-article-btn:active {
-  transform: translateY(0);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
-}
-
-.add-article-btn i {
-  font-size: 16px;
-}
-
-</style>
 `}</HTMLBlock>
 
 <br />
