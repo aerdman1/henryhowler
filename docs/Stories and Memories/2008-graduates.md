@@ -1,5 +1,6 @@
 ---
-title: 2008 GRADUATES!
+title: 'Pictures: 2008 GRADUATES!'
+excerpt: Anna and Jeanne Graduate
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
