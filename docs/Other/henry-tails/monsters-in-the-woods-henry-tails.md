@@ -1,5 +1,6 @@
 ---
-title: Monsters In The Woods (Henry Tails)
+title: 'Story: Monsters In The Woods'
+excerpt: 2010s
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
