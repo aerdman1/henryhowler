@@ -1,5 +1,6 @@
 ---
-title: 'Lost Fish Bay (Henry Tails: Full)'
+title: 'Story: Lost Fish Bay '
+excerpt: 1980s
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
