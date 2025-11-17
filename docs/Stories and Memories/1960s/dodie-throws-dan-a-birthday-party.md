@@ -1,5 +1,5 @@
 ---
-title: 'Article: Dodie Celebrates 5 yr old Dan'
+title: 'Article: Dodie Celebrates 5 yr old Dan 1967'
 excerpt: Dodie Throws brother Dan a 5th Birthday Party  Feb. 2, 1967
 date: '2017-01-18T05:00:00.000Z'
 deprecated: false
