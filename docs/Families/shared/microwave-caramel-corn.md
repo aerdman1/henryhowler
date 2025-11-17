@@ -1,5 +1,5 @@
 ---
-title: Microwave Caramel Corn
+title: 'Recipe: Microwave Caramel Corn'
 date: '2010-01-15T05:00:00.000Z'
 deprecated: false
 hidden: false
