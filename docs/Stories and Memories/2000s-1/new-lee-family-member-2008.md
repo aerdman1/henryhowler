@@ -1,5 +1,5 @@
 ---
-title: 'Album: Lee''s Dog BenNew Lee Family Member – 2008'
+title: 'Album: Lee''s Dog Ben'
 excerpt: New Lee Family Member – 2008
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
