@@ -1,5 +1,6 @@
 ---
-title: Shed Tree Day Jan. 12, 2008
+title: 'Album - Article: Shed 2008'
+excerpt: Shed Tree Day Jan. 12, 2008
 date: '2008-01-12T05:00:00.000Z'
 deprecated: false
 hidden: false
