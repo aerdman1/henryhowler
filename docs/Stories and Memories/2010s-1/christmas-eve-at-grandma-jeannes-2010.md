@@ -1,5 +1,5 @@
 ---
-title: Christmas Eve at Grandma Jeanne’s 2010
+title: 'Album: Christmas Eve at Grandma Jeanne’s 2010'
 excerpt: December 26, 2010 by Linda Henry
 date: '2010-12-26T05:00:00.000Z'
 deprecated: false
