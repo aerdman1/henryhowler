@@ -1,16 +1,16 @@
 ---
-title: Chip &Linda in the News  February 2008
+title: 'FIX ME Album: Chip &Linda in the News  February 2008'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/pc_group82.jpg)
+<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/pc_group82.jpg" />
 
-![pcv\_chip](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/pcv_chip.jpg)
+<Image alt="pcv_chip" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/pcv_chip.jpg" />
 
-![pc\_group82](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/pc_group82.jpg)
+<Image alt="pc_group82" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/pc_group82.jpg" />
 
-![linda82](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/linda82.jpg)
+<Image alt="linda82" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/linda82.jpg" />
 
 Who are these people? PCV’s Chip and Linda in the Olden Days!
 
