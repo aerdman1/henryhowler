@@ -1,5 +1,6 @@
 ---
-title: Birthday Party for Alex and Katie 03-01-08
+title: Album & Story - BdayAlex and Katie
+excerpt: Birthday Party for Alex and Katie 03-01-08
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
