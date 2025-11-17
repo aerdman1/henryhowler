@@ -1,5 +1,5 @@
 ---
-title: Family Evening at the Lee Lake House – July 2010
+title: 'Album: Family Evening at the Lee Lake House – July 2010'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
