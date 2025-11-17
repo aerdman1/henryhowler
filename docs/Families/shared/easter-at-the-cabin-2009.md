@@ -1,7 +1,7 @@
 ---
-title: "Easter at the Cabin 2009"
+title: 'Album: Easter at the Cabin 2009'
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
 
