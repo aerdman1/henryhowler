@@ -1,7 +1,7 @@
 ---
-title: "Photo Album of Gene Henry’s 1970’s-1980’s"
+title: 'Album: Gene Henry’s 1970’s-1980’s'
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
 
