@@ -1,5 +1,5 @@
 ---
-title: War Stockings
+title: 'Story: War Stockings'
 excerpt: by Jeanne Henry (Remembered in 2025)
 deprecated: false
 hidden: false
