@@ -1,6 +1,6 @@
 ---
-title: 'Video: Jim''s Musky'
-excerpt: The Movie
+title: 'Video: Jim''s Musky, The Movie'
+excerpt: '2025'
 deprecated: false
 hidden: false
 metadata:
