@@ -1,6 +1,6 @@
 ---
-title: Extreme Makeover – Mom’s Barn Edition
-excerpt: August 7, 2010 by Linda Henry
+title: 'Album: Mom’s Barn'
+excerpt: Extreme Makeover – Mom’s Barn Edition  August 7, 2010 by Linda Henry
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
