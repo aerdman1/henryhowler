@@ -1,5 +1,5 @@
 ---
-title: Turkey Bowl 2019
+title: 'Album: Turkey Bowl 2019'
 date: '2019-12-06T05:00:00.000Z'
 deprecated: false
 hidden: false
