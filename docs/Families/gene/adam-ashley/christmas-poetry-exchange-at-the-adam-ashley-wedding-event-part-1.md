@@ -1,5 +1,5 @@
 ---
-title: Christmas poetry exchange at the Adam / Ashley wedding event (Part 1)
+title: 'Video: Christmas poetry exchange at the Adam / Ashley wedding event (Part 1)'
 date: '2012-12-04T05:00:00.000Z'
 deprecated: false
 hidden: false
