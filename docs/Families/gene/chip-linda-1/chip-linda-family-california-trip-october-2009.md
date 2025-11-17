@@ -1,5 +1,6 @@
 ---
-title: Chip & Linda Family California Trip October 2009
+title: California Trip October 2009
+excerpt: Chip & Linda Family California Trip October 2009
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
