@@ -1,5 +1,5 @@
 ---
-title: Mom’s Captive Friend
+title: 'Article & Pictures: Mom’s Captive Friend'
 excerpt: December 23rd, 2008 by Linda Henry
 date: '2008-12-23T05:00:00.000Z'
 deprecated: false
