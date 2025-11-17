@@ -1,7 +1,8 @@
 ---
-title: "Photo Album ~ General Henry’s 1940’s & 50’s"
+title: 'Album: General Henry’s 1940’s & 50’s'
+excerpt: Photos with captions
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
 
