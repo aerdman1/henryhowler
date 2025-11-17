@@ -1,7 +1,7 @@
 ---
-title: "Family Hike to the Caves July 2010"
+title: 'Album: The Caves July 2010'
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
 
