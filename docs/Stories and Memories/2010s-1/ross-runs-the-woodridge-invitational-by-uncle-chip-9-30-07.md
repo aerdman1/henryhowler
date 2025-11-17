@@ -1,5 +1,5 @@
 ---
-title: 'Ross runs the ''07 Woodridge Invitational '
+title: 'Album: Ross runs the ''07 Woodridge Invitational '
 excerpt: by Uncle Chip 9-30-07
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
