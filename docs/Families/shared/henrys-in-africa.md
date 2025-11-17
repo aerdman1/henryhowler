@@ -1,5 +1,5 @@
 ---
-title: Henry’s in Africa
+title: 'Album: Henry’s in Africa'
 excerpt: December 2007 trip to Lesotho and South Africa. Chip, Linda and Dan.
 date: '2007-12-20T05:00:00.000Z'
 deprecated: false
@@ -13,7 +13,7 @@ It was a trip down memory lane for Chip and I to celebrate our 25th wedding anni
   align="center"
   alt="the 3 of us celebrating our first day in Africa with a Springbok, which is a S.A. Christmas drink made with mint liqueur and Baileys Irish Cream."
   border={false}
-  caption="the 3 of us celebrating our first day in Africa with a Springbok, which is a S.A.\
+  caption="the 3 of us celebrating our first day in Africa with a Springbok, which is a S.A.  
 Christmas drink made with mint liqueur and Baileys Irish Cream."
   src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/africa_toast.jpg"
 />
@@ -22,7 +22,7 @@ Christmas drink made with mint liqueur and Baileys Irish Cream."
 
 <Image align="center" alt="Chip and I with Peace Corps Volunteers Sarah Cannon, from Mentor OH, and her boyfriend Chris Dopson from S. Dakota. Their love story parallels our story in many funny ways." border={false} caption="Chip and I with current Peace Corps Volunteers Sarah Cannon and Chris Dopson." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/pc_lesotho.jpg" />
 
-![6](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/6.jpg)
+<Image alt="6" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/6.jpg" />
 
 <Image align="center" alt="BP gas station in Katse, Lesotho" border={false} caption="A &#x22;gas station&#x22; in the Lesotho mountains" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/7.jpg" />
 
@@ -34,7 +34,7 @@ Christmas drink made with mint liqueur and Baileys Irish Cream."
 
 <Image align="center" alt="Fishing at Chip's old site in Thaba Tseka (no fish were caught that day)" border={false} caption="Fishing at Chip’s old site in Thaba Tseka (no fish though)" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/5-1.jpg" />
 
-![Thaba Tseka, Lesotho fishermen](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/11.jpg)
+<Image alt="Thaba Tseka, Lesotho fishermen" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/11.jpg" />
 
 <Image align="center" alt="Kenston Baseball Team Hats" border={false} caption="Kenston baseball team hats" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/p1010161.jpg" />
 
@@ -42,7 +42,7 @@ Christmas drink made with mint liqueur and Baileys Irish Cream."
 
 <Image align="center" alt="Chip's first and only Lesotho Rainbow Trout caught in the Katse River" border={false} caption="Chip’s first and only Lesotho Rainbow Trout caught in the Katse river." src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/4-1.jpg" />
 
-![Cactus flowers of Lesotho](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/6-1.jpg)
+<Image alt="Cactus flowers of Lesotho" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/6-1.jpg" />
 
 <Image align="center" alt="Drinking Maluti beer in the Maluti Mountains of Lesotho" border={false} caption="Drinking Maluti beer in the Maluti Mountains of Lesotho" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/13.jpg" />
 
@@ -50,14 +50,14 @@ Christmas drink made with mint liqueur and Baileys Irish Cream."
 
 <Image align="center" alt="Donkey's, cars and people share the mountain road to Thaba Tseka" border={false} caption="Donkey’s, cars and people share the mountain road to Thaba Tseka" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/18.jpg" />
 
-![Chip with school kids in Thaba Tseka](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/19.jpg)
+<Image alt="Chip with school kids in Thaba Tseka" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/19.jpg" />
 
-!\
+!  
 [Dan spreading joy and happiness in Lesotho](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/20.jpg)
 
-![Beautiful and serene Coffee Bay on the Wild Coast of S. Africa](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/8.jpg)
+<Image alt="Beautiful and serene Coffee Bay on the Wild Coast of S. Africa" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/8.jpg" />
 
-!\
+!  
 [Dan doing his laundry](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/15.jpg)
 
 <Image align="center" alt="Seashells on the Wild Coast, South Africa" border={false} caption="Seashells on the Wild Coast, South Africa" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/12.jpg" />
@@ -66,4 +66,4 @@ Christmas drink made with mint liqueur and Baileys Irish Cream."
 
 <br />
 
-[December 20, 2007](/families/gene/chip/henrys-in-africa/) [Linda](/author/admin/)
+December 20, 2007 Linda
