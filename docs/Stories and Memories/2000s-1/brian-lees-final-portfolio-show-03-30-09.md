@@ -1,5 +1,6 @@
 ---
-title: Brian Lee’s Final Portfolio Show, 03-30-09
+title: 'Album: Brian Portfolio Show'
+excerpt: Brian Lee’s Final Portfolio Show, 03-30-09
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
