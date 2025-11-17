@@ -1,5 +1,5 @@
 ---
-title: Family Name of Hawley
+title: 'Article: Family Name of Hawley'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
@@ -24,4 +24,4 @@ Who have I missed?  Anybody else out there? Let me know…..
 
 By the way, I am sure everyone joins me is saying “Congratulations Bobbi and Daryl!”  Esther, we love you already and can’t wait to meet you.  You have a strong name that will carry you well through life; just look at this “club” you’ve already joined!
 
-[November 26, 2010](/families/general-family/family-name-of-hawley/) [Linda](/author/admin/)
+ANovember 26, 2010 Linda
