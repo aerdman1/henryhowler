@@ -1,5 +1,6 @@
 ---
-title: Janet & Freddie’s Wedding Video by Jeanne Henry
+title: 'Video: Janet & Freddie’s Wedding '
+excerpt: by Jeanne Henry
 deprecated: false
 hidden: false
 metadata:
