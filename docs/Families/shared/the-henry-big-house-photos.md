@@ -1,5 +1,5 @@
 ---
-title: The Henry “Big House” Photos
+title: 'Album & Article: The Henry “Big House” Photos  1955'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
