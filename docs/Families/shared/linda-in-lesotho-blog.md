@@ -1,5 +1,5 @@
 ---
-title: 'Blog: Linda in Lesotho Blog'
+title: 'Blog: Linda in Lesotho Blog 2017'
 date: '2017-01-25T05:00:00.000Z'
 deprecated: false
 hidden: false
