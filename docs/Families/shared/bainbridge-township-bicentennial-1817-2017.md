@@ -1,5 +1,5 @@
 ---
-title: Bainbridge Township Bicentennial 1817 – 2017
+title: 'FIX ME:  Bainbridge Township Bicentennial 1817 – 2017'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
@@ -18,4 +18,4 @@ Happy Thanksgiving! Grace Henry
 
 Here is a copy of the manuscript in PDF form
 
-November 21, 2017 Linda <Anchor label="Here is a copy of the manuscript in PDF form" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/11/The-Story-of-the-.compressed.pdf">Here is a copy of the manuscript in PDF form</Anchor>
+November 21, 2017 Linda <Anchor label="Here is a copy of the manuscript in PDF form" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/11/The-Story-of-the-.compressed.pdf">Here is a copy of the manuscript in PDF form</Anchor>FIX
