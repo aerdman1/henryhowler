@@ -1,5 +1,5 @@
 ---
-title: Judge Chip Henry
+title: 'Album: Judge Chip Henry'
 date: '2017-01-24T05:00:00.000Z'
 deprecated: false
 hidden: false
