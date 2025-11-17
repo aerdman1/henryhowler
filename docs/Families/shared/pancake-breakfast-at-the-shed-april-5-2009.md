@@ -1,7 +1,8 @@
 ---
-title: "Pancake Breakfast at the Shed, April 5, 2009"
+title: 'Album: Shed Breakfast, 2009'
+excerpt: Pancake Breakfast at the Shed, April 5, 2009
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
 
