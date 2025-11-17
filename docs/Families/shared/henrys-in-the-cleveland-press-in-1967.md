@@ -1,5 +1,5 @@
 ---
-title: 'FIX ME: Henry’s in the Cleveland Press in 1967!'
+title: 'Article: Henry’s in the Cleveland Press in 1967!'
 date: '2017-01-03T05:00:00.000Z'
 deprecated: false
 hidden: false
