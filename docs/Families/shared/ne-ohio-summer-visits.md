@@ -1,5 +1,6 @@
 ---
-title: NE Ohio Summer Visits 2008
+title: 'Album: Home for Summer 08'
+excerpt: NE Ohio Summer Visits 2008
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
