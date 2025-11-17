@@ -1,5 +1,5 @@
 ---
-title: Christmas At Don and Dottie’s – 2007
+title: 2007 Christmas At Don and Dottie’s
 date: '2007-12-31T05:00:00.000Z'
 deprecated: false
 hidden: false
