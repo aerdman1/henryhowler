@@ -1,6 +1,8 @@
 ---
-title: 'Hamlet Inn Resident Spotlight – Mrs. Blanche Henry '
-excerpt: In the 1989 Hamlet Inn Newsletter
+title: 'Album & Article: Spotlight Blanche Henry '
+excerpt: >-
+  Hamlet Inn Resident Spotlight – Mrs. Blanche Henry in the 1989 Hamlet Inn
+  Newsletter
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
