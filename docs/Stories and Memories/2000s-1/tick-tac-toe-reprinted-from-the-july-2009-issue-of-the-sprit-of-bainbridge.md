@@ -1,8 +1,8 @@
 ---
-title: >-
+title: 'Story: Tick, Tac & Toe'
+excerpt: >-
   Tick, Tac & Toe (reprinted from the July 2009 issue of the Sprit of
   Bainbridge)
-excerpt: By Ross Henry
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
