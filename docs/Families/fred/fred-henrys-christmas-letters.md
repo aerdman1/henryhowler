@@ -1,5 +1,5 @@
 ---
-title: Fred Henry’s Christmas Letters
+title: Fred Henry Family Christmas Letters
 date: '2019-01-11T05:00:00.000Z'
 deprecated: false
 hidden: false
