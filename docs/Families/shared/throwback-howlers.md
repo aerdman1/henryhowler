@@ -1,5 +1,5 @@
 ---
-title: Throwback Howlers
+title: 'News: Throwback Howlers 1991'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
