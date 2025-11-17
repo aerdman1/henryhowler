@@ -1,5 +1,6 @@
 ---
-title: Brian in La La Land -2005
+title: 'Stories: Brian in La La Land -2005'
+excerpt: 14 pages of emails
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
