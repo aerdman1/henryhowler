@@ -1,5 +1,5 @@
 ---
-title: Welcome Evan Henry Kearns!
+title: 'Album: Welcome Evan Henry Kearns!'
 excerpt: Jan. 13, 2017
 date: '2017-01-26T05:00:00.000Z'
 deprecated: false
