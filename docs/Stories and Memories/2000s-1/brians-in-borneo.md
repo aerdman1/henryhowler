@@ -1,5 +1,6 @@
 ---
-title: Brian’s in Borneo! Part 2
+title: 'Story / Blog: Brian’s in Borneo! Part 2'
+excerpt: Part 2
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
