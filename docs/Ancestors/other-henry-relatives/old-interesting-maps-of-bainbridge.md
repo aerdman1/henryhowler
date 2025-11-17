@@ -1,5 +1,5 @@
 ---
-title: Old Interesting Maps of Bainbridge
+title: 'Maps: Old Interesting Maps of Bainbridge'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
