@@ -1,5 +1,6 @@
 ---
-title: Caveman Crawl Brings Families Naturally Together – 2016
+title: 'Article: Caveman Crawl'
+excerpt: Caveman Crawl Brings Families Naturally Together – 2016
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
