@@ -1,5 +1,6 @@
 ---
-title: Chip & Linda’s Peace Corps Reunion
+title: 'Pictures: Peace Corps Reunion'
+excerpt: Chip & Linda’s Peace Corps Reunion
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
