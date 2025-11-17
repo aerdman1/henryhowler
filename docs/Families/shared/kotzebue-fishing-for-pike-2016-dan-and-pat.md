@@ -1,6 +1,6 @@
 ---
-title: Kotzebue Fishing for Pike 2016 Dan and Pat
-excerpt: Posted by Dan Henry.  September 14, 2016.
+title: 'Video: Kotzebue Fishing for Pike 2016 Dan and Pat'
+excerpt: Kotzebue Fishing for Pike 2016 Dan and Pat September 14, 2016.
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
