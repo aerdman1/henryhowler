@@ -1,5 +1,6 @@
 ---
-title: Dodie Throws Dan a Birthday Party
+title: 'News Article: Dodie Throws brother Dan a 5th Birthday Party'
+excerpt: Feb. 2, 1967
 date: '2017-01-18T05:00:00.000Z'
 deprecated: false
 hidden: false
