@@ -1,5 +1,5 @@
 ---
-title: 'A&A’s Colorado Pre-Wedding Fun '
+title: 'album: A&A’s Colorado Pre-Wedding Fun 2012'
 excerpt: December 2012
 date: '2012-12-31T05:00:00.000Z'
 deprecated: false
