@@ -1,5 +1,5 @@
 ---
-title: 'Album: Alaskan Adventure'
+title: 'Album: Alaskan Adventure 04'
 excerpt: Summer trip to Alaska, July 2004
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
