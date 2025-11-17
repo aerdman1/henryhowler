@@ -6,4 +6,4 @@ hidden: false
 metadata:
   robots: index
 ---
-[https://youtu.be/Axz3zbXgLqQ](https://youtu.be/Axz3zbXgLqQ)
+[https://youtube/Axz3zbXgLqQ](https://youtu.be/Axz3zbXgLqQ)
