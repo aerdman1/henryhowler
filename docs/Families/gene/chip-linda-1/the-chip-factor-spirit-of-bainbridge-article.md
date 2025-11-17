@@ -1,5 +1,5 @@
 ---
-title: 'Article: The Chip Factor'
+title: 'Article: The Chip Factor  2011'
 excerpt: Spirit of Bainbridge article
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
