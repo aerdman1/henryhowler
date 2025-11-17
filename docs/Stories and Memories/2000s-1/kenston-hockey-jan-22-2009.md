@@ -1,6 +1,6 @@
 ---
 title: 'Pictures: Kenston Hockey – Jan. 22, 2009'
-excerpt: ' '
+excerpt: Drew and Milo
 date: '2008-01-22T05:00:00.000Z'
 deprecated: false
 hidden: false
