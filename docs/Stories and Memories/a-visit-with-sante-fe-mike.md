@@ -1,6 +1,6 @@
 ---
 title: A Visit with Sante Fe Mike
-excerpt: by KC Henry, November 2006
+excerpt: by KC Henry, November 2007
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
