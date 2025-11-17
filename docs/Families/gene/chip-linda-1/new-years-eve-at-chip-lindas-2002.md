@@ -1,5 +1,5 @@
 ---
-title: New Year’s Eve at Chip & Linda’s 2002
+title: 'FIX: New Year’s Eve at Chip & Linda’s 2002'
 deprecated: false
 hidden: false
 metadata:
