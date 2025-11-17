@@ -1,5 +1,6 @@
 ---
-title: 'Keith, Lucky #13, LAX at Robert Morris U – 2008 season'
+title: 'Album: Keith, Lucky #13'
+excerpt: 'Keith, Lucky #13, LAX at Robert Morris U – 2008 season'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
