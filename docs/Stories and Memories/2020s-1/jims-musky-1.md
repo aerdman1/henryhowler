@@ -1,5 +1,5 @@
 ---
-title: Jim's Musky
+title: 'Video: Jim''s Musky'
 excerpt: Jim's big fish - Canada 2025
 deprecated: false
 hidden: false
