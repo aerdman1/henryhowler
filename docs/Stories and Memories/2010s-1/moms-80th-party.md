@@ -1,5 +1,5 @@
 ---
-title: Mom’s 80th Party
+title: 'Album: Mom’s 80th Party'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
