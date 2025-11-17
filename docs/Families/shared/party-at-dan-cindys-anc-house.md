@@ -1,17 +1,14 @@
 ---
-title: "Party at Dan & Cindy’s ANC house"
+title: Party at Dan & Cindy’s ANC house
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
+<Image alt="Pat" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Pat.jpg" />
 
+<Image alt="robin" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/robin.jpg" />
 
-![Pat](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Pat.jpg)
- 
-![robin](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/robin.jpg)
- 
-![the-boys](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/the-boys.jpg)
-
+<Image alt="the-boys" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/the-boys.jpg" />
 
 Dan wrote on 10-27-08
 
@@ -23,4 +20,4 @@ People seem to have a very nice time. Hope you all had a nice weekend.
 
 love Dan
 
-[October 27, 2008](/families/fred-henry/robyn/party-at-dan-cindys-anc-house/) [Linda](/author/admin/)
+October 27, 2008 Linda
