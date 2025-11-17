@@ -1,5 +1,6 @@
 ---
-title: Team Baker Preps for Iditarod 2008 by Lori Henry
+title: 'Team Baker Preps for Iditarod 2008 '
+excerpt: by Lori Henry
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
