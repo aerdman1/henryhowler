@@ -10,4 +10,4 @@ Pat and Dodie bust a move….sort ofdfasdfsdfs
 
 In the Jungle Karaoke – Looks like New Year’s Eve at our house.
 
-[February 10, 2017](/families/general-family/vintage-video-clips/) [Linda](/author/admin/)
+February 10, 2017 Linda
