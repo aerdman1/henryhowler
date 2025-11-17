@@ -1,5 +1,5 @@
 ---
-title: Brian & Jess Lee – Art and Travel Video Blog
+title: 'Blog: Brian & Jess Lee – Art and Travel Video Blog'
 date: '2017-01-25T05:00:00.000Z'
 deprecated: false
 hidden: false
