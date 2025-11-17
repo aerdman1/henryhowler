@@ -1,5 +1,5 @@
 ---
-title: Update August 4 – Brian in India
+title: 'Album: Update August 4 – Brian in India'
 excerpt: August 2010 Emails and Photos from Brian
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
