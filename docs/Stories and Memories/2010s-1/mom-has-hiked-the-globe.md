@@ -1,5 +1,5 @@
 ---
-title: Mom has Hiked the Globe!
+title: 'Album: Mom has Hiked the Globe!'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
