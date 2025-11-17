@@ -1,5 +1,6 @@
 ---
-title: Motorcycle Club Members 2010
+title: 'Album: Crotch Rockets'
+excerpt: Famioloy Motorcycle Club Members 2010
 date: '2010-12-17T05:00:00.000Z'
 deprecated: false
 hidden: false
