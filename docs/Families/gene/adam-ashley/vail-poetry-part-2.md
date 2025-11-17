@@ -1,5 +1,5 @@
 ---
-title: Vail Poetry Part 2
+title: 'Video: Vail Poetry Part 2'
 date: '2012-12-05T05:00:00.000Z'
 deprecated: false
 hidden: false
