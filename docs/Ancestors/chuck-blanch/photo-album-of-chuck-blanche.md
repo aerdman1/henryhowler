@@ -78,4 +78,4 @@ Here are photos and items from an album that belonged to Blanche and Chuck. Plea
 
 <br />
 
-[February 11, 2017](/families/general-family/photo-album-of-chuck-blanche/) [Linda](/author/admin/)
+February 11, 2017 Linda
