@@ -1,5 +1,6 @@
 ---
-title: Ipso Jure – Magazine of the Geauga Co. Bar Assn. June 2011
+title: 'Article: Geauga Co. Bar'
+excerpt: Ipso Jure – Magazine of the Geauga Co. Bar Assn. June 2011
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
