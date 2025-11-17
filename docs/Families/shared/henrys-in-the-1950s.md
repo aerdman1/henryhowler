@@ -1,5 +1,5 @@
 ---
-title: Henrys in the 1950’s
+title: 'Album: Henrys in the 1950’s'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
