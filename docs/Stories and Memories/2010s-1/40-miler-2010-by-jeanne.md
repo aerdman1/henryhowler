@@ -1,5 +1,5 @@
 ---
-title: 40 Miler-2010 by Jeanne
+title: 'Album: 40 Miler-2010 by Jeanne'
 excerpt: >-
   Each year the Cleveland Hiking Club does a 40 Mile Hike. Photos Mom's 2010
   hike.
