@@ -1,5 +1,5 @@
 ---
-title: Adam’s Drone Videos
+title: 'Video: Adam’s Drone Videos'
 deprecated: false
 hidden: false
 metadata:
