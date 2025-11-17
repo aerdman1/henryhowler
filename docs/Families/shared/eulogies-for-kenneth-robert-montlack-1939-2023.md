@@ -1,17 +1,15 @@
 ---
-title: "Eulogies for Kenneth Robert Montlack (1939-2023)"
+title: 'Eulogies: Kenneth Robert Montlack'
+excerpt: Eulogies for Kenneth Robert Montlack (1939-2023)
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
+<Image alt="IMG_2167" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2023/06/IMG_2167.jpeg" />
 
+<Image alt="066763CF-C116-4C44-B5F6-BDB1590F8A60" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2023/06/066763CF-C116-4C44-B5F6-BDB1590F8A60.jpg" />
 
-![IMG_2167](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2023/06/IMG_2167.jpeg)
- 
-![066763CF-C116-4C44-B5F6-BDB1590F8A60](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2023/06/066763CF-C116-4C44-B5F6-BDB1590F8A60.jpg)
- 
-![IMG_2141](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2023/06/IMG_2141-scaled.jpeg)
-
+<Image alt="IMG_2141" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2023/06/IMG_2141-scaled.jpeg" />
 
 I’m Liz Martin, Chris’s daughter and Ken’s stepdaughter. I’m sharing words on behalf of myself and my brother, Matt, and memories on behalf of my brother, Tim.
 
@@ -55,6 +53,5 @@ Then each year Chris and Ken hosted a sibling dinner at their house where, like 
 
 So here is to you Ken. And while we know that you are in good company right now, it is safe to say that, like that slow moving glacier you fondly referred to as the Henry family, the essence of you and memories of your wisdom, humor and love, will not be leaving any one of us anytime soon!
 
-
-[June 19, 2023](/families/general-family/eulogy-for-kenneth-robert-montlack-1939-2023/)
- [Linda](/author/admin/)
+June 19, 2023
+Linda
