@@ -1,5 +1,6 @@
 ---
-title: Wii Wii 1-31-09
+title: 'Photo: Wii Golf  2009'
+excerpt: Dan demonstrates total domination of the wii golf scene
 date: '2009-01-31T05:00:00.000Z'
 deprecated: false
 hidden: false
