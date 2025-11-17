@@ -1,6 +1,6 @@
 ---
-title: Kenston boys win Chagrin Valley Conference track titles
-excerpt: May 18, 2010
+title: 'Article:  Ross Runs'
+excerpt: Kenston boys win Chagrin Valley Conference trackMay 18, 2010
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
