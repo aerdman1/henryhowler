@@ -1,5 +1,5 @@
 ---
-title: Jeanne Henry’s 80th Birthday Video
+title: 'Video: Jeanne Henry’s 80th Birthday '
 excerpt: September 5th, 2010 by Dan Henry
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
