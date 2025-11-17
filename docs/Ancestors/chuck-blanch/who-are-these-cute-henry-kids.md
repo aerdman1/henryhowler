@@ -1,5 +1,6 @@
 ---
-title: Who Are These Cute Henry Kids?
+title: 'Album: Chuck Henry'
+excerpt: Pictures of Chuck with his parents, siblings and grandparents
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
