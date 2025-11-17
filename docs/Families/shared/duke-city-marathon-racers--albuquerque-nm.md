@@ -1,7 +1,8 @@
 ---
-title: "Duke City Marathon Racers- Albuquerque NM"
+title: Album:Duke City Marathon
+excerpt: Albuquerque NM Big Mike, Adam, and Holly 2
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
 
