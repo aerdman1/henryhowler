@@ -1,5 +1,5 @@
 ---
-title: Hocking Hills Magic
+title: 'Album: Hocking Hills Magic'
 deprecated: false
 hidden: false
 metadata:
