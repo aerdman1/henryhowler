@@ -1,5 +1,5 @@
 ---
-title: 'FIX MW: Linda in Lesotho Blog'
+title: 'FIX Me: Linda in Lesotho Blog'
 date: '2017-01-25T05:00:00.000Z'
 deprecated: false
 hidden: false
