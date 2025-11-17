@@ -1,5 +1,5 @@
 ---
-title: Spirit of Bainbridge Article  The EXTRAODINARY Jeanne Henry
+title: 'Newspaper Article: Spirit of Bainbridge Article  The EXTRAODINARY Jeanne Henry'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
