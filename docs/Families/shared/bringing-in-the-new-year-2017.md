@@ -1,8 +1,6 @@
 ---
-title: Bringing in the new year 2017
-excerpt: >-
-  This is a YouTube video taken at Dan and Cindy's house on New Years Eve.  By
-  Dan Henry
+title: 'Video: Big Family New Year'
+excerpt: Taken at Dan and Cindy's house on New Years Eve 2017
 date: '2017-01-13T05:00:00.000Z'
 deprecated: false
 hidden: false
