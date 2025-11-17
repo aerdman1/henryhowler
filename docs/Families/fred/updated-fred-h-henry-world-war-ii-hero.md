@@ -1,5 +1,5 @@
 ---
-title: UPDATED! Fred H. Henry – World War II Hero
+title: 'Article & Artifacts: Fred H. Henry – World War II Hero'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
