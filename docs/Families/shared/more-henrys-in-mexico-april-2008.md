@@ -1,7 +1,8 @@
 ---
-title: "More Henry’s in Mexico – April 2008"
+title: 'Album: Henry’s in Mexico – April 2008'
+excerpt: Scott and Michelle's family in Mexico
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
 
