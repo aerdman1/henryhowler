@@ -1,5 +1,6 @@
 ---
-title: The Chip Factor – Spirit of Bainbridge article
+title: 'Article: The Chip Factor'
+excerpt: Spirit of Bainbridge article
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
