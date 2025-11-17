@@ -1,5 +1,5 @@
 ---
-title: Everglades with Chip, Linda, Peter, Dan, and Sweet Cindy!
+title: 'Video: Everglades with Chip, Linda, Peter, Dan, and Sweet Cindy!'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
