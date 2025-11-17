@@ -1,6 +1,6 @@
 ---
-title: Henry-Messner-Rosenberger Cousin’s Reunion 2008
-excerpt: by Jeanne Henry
+title: 'Album: Henry-Messner-Rosenberger'
+excerpt: Henry-Messner-Rosenberger Cousin’s Reunion 2008
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
