@@ -1,5 +1,6 @@
 ---
-title: Party at Dan & Cindy’s ANC house
+title: 'Album: Dan & Cindy’s ANC house'
+excerpt: Party at Dan & Cindy’s ANC house
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
