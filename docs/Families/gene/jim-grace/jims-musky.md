@@ -1,5 +1,5 @@
 ---
-title: Jim's Musky
+title: 'Video: Jim''s Musky'
 excerpt: The Movie
 deprecated: false
 hidden: false
