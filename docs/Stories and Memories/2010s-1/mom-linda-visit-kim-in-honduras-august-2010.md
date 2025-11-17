@@ -1,6 +1,8 @@
 ---
-title: Mom & Linda Visit Kim in Honduras-August 2010
-excerpt: 'September 30, 2010 by Linda Henry '
+title: 'Album & Article: Mom & Linda in Honduras'
+excerpt: >-
+  Mom & Linda Visit Kim in Honduras-August 2010September 30, 2010 by Linda
+  Henry 
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
