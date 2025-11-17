@@ -1,5 +1,5 @@
 ---
-title: Erin’s Trip to GA -January 2007
+title: 'Article: Erin’s Trip to GA -January 2007'
 date: '2007-01-31T05:00:00.000Z'
 deprecated: false
 hidden: false
