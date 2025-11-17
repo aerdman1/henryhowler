@@ -1,5 +1,5 @@
 ---
-title: Picture Gallery
+title: 'Picture: Adam Bee Protection'
 excerpt: Randos
 deprecated: false
 hidden: false
