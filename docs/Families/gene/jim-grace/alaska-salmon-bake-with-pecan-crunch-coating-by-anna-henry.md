@@ -1,5 +1,6 @@
 ---
-title: Alaska Salmon Bake with Pecan Crunch Coating by Anna Henry
+title: 'Alaska Salmon Bake with Pecan Crunch Coating '
+excerpt: 2010 by Anna Henry
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
