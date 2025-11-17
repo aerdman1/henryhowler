@@ -1,5 +1,5 @@
 ---
-title: Holly & Jerry Wedding Limericks
+title: 'Limericks: Holly & Jerry Wedding Limericks'
 excerpt: by Cory Henry Billiar
 date: '2010-01-05T05:00:00.000Z'
 deprecated: false
