@@ -5,12 +5,9 @@ date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
+<Image alt="The girls watch the harbor from their livingroom window" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/img_7271_sm.jpg" />
 
-
-![The girls watch the harbor from their livingroom window](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/img_7271_sm.jpg)
- 
-![You can see our apartment building (red circle)](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/img_7276_sm-apartment-with-arrow.jpg)
-
+<Image alt="You can see our apartment building (red circle)" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/img_7276_sm-apartment-with-arrow.jpg" />
 
 Kris and Cori sent the notes below. The family of 4 has settled into Ireland and looking forward to hosting Holly and Jerry’s wedding there this New Years Eve (this is scuttlebutt…Holly, send me something official, okay!?!) Check out their blog…I cut these pictures from there, there are many more!
 
@@ -24,8 +21,8 @@ We also have Skype # which I don’t know, but will let you know as soon as I ge
 
 Slan for now (bye in Irish), xx Cori
 
-Hello to Family and Friends, I won’t write much here since it’s all in the blog, but basically it’s an easy way to share a few pictures and anecdotes from our travels here settling into an apartment and traveling.  It’s unabridged and gonna get long (about 8 entries with 20 pictures so far) so read at your own risk – or just skim the pics.  It’s in reverse chronological order so start from the bottom the first time, then just log in and read the most recent ones whenever you like.  I’ll send a reminder in a few months. Here’s the link! Please share with others you feel would be interested and check it out whenever you’re bored. http://billiarhenry.wordpress.com/
+Hello to Family and Friends, I won’t write much here since it’s all in the blog, but basically it’s an easy way to share a few pictures and anecdotes from our travels here settling into an apartment and traveling.  It’s unabridged and gonna get long (about 8 entries with 20 pictures so far) so read at your own risk – or just skim the pics.  It’s in reverse chronological order so start from the bottom the first time, then just log in and read the most recent ones whenever you like.  I’ll send a reminder in a few months. Here’s the link! Please share with others you feel would be interested and check it out whenever you’re bored. [http://billiarhenry.wordpress.com/](http://billiarhenry.wordpress.com/)
 
 Slainte (cheers), Kris
 
-[September 27, 2009](/families/don/news-from-ireland/) [Linda](/author/admin/) [http://billiarhenry.wordpress.com/](http://billiarhenry.wordpress.com/)
+September 27, 2009 Linda [http://billiarhenry.wordpress.com/](http://billiarhenry.wordpress.com/)
