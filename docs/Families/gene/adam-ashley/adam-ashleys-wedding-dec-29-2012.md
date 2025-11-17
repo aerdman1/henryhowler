@@ -1,5 +1,5 @@
 ---
-title: Adam & Ashley’s Wedding ~ Dec. 29, 2012
+title: 'Album: Adam & Ashley’s Wedding ~ Dec. 29, 2012'
 date: '2012-12-31T05:00:00.000Z'
 deprecated: false
 hidden: false
