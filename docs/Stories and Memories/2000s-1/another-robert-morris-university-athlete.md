@@ -1,7 +1,7 @@
 ---
-title: "Another Robert Morris University Athlete"
+title: 'Article: Another Robert Morris University Athlete'
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
 
