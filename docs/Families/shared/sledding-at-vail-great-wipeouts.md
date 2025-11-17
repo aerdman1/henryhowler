@@ -1,5 +1,6 @@
 ---
-title: Sledding at Vail – Great wipeouts!
+title: 'Video: Sledding at Vail – Great wipeouts!'
+excerpt: Adam and Ashley's Wedding Week Adventures  2012
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
