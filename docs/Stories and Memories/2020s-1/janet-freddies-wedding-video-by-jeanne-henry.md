@@ -6,6 +6,6 @@ hidden: false
 metadata:
   robots: index
 ---
-https://youtu.be/yvJmNQ2lsRc?si=PXezVO8cGEBeRujL
+<Anchor label="https://youtu.be/yvJmNQ2lsRc?si=PXezVO8cGEBeRujL" target="_blank" href="https://youtu.be/yvJmNQ2lsRc?si=PXezVO8cGEBeRujL">https://youtu.be/yvJmNQ2lsRc?si=PXezVO8cGEBeRujL</Anchor>
 
 <br />
