@@ -1,6 +1,6 @@
 ---
-title: A Very Sad Tale by Dan & Cindy
-excerpt: June 10, 2008
+title: 'Story: Detached Bicept'
+excerpt: Poor Dan - June 10, 2008
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
