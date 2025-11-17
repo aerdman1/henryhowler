@@ -1,5 +1,5 @@
 ---
-title: Adam is Home!…for a Wedding
+title: 'Album: Adam is Home!…for a Wedding 2010'
 excerpt: June 2010
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
