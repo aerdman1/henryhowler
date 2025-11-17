@@ -1,7 +1,7 @@
 ---
-title: "Photo Album of the Gene’s 1990’s"
+title: 'Album: Gene’s 1990’s'
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
 
