@@ -1,7 +1,8 @@
 ---
-title: "Halloween at the Shed – 2007"
+title: 'Album: Halloween at the Shed – 2007'
+excerpt: Halloween at the Shed – 2007
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
 
