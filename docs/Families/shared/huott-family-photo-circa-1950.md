@@ -1,5 +1,6 @@
 ---
-title: Huott Family Photo (circa 1950)
+title: 'Album & Interview: Huott Family Photo (circa 1950)'
+excerpt: Linda linterviews Jeanne H about pictures of her Huott Family photos
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
