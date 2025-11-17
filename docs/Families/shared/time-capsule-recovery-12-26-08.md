@@ -1,5 +1,6 @@
 ---
-title: Time Capsule Recovery 12-26-08
+title: Album & Article:Time Capsule 08
+excerpt: Time Capsule Recovery 12-26-08
 date: '2008-12-26T05:00:00.000Z'
 deprecated: false
 hidden: false
