@@ -1,5 +1,5 @@
 ---
-title: Trip to Visit Adam March 27-29, 2009
+title: 'Album & Story: Trip to Visit Adam March 27-29, 2009'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
