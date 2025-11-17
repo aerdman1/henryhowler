@@ -1,7 +1,8 @@
 ---
-title: "Justin’s Cheesy Christmas Sweater Party 2007"
+title: 'Album: Christmas Sweater Party 2007'
+excerpt: Justin’s Cheesy Christmas Sweater Party 2007
+date: '2007-12-07T05:00:00.000Z'
 deprecated: false
-date: "2007-12-07T05:00:00.000Z"
 hidden: false
 ---
 
