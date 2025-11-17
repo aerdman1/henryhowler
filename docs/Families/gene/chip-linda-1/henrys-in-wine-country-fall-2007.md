@@ -1,5 +1,6 @@
 ---
-title: 'Album: Henry’s in Wine Country – Fall 2007'
+title: 'Album: Henry’s in Wine Country'
+excerpt: Henry’s in Wine Country – Fall 2007
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
