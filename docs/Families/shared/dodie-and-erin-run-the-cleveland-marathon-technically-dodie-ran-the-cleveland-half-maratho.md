@@ -1,5 +1,5 @@
 ---
-title: 'Photos: Dodie and Erin'
+title: 'Photos: Dodie and Erin 2008'
 excerpt: >-
   Dodie and Erin RUN the Cleveland Marathon (technically, Dodie ran the
   Cleveland Half Marathon)
@@ -18,4 +18,4 @@ hidden: false
 The day started out cold and rainy, but the rain eased off and the cool remained. This, according to Jim, was perfect running weather. It was an adventure getting to different spots to watch and was quite a challenge. Especially watching two runners. A lot was learned. Erin and Dodie did well and it still amazes me that anyone can run for 26.2 miles. But she did it. Dodie did her half in a little over2 hours and Erin did the marathon in less than 4 hours. Had a great brunch at Dottie and Don’s afterwards. The running pictures were taken at mile 9. GRANDMA
 
 June 10, 2008
-Linda
+ Linda
