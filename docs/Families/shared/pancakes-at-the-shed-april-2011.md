@@ -1,5 +1,6 @@
 ---
-title: Pancakes at the Shed – April 2011
+title: 'Album: Shed Breakfast – 2011'
+excerpt: Pancakes at the Shed – April 2011
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
