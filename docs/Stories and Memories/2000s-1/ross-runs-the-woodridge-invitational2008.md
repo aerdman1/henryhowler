@@ -1,6 +1,6 @@
 ---
-title: Ross Runs the Woodridge Invitational….2008
-excerpt: by Grace Henry
+title: 'Album: Ross Runs'
+excerpt: Ross Runs the Woodridge Invitational….2008
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
