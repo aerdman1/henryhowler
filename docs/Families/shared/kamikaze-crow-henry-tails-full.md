@@ -1,5 +1,5 @@
 ---
-title: 'Kamikaze Crow (Henry Tails : Full)'
+title: 'Story: Kamikaze Crow 1982'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
