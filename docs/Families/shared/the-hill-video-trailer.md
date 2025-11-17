@@ -1,6 +1,6 @@
 ---
-title: The Hill – Video Trailer
-excerpt: Nov 4th, 2014.  Dan, David, Peter.
+title: 'Video: The Hill '
+excerpt: Nov 4th, 2014.  Dan, David, Peter. Sledding at Htcher's Pass
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
