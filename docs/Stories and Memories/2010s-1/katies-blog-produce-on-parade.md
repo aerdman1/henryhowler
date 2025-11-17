@@ -1,5 +1,5 @@
 ---
-title: Katie’s Blog – Produce on Parade
+title: 'Blog: Katie’s Blog – Produce on Parade'
 date: '2017-01-25T05:00:00.000Z'
 deprecated: false
 hidden: false
