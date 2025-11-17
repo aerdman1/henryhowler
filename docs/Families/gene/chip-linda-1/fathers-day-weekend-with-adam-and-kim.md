@@ -1,7 +1,8 @@
 ---
-title: "Father’s Day Weekend with Adam and Kim"
+title: 'Album: Father’s Day '
+excerpt: Father’s Day Weekend with Adam and Kim
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
 
