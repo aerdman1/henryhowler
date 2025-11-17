@@ -1,5 +1,6 @@
 ---
 title: 'Album: Mom has Hiked the Globe!'
+excerpt: 25000 miles of Hiking on the books
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
