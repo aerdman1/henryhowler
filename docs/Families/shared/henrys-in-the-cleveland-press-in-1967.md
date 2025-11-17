@@ -8,4 +8,4 @@ This article appeared in the Cleveland Press about the Henry’s havin’ fun at
 
 <Image align="center" border={false} src="https://files.readme.io/b56a80201ce6fa484b732d6277ef2e9f9c5fdb8c0bbd13ada4bbc8086050fab2-cleve_press1967.jpg" />
 
-[January 3, 2017](/families/general-family/henrys-cleveland-press-1967/) [Linda](/author/admin/) <Anchor label="Cleveland Press 1967 article PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F01%2FCleve_press_1967article-copy.pdf">Cleveland Press 1967 article PDF</Anchor>
+January 3, 2017 Linda <Anchor label="Cleveland Press 1967 article PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F01%2FCleve_press_1967article-copy.pdf">Cleveland Press 1967 article PDF</Anchor>
