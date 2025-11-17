@@ -1,5 +1,5 @@
 ---
-title: Photos of Young Chuck Henry
+title: 'Album: Young Chuck Henry'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
