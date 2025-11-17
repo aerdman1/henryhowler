@@ -1,5 +1,6 @@
 ---
-title: Photo Album of the Gene Henry’s 1950’s-1960’s
+title: 'Album: Gene Henry’s 1950’s-1960’s'
+excerpt: Photo Album of the Gene Henry’s 1950’s-1960’s
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
