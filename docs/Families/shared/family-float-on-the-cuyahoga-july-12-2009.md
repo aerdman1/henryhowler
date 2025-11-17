@@ -1,7 +1,8 @@
 ---
-title: "Family Float on the Cuyahoga – July 12, 2009"
+title: 'Album: Cuyahoga Kayaks – July 12, 2009'
+excerpt: Family Easter Hike to the Caves , April 12, 2009
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
 
