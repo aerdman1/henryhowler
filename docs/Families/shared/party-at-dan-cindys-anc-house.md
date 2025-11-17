@@ -1,6 +1,6 @@
 ---
 title: 'Album: Dan & Cindy’s ANC house 08'
-excerpt: Party at Dan & Cindy’s ANC house
+excerpt: Party at Dan & Cindy’s ANC house 10-27-08
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
@@ -21,4 +21,4 @@ People seem to have a very nice time. Hope you all had a nice weekend.
 
 love Dan
 
- 08October 27, 2008 Linda
+ 08 Oct October 27, 2008 Linda
