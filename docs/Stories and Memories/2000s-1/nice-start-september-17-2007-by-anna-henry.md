@@ -1,10 +1,11 @@
 ---
-title: Nice Start! September 17, 2007 By Anna Henry
+title: 'Article: Nice Start '
+excerpt: Bombers Girls Cross Country Team  September 17, 2007
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/anna_xc.jpg)
+<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/anna_xc.jpg" />
 
 This article first appeared on the Kenston High School Website
 
