@@ -1,5 +1,5 @@
 ---
-title: 'In the Shadow of Rheumatic Fever:'
+title: 'Story: In the Shadow of Rheumatic Fever:'
 excerpt: >-
   A Young Girl’s Wartime Adventure in Cuba        By Jeanne Henry: Remembered in
   2025
