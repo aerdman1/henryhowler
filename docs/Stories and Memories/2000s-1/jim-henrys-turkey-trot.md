@@ -1,5 +1,5 @@
 ---
-title: 'Album: Jim Henry’s Turkey Trot'
+title: 'Album & Story: Jim Henry’s Turkey Trot'
 excerpt: Dec. 30, 2006
 date: '2006-01-30T05:00:00.000Z'
 deprecated: false
