@@ -1,5 +1,6 @@
 ---
-title: Some Things Never Change…
+title: Some Things Never Change…Poem by Janet
+excerpt: '2009'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
