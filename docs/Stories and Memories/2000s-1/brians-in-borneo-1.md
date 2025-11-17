@@ -1,6 +1,6 @@
 ---
-title: Brian's In Borneo Part 1
-excerpt: Emails frowarded to Linda from Dodie  2001
+title: 'Story / Blog: Brian''s In Borneo Part 1'
+excerpt: Part 1 Emails frowarded to Linda from Dodie  2001
 deprecated: false
 hidden: false
 link:
