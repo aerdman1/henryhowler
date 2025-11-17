@@ -1,5 +1,5 @@
 ---
-title: 'Album: Hocking Hills Magic'
+title: 'Album: Hocking Hills Magic 2011'
 deprecated: false
 hidden: false
 metadata:
