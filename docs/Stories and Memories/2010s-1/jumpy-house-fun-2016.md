@@ -1,6 +1,6 @@
 ---
 title: 'Video: Jumpy House Fun – 2016'
-excerpt: Dan Henry - Posted Nov 14 2016
+excerpt: Dan and Cindy's house -  Nov 14 2016
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
