@@ -1,7 +1,8 @@
 ---
-title: "Update Kim’s Honduras Experience – July 17-23"
+title: 'Album: Kim’s Honduras Experience'
+excerpt: Update Kim’s Honduras Experience – July 17-23
+date: '2025-01-01T00:00:00.000Z'
 deprecated: false
-date: "2025-01-01T00:00:00.000Z"
 hidden: false
 ---
 
