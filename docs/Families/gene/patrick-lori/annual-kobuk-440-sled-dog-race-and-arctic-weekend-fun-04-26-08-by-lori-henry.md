@@ -1,6 +1,8 @@
 ---
-title: Annual Kobuk 440 Sled Dog Race and Arctic Weekend Fun 04-26-08 by Lori Henry
-excerpt: by Lori Henry
+title: 'Album: Dan, Pat, & Lori in the Arctic'
+excerpt: >-
+  Annual Kobuk 440 Sled Dog Race and Arctic Weekend Fun 04-26-08 by Lori Henryby
+  Lori Henry
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
