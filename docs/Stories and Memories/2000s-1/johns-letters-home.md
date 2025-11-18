@@ -1,5 +1,5 @@
 ---
-title: 'Stories: John’s Letters Home'
+title: 'Stories: John’s Letters Home 07'
 excerpt: '2007'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
