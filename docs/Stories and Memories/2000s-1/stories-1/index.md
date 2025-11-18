@@ -1,5 +1,5 @@
 ---
-title: Stories and Blogs
+title: Stories, Poems, and Blogs
 deprecated: false
 hidden: false
 metadata:
