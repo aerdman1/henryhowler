@@ -1,6 +1,6 @@
 ---
-title: 'Mom and John at his Hiram graduation 2009 '
-excerpt: by Ellen Morrison
+title: 'Album: John''s Graduation 09 '
+excerpt: Mom and John at his Hiram graduation 2009 by Ellen Morrison
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
