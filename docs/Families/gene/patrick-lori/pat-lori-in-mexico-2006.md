@@ -1,5 +1,5 @@
 ---
-title: Pat & Lori in Mexico 2006
+title: 'Story: Pat & Lori in Mexico 2006'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
