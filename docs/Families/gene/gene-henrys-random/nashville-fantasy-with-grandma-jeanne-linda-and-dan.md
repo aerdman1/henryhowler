@@ -1,5 +1,6 @@
 ---
-title: Nashville Fantasy With Grandma Jeanne, Linda, and Dan
+title: 'Video: Nashville with Jeanne, Linda, and Dan'
+excerpt: Nashville Fantasy With Grandma Jeanne, Linda, and Dan
 date: '2014-01-14T05:00:00.000Z'
 deprecated: false
 hidden: false
