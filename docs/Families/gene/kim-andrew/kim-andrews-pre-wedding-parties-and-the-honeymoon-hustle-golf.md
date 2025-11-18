@@ -1,5 +1,6 @@
 ---
-title: Kim & Andrew’s Pre-Wedding Parties and the Honeymoon Hustle Golf
+title: 'Album: Pre-Wedding Kim and Andrew'
+excerpt: Kim & Andrew’s Pre-Wedding Parties and the Honeymoon Hustle Golf
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
