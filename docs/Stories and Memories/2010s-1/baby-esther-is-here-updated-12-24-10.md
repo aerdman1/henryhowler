@@ -1,5 +1,5 @@
 ---
-title: Baby Esther is Here! Updated! 12-24-10
+title: 'Album: Baby Esther is Here! Updated! 12-24-10'
 date: '2017-01-13T05:00:00.000Z'
 deprecated: false
 hidden: false
