@@ -1,5 +1,5 @@
 ---
-title: Fishing in Mexico – Dan and Pat
+title: 'Video: Fishing in Mexico – Dan and Pat'
 excerpt: Video
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
