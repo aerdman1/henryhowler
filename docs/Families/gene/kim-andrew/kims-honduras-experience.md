@@ -1,5 +1,5 @@
 ---
-title: Kim’s Honduras Experience
+title: 'Album: Kim’s Honduras Experience 1'
 excerpt: 07-05-2010 from Chip
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
