@@ -1,5 +1,5 @@
 ---
-title: Patrick Races in the 2007 Fur Rondy
+title: 'Story: Patrick Races in the 2007 Fur Rondy'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
