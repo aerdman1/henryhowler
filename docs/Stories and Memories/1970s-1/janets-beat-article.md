@@ -1,5 +1,5 @@
 ---
-title: Janet’s ‘Beat’ Article
+title: 'Article: Janet’s ‘Beat’ Article'
 excerpt: Nov. 1979
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
