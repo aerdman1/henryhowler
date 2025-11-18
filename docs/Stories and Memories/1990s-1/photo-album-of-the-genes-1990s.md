@@ -1,5 +1,5 @@
 ---
-title: 'Must See Album: Gene’s 1990’s'
+title: 'Album: Gene’s 1990’s'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
