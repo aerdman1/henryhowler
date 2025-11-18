@@ -1,6 +1,6 @@
 ---
-title: Tim’s Birthday
-excerpt: By Chris Henry - June 2009
+title: 'Album: Tim’s Birthday'
+excerpt: Tim Martin Memorial Hike - June 2009
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
