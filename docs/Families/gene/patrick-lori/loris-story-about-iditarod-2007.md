@@ -1,5 +1,6 @@
 ---
-title: Lori’s Story about Iditarod 2007
+title: 'Article: Iditarod 2007'
+excerpt: Lori’s Story about Iditarod 2007
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
