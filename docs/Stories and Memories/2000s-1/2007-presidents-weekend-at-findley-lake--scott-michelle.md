@@ -1,6 +1,6 @@
 ---
-title: 2007 President’s Weekend at Findley Lake- Scott & Michelle
-excerpt: by Scott Henry
+title: 'Album: Findley Lake Ski'
+excerpt: 2007 President’s Weekend at Findley Lake- Scott & Michelle
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
