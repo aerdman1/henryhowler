@@ -1,5 +1,5 @@
 ---
-title: 'Stories: Peter Making Memories'
+title: 'Story: Peter Making Memories'
 excerpt: Making Stories in Ohiopyle, Pennsylvania Dan Henry  Remembered in 2025
 deprecated: false
 hidden: false
