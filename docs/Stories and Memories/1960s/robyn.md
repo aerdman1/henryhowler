@@ -1,5 +1,5 @@
 ---
-title: 'Article: Robyn!!'
+title: 'Article: Robyn Gives a Shiner'
 excerpt: 1966 Cleveland Press
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
