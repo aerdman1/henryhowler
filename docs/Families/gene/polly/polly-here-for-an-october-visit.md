@@ -1,5 +1,5 @@
 ---
-title: Polly Here for an October Visit
+title: 'Album: Polly October Visit'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
