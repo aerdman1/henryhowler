@@ -1,5 +1,5 @@
 ---
-title: 'Newspaper Article: WVIZ 10th Birthday Party'
+title: 'Article: WVIZ 10th Birthday Party'
 date: '2017-01-21T05:00:00.000Z'
 deprecated: false
 hidden: false
