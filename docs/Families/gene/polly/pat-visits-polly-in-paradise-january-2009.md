@@ -1,5 +1,6 @@
 ---
-title: Pat Visits Polly in Paradise – January 2009
+title: 'Story: Pat & Polly Bikers'
+excerpt: Pat Visits Polly in Paradise – January 2009
 date: '2009-01-30T05:00:00.000Z'
 deprecated: false
 hidden: false
