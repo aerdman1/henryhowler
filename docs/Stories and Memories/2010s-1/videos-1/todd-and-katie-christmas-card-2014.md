@@ -1,5 +1,5 @@
 ---
-title: 'Christmas Card: Todd and Katie Christmas Card 2014'
+title: 'Video: Todd and Katie Christmas Card 2014'
 deprecated: false
 hidden: false
 metadata:
