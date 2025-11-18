@@ -1,6 +1,6 @@
 ---
-title: Video of Peter with President Obama
-excerpt: January 22, 2015.  Posted By Linda Henry.
+title: 'Video: Peter with President Obama'
+excerpt: Video of Peter with President ObamaJanuary 22, 2015.  Posted By Linda Henry.
 date: '2015-01-22T05:00:00.000Z'
 deprecated: false
 hidden: false
