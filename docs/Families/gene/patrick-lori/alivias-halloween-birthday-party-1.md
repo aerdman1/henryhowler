@@ -1,5 +1,5 @@
 ---
-title: Alivia's Halloween Birthday Party
+title: 'QR Scan: Alivia''s Halloween Birthday Party'
 deprecated: false
 hidden: false
 metadata:
