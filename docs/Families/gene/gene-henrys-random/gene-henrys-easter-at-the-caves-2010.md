@@ -1,5 +1,6 @@
 ---
-title: Gene Henry’s Easter at the Caves – 2010
+title: 'Album: Easter at the Caves – 2010'
+excerpt: Gene Henry’s Easter at the Caves – 2010
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
