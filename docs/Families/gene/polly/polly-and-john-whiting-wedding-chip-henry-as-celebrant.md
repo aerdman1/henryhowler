@@ -1,5 +1,6 @@
 ---
-title: Polly and John Whiting Wedding (Chip Henry as Celebrant)
+title: 'Video: Whiting Wedding'
+excerpt: Polly and John Whiting Wedding (Chip Henry as Celebrant)
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
