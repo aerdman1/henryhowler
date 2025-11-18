@@ -9,3 +9,5 @@ John Morrison is in France for the Hiram College 12 week class.
 **[His letters home](johns-letters-home)**
 
 September 21, 2007 Linda
+
+<br />
