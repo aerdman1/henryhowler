@@ -1,6 +1,6 @@
 ---
-title: 'Janet Bergman Climbing in Patagonia January '
-excerpt: – February 2008
+title: 'Article and Album: Climbing Patagonia'
+excerpt: Janet Bergman Climbing in Patagonia January  February 2008
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
