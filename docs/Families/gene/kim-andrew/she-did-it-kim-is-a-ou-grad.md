@@ -1,5 +1,6 @@
 ---
-title: She Did It! Kim is a OU Grad
+title: 'Album: Kim OU Grad'
+excerpt: She Did It! Kim is a OU Grad
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
