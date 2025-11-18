@@ -1,6 +1,6 @@
 ---
-title: Some Things Never Change…Poem by Janet
-excerpt: '2009'
+title: 'Poem: Some Things Never Change'
+excerpt: Poem by Janet with picture of McKinley 09
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
