@@ -1,5 +1,5 @@
 ---
-title: Wow Milo!
+title: 'Photo: Wow Milo!'
 excerpt: '2008'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
