@@ -1,5 +1,5 @@
 ---
-title: Busch Gardens  January 2007
+title: 'Story: Polly in Busch Gardens 2007'
 date: '2007-01-30T05:00:00.000Z'
 deprecated: false
 hidden: false
