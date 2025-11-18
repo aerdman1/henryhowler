@@ -1,6 +1,6 @@
 ---
 title: 'Story: Naked and cold in Alaska'
-excerpt: 2000s
+excerpt: Dan swim after boat that is floating away in arctic waters  2000s
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
