@@ -1,5 +1,6 @@
 ---
-title: Polly and John Whitting are Wed – 2-20-10
+title: 'Album: Whitting Wedding 2-20-10'
+excerpt: Polly and John Whitting are Wed – 2-20-10
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
