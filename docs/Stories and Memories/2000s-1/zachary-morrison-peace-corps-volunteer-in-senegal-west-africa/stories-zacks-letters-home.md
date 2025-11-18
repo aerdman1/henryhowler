@@ -6,8 +6,6 @@ hidden: false
 metadata:
   robots: index
 ---
-<br />
-
 An official disclaimer: These are the observations of Zachary Morrison and do not reflect the views of the U.S. Peace Corps as a government organization.
 October 30, 2006
 Hey everyone! It's good to hear from new people!
