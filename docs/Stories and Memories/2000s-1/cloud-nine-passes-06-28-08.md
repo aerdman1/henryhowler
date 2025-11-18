@@ -1,5 +1,6 @@
 ---
-title: Cloud Nine Passes 06-28-08
+title: 'Album: KC''s Cloud Nine Passes 08'
+excerpt: KC's and others horse back riding
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
