@@ -1,5 +1,6 @@
 ---
-title: Drop In and Visit – John & Teresa Morrison
+title: 'Picture: John & Teresa Morrison'
+excerpt: Drop In and Visit
 date: '2017-01-23T05:00:00.000Z'
 deprecated: false
 hidden: false
