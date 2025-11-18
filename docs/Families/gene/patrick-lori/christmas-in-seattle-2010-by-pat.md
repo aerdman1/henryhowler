@@ -1,5 +1,6 @@
 ---
-title: Christmas in Seattle 2010 by Pat
+title: 'Album: Pat and Lori Christmas in Seattle 2010'
+excerpt: Christmas in Seattle 2010
 date: '2010-12-27T05:00:00.000Z'
 deprecated: false
 hidden: false
