@@ -7,49 +7,49 @@ hidden: false
 link:
   new_tab: false
 ---
-Wedding of the Mandarin Moon\
+Wedding of the Mandarin Moon  
 June 3, 2023
 
-Benches by the bridge, all the people wait,\
+Benches by the bridge, all the people wait,  
 Excitement - anticipation - build and inflate.
 
-Down a forest path, in a four-wheeler rig,\
+Down a forest path, in a four-wheeler rig,  
 The couple descend for their marital gig.
 
-Ross captures moments with his lens,\
+Ross captures moments with his lens,  
 Memories to cherish of family and friends.
 
-Peter dons his Aleut hat with pride,\
+Peter dons his Aleut hat with pride,  
 Arriving barefooted with his love by his side.
 
-Natash wears her ribbon dress for Pete,\
+Natasha wears her ribbon dress for Pete,  
 With soft leather moccasins covering her feet.
 
-Dan tries to speak so all there may hear,\
+Dan tries to speak so all there may hear,  
 while both he and Peter hold back wedding tears.
 
-In the garage, beer pong battles heartedly wage,\
+In the garage, beer pong battles heartedly wage,  
 And women dominate the flip cup stage.
 
-The Steinmetz's party bus on schedule arrives,\
+The Steinmetz's party bus on schedule arrives,  
 with Jell-O shots keeping the party alive.
 
-Food is home cooked with a Mexican theme,\
-Kitchen ladies chief as a culinary team.
+Food is home cooked with a Mexican theme,  
+Kitchen ladies chief as a culinary dream.
 
-Wine overflows, and the beer runs dry,\
+Wine overflows, and the beer runs dry,  
 Wedding toast made with glasses held high.
 
-Polka dancing, party lights and music play higher,\
+Polka dancing, party lights and music play higher,  
 while people relax and get buzzed by the fire.
 
-In a culver Mike and Gus roll down with a thrust,\
+In a culver Mike and Gus roll down with a thrust,  
 getting cuts and bruises and partly concussed.
 
-The mystery duckling for the kids - a delight,\
+The mystery duckling for the kids - a delight,  
 while the mandarin moon shines its gorgeous orange light.
 
-So Peter and Tash, in your love ever spoon,\
+So Peter and Tash, in your love ever spoon,  
 In the light of the wedding of the mandarin moon.
 
-<Image align="center" src="https://files.readme.io/0d10e62b3131c99a451bbe05ec72246fa24f98ea9e26aee40be732001703e5bd-dddddddd.jpg" />
+<Image align="center" border={false} src="https://files.readme.io/0d10e62b3131c99a451bbe05ec72246fa24f98ea9e26aee40be732001703e5bd-dddddddd.jpg" />
