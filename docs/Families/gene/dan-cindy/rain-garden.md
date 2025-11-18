@@ -1,5 +1,5 @@
 ---
-title: Rain Garden
+title: 'Story: Rain Garden'
 excerpt: By Dan
 deprecated: false
 hidden: false
