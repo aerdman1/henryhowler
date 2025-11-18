@@ -1,5 +1,5 @@
 ---
-title: Henry Erdman-2 Year Old
+title: 'Picture: Henry Erdman-2 Year Old'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
