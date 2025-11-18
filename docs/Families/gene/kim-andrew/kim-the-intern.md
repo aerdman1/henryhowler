@@ -1,5 +1,5 @@
 ---
-title: Kim the Intern
+title: 'Story: Kim the Intern'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
