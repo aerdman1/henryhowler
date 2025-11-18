@@ -1,5 +1,5 @@
 ---
-title: 'Recollections of a Weakling:'
+title: 'Stories: Recollections of a Weakling:'
 excerpt: >-
   Conflict Resolution as the Youngest of Four Brothers -- Remember by Dan in
   2025
