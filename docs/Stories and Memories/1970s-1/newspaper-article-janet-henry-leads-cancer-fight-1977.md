@@ -1,5 +1,5 @@
 ---
-title: Newspaper Article – Janet Henry Leads Cancer Fight 1977
+title: Article – Janet Henry Leads Cancer Fight 1977
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
