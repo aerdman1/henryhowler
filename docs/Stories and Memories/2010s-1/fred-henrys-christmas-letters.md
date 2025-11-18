@@ -1,6 +1,6 @@
 ---
-title: Fred Henry Family Christmas Letters
-excerpt: 2008 and 2018
+title: 'Stories: Fred Henry Family Christmas Letters'
+excerpt: Fred Henry Family Christmas Letters - 2008 and 2018
 date: '2019-01-11T05:00:00.000Z'
 deprecated: false
 hidden: false
