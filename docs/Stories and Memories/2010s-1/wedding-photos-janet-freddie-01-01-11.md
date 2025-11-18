@@ -1,5 +1,6 @@
 ---
-title: Wedding Photos – Janet & Freddie 01-01-11
+title: 'Album: Janet & Freddie 01-01-11'
+excerpt: Wedding Photos
 date: '2011-01-01T05:00:00.000Z'
 deprecated: false
 hidden: false
