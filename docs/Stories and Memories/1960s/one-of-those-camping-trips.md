@@ -1,5 +1,5 @@
 ---
-title: One of Those Camping Trips
+title: 'Story: One of Those Camping Trips'
 excerpt: by Ellen Morrison
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
@@ -9,4 +9,4 @@ hidden: false
 
 By Ellen Morrison – I know someone can identify this camping trip.  Mom (Aunt Barbie) is cooking.  I (Ellen) have my back to the camera in plaid.  The young guy that burnt his hand with a hot pan of oil is who?  And is that Rick in the background?
 
-February 19, 2011 
+February 19, 2011
