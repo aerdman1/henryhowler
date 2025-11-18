@@ -1,5 +1,5 @@
 ---
-title: '2 pictures: Cousins at the Shed 1960’s'
+title: 'Pictures: Cousins at the Shed 1960’s'
 excerpt: Baby boomer Generation
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
