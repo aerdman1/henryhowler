@@ -1,5 +1,5 @@
 ---
-title: Kim Turns 21!
+title: 'Picture: Kim Turns 21!'
 date: '2009-01-10T05:00:00.000Z'
 deprecated: false
 hidden: false
