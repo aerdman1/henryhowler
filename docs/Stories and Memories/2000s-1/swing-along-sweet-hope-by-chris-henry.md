@@ -1,6 +1,6 @@
 ---
-title: 'Swing Along Sweet Hope '
-excerpt: by Chris Henry, 2007
+title: 'Article: Swing Along Sweet Hope '
+excerpt: Reflections on Life by Chris Henry, 2007
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
