@@ -1,5 +1,5 @@
 ---
-title: Yes….the beat goes on!
+title: 'Story: Yes….the beat goes on!'
 excerpt: By Liz Martin
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
