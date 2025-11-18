@@ -1,6 +1,8 @@
 ---
-title: Janet and Freddy Climb Manikaran Spires
-excerpt: an adventure in the Indian Himalaya FRIDAY, OCTOBER 03, 2008  by Pat Goodman
+title: 'Album & Article: Climb Manikaran Spires'
+excerpt: >-
+  Janet and Freddy Climb Manikaran Spiresan adventure in the Indian Himalaya
+  FRIDAY, OCTOBER 03, 2008
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
