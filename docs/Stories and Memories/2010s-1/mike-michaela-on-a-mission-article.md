@@ -1,5 +1,5 @@
 ---
-title: 'Newspaper Article: Mike & Michaela on a Mission'
+title: 'Article: Mike & Michaela on a Mission'
 excerpt: Neighbors Magazine, June 2018
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
