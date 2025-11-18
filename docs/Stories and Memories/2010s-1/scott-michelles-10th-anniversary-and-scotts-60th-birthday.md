@@ -1,6 +1,6 @@
 ---
-title: Scott & Michelle’s 10th anniversary and Scott’s 60th birthday
-excerpt: By Scott Henry
+title: 'ASlbum: Pictures, Story, and Poem'
+excerpt: Scott & Michelle’s 10th anniversary and Scott’s 60th birthday
 date: '2011-01-13T05:00:00.000Z'
 deprecated: false
 hidden: false
