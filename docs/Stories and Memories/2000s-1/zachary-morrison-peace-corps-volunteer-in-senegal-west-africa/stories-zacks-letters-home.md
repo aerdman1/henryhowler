@@ -1,6 +1,6 @@
 ---
 title: 'Stories: Zack''s Letters Home'
-excerpt: 'Zack''s Peace Corlps Stories '
+excerpt: Zachary Morrison, Peace Corps Volunteer in Senegal, West Africa.
 deprecated: false
 hidden: false
 metadata:
