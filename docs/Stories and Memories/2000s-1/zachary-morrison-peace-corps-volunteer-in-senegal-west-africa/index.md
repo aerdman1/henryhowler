@@ -1,5 +1,6 @@
 ---
-title: Zachary Morrison, Peace Corps Volunteer in Senegal, West Africa.
+title: 'Stories: Zachary Peace Corps'
+excerpt: Zachary Morrison, Peace Corps Volunteer in Senegal, West Africa.
 date: '2008-01-07T05:00:00.000Z'
 deprecated: false
 hidden: false
