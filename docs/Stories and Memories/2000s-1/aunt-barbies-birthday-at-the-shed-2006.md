@@ -1,5 +1,6 @@
 ---
-title: Aunt Barbie’s Birthday at the Shed 2006
+title: 'Album: Barbie’s Birthday'
+excerpt: Aunt Barbie’s Birthday at the Shed 2006
 date: '2006-01-15T05:00:00.000Z'
 deprecated: false
 hidden: false
