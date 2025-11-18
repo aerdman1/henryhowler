@@ -1,5 +1,6 @@
 ---
-title: Janet is Climbing in India! Sept 2008
+title: 'Article: Janet Climbing India - 08'
+excerpt: Janet is Climbing in India! Sept 2008
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
