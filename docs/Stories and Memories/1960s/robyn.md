@@ -13,8 +13,9 @@ This article about Aunt Janet and 2 year old Robyn appeared in the Cleveland Pre
 
 By CHRISTINA WOLFE
 
+NO MAKE-UP but a real-for-sure shiner covering Janet Henry's right eye and cheek bone is the result of collision with her two-year-old daughter Robyn.
 
-NO MAKE-UP but a real-for-sure shiner covering Janet Henry's right eye and cheek bone is the result of collision with her two-year-old daughter Robyn.
+
 Janet Henry, our house-wife poet in residence, dropped by last week look-ing almost incognito. Her dark, dark sunglasses were very chic, we all agreed on that—but hardly necessary on such a dark day.
 Yes, said Janet, they certainly were necessary. She had a sizable shiner and was desperately try-ing to hide it from rumor-mongering eyes (not very successfully since it came down to her chin).
 “People are calling me to say that they heard I had a ski accident (I don’t ski) or an auto accident. And my husband says, ‘Imagine what they ARE NOT telling us they heard,”  said Janet, who reports that she understands other women who have had a black eye.
