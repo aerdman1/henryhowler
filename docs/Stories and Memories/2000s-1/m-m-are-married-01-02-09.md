@@ -1,5 +1,5 @@
 ---
-title: M & M are Married! 01-02-09
+title: 'Album: M & M are Married! 01-02-09'
 date: '2009-01-02T05:00:00.000Z'
 deprecated: false
 hidden: false
