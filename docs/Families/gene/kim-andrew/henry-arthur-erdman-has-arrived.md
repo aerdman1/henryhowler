@@ -1,5 +1,6 @@
 ---
-title: Henry Arthur Erdman has Arrived!
+title: 'Album: Baby Henry Erdman'
+excerpt: Henry Arthur Erdman has Arrived!
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
