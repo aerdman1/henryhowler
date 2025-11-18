@@ -1,5 +1,6 @@
 ---
-title: Where Were You for 2010 Thanksgiving Dinner?
+title: 'Album: Thanksgiving 2010'
+excerpt: Where Were You for 2010 Thanksgiving Dinner?
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
