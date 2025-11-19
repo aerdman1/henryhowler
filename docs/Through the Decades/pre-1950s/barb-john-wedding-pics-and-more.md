@@ -1,5 +1,6 @@
 ---
-title: Barb & John Wedding Pics and More
+title: 'Album: Barb and John'
+excerpt: Barb & John Wedding Pics and More
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
