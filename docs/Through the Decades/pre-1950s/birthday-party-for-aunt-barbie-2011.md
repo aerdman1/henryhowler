@@ -1,5 +1,5 @@
 ---
-title: 'Albumd: Aunt Barbie''s B-Day'
+title: 'Album: Aunt Barbie''s B-Day'
 excerpt: Birthday Party for Aunt Barbie 2011
 date: '2011-01-22T05:00:00.000Z'
 deprecated: false
