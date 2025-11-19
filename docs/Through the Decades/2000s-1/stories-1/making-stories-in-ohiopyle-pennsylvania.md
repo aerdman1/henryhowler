@@ -26,24 +26,24 @@ By the end of the day, we were sun-drenched, soaked, exhausted, and exhilarated.
 
 Upon returning to Ohiopyle, we observed a group of local kids jumping off a bridge into the river below. They assured us it was safe, provided one landed in the deep spot; missing it could result in serious injury. That was enough for David, who wisely opted out of the activity. But Peter was intrigued.
 
-Uncertain of its safety for him, I decided to try it first. I climbed onto the narrow guardrail. The edge felt uncomfortably narrow, and the drop was high enough to give pause. I experienced a few butterflies myself. After I jumped, I realized it wasn't so bad once the initial fear subsided. I concluded it was safe enough for Peter, should he still wish to try. He affirmed his desire.
+Wanting to eliminate safety concerns, I decided to try it first. I climbed onto the narrow guardrail. The narrow cutting edge felt uncomfortably, and the drop was high enough to make you think twice. With butterflies in my stomach, I jumped, and realized it wasn't bad. I concluded it was safe enough for Peter, should he still wish to try. 
 
-Peter climbed onto the guardrail and froze. He stood there, unmoving. Attempting to help, I began a countdown: “Three... two—”
+Peter climbed onto the guardrail and froze. Balancing there, unmoving, he started having a mini breakdown. Attempting to help, I began a countdown: “Three... two—”
 
-“DON’T COUNT!” he shouted, his face crumpling as he began to cry, terrified.
+“DON’T COUNT!” he shouted, his face crumpling as he began to cry.
 
 I gently pulled him down and hugged him. “You don’t have to do this,” I said. “Look how big David is, and he doesn’t want to do it.”
 
 Peter looked up at me, eyes still wet, and said, “Dad, you have so many stories to tell because you do things like this. If I don’t do it... I won’t have any stories.”
 
-I paused. He had a point. So, I helped him back up onto the rail.
+I thought about what he said and then helped him back up onto the rail.
 
 “Okay,” I said. “Go ahead and jump.”
 
 He was still scared, still teary, but he stood tall, took a breath, and whispered to himself: “I’m gonna do it. I’m gonna do it.” And then, he jumped.
 
-As he soared, he shouted: “I’m gonna do iiiiiit!” He popped up from the water with a huge grin—pure joy and pride illuminating his face. Then he did it again. And again. And again.
+As he soared, he shouted: “I’m gonna do iiiiiit!” He popped up from the water with a huge grin—pure joy and pride on his face. Then he did it again. And again. And again.
 
-When we got home, Peter retold the story—every jump, every rapid, every rescue—with the kind of energy only a nine-year-old can bring. I simply sat back, smiled, and listened. He now had his story, and it was a good one.
+When we got home, Peter retold the story—every jump, every rapid, every rescue—with the kind of energy only a nine-year-old can bring. I smiled, and listened. He bagged his story, and it was a good one.
 
 <Image align="center" border={false} src="https://files.readme.io/72fc5a6de462b74a6aefea98061d852b520a581511d8525a2a893c224d1c86d9-ffffff.gif" />
