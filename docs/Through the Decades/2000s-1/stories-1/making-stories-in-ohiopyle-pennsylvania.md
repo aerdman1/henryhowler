@@ -20,7 +20,7 @@ After each rapid, we frequently observed empty boats drifting solo, indicating a
 
 On one occasion, Kim, who was slightly older than Peter, was tossed from her raft and swept into a particularly large rapid. Initially, she appeared terrified, but then her expression transformed—she lit up, grinning and waving as if on a roller coaster. She crested a wave and landed gently on the edge of a large rock mid-rapid, then crawled to its highest point. There she was, stranded on a boulder in the middle of one of the biggest rapids, still smiling and waving as other boaters floated by.
 
-Peter and I knew we had to time our approach perfectly. As we moved into position, we called for Kim to jump, and she did, landing in our boat mid-rapid. We then ferried her back to her raft through the swirling water, all three of us laughing the entire way.
+Peter and I knew we had to time our approach perfectly. As we moved into position, we called for Kim to jump, and she did, landing in our boat mid-rapid. We then ferried her back to her raft through the swirling water, all three of us having fun along the way.
 
 By the end of the day, we were sun-drenched, soaked, exhausted, and exhilarated. We hauled our boats to the trailer and boarded the bus for the 40-minute ride back to town.
 
