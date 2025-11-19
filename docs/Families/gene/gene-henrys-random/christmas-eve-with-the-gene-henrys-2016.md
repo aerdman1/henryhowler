@@ -1,5 +1,6 @@
 ---
-title: Christmas Eve with the Gene Henry’s – 2016
+title: 'Album: Christmas Eve 2016'
+excerpt: Christmas Eve with the Gene Henry’s – 2016
 date: '2017-01-10T05:00:00.000Z'
 deprecated: false
 hidden: false
