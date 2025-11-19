@@ -24,7 +24,7 @@ Peter and I knew we had to time our approach perfectly. As we moved into positio
 
 By the end of the day, we were sun-drenched, soaked, exhausted, and exhilarated. We hauled our boats to the trailer and boarded the bus for the 40-minute ride back to town.
 
-Upon returning to Ohiopyle, we observed a group of local children jumping off a bridge into the river below. They assured us it was safe, provided one landed in the deep spot; missing it could result in serious injury. That was enough for David, who wisely declined the jump. But Peter was intrigued.
+Upon returning to Ohiopyle, we observed a group of local kids jumping off a bridge into the river below. They assured us it was safe, provided one landed in the deep spot; missing it could result in serious injury. That was enough for David, who wisely opted out of the activity. But Peter was intrigued.
 
 Uncertain of its safety for him, I decided to try it first. I climbed onto the narrow guardrail. The edge felt uncomfortably narrow, and the drop was high enough to give pause. I experienced a few butterflies myself. After I jumped, I realized it wasn't so bad once the initial fear subsided. I concluded it was safe enough for Peter, should he still wish to try. He affirmed his desire.
 
