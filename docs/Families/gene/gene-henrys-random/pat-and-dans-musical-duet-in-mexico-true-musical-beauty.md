@@ -1,5 +1,6 @@
 ---
-title: Pat and Dan’s musical duet in Mexico (true musical beauty!)
+title: 'Video: Mexican Musical'
+excerpt: Pat and Dan’s musical duet in Mexico (true musical beauty!)
 date: '2014-01-04T05:00:00.000Z'
 deprecated: false
 hidden: false
