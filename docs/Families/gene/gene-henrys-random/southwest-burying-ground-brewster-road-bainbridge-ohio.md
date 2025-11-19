@@ -1,5 +1,6 @@
 ---
-title: Southwest Burying Ground Brewster Road, Bainbridge Ohio
+title: 'Album: Henry Cemetary Brewster Road'
+excerpt: Southwest Burying Ground Brewster Road, Bainbridge Ohio
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
