@@ -1,5 +1,6 @@
 ---
-title: Steelhead Fishing at the Lake House Nov. 2010 by Uncle Chip
+title: 'Album: Chip''s Steelhead'
+excerpt: Steelhead Fishing at the Lake House Nov. 2010 by Uncle Chip
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
