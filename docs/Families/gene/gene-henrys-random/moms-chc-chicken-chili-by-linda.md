@@ -1,5 +1,5 @@
 ---
-title: Mom’s CHC Chicken Chili by Linda
+title: 'Recipe: Jeanne’s CHC Chicken Chili by Linda'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
