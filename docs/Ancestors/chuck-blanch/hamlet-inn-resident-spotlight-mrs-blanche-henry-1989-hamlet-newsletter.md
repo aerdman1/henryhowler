@@ -40,4 +40,4 @@ What have I done? Sort of held things together. There was much too much PTA! I w
 
 After my husband’s death in 1982, I had several angina attacks, one critical, which resulted in my having to move to the Manor. A serious eye problem developed so I remained there until the Inn was built. I was thankful to be able to move here and to get along with very little help but to know it is always available.
 
-[April 22, 2021](/families/general-family/hamlet-inn-resident-spotlight-mrs-blanche-henry-1989-hamlet-newsletter/) [Linda](/author/admin/)
+April 22, 2021 Linda
