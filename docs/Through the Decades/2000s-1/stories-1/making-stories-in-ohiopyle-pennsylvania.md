@@ -26,7 +26,7 @@ By the end of the day, we were sun-drenched, soaked, exhausted, and exhilarated.
 
 Upon returning to Ohiopyle, we observed a group of local kids jumping off a bridge into the river below. They assured us it was safe, provided one landed in the deep spot; missing it could result in serious injury. That was enough for David, who wisely opted out of the activity. But Peter was intrigued.
 
-Wanting to eliminate safety concerns, I decided to try it first. I climbed onto the narrow guardrail. The narrow cutting edge felt uncomfortably, and the drop was high enough to make you think twice. With butterflies in my stomach, I jumped, and realized it wasn't bad. I concluded it was safe enough for Peter, should he still wish to try. 
+Wanting to eliminate safety concerns, I decided to try it first. I climbed onto the narrow guardrail. The narrow cutting edge felt uncomfortably, and the drop was high enough to make you think twice. With butterflies in my stomach, I jumped, and realized it wasn't bad. I concluded it was safe enough for Peter, should he still wish to try.
 
 Peter climbed onto the guardrail and froze. Balancing there, unmoving, he started having a mini breakdown. Attempting to help, I began a countdown: “Three... two—”
 
@@ -44,6 +44,6 @@ He was still scared, still teary, but he stood tall, took a breath, and whispere
 
 As he soared, he shouted: “I’m gonna do iiiiiit!” He popped up from the water with a huge grin—pure joy and pride on his face. Then he did it again. And again. And again.
 
-When we got home, Peter retold the story—every jump, every rapid, every rescue—with the kind of energy only a nine-year-old can bring. I smiled, and listened. He bagged his story, and it was a good one.
+When we got home, Peter retold the story—every jump, every rapid, every rescue—with the kind of energy only a nine-year-old can bring. I smiled, and listened. He added some great stories to his collection that day.
 
 <Image align="center" border={false} src="https://files.readme.io/72fc5a6de462b74a6aefea98061d852b520a581511d8525a2a893c224d1c86d9-ffffff.gif" />
