@@ -7,15 +7,15 @@ date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2021/04/blanche_chuck.jpg)
+<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2021/04/blanche_chuck.jpg" />
 
 Blanche & Chuck Henry wedding
 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2021/04/IMG_0011-1.jpg)
+<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2021/04/IMG_0011-1.jpg" />
 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2021/04/BlancheHawleyHenry.jpg)
+<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2021/04/BlancheHawleyHenry.jpg" />
 
-In Blanche Henry's own words:\
+In Blanche Henry's own words:  
 Since many of you already know, I will simply say that I am 96 ½ years old, that way you may better understand this story.
 
 I have been an Ohioan since my marriage in 1918, but I still have a strong attachment for New England where my Scotch-Irish and English ancestors were among the early colonists. I grew up in West Rupert, VT on the borderline of New York.  I was graduated from high school at Granville, N.Y., being the nearest one. I hoped to go to college so I applied for and got the job of teacher at a nearby country elementary grade school for – believe it or not – $36.00/month!
@@ -32,7 +32,7 @@ Father Henry would soon retire and decided to replace the small farm house with 
 
 There was a need at Hiram College for athletes and my husband was hired to recruit good football players and to raise scholarship money from alumni to help them when needed.  He was very successful and eventually he became Hiram’s Alumni Secretary.  He was an excellent public relations man and was often referred to as Mr. Hiram: the athletic field is named for him.
 
-Our three older sons served in World War II. Fred as a B-17 bomber pilot who flew 60 missions over Germany. John spent 3 ½ years island hopping with the Air Force. Gene drove an ambulance with the American Field Service with Montgomery’s campaign through Italy. Don later served 2 y6ears at Fort Bragg, North Carolina.  All four came home without physical injuries, picked up their lives and were as fortunate in their marriages with large closely knit families as a result.
+Our three older sons served in World War II. Fred as a B-17 bomber pilot who flew 60 missions over Germany. John spent 3 ½ years island hopping with the Air Force. Gene drove an ambulance with the American Field Service with Montgomery’s campaign through Italy. Don later served 2 years at Fort Bragg, North Carolina.  All four came home without physical injuries, picked up their lives and were as fortunate in their marriages with large closely knit families as a result.
 
 Of my 18 grandchildren, all are college graduates with many pluses. There are several teachers, 2 were Peace Corps volunteers in Africa, an engineer, 2 are lawyers, a psychologist, an architect and an Ohio State Senator as of last fall!  And there are 24 great grandchildren!
 
