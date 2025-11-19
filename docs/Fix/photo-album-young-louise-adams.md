@@ -1,5 +1,6 @@
 ---
 title: Photo Album ~ Young Louise Adams
+excerpt: Link at the end of the document does not connect to anything
 date: '2017-01-03T05:00:00.000Z'
 deprecated: false
 hidden: false
