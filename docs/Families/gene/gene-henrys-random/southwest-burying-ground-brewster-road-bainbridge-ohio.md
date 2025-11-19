@@ -1,5 +1,5 @@
 ---
-title: 'Album: Henry Cemetary Brewster Road'
+title: 'Album: Henry Cemetary Brewster Road  2007'
 excerpt: Southwest Burying Ground Brewster Road, Bainbridge Ohio
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
