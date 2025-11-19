@@ -1,5 +1,5 @@
 ---
-title: Recipes
+title: '##Recipes'
 deprecated: false
 hidden: false
 metadata:
