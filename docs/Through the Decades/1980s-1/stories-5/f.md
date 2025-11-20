@@ -35,7 +35,7 @@ Dan
 
 From: Dan Henry, 1271 9th Ave. #202, Fairbanks, AK 99701
 
-To:     Chip Henry, 2552 Kindleworth #3, Cleveland Hts. Ohio 44106
+To:     Chump and Linda Henry, 2552 Kindleworth #3, Cleveland Hts. Ohio 44106
 
 4/6/83
 Fellow siblings, greetings from the great white north!
