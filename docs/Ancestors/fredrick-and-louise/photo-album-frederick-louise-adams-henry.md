@@ -72,7 +72,11 @@ hidden: false
 
 <Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/80th-Birthday-Poem-1.jpg" />
 
+<Image align="center" border={false} width="500px" src="https://files.readme.io/fd111f25349e0e33b24d0f582c78857fa5851c4f1e52736ddf7cac4ac328dda5-Judge_FA_Henry-Color-Restored.jpg" />
+
 Family photos of Frederick Augustus Henry (1867-1949) and Louise Adams Henry (1868-1950) and their 5 children, Marcia Louise (1893-1950), Charles “Chuck” Adams (1896-1982), Charlotte Sophia (1900-1974), Margaret Rhoda (1902-1985) and Polly Marion (1910-1985).
+
+<br />
 
 Frederick Henry 80th Birthday Poem by Janet Henry PDF
 
