@@ -10,13 +10,15 @@ link:
 metadata:
   robots: index
 ---
-<br />
+From: Dan Henry  Kemp Pacific Fisheries, Pouch 304, Dillingham AK 99576
+
+To:     Chip Henry, 2552 Kindleworth #3, Cleveland Hts. Ohio 44106
 
 Chip + Linda (hose heads),
 
 It's 10 'til 9 in the morning on June 23. I'm in bed and will go to sleep after writing this letter. I like it here a lot. Guess what—I'm a cook again! I'm the second shift cook from 8:00 pm till 8:00 am. I put out one midnight meal and one breakfast. It's a pretty nice job. I'm already used to sleeping during the day, and it's light here 20 hours a day anyway, so no big deal. Plus I work 12 hours every day. Some people here aren't working hardly at all yet since the salmon haven't really started to run. We have had some, though.
 
-I wrote Mom, Dad, and Polly that I was going king salmon fishing since they were running. Well, that trip fell through. But I did get to hitchhike way out to some lakes about 25 miles outside town. Boy, talk about fishing! This lake had rainbow trout, grayling, arctic char, Dolly Varden, and all the salmon (though none of the salmon were running yet). I went for the Dolly Vardens. They're a sea-going trout that average between 1 and 3 pounds and are real fighters. You have a 2- to 5-minute struggle to pull one in, and they jump a lot. I caught 8 or 9 and kept 5 of the biggest to smoke. I learned how to dry and smoke fish. I'll bring some home.
+I wrote Mom, Dad, and Polly that I was going king salmon fishing since they were running. Well, that trip fell through. But I did get to hitchhike way out to some lakes about 25 miles outside town. Boy, talk about fishing! This lake had rainbow trout, grayling, arctic char, Dolly Vardan, and all the salmon (though none of the salmon were running yet). I went for the Dolly Vardens. They're a sea-going trout that average between 1 and 3 pounds and are real fighters. You have a 2- to 5-minute struggle to pull one in, and they jump a lot. I caught 8 or 9 and kept 5 of the biggest to smoke. I learned how to dry and smoke fish. I'll bring some home.
 
 Last night on my lunch break, I removed some cheeks from some king salmon that we got. One of the processors kept them for me. They're in the smoker right now.
 
@@ -29,7 +31,11 @@ Well, I'm real sleepy, so I'll say good night. See you in 3 or 4 weeks. Good day
 Love,
 Dan
 
----
+***
+
+From: Dan Henry, 1271 9th Ave. #202, Fairbanks, AK 99701
+
+To:     Chip Henry, 2552 Kindleworth #3, Cleveland Hts. Ohio 44106
 
 4/6/83
 Fellow Sidelings, greetings from the great white north!
@@ -38,7 +44,7 @@ Actually, right now it is the great green north. It's very, very beautiful. The 
 
 The equinox marathon is coming up on the 17th of this month. I'm trying to get ready for it. It's known for being kind of difficult, but I'm going to give it a try. Part of the course is on narrow ski trails, so it will be literally running through the wilds of Alaska. In the past, runners have been confronted with moose on the trail. The campus is beautiful. It is surrounded by low mountains and is itself on the highest spot in town. The Northern lights are very good here I've heard. Haven't seen any yet though. The weather is mild, high 40s and 50°. I haven't used my warm stuff yet.
 
-My roommate Victor and I are getting along real well. He gets mad when I leave cabinet doors open and other small inconsiderations, but all in all I think he's really glad I'm around. Well I'll keep you informed of any new developments.
+My roommate Victor and I are getting along real well. He gets mad when I leave cabinet doors open and other small inconsideration's, but all in all I think he's really glad I'm around. Well I'll keep you informed of any new developments.
 
 Love,
 Dan
