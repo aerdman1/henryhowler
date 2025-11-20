@@ -8,6 +8,9 @@ hidden: false
 link:
   new_tab: false
 metadata:
+  description: >-
+    A personal letter from Dan to Chip and Linda, sharing updates about his
+    cooking job and fishing adventures in Alaska during salmon season.
   robots: index
 ---
 Chip + Linda (hose heads),
@@ -26,6 +29,8 @@ Well, I'm real sleepy, so I'll say good night. See you in 3 or 4 weeks. Good day
 
 Love,
 Dan
+
+<br />
 
 4/6/83
 Fellow Sidelings, greeting from the great white north!
