@@ -11,6 +11,6 @@ hidden: false
 
 I am sure there are many photos taken at family gatherings at the Property.  If anyone has other photos of this time period send them and I will add to this collection.
 
-[October 22, 2010](/families/general-family/cousins-at-the-shed-1960s/) [Linda](/author/admin/)
+October 22, 2010 Linda
 
 <br />
