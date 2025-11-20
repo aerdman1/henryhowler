@@ -6,8 +6,6 @@ hidden: false
 metadata:
   robots: index
 ---
-<Image align="center" border={true} width="200px" src="https://files.readme.io/c79d203d2896c493e4c6e138f71e9bd96de67f65e7f5def3943a622e71ee5195-1992_Settlers_Park_Dedication_coverpage.jpg" className="border" />
+<Image align="center" border={false} src="https://files.readme.io/a4cf07ced3d5b6c5e66e9f61b06cb396448fb57000a5d7c3ccc1e782a3b2b72d-1992_Settlers_Park_Dedication_coverpage.jpg" />
 
-<Image align="center" border={false} width="500px" src="https://files.readme.io/31441d9a9991dae36a2297f2dec5e246aa2e0409be94ee33389cd3dd19cc7b97-1992_Settlers_Park_Dedication_page2.jpg" />
-
-<br />
+<Image align="center" border={false} src="https://files.readme.io/1fe74d0e34f0a6d0680b765cd3802ab3617ced8c1586bddce8dfd3075491947d-1992_vSettlers_Park_Dedication_page2.jpg" />
