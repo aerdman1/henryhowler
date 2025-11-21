@@ -39,7 +39,9 @@ Much love, Your youngest brother,
 
 Dan
 
-<br />
+Dan Notes: Summer was over, and I was in college. Sharie Linert was my girlfriend from about 7th grade through my junior year in college.  Sharie had attended Miami of Ohio her freshman year but decided to transfer to Clarion for the rest of her college time. The roommate discussed in the letter was Mark Rengers; we were thrown together by chance our freshman year and ended up rooming together all three years at Clarion. Mark and Sharie eventually got married.  When Cindy and I started dating, he almost tossed me to the curb because of the past Sharie drama in my life.  I'm so glad she didn't.
+
+The section where I "spill my guts" to Chip is hard for me to think about, even now. Dad and I grew much closer after I moved out and started being more of an independent, critical thinker. Within the letter, I go on to express my desire to pursue a career as a missionary.
 
 October 28, 1981
 
