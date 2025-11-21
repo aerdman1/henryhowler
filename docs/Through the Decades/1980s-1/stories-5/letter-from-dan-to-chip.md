@@ -39,6 +39,8 @@ Much love, Your youngest brother,
 
 Dan
 
+<Image align="center" border={false} caption="Punderson State Park Lifeguard for the summer of 80, 81, and 82" src="https://files.readme.io/1264e962c9111c37f94ee22718a4f0563d5d17c199b7bbaf5dbc478225386220-Life_Guard.jpg" />
+
 ***
 
 **Dan Notes: Summer was over, and I was in college. Sharie Linert was my girlfriend from about 7th grade through my junior year in college.  Sharie had attended Miami of Ohio her freshman year but decided to transfer to Clarion for the rest of her college time. The roommate discussed in the letter was Mark Rengers; we were thrown together by chance our freshman year and ended up rooming together all three years at Clarion. Mark and Sharie eventually got married.  When Cindy and I started dating, she almost tossed me to the curb because of the past Sharie drama in my life.  I'm so glad she didn't.**
@@ -74,8 +76,6 @@ We got the pictures back from the big family (cousins) reunion. There are some p
 
 <Image align="center" border={false} caption="This picture was taken the same day.  The picture in the letter describes the same people but have of the people are sitting of the shoulders of the other half." src="https://files.readme.io/9319aafb0549b792b4957d08b5d872426d21670a9899f75a048df8f7a08255ff-1979family22-Color-Restored.jpg" />
 
-
-
 Mom and Dad's anniversary was the other day; they are going to go for a hot air balloon ride. That should be fun for them. It sure was a pleasure having you home last month. Well, that's about all I have to say. Don't worry, this won't be the first and last letter you get from me.
 
 Hey Chip, it's about three weeks later now and I’m finally finishing this letter. School is going really well. I’ve taken two major tests: A on one and the other a B. It sure is nice to start out on the right foot.
@@ -99,6 +99,12 @@ P.S. I'm praying for you. (:)
 **Next I hitched onto campus and found the housing office.  It was a little after 5:00 pm and the housing office had closed at 5:00 pm.  I had no Idea what I was going to do until Monday morning when it would open again.  I started looking at the ads for apartments on the cork board outside the housing office.  Prices ranged from $700 - $1500 a month.  Then I saw a note that read, “Free room in exchange for light house keeping.  I found a phone, made the call and hitchhiked to my new roommate's place.**
 
 **He was Victor Hosebit.  He was in his 80s and suffered from acute emphysema.  I lived in a run down retirement home for people with no money.  He had a one bedroom apartment.  He could not lie in bed so he spent most of his time in a recliner in his small living room.  I cooked, cleaned, and toted his O2 bottle back and forth from the hospital.  We became good friends.  I was not legally allowed to live with him, so I always came and went through the back door of the building.  I also endeared myself to the other residents, visiting, fixing, and being a friend so that they wouldn’t rat me out.  None ever did.**
+
+<Image align="center" border={false} caption="Victor Hosebit and Dan" src="https://files.readme.io/2225303c79418bd28d495a2456b2f9a1e5ff8e007a07b3247a2b2c8c4ab56a76-Dan_and_Vic.jpg" />
+
+<Image align="center" border={false} caption="Tissu Yulen was one of my good friends - she showed me a gold nugget she had that she found on the beach in Nome.  It was as big as a chicken egg." src="https://files.readme.io/2cbbc45aa0817e13a3051ded08228ab8aee54a7356118d034a5f62392571758c-Tissu_Yulen.jpg" />
+
+<Image align="center" border={false} caption="Chillin with my Homies, Berta and Victor" src="https://files.readme.io/f290a8f59093c2d33f6abd6d8ca695c9f19c3c61d213003d35cde3a941a0ca1d-Berta.jpg" />
 
 **Next thing I did was go to the university and got a job at the cafeteria.  They let me eat before and after my shift as much as I wanted.  I also often took home sandwiches for the weekends.  My twenty dollars bought me a bus pass that was good for a month, and a case of apples that I had at the apartment.  The work meals and apples got me through those first ten days.**
 
