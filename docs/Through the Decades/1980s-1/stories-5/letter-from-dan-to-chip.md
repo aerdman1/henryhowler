@@ -100,7 +100,7 @@ P.S. I'm praying for you. (:)
 
 **He was Victor Hosebit.  He was in his 80s and suffered from acute emphysema.  I lived in a run down retirement home for people with no money.  He had a one bedroom apartment.  He could not lie in bed so he spent most of his time in a recliner in his small living room.  I cooked, cleaned, and toted his O2 bottle back and forth from the hospital.  We became good friends.  I was not legally allowed to live with him, so I always came and went through the back door of the building.  I also endeared myself to the other residents, visiting, fixing, and being a friend so that they wouldn’t rat me out.  None ever did.**
 
-<Image align="center" border={false} caption="Victor Hosebit and Dan" src="https://files.readme.io/2225303c79418bd28d495a2456b2f9a1e5ff8e007a07b3247a2b2c8c4ab56a76-Dan_and_Vic.jpg" />
+<Image align="center" border={false} caption="Victor Hosebit and Dan.  Victor grew great indoor tomatoes" src="https://files.readme.io/2225303c79418bd28d495a2456b2f9a1e5ff8e007a07b3247a2b2c8c4ab56a76-Dan_and_Vic.jpg" />
 
 <Image align="center" border={false} caption="Tissu Yulen was one of my good friends - she showed me a gold nugget she had that she found on the beach in Nome.  It was as big as a chicken egg." src="https://files.readme.io/2cbbc45aa0817e13a3051ded08228ab8aee54a7356118d034a5f62392571758c-Tissu_Yulen.jpg" />
 
@@ -141,6 +141,10 @@ Dan
 **The cook job was relatively easy regarding physical labor.  After my shift, I was able to go work on the slime line for an added 4 hours.  Working 16 hours a day, I was putting in 40 hours regular time and 40 hours over time every week. I get time for exploring on the weekends. I made enough money to pay for the next two semesters of school.**
 
 **When the fall semester started, I was able to get housing on campus.  Victor was now in the hospital where I would visit him on weekends.  I started dating the love of my life Cindy.  Sadly, Victor died before I could take Cindy to meet him.  He had no relatives, so I dealt with his funeral arrangements and took possession of his ashes.**
+
+<Image align="center" border={false} caption="She had me around her little finger" src="https://files.readme.io/5770030e05f39424f273b207d5549bfb4f0160c03dd100d310f9f2ef9f472810-DanCindy_on_bed.jpg" />
+
+<Image align="center" border={false} caption="Taking my girl out to eat at some place fancy" src="https://files.readme.io/ce851ea1911680d0ad067e5ad5434ed9368b51a8479a4d2b8a23377c39f275a4-img20251121_17232241.jpg" />
 
 June 23, 1983
 
