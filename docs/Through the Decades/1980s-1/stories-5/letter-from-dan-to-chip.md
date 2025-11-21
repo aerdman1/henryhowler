@@ -66,7 +66,7 @@ It's been nice to get back to school. I love it at home, but sometimes Dad can r
 
 We got the pictures back from the big family (cousins) reunion. There are some pretty nice ones. Mom is going to get some copies made, and I'm sure she will send you some of the copies. One that turned out really well is of all of us with everybody on shoulders. We are thinking of putting it in Christmas cards.
 
-<Image align="center" border={false} src="https://files.readme.io/9319aafb0549b792b4957d08b5d872426d21670a9899f75a048df8f7a08255ff-1979family22-Color-Restored.jpg" />
+<Image align="center" border={false} caption="This picture was taken the same day.  The picture in the letter describes the same people but have of the people are sitting of the shoulders of the other half." src="https://files.readme.io/9319aafb0549b792b4957d08b5d872426d21670a9899f75a048df8f7a08255ff-1979family22-Color-Restored.jpg" />
 
 
 
