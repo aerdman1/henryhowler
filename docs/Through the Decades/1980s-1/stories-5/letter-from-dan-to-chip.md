@@ -218,4 +218,4 @@ Dan & Cindy
 
 <Image align="center" border={false} caption="Married Student Housing - Steve Okonan and his boy Arro" src="https://files.readme.io/2e6e62f2fb4f95cff03511b12b83dd4b6575c777e250d461bbcce218467005f5-pillow_heads.jpg" />
 
-<br />
+<Image align="center" border={false} caption="We all shared baby sitting.  While at class, neighbors babysat, and you would do the same for them" src="https://files.readme.io/fa77a70c19fb3a6a99527f7cc5383db8b62703f1a3324112603b3366443969b8-party_boys.jpg" />
