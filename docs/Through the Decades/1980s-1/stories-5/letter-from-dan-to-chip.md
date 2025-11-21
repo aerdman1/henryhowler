@@ -51,7 +51,7 @@ Dan
 
 **The section where I "spill my guts" to Chip is hard for me to think about, even now. Dad and I grew much closer after I moved out and after I started being more of an independent, critical thinker.**
 
-**I the end of the letter, I express my desire to pursue a career as a missionary.**
+**At the end of the letter, I express my desire to pursue a career as a missionary.**
 
 October 28, 1981
 
