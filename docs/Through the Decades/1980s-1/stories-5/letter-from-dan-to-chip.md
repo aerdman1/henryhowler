@@ -13,6 +13,12 @@ metadata:
     cooking job and fishing adventures in Alaska during salmon season.
   robots: index
 ---
+June 23, 1983 
+
+To: Chip and Linda Henry, 2552 Kindleworth #3, Cleveland Hts. Ohio, 44106
+
+From: Kemp Pacific Fisheries, Dillingham AK 99576
+
 Chip + Linda (hose heads),
 
 It's 10 'til 9 in the morning on June 23. I'm in bed and will go to sleep after writing this letter. I like it here a lot. Guess what—I'm a cook again! I'm the second shift cook from 8:00 pm till 8:00 am. I put out one midnight meal and one breakfast. It's a pretty nice job. I'm already used to sleeping during the day, and it's light here 20 hours a day anyway, so no big deal. Plus I work 12 hours every day. Some people here aren't working hardly at all yet since the salmon haven't really started to run. We have had some, though.
@@ -30,6 +36,12 @@ Dan
 
 
 4/6/83
+
+From: D Henry, 1271 9th Ave. #202, Fairbanks, AK 99701
+
+to: Chump & Linda Henry, 2552 Kindleworth #3, Cleveland Hts., OH 44106
+
+
 Fellow Siblings,
 Greetings from the great white north! Actually, right now it is the great green north. It's very very beautiful. The campus is surrounded by low mountains and is on a mountain top itself. 
 
@@ -50,24 +62,11 @@ Dan
 
 <br />
 
-Dear Chip,
+June 23, 1981
 
+From: D Henry, 8266 West Hill Dr Chagrin Falls OH 44022
 
-How’s it going? I’m writing from the beach parking lot. I’m the parking lot guard again this year. It’s very quiet up here right now, and I don’t mind.
-
-Before I forget, Susie says hello. She is doing well. She is a waitress in a restaurant at SeaWorld. She likes it. I think she’s going to look for a new job next year. I’m really glad school is over. Not that I didn’t like it — it was great, I loved it. It is good to be moving away again. I’m really loving the guard job at Humboldt State Park. The best job I’ve ever had.
-We heard from Pat last night. He and Erick have traveled about 700 miles so far, and it’s only been one week. He says that they are doing great. Today they crossed the Cascade Mountains in Oregon. Polly is as rowdy as ever. She stormed out of the house today yelling that Mom likes the boys better than the girls. She hasn’t changed much since you left, except for one thing. I don’t know if Mom told you this or not. Mr. Husta on West Hill was murdered in his garage recently. His son is the one who killed him (one of the twins). You can get the details when you get home.
-Dixy is doing great. Doozy was killed by dogs (probably by Paco, but we aren’t saying that). My mouse finally died after 3 long years. Now you’re updated on all the news. If you knew most of that, sorry. How do my binoculars work? Well, I hope.
-I hope the Bible I gave you isn’t just collecting dust. I’m looking forward to seeing you this… whenever.
-I so apologize for not writing you more. It’s not that you’re not worth it — you are. I’m just lazy. I know that’s no excuse. Just think — everybody will be home at the same time by a miracle.
-Take care, Chip. I miss you.
-Much love,
-Your youngest brother,
-Dan
-
-<br />
-
-
+To: Chip Henry, Thaba Tseka Project, PO Box 1027, Maseru 100, Lesotho, South Africa
 
 Dear Chip, How’s it going? 
 
@@ -83,11 +82,20 @@ I don’t know if Mom told you this or not. Mr. Rovtar on West Hill was murdered
 
 Dixie is doing great. Doozy was killed by dogs (probably by Paco, but we aren’t saying that). My mouse finally died after 3 long years. Now you’re updated on all the news. If you knew most of that, sorry. 
 
-How do my binoculars work? Well, I hope. I hope the Bible I gave you isn’t just collecting dust. I’m looking forward to seeing you this… whenever. I so apologize for not writing you more. It’s not that you’re not worth it — you are. I’m just lazy. I know that’s no excuse. Just think — everybody will be home at the same time by some miracle. Take care, Chip. I miss you. Much love, Your youngest brother, Dan 
+How do my binoculars work? Well, I hope. I hope the Bible I gave you isn’t just collecting dust. I’m looking forward to seeing you this… whenever. I so apologize for not writing you more. It’s not that you’re not worth it — you are. I’m just lazy. I know that’s no excuse. Just think — everybody will be home at the same time by some miracle. Take care, Chip. I miss you. 
+
+Much love, Your youngest brother, 
+
+Dan 
 
 
 
-<br />
+October 28, 1081
+
+From: D Henry, 121 Ballentine Hall, Clarion State College, Clarion, PA 16214 USA
+
+To: Chip Henry, Thaba Tseka Project, PO Box 1027, Maseru 100, Lesotho, South Africa
+
 
 
 Hi Chip,
