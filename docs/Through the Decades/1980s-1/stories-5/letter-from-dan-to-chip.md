@@ -140,6 +140,12 @@ Dan
 
 **The cook job was relatively easy regarding physical labor.  After my shift, I was able to go work on the slime line for an added 4 hours.  Working 16 hours a day, I was putting in 40 hours regular time and 40 hours over time every week. I get time for exploring on the weekends. I made enough money to pay for the next two semesters of school.**
 
+<Image align="center" border={false} caption="Tender boats full of fish can in for processing.  Sometimes i worked outside identifying fish species and put separating them into tubs" src="https://files.readme.io/b9eebb2249c5906259af372c0cff7573d33ddcab7b1a958785fbd51bdfbd9813-Fish_in_hole.jpg" />
+
+<Image align="center" border={false} caption="Mess hall where I worked 12 hours a day. Don't know who the guy is." src="https://files.readme.io/cd1ec70540d716968b03bd10767136f1cb763ef3c5fbbbafb0871b1bae683d1f-mess_hall.jpg" />
+
+<Image align="center" border={false} caption="Slime line where I usually put in an extra four hours a day" src="https://files.readme.io/a8d04cdb3aa883c290cd287c7564f1ab1496b8a85ea8eb3d57b9fbbfddd1d314-slime_line.jpg" />
+
 **When the fall semester started, I was able to get housing on campus.  Victor was now in the hospital where I would visit him on weekends.  I started dating the love of my life Cindy.  Sadly, Victor died before I could take Cindy to meet him.  He had no relatives, so I dealt with his funeral arrangements and took possession of his ashes.**
 
 <Image align="center" border={false} caption="She had me around her little finger" src="https://files.readme.io/5770030e05f39424f273b207d5549bfb4f0160c03dd100d310f9f2ef9f472810-DanCindy_on_bed.jpg" />
