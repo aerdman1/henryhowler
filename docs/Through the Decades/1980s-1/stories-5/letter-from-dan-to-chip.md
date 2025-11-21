@@ -65,6 +65,11 @@ My roommate and I have a hamster in our room. He's a nice little fella. I have t
 It's been nice to get back to school. I love it at home, but sometimes Dad can really put the pressure on, and it feels good to be away from that. I love Dad and I know that he has the best of intentions for me. If it wasn't for Dad, I don't think I would be the person I am now, and I know he's been a great father, but sometimes he can make me feel like a failure, and all I am to him is a burden and a pain in the neck. I probably am for the most part. For the past couple of years I have felt as if I couldn't please Dad at all. I know Dad doesn't realize he makes me feel this way. I know he really does care. It's just frustrating to get criticism all the time and never a compliment. About 3 years ago when I was feeling really bad about this same type of thing, I decided to go and talk to Dad. I don't remember a lot of what we said to each other, but I do remember asking Dad why we weren't more like friends to each other. He said back that he didn't think that we had much in common. I felt so bad when he said that because I have always admired Dad so much, and it was as if he were saying that I wasn’t the kind of person he would want to be friends with. Ever since then I've felt as if I were the son that Dad was stuck with. That's a hard thing to live with. I'm afraid to ever talk to Dad about anything like this kind of stuff again in fear that he will confirm it all. I didn't mean to spill my guts like this, it just kind of came out. I hope you don't mind. It feels kind of good to have it all off my chest. I don’t know how I got started on all that. It's nice to have a brother that you can spill your guts to once in a while. Going to college is good for me. I’m on my own for the most part. (Even though Dad is still paying for a lot of my college.) Once I'm out of college and totally supporting myself, things will be a lot better, at least from this end.
 
 We got the pictures back from the big family (cousins) reunion. There are some pretty nice ones. Mom is going to get some copies made, and I'm sure she will send you some of the copies. One that turned out really well is of all of us with everybody on shoulders. We are thinking of putting it in Christmas cards.
+
+<Image align="center" border={false} src="https://files.readme.io/9319aafb0549b792b4957d08b5d872426d21670a9899f75a048df8f7a08255ff-1979family22-Color-Restored.jpg" />
+
+
+
 Mom and Dad's anniversary was the other day; they are going to go for a hot air balloon ride. That should be fun for them. It sure was a pleasure having you home last month. Well, that's about all I have to say. Don't worry, this won't be the first and last letter you get from me.
 
 Hey Chip, it's about three weeks later now and I’m finally finishing this letter. School is going really well. I’ve taken two major tests: A on one and the other a B. It sure is nice to start out on the right foot.
@@ -105,7 +110,7 @@ Dan
 
 <br />
 
-June 23, 1983 
+June 23, 1983
 
 To: Chip and Linda Henry, 2552 Kindleworth #3, Cleveland Hts. Ohio, 44106
 
@@ -113,9 +118,9 @@ From: Kemp Pacific Fisheries, Dillingham AK 99576
 
 Chip + Linda (hose heads),
 
-It's 10 'til 9 in the morning on June 23. I'm in bed and will go to sleep after writing this letter. I like it here a lot. Guess what—I'm a cook again! I'm the second shift cook from 8:00 pm till 8:00 am. I put out one midnight meal and one breakfast. It's a pretty nice job. I'm already used to sleeping during the day, and it's light here 20 hours a day anyway, so no big deal. Plus I work 12 hours every day. Some people here aren't working hardly at all yet since the salmon haven't really started to run. We have had some, though.
+It's 10 'til 9 in the morning on June 23. I'm in bed and will go to sleep after writing this letter. I like it here a lot. Guess what—I'm a cook again! I'm the second shift cook from 8:00 pm till 8:00 am. I put out one midnight meal and one breakfast. It's a pretty nice job. I'm already used to sleeping during the day, and it's light here 20 hours a day anyway, so no big deal. Plus I work 12 hours every day. Some people here aren't working hardly at all yet since the salmon haven't really started to run. We have had some, though.
 
-I wrote Mom, Dad, and Polly that I was going king salmon fishing since they were running. Well, that trip fell through. But I did get to hitchhike way out to some lakes about 25 miles outside town. Boy, talk about fishing! This lake had rainbow trout, grayling, arctic char, Dolly Varden, and all the salmon (though none of the salmon were running yet). I went for the Dolly Vardens. They're a sea-going trout that average between 1 and 3 pounds and are real fighters. You have a 2- to 5-minute struggle to pull one in, and they jump a lot. I caught 8 or 9 and kept 5 of the biggest to smoke. I learned how to dry and smoke fish. I'll bring some home.
+I wrote Mom, Dad, and Polly that I was going king salmon fishing since they were running. Well, that trip fell through. But I did get to hitchhike way out to some lakes about 25 miles outside town. Boy, talk about fishing! This lake had rainbow trout, grayling, arctic char, Dolly Varden, and all the salmon (though none of the salmon were running yet). I went for the Dolly Vardens. They're a sea-going trout that average between 1 and 3 pounds and are real fighters. You have a 2- to 5-minute struggle to pull one in, and they jump a lot. I caught 8 or 9 and kept 5 of the biggest to smoke. I learned how to dry and smoke fish. I'll bring some home.
 
 Last night on my lunch break, I removed some cheeks from some king salmon that we got. One of the processors kept them for me. They're in the smoker right now.
 
@@ -128,21 +133,19 @@ Dan
 
 <br />
 
-
-
 January 21, 1986
 
 From: D&C Henry, 2901 Turnagain #6, Anchorage, AK 99517
 
 To: Chip & Linda Henry, 8266 West Hill Dr., Chagrin Falls, OH 44022
 
-Hi, 
+Hi,
 
-This is just a note to say hi. Also we thought you might like this pictures. 
+This is just a note to say hi. Also we thought you might like this pictures.
 
-We started classes on the 20th of Jan. Between classes work & David, this will be a lousy semester. 
+We started classes on the20th of Jan. Between classes work & David, this will be a lousy semester.
 
-Work is slow but fine. Don't have much more to say. 
+Work is slow but fine. Don't have much more to say.
 
 We miss you already
 
