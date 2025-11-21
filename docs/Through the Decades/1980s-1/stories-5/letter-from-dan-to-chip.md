@@ -173,6 +173,8 @@ Dan
 
 **Eventually our love blossomed into an unexpected pregnancy.  Within 5 months of knowing that a baby was coming, we were married.  We left school and got a small apartment in Anchorage.  I took a job at the airport loading cargo planes and rode a bicycle to work. Chip and Linda came to Alaska when Adam was about 5 months old.  We showed them the town.  It made me very homesick when they left.  After David was born, Cindy was the best and most beautiful mother a child ever had.  We stayed in Anchorage for about a year and a half before going back to Fairbanks, living in married student housing, and both finishing our degrees.**
 
+<Image align="center" border={false} caption="May 17, 1985" src="https://files.readme.io/bc1be03132284f312d64650fe6c76ab8ab6d98472acd7f3317cbe50889102d75-wedding.jpg" />
+
 **I wish I had been able to do the bike trip with Pat, but even so, I have no regrets.**
 
 January 21, 1986
