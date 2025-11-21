@@ -128,10 +128,6 @@ Love,
 Dan
 (Of the Great White North)
 
-<br />
-
-<br />
-
 **Dan Notes: The winter semester was done.  I heard that recruiters from a cannery in Dillingham were coming onto campus to get summer workers.  Pay was about $7.50 / hour with 12 shifts and time and a half for overtime.  Working on the slime line was notoriously bad work, but a person could make good money fast.  I made a resume and went to apply for a job.  At the university, I was the weekend breakfast cook.  No experience with dinner type foods.  The interviews saw my cooking experience on the resume and asked if I could cook for a hundred people two major meals a day, dinner and breakfast.  With no real confidence I said, yes.  I got the job.**
 
 **The cook job was relatively easy regarding physical labor.  After my shift, I was able to go work on the slime line for an added 4 hours.  Working 16 hours a day, I was putting in 40 hours regular time and 40 hours over time every week. I get time for exploring on the weekends. I made enough money to pay for the next two semesters of school.**
