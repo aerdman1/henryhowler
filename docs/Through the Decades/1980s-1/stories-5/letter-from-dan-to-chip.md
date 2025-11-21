@@ -159,7 +159,11 @@ Dan
 
 ***
 
-<br />
+**Dan Notes:  Cindy and I met at a dance at the university.  We spent a lot of time together, but I was planning a great adventure with Pat to ride mountain bikes from Kenya to South Africa.  I wasn't sure if I would be coming back to Alaska.  I told Cindy that I liked her so much, and I didn’t want to break her heart or my own when it was time to leave.  So I suggested we slow down and take some space.  After three days apart, I saw her at the gym working out with a girlfriend.  I had been missing her so much, I asked her to take a walk later in the day.  Reluctantly she agreed.  After that, we were inseparable.**
+
+**Eventually our love blossomed into an unexpected pregnancy.  Within 5 months of knowing that a baby was coming, we were married.  We left school and got a small apartment in Anchorage.  I took a job at the airport loading cargo planes and rode a bicycle to work. Chip and Linda came to Alaska when Adam was about 5 months old.  We showed them the town.  It made me very homesick when they left.  After David was born, Cindy was the best and most beautiful mother a child ever had.  We stayed in Anchorage for about a year and a half before going back to Fairbanks, living in married student housing, and both finishing our degrees.**
+
+**I wish I had been able to do the bike trip with Pat, but even so, I have no regrets.**
 
 January 21, 1986
 
@@ -169,9 +173,10 @@ To: Chip & Linda Henry, 8266 West Hill Dr., Chagrin Falls, OH 44022
 
 Hi,
 
-This is just a note to say hi. Also we thought you might like this pictures.
+This is just a note to say hi. Also we thought you might like these pictures.
 
-We started classes on the20th of Jan. Between classes work & David, this will be a lousy semester.
+We started classes on the
+20th of Jan. Between classes work & David, this will be a lousy semester.
 
 Work is slow but fine. Don't have much more to say.
 
@@ -180,3 +185,7 @@ We miss you already
 Much Love
 Dan & Cindy
 (Speech bubble graphic text): It's not easy being perfect... but somebody has to do it!
+
+<Image align="center" border={false} caption="Chip and Adam with Cindy looking on     Late September 1985" src="https://files.readme.io/295954ed2dfa7a7f5df215077d8547831321384bf34f073a6f379483e6d49ad2-Chip_Adam_Cindy_Sept_1985.jpg" />
+
+<Image align="center" border={false} caption="Dan and Cindy expecting David at any time" src="https://files.readme.io/8f64f6764f94dfae77a5153538fc41babe0430101c2d3ec1cf368e52d20cf278-Dan_Cindy_Sept_1985-1.jpg" />
