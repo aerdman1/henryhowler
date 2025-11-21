@@ -11,7 +11,7 @@ metadata:
     cooking job and fishing adventures in Alaska during salmon season.
   robots: index
 ---
-**Dan Notes:  I was 19 and in between my freshman and sophomore year at Clarion College.  I worked at Punderson as a life guard.  I got to work every day on a 175 cc honda motorcycle.  Around this time, I bought Sharie’s step father’s (Bill Head) 360 Honda.  I was at the time an insufferable born again Christian, trying to change the world, one family member at a time._**
+**Dan Notes:  I was 19 and in between my freshman and sophomore year at Clarion College.  I worked at Punderson as a life guard.  I got to work every day on a 175 cc honda motorcycle.  Around this time, I bought Sharie’s step father’s (Bill Head) 360 Honda.  I was an insufferable born again Christian, trying to change the world, one family member at a time, much smarter than everyone around me.**
 
 June 23, 1981
 
@@ -39,9 +39,13 @@ Much love, Your youngest brother,
 
 Dan
 
-Dan Notes: Summer was over, and I was in college. Sharie Linert was my girlfriend from about 7th grade through my junior year in college.  Sharie had attended Miami of Ohio her freshman year but decided to transfer to Clarion for the rest of her college time. The roommate discussed in the letter was Mark Rengers; we were thrown together by chance our freshman year and ended up rooming together all three years at Clarion. Mark and Sharie eventually got married.  When Cindy and I started dating, he almost tossed me to the curb because of the past Sharie drama in my life.  I'm so glad she didn't.
+***
 
-The section where I "spill my guts" to Chip is hard for me to think about, even now. Dad and I grew much closer after I moved out and started being more of an independent, critical thinker. Within the letter, I go on to express my desire to pursue a career as a missionary.
+**Dan Notes: Summer was over, and I was in college. Sharie Linert was my girlfriend from about 7th grade through my junior year in college.  Sharie had attended Miami of Ohio her freshman year but decided to transfer to Clarion for the rest of her college time. The roommate discussed in the letter was Mark Rengers; we were thrown together by chance our freshman year and ended up rooming together all three years at Clarion. Mark and Sharie eventually got married.  When Cindy and I started dating, she almost tossed me to the curb because of the past Sharie drama in my life.  I'm so glad she didn't.**
+
+**The section where I "spill my guts" to Chip is hard for me to think about, even now. Dad and I grew much closer after I moved out and after I started being more of an independent, critical thinker.**
+
+**I the end of the letter, I express my desire to pursue a career as a missionary.**
 
 October 28, 1981
 
@@ -84,7 +88,21 @@ Much love,
 Dan
 P.S. I'm praying for you. (:)
 
+***
+
 <br />
+
+**Dan Notes: During my Junior year of college, I had an extensive crisis of faith that I was unable to shake.  To many unanswered questions.  Eventually, I stopped participating in all the Christian activities that were once so important to me.  Sharie remained faithful to her beliefs.  We tried to figure out how “we” could possibly work, and eventually, after being miserable for a long time, decided to quit.  Sharie and I broke up for good after the first semester of my junior year at Clarion.**
+
+**Feeling like I wanted to get away, with mom’s help talking me through what to do, I decided to move to Fairbanks Alaska to finish college.  It was Christmas break and the new semester in AK started in weeks.  I was accepted as a student, but was not able to secure housing.  The folks at the housing office said, “There are always people who sign up but then don’t come.  I’m sure we will be able to get you in.”  Not this time.  I arrived in Fairbanks on a Friday at about 1:00 pm with a backpack, a twenty dollar bill and a check for $2000 from Dad.  The first thing I did was to hitch into town and find a bank.  I went in and opened an account.  Unfortunately, it would take ten business days for the check to clear.  I was going to have to make that 20 dollars stretch.**
+
+**Next I hitched onto campus and found the housing office.  It was a little after 5:00 pm and the housing office had closed at 5:00 pm.  I had no Idea what I was going to do until Monday morning when it would open again.  I started looking at the ads for apartments on the cork board outside the housing office.  Prices ranged from $700 - $1500 a month.  Then I saw a note that read, “Free room in exchange for light house keeping.  I found a phone, made the call and hitchhiked to my new roommate's place.**
+
+**He was Victor Hosebit.  He was in his 80s and suffered from acute emphysema.  I lived in a run down retirement home for people with no money.  He had a one bedroom apartment.  He could not lie in bed so he spent most of his time in a recliner in his small living room.  I cooked, cleaned, and toted his O2 bottle back and forth from the hospital.  We became good friends.  I was not legally allowed to live with him, so I always came and went through the back door of the building.  I also endeared myself to the other residents, visiting, fixing, and being a friend so that they wouldn’t rat me out.  None ever did.**
+
+**Next thing I did was go to the university and got a job at the cafeteria.  They let me eat before and after my shift as much as I wanted.  I also often took home sandwiches for the weekends.  My twenty dollars bought me a bus pass that was good for a month, and a case of apples that I had at the apartment.  The work meals and apples got me through those first ten days.**
+
+**I used half of the money dad gave me to pay for tuition.  After working and going to school for about 3 weeks, I quit school, got a little tuition back and went full time at the cafeteria, a job I really enjoyed. I went from cleaning, a very dirty job, to being a cooks helper and then on to being a cook. I would call home every Sunday to give my report to mom and dad.  At some point, when I made enough money, I sent a check back to dad for $2000.  That Sunday when I called, dad questioned me about the check.  I told them that I didn’t want to spring the news about quitting school until they had been repaid.  I was so sure they were going to be very disappointed in me.  To my surprise, mom said, “you’ll go back when you're ready”.  And she was right, but I never again needed their financial support which felt good, and I hoped to make dad proud of me.**
 
 April 6, 1983
 
@@ -97,13 +115,13 @@ Greetings from the great white north! Actually, right now it is the great green 
 
 People here are very friendly. There seems to be very little black-white prejudice. In fact, there isn't a visible separation between the blacks and whites. There are a lot of mixed couples around. Unfortunately, it's not the same with the natives. There is definitely a separation there.
 
-I've made a lot of friends at the cafe where I work. Yesterday I was promoted to an inspector. I work from 7 pm to 10 pm and make sure the said kitchen is in order for the next day. I'm paid a full time person's wage even though I only part time so it was kind of an honor to get asked.
+I've made a lot of friends at the cafe where I work. Yesterday I was promoted to an inspector. I work from 7 pm to 10 pm and make sure the said kitchen is in order for the next day. I'm paid a full time person's wage even though I only work part time so it was kind of an honor to get asked.
 
 My class schedule is pretty tough. I have Invertebrate Zoology, Organic Chemistry, Comparative Physiology, and Microbial Ecology.
 
-The Equinox marathon is coming up on the 17th of this month. I'm trying to get ready for it. It's known for being kind of difficult, but I'm going to give it a try. Part of the course is on narrow ski trails so it will be literally running through the wilds of Alaska. In the past, runners have been confronted with moose on the trail.
+The Equinox marathon is coming up on the 17th of this month. I'm trying to get ready for it. It's known for being kind of difficult, but I'm going to give it a try. Part of the course is on narrow ski trails so it will be literally running through the wilds of Alaska. In the past, runners have been confronted with moose on the trail.  (Dan Note: I got up extra early on the 17th, went down to the bus stop and waited.  Turns out the buses run on Sundays.  I missed the race)
 
-The campus is beautiful. It is surrounded by low mountains and is itself on the highest spot in town. The Northern lights are very good here I've heard. Haven't seen any yet though. The weather is mild, high 40s and 50°. I haven't used my warm stuff yet.
+The campus is beautiful. It is surrounded by low mountains and is itself on the highest spot in town. The Northern lights are very good here, I've heard. Haven't seen any yet though. The weather is mild, high 40s and 50°. I haven't used my warm stuff yet.
 
 My roommate Victor and I are getting along real well. He gets mad when I leave cabinet doors open and other small inconsideration's, but all in all I think he's really glad I'm around. Well, I'll keep you informed of any new developments.
 Love,
@@ -111,6 +129,14 @@ Dan
 (Of the Great White North)
 
 <br />
+
+<br />
+
+**Dan Notes: The winter semester was done.  I heard that recruiters from a cannery in Dillingham were coming onto campus to get summer workers.  Pay was about $7.50 / hour with 12 shifts and time and a half for overtime.  Working on the slime line was notoriously bad work, but a person could make good money fast.  I made a resume and went to apply for a job.  At the university, I was the weekend breakfast cook.  No experience with dinner type foods.  The interviews saw my cooking experience on the resume and asked if I could cook for a hundred people two major meals a day, dinner and breakfast.  With no real confidence I said, yes.  I got the job.**
+
+**The cook job was relatively easy regarding physical labor.  After my shift, I was able to go work on the slime line for an added 4 hours.  Working 16 hours a day, I was putting in 40 hours regular time and 40 hours over time every week. I get time for exploring on the weekends. I made enough money to pay for the next two semesters of school.**
+
+**When the fall semester started, I was able to get housing on campus.  Victor was now in the hospital where I would visit him on weekends.  I started dating the love of my life Cindy.  Sadly, Victor died before I could take Cindy to meet him.  He had no relatives, so I dealt with his funeral arrangements and took possession of his ashes.**
 
 June 23, 1983
 
@@ -120,16 +146,16 @@ From: Kemp Pacific Fisheries, Dillingham AK 99576
 
 Chip + Linda (hose heads),
 
-It's 10 'til 9 in the morning on June 23. I'm in bed and will go to sleep after writing this letter. I like it here a lot. Guess what—I'm a cook again! I'm the second shift cook from 8:00 pm till 8:00 am. I put out one midnight meal and one breakfast. It's a pretty nice job. I'm already used to sleeping during the day, and it's light here 20 hours a day anyway, so no big deal. Plus I work 12 hours every day. Some people here aren't working hardly at all yet since the salmon haven't really started to run. We have had some, though.
+It's 10 'til 9 in the morning on June 23. I'm in bed and will go to sleep after writing this letter. I like it here a lot. Guess what—I'm a cook again! I'm the second shift cook from 8:00 pm till 8:00 am. I put out one midnight meal and one breakfast. It's a pretty nice job. I'm already used to sleeping during the day, and it's light here 20 hours a day anyway, so no big deal. Plus I work 12 hours every day. Some people here aren't working hard at all yet since the salmon haven't really started to run. We have had some, though.
 
-I wrote Mom, Dad, and Polly that I was going king salmon fishing since they were running. Well, that trip fell through. But I did get to hitchhike way out to some lakes about 25 miles outside town. Boy, talk about fishing! This lake had rainbow trout, grayling, arctic char, Dolly Varden, and all the salmon (though none of the salmon were running yet). I went for the Dolly Vardens. They're a sea-going trout that average between 1 and 3 pounds and are real fighters. You have a 2- to 5-minute struggle to pull one in, and they jump a lot. I caught 8 or 9 and kept 5 of the biggest to smoke. I learned how to dry and smoke fish. I'll bring some home.
+I wrote Mom, Dad, and Polly that I was going king salmon fishing since they were running. Well, that trip fell through. But I did get to hitchhike out to some lakes about 25 miles outside town. Boy, talk about fishing! This lake had rainbow trout, grayling, arctic char, Dolly Varden, and all the salmon (though none of the salmon were running yet). I went for the Dolly Vardens. They're sea-going trout that average between 1 and 3 pounds and are real fighters. You have a 2- to 5-minute struggle to pull one in, and they jump a lot. I caught 8 or 9 and kept 5 of the biggest to smoke. I learned how to dry and smoke fish. I'll bring some home.
 
 Last night on my lunch break, I removed some cheeks from some king salmon that we got. One of the processors kept them for me. They're in the smoker right now.
 
-I sent home a copy of my airline reservations, and I think they get me home around the 17th or so of July. I think I'm going to have to call the airline and change that to more like the 25th of July. The fishing season is a little delayed this year. The water stayed colder longer, which made the fish start running later. Pat will still be home, right? I hope so.
+I sent home a copy of my airline reservations, and I think they will get me home around the 17th or so of July. I think I'm going to have to call the airline and change that to more like the 25th of July. The fishing season is a little delayed this year. The water stayed colder longer, which made the fish start running later. Pat will still be home, right? I hope so.
 How's the lawyer business, Chip? Taken any bribes from any crooked rapists yet? Hey Linda, pregnant yet? Let's get with it. Dodie and Grace have fulfilled their womanly functions. Speaking of pregnancies and babies, did you guys know that Brian gave me herpes? Who would have thought that I'd catch a social disease from my year-and-a-half-old nephew? I was really sick for about five days, and I was house-sitting all alone, so there was no one around to complain to. What good is being sick if you can't make those you love miserable too?
 
-Well, I'm real sleepy, so I'll say good night. See you in 3 or 4 weeks. Good day!
+Well, I'm really sleepy, so I'll say good night. See you in 3 or 4 weeks. Good day!
 Love,
 Dan
 
