@@ -13,7 +13,7 @@ metadata:
 ---
 ## Summer in Ohio Letter
 
-**Dan Notes:  I was 19 and in between my freshman and sophomore year at Clarion College.  I worked at Punderson as a life guard.  I got to work every day on a 175 cc honda motorcycle.  Around this time, I bought Sharie’s step father’s (Bill Head) 360 Honda.  I was an insufferable born again Christian, trying to change the world, one family member at a time, much smarter than everyone around me.**
+**Dan Notes:  I was 19 and in between my freshman and sophomore year at Clarion College.  I worked at Punderson as a life guard.  I got to work every day on a 175 cc Honda motorcycle.  Around this time, I bought Sharie’s step father’s (Bill Head) 360 Honda.  I was an insufferable born again Christian, trying to change the world, one family member at a time, much smarter than everyone around me.**
 
 June 23, 1981
 
@@ -201,7 +201,7 @@ Hi,
 
 This is just a note to say hi. Also we thought you might like these pictures.
 
-We started classes on the 20th of Jan. Between classes work & David, this will be a lousy semester.
+We started classes on the20th of Jan. Between classes work & David, this will be a lousy semester.
 
 Work is slow but fine. Don't have much more to say.
 
