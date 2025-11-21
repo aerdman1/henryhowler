@@ -11,6 +11,8 @@ metadata:
     cooking job and fishing adventures in Alaska during salmon season.
   robots: index
 ---
+## Summer in Ohio Letter
+
 **Dan Notes:  I was 19 and in between my freshman and sophomore year at Clarion College.  I worked at Punderson as a life guard.  I got to work every day on a 175 cc honda motorcycle.  Around this time, I bought Sharie’s step father’s (Bill Head) 360 Honda.  I was an insufferable born again Christian, trying to change the world, one family member at a time, much smarter than everyone around me.**
 
 June 23, 1981
@@ -42,6 +44,8 @@ Dan
 <Image align="center" border={false} caption="Punderson State Park Lifeguard for the summer of 80, 81, and 82" src="https://files.readme.io/1264e962c9111c37f94ee22718a4f0563d5d17c199b7bbaf5dbc478225386220-Life_Guard.jpg" />
 
 ***
+
+## Breaking Up and Spilling Guts
 
 **Dan Notes: Summer was over, and I was in college. Sharie Linert was my girlfriend from about 7th grade through my junior year in college.  Sharie had attended Miami of Ohio her freshman year but decided to transfer to Clarion for the rest of her college time. The roommate discussed in the letter was Mark Rengers; we were thrown together by chance our freshman year and ended up rooming together all three years at Clarion. Mark and Sharie eventually got married.  When Cindy and I started dating, she almost tossed me to the curb because of the past Sharie drama in my life.  I'm so glad she didn't.**
 
@@ -90,7 +94,7 @@ P.S. I'm praying for you. (:)
 
 ***
 
-<br />
+## 3 Heading to Alaska
 
 **Dan Notes: During my Junior year of college, I had an extensive crisis of faith that I was unable to shake.  To many unanswered questions.  Eventually, I stopped participating in all the Christian activities that were once so important to me.  Sharie remained faithful to her beliefs.  We tried to figure out how “we” could possibly work, and eventually, after being miserable for a long time, decided to quit.  Sharie and I broke up for good after the first semester of my junior year at Clarion.**
 
@@ -136,6 +140,8 @@ Dan
 
 ***
 
+## 4 Working in the Canary and Finding Love
+
 **Dan Notes: The winter semester was done.  I heard that recruiters from a cannery in Dillingham were coming onto campus to get summer workers.  Pay was about $7.50 / hour with 12 shifts and time and a half for overtime.  Working on the slime line was notoriously bad work, but a person could make good money fast.  I made a resume and went to apply for a job.  At the university, I was the weekend breakfast cook.  No experience with dinner type foods.  The interviews saw my cooking experience on the resume and asked if I could cook for a hundred people two major meals a day, dinner and breakfast.  With no real confidence I said, yes.  I got the job.**
 
 **The cook job was relatively easy regarding physical labor.  After my shift, I was able to go work on the slime line for an added 4 hours.  Working 16 hours a day, I was putting in 40 hours regular time and 40 hours over time every week. I get time for exploring on the weekends. I made enough money to pay for the next two semesters of school.**
@@ -175,9 +181,11 @@ Dan
 
 ***
 
+## 5 The Beginning of Something Great
+
 **Dan Notes:  Cindy and I met at a dance at the university.  We spent a lot of time together, but I was planning a great adventure with Pat to ride mountain bikes from Kenya to South Africa.  I wasn't sure if I would be coming back to Alaska.  I told Cindy that I liked her so much, and I didn’t want to break her heart or my own when it was time to leave.  So I suggested we slow down and take some space.  After three days apart, I saw her at the gym working out with a girlfriend.  I had been missing her so much, I asked her to take a walk later in the day.  Reluctantly she agreed.  After that, we were inseparable.**
 
-**Eventually our love blossomed into an unexpected pregnancy.  Within 5 months of knowing that a baby was coming, we were married.  We left school and got a small apartment in Anchorage.  I took a job at the airport loading cargo planes and rode a bicycle to work. Chip and Linda came to Alaska when Adam was about 5 months old.  We showed them the town.  It made me very homesick when they left.  After David was born, Cindy was the best and most beautiful mother a child ever had.  We stayed in Anchorage for about a year and a half before going back to Fairbanks, living in married student housing, and both finishing our degrees.**
+**Eventually our love blossomed into an unexpected pregnancy.  Within 5 months of knowing that a baby was coming, we were married.  We left school and got a small apartment in Anchorage.  I took a job at the airport loading cargo planes and rode a bicycle to work. I took a few classes in Anchorage toward my degree.  Chip and Linda came to Alaska when Adam was about 5 months old.  We showed them the town.  It made me very homesick when they left.  After David was born, Cindy was the best and most beautiful mother a child ever had.  We stayed in Anchorage for about a year and a half before going back to Fairbanks, living in married student housing, and both finishing our degrees.**
 
 <Image align="center" border={false} caption="May 17, 1985" src="https://files.readme.io/bc1be03132284f312d64650fe6c76ab8ab6d98472acd7f3317cbe50889102d75-wedding.jpg" />
 
@@ -207,3 +215,7 @@ Dan & Cindy
 <Image align="center" border={false} caption="Chip and Adam with Cindy looking on     Late September 1985" src="https://files.readme.io/295954ed2dfa7a7f5df215077d8547831321384bf34f073a6f379483e6d49ad2-Chip_Adam_Cindy_Sept_1985.jpg" />
 
 <Image align="center" border={false} caption="Dan and Cindy expecting David at any time" src="https://files.readme.io/8f64f6764f94dfae77a5153538fc41babe0430101c2d3ec1cf368e52d20cf278-Dan_Cindy_Sept_1985-1.jpg" />
+
+<Image align="center" border={false} caption="Married Student Housing - Steve Okonan and his boy Arro" src="https://files.readme.io/2e6e62f2fb4f95cff03511b12b83dd4b6575c777e250d461bbcce218467005f5-pillow_heads.jpg" />
+
+<br />
