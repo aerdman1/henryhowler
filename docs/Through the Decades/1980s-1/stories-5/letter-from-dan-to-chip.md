@@ -125,7 +125,7 @@ Greetings from the great white north! Actually, right now it is the great green 
 
 People here are very friendly. There seems to be very little black-white prejudice. In fact, there isn't a visible separation between the blacks and whites. There are a lot of mixed couples around. Unfortunately, it's not the same with the natives. There is definitely a separation there.
 
-I've made a lot of friends at the cafe where I work. Yesterday I was promoted to an inspector. I work from 7 pm to 10 pm and make sure the said kitchen is in order for the next day. I'm paid a full time person's wage even though I only work part time so it was kind of an honor to get asked.
+I've made a lot of friends at the cafe where I work. Yesterday I was promoted to an inspector. I work from 7 pm to 10 pm and make sure the nasty kitchen is in order for the next day. I'm paid a full time person's wage even though I only work part time so it was kind of an honor to get asked.
 
 My class schedule is pretty tough. I have Invertebrate Zoology, Organic Chemistry, Comparative Physiology, and Microbial Ecology.
 
