@@ -114,6 +114,8 @@ P.S. I'm praying for you. (:)
 
 **I used half of the money dad gave me to pay for tuition.  After working and going to school for about 3 weeks, I quit school, got a little tuition back and went full time at the cafeteria, a job I really enjoyed. I went from cleaning, (a very dirty job), to being a cooks helper and then on to being a cook. I would call home every Sunday to give my report to mom and dad.  At some point, when I made enough money, I sent a check back to dad for $2000.  That Sunday when I called, dad questioned me about the check.  I told them that I didn’t want to spring the news about quitting school until they had been repaid.  I was so sure they were going to be very disappointed in me.  To my surprise, mom said, “you’ll go back when you're ready”.  And she was right, but I never again needed their financial support which felt good, and I hoped to make dad proud of me.**
 
+**I got up early on the day of the marathon.  It was a Sunday.  I didn't realize that busses don't run on Sundays until 12:00 pm.  I missed the race.  Part of me was relieved.  I hadn't trained very well.**
+
 April 6, 1983
 
 From: D Henry, 1271 9th Ave. #202, Fairbanks, AK 99701
