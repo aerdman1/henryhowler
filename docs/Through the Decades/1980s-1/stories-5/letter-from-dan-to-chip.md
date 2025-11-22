@@ -11,7 +11,7 @@ metadata:
     cooking job and fishing adventures in Alaska during salmon season.
   robots: index
 ---
-## Summer in Ohio Letter
+## 1 Summer in Ohio Letter
 
 **Dan Notes:  I was 19 and in between my freshman and sophomore year at Clarion College.  I worked at Punderson as a life guard.  I got to work every day on a 175 cc Honda motorcycle.  Around this time, I bought Sharie’s step father’s (Bill Head) 360 Honda.  I was an insufferable born again Christian, trying to change the world, one family member at a time, much smarter than everyone around me.**
 
@@ -45,7 +45,7 @@ Dan
 
 ***
 
-## Breaking Up and Spilling Guts
+## 2 Breaking Up and Spilling Guts
 
 **Dan Notes: Summer was over, and I was in college. Sharie Linert was my girlfriend from about 7th grade through my junior year in college.  Sharie had attended Miami of Ohio her freshman year but decided to transfer to Clarion for the rest of her college time. The roommate discussed in the letter was Mark Rengers; we were thrown together by chance our freshman year and ended up rooming together all three years at Clarion. Mark and Sharie eventually got married.  When Cindy and I started dating, she almost tossed me to the curb because of the past Sharie drama in my life.  I'm so glad she didn't.**
 
