@@ -78,7 +78,7 @@ It's been nice to get back to school. I love it at home, but sometimes Dad can r
 
 We got the pictures back from the big family (cousins) reunion. There are some pretty nice ones. Mom is going to get some copies made, and I'm sure she will send you some of the copies. One that turned out really well is of all of us with everybody on shoulders. We are thinking of putting it in Christmas cards.
 
-<Image align="center" border={false} caption="This picture was taken the same day.  The picture in the letter describes the same people but have of the people are sitting of the shoulders of the other half." src="https://files.readme.io/9319aafb0549b792b4957d08b5d872426d21670a9899f75a048df8f7a08255ff-1979family22-Color-Restored.jpg" />
+<Image align="center" border={false} caption="Not the shot sitting on shoulders, but taken at the same time.  We were playing tackle football before the picture was taken." src="https://files.readme.io/9319aafb0549b792b4957d08b5d872426d21670a9899f75a048df8f7a08255ff-1979family22-Color-Restored.jpg" />
 
 Mom and Dad's anniversary was the other day; they are going to go for a hot air balloon ride. That should be fun for them. It sure was a pleasure having you home last month. Well, that's about all I have to say. Don't worry, this won't be the first and last letter you get from me.
 
@@ -108,7 +108,7 @@ P.S. I'm praying for you. (:)
 
 <Image align="center" border={false} caption="Tissu Yulen was one of my good friends - she showed me a gold nugget she had that she found on the beach in Nome.  It was as big as a chicken egg." src="https://files.readme.io/2cbbc45aa0817e13a3051ded08228ab8aee54a7356118d034a5f62392571758c-Tissu_Yulen.jpg" />
 
-<Image align="center" border={false} caption="Chillin with my Homies, Berta and Victor" src="https://files.readme.io/f290a8f59093c2d33f6abd6d8ca695c9f19c3c61d213003d35cde3a941a0ca1d-Berta.jpg" />
+<Image align="center" border={false} caption="Chillin with my Homies, Berta and Victor in Victor's apartment" src="https://files.readme.io/f290a8f59093c2d33f6abd6d8ca695c9f19c3c61d213003d35cde3a941a0ca1d-Berta.jpg" />
 
 **Next thing I did was go to the university and got a job at the cafeteria.  They let me eat before and after my shift as much as I wanted.  I also often took home sandwiches for the weekends.  My twenty dollars bought me a bus pass that was good for a month, and a case of apples that I had at the apartment.  The work meals and apples got me through those first ten days.**
 
