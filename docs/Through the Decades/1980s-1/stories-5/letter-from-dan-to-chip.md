@@ -13,7 +13,7 @@ metadata:
 ---
 ## 1 Summer in Ohio
 
-****I was 19 and in between my freshman and sophomore year at Clarion College.  I worked at Punderson as a life guard.  I got to work every day on a 175 cc Honda motorcycle.  Around this time, I bought Sharie’s step father’s (Bill Head) 360 Honda.  I was an insufferable born again Christian, trying to change the world, one family member at a time, much smarter than everyone around me.**  
+****I was 19 and in between my freshman and sophomore year at Clarion College.  I worked at Punderson as a life guard.  I got to work every day on a 175 cc Honda motorcycle.  Around this time, I bought Sharie’s step father’s (Bill Head) 360 Honda.  I was an insufferable born again Christian, trying to change the world, one family member at a time, much smarter than everyone around me.**
 
 **At the time of this letter, Patrick and his friend Erick were riding 10 speed bike from California to Chagrin Falls.****
 
@@ -98,7 +98,7 @@ P.S. I'm praying for you. (:)
 
 ## 3 Heading to Alaska
 
-***During my Junior year of college, I had an extensive crisis of faith that I was unable to shake.  Too many unanswered questions.  Eventually, I stopped participating in all the Christian activities that were once so important to me.  Sharie remained faithful to her beliefs.  We tried to figure out how “we” could possibly work, and eventually, after being miserable for a long time, decided to quit.  Sharie and I broke up for good after the first semester of my junior year at Clarion.****
+_**During my Junior year of college, I had an extensive crisis of faith that I was unable to shake.  Too many unanswered questions.  Eventually, I stopped participating in all the Christian activities that were once so important to me.  Sharie remained faithful to her beliefs.  We tried to figure out how “we” could possibly work, and eventually, after being miserable for a long time, decided to quit.  Sharie and I broke up for good after the first semester of my junior year at Clarion.**_*
 
 **Feeling like I wanted to get away, with mom’s help talking me through what to do, I decided to move to Fairbanks Alaska to finish college.  It was Christmas break and the new semester in AK started in weeks.  I was accepted as a student, but was not able to secure housing.  The folks at the housing office said, “There are always people who sign up but then don’t come.  I’m sure we will be able to get you in.”  Not this time.  I arrived in Fairbanks on a Friday at about 1:00 pm with a backpack, a twenty dollar bill and a check for $2000 from Dad.  The first thing I did was to hitch into town and find a bank.  I went in and opened an account.  Unfortunately, it would take ten business days for the check to clear.  I was going to have to make that 20 dollars stretch.**
 
@@ -133,7 +133,7 @@ I've made a lot of friends at the cafe where I work. Yesterday I was promoted to
 
 My class schedule is pretty tough. I have Invertebrate Zoology, Organic Chemistry, Comparative Physiology, and Microbial Ecology.
 
-The Equinox marathon is coming up on the 17th of this month. I'm trying to get ready for it. It's known for being kind of difficult, but I'm going to give it a try. Part of the course is on narrow ski trails so it will be literally running through the wilds of Alaska. In the past, runners have been confronted with moose on the trail.  
+The Equinox marathon is coming up on the 17th of this month. I'm trying to get ready for it. It's known for being kind of difficult, but I'm going to give it a try. Part of the course is on narrow ski trails so it will be literally running through the wilds of Alaska. In the past, runners have been confronted with moose on the trail.
 
 The campus is beautiful. It is surrounded by low mountains and is itself on the highest spot in town. The Northern lights are very good here, I've heard. Haven't seen any yet though. The weather is mild, high 40s and 50°. I haven't used my warm stuff yet.
 
@@ -219,9 +219,9 @@ Dan & Cindy
 
 <Image align="center" border={false} caption="Chip and Adam with Cindy looking on                            Late September 1985" src="https://files.readme.io/295954ed2dfa7a7f5df215077d8547831321384bf34f073a6f379483e6d49ad2-Chip_Adam_Cindy_Sept_1985.jpg" />
 
-<Image align="center" border={false} src="https://files.readme.io/8f64f6764f94dfae77a5153538fc41babe0430101c2d3ec1cf368e52d20cf278-Dan_Cindy_Sept_1985-1.jpg" />
+<Image align="center" border={false} caption="Dan and Cindy expecting David at any time" src="https://files.readme.io/8f64f6764f94dfae77a5153538fc41babe0430101c2d3ec1cf368e52d20cf278-Dan_Cindy_Sept_1985-1.jpg" />
 
-Dan and Cindy expecting David at any time
+<br />
 
 <Image align="center" border={false} caption="It was a real let down when Chip, Linda and Adam left Anchorage" src="https://files.readme.io/f54060ecbaf7682308bf986402cc77db3264de6acdc1e45828e95edce792895f-Chip_Cindy_Linda.jpg" />
 
