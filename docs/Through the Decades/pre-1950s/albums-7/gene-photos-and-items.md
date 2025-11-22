@@ -1,5 +1,6 @@
 ---
-title: 'Album & Articles: Misc. 1940s - 1960s '
+title: 'Album & Articles: Gene Henry '
+excerpt: Some photos and newspaper articles
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
