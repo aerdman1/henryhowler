@@ -11,7 +11,7 @@ metadata:
     cooking job and fishing adventures in Alaska during salmon season.
   robots: index
 ---
-## 1 Summer in Ohio Letter
+## 1 Summer in Ohio
 
 **Dan Notes:  I was 19 and in between my freshman and sophomore year at Clarion College.  I worked at Punderson as a life guard.  I got to work every day on a 175 cc Honda motorcycle.  Around this time, I bought Sharie’s step father’s (Bill Head) 360 Honda.  I was an insufferable born again Christian, trying to change the world, one family member at a time, much smarter than everyone around me.**
 
