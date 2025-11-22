@@ -13,7 +13,7 @@ metadata:
 ---
 ## 1 Summer in Ohio
 
-****Dan Notes:  I was 19 and in between my freshman and sophomore year at Clarion College.  I worked at Punderson as a life guard.  I got to work every day on a 175 cc Honda motorcycle.  Around this time, I bought Sharie’s step father’s (Bill Head) 360 Honda.  I was an insufferable born again Christian, trying to change the world, one family member at a time, much smarter than everyone around me.**  
+****I was 19 and in between my freshman and sophomore year at Clarion College.  I worked at Punderson as a life guard.  I got to work every day on a 175 cc Honda motorcycle.  Around this time, I bought Sharie’s step father’s (Bill Head) 360 Honda.  I was an insufferable born again Christian, trying to change the world, one family member at a time, much smarter than everyone around me.**  
 
 **At the time of this letter, Patrick and his friend Erick were riding 10 speed bike from California to Chagrin Falls.****
 
@@ -49,7 +49,7 @@ Dan
 
 ## 2 Breaking Up and Spilling Guts
 
-**Dan Notes: Summer was over, and I was in college. Sharie Linert was my girlfriend from about 7th grade through my junior year in college.  Sharie had attended Miami of Ohio her freshman year but decided to transfer to Clarion for the rest of her college time. The roommate discussed in the letter was Mark Rengers; we were thrown together by chance our freshman year and ended up rooming together all three years at Clarion. Mark and Sharie eventually got married.  When Cindy and I started dating, she almost tossed me to the curb because of the past Sharie drama in my life.  I'm so glad she didn't.**
+**Summer was over, and I was in college. Sharie Linert was my girlfriend from about 7th grade through my junior year in college.  Sharie had attended Miami of Ohio her freshman year but decided to transfer to Clarion for the rest of her college time. The roommate discussed in the letter was Mark Rengers; we were thrown together by chance our freshman year and ended up rooming together all three years at Clarion. Mark and Sharie eventually got married.  When Cindy and I started dating, she almost tossed me to the curb because of the past Sharie drama in my life.  I'm so glad she didn't.**
 
 **The section where I "spill my guts" to Chip is hard for me to think about, even now. Dad and I grew much closer after I moved out and after I started being more of an independent, critical thinker.**
 
@@ -98,7 +98,7 @@ P.S. I'm praying for you. (:)
 
 ## 3 Heading to Alaska
 
-**Dan Notes: During my Junior year of college, I had an extensive crisis of faith that I was unable to shake.  Too many unanswered questions.  Eventually, I stopped participating in all the Christian activities that were once so important to me.  Sharie remained faithful to her beliefs.  We tried to figure out how “we” could possibly work, and eventually, after being miserable for a long time, decided to quit.  Sharie and I broke up for good after the first semester of my junior year at Clarion.**
+***During my Junior year of college, I had an extensive crisis of faith that I was unable to shake.  Too many unanswered questions.  Eventually, I stopped participating in all the Christian activities that were once so important to me.  Sharie remained faithful to her beliefs.  We tried to figure out how “we” could possibly work, and eventually, after being miserable for a long time, decided to quit.  Sharie and I broke up for good after the first semester of my junior year at Clarion.****
 
 **Feeling like I wanted to get away, with mom’s help talking me through what to do, I decided to move to Fairbanks Alaska to finish college.  It was Christmas break and the new semester in AK started in weeks.  I was accepted as a student, but was not able to secure housing.  The folks at the housing office said, “There are always people who sign up but then don’t come.  I’m sure we will be able to get you in.”  Not this time.  I arrived in Fairbanks on a Friday at about 1:00 pm with a backpack, a twenty dollar bill and a check for $2000 from Dad.  The first thing I did was to hitch into town and find a bank.  I went in and opened an account.  Unfortunately, it would take ten business days for the check to clear.  I was going to have to make that 20 dollars stretch.**
 
@@ -114,7 +114,7 @@ P.S. I'm praying for you. (:)
 
 **Next thing I did was go to the university and got a job at the cafeteria.  They let me eat before and after my shift as much as I wanted.  I also often took home sandwiches for the weekends.  My twenty dollars bought me a bus pass that was good for a month, and a case of apples that I had at the apartment.  The work meals and apples got me through those first ten days.**
 
-**I used half of the money dad gave me to pay for tuition.  After working and going to school for about 3 weeks, I quit school, got a little tuition back and went full time at the cafeteria, a job I really enjoyed. I went from cleaning, (a very dirty job), to being a cooks helper and then on to being a cook. I would call home every Sunday to give my report to mom and dad.  At some point, when I made enough money, I sent a check back to dad for $2000.  That Sunday when I called, dad questioned me about the check.  I told them that I didn’t want to spring the news about quitting school until they had been repaid.  I was so sure they were going to be very disappointed in me.  To my surprise, mom said, “you’ll go back when you're ready”.  And she was right, but I never again needed their financial support which felt good, and I hoped to made dad proud of me.**
+**I used half of the money dad gave me to pay for tuition.  After working and going to school for about 3 weeks, I quit school, got a little tuition back and went full time at the cafeteria, a job I really enjoyed. I went from cleaning, (a very dirty job), to being a cooks helper and then on to being a cook. I would call home every Sunday to give my report to mom and dad.  At some point, when I made enough money, I sent a check back to dad for $2000.  That Sunday when I called, dad questioned me about the check.  I told them that I didn’t want to spring the news about quitting school until they had been repaid.  I was so sure they were going to be very disappointed in me.  To my surprise, mom said, “you’ll go back when you're ready”.  And she was right, but I never again needed their financial support which felt good, and I hoped made dad proud of me.**
 
 **I got up early on the day of the marathon.  It was a Sunday.  I didn't realize that busses don't run on Sundays until 12:00 pm.  I missed the race.  Part of me was relieved.  I hadn't trained very well.**
 
@@ -133,7 +133,7 @@ I've made a lot of friends at the cafe where I work. Yesterday I was promoted to
 
 My class schedule is pretty tough. I have Invertebrate Zoology, Organic Chemistry, Comparative Physiology, and Microbial Ecology.
 
-The Equinox marathon is coming up on the 17th of this month. I'm trying to get ready for it. It's known for being kind of difficult, but I'm going to give it a try. Part of the course is on narrow ski trails so it will be literally running through the wilds of Alaska. In the past, runners have been confronted with moose on the trail.  (Dan Note: I got up extra early on the 17th, went down to the bus stop and waited.  Turns out the buses run on Sundays.  I missed the race)
+The Equinox marathon is coming up on the 17th of this month. I'm trying to get ready for it. It's known for being kind of difficult, but I'm going to give it a try. Part of the course is on narrow ski trails so it will be literally running through the wilds of Alaska. In the past, runners have been confronted with moose on the trail.  
 
 The campus is beautiful. It is surrounded by low mountains and is itself on the highest spot in town. The Northern lights are very good here, I've heard. Haven't seen any yet though. The weather is mild, high 40s and 50°. I haven't used my warm stuff yet.
 
@@ -146,7 +146,7 @@ Dan
 
 ## 4 Working in the Canary and Finding Love
 
-**Dan Notes: The winter semester was done.  I heard that recruiters from a cannery in Dillingham were coming onto campus to get summer workers.  Pay was about $7.50/hour with 12hr shifts and time and a half for overtime.  Working on the slime line was notoriously bad work, but a person could make good money fast.  I made a resume and went to apply for a job.  At the university, I was the weekend breakfast cook.  No experience with dinner type foods.  The interviews saw my cooking experience on the resume and asked if I could cook for a hundred people two major meals a day, dinner and breakfast.  With no real confidence I said, yes.  I got the job.**
+**The winter semester was done.  I heard that recruiters from a cannery in Dillingham were coming onto campus to get summer workers.  Pay was about $7.50/hour with 12hr shifts and time and a half for overtime.  Working on the slime line was notoriously bad work, but a person could make good money fast.  I made a resume and went to apply for a job.  At the university, I was the weekend breakfast cook.  No experience with dinner type foods.  The interviews saw my cooking experience on the resume and asked if I could cook for a hundred people two major meals a day, dinner and breakfast.  With no real confidence I said, yes.  I got the job.**
 
 **The cook job was relatively easy regarding physical labor.  After my shift, I was able to go work on the slime line for an added 4 hours.  Working 16 hours a day, I was putting in 40 hours regular time and 40 hours over time every week. I did get time for exploring on the weekends. I made enough money to pay for the next two semesters of school.**
 
@@ -187,13 +187,15 @@ Dan
 
 ## 5 The Beginning of Something Great
 
-**Dan Notes:  Cindy and I met at a dance at the university.  We spent a lot of time together, but I was planning a great adventure with Pat to ride mountain bikes from Kenya to South Africa.  I wasn't sure if I would be coming back to Alaska.  I told Cindy that I liked her so much, and I didn’t want to break her heart or my own when it was time to leave.  So I suggested we slow down and make some space.  After three days apart, I saw her at the gym working out with a girlfriend.  I had been missing her so much, I asked her to take a walk later in the day.  Reluctantly she agreed.  After that, we were inseparable.**
+**Cindy and I met at a dance at the university.  We spent a lot of time together, but I was planning a great adventure with Pat to ride mountain bikes from Kenya to South Africa.  I wasn't sure if I would be coming back to Alaska.  I told Cindy that I liked her so much, and I didn’t want to break her heart or my own when it was time to leave.  So I suggested we slow down and make some space.  After three days apart, I saw her at the gym working out with a girlfriend.  I had been missing her so much, I asked her to take a walk later in the day.  Reluctantly she agreed.  After that, we were inseparable.**
 
 **Eventually our love blossomed into an unexpected pregnancy.  Within 5 months of knowing that a baby was coming, we were married.  We left school and got a small apartment in Anchorage.  I took a job at the airport loading cargo planes and rode a bicycle to work. I took a few classes in Anchorage toward my degree.  Chip and Linda came to Alaska when Adam was about 5 months old.  We showed them the town.  It made me very homesick when they left.  After David was born, Cindy was the best and most beautiful mother a child ever had.  We stayed in Anchorage for about a year and a half before going back to Fairbanks, living in married student housing, and both finishing our degrees.**
 
 <Image align="center" border={false} caption="May 17, 1985  Chip was my best man, and Dad was one of the ushers (the original usher broke his leg skiing)" src="https://files.readme.io/bc1be03132284f312d64650fe6c76ab8ab6d98472acd7f3317cbe50889102d75-wedding.jpg" />
 
 **I wish I had been able to do the bike trip with Pat, but even so, I have no regrets.**
+
+**The actual letter is short because the important content of the letter were pictures of them visiting us that we sent to them.**
 
 January 21, 1986
 
