@@ -142,11 +142,11 @@ Dan
 
 ## 4 Working in the Canary and Finding Love
 
-**Dan Notes: The winter semester was done.  I heard that recruiters from a cannery in Dillingham were coming onto campus to get summer workers.  Pay was about $7.50 / hour with 12 shifts and time and a half for overtime.  Working on the slime line was notoriously bad work, but a person could make good money fast.  I made a resume and went to apply for a job.  At the university, I was the weekend breakfast cook.  No experience with dinner type foods.  The interviews saw my cooking experience on the resume and asked if I could cook for a hundred people two major meals a day, dinner and breakfast.  With no real confidence I said, yes.  I got the job.**
+**Dan Notes: The winter semester was done.  I heard that recruiters from a cannery in Dillingham were coming onto campus to get summer workers.  Pay was about $7.50/hour with 12hr shifts and time and a half for overtime.  Working on the slime line was notoriously bad work, but a person could make good money fast.  I made a resume and went to apply for a job.  At the university, I was the weekend breakfast cook.  No experience with dinner type foods.  The interviews saw my cooking experience on the resume and asked if I could cook for a hundred people two major meals a day, dinner and breakfast.  With no real confidence I said, yes.  I got the job.**
 
-**The cook job was relatively easy regarding physical labor.  After my shift, I was able to go work on the slime line for an added 4 hours.  Working 16 hours a day, I was putting in 40 hours regular time and 40 hours over time every week. I get time for exploring on the weekends. I made enough money to pay for the next two semesters of school.**
+**The cook job was relatively easy regarding physical labor.  After my shift, I was able to go work on the slime line for an added 4 hours.  Working 16 hours a day, I was putting in 40 hours regular time and 40 hours over time every week. I did get time for exploring on the weekends. I made enough money to pay for the next two semesters of school.**
 
-<Image align="center" border={false} caption="Tender boats full of fish can in for processing.  Sometimes i worked outside identifying fish species and put separating them into tubs" src="https://files.readme.io/b9eebb2249c5906259af372c0cff7573d33ddcab7b1a958785fbd51bdfbd9813-Fish_in_hole.jpg" />
+<Image align="center" border={false} caption="Tender boats full of fish came in for processing.  Sometimes I worked outside identifying fish species and separating them into tubs" src="https://files.readme.io/b9eebb2249c5906259af372c0cff7573d33ddcab7b1a958785fbd51bdfbd9813-Fish_in_hole.jpg" />
 
 <Image align="center" border={false} caption="Mess hall where I worked 12 hours a day. Don't know who the guy is." src="https://files.readme.io/cd1ec70540d716968b03bd10767136f1cb763ef3c5fbbbafb0871b1bae683d1f-mess_hall.jpg" />
 
@@ -168,7 +168,7 @@ Chip + Linda (hose heads),
 
 It's 10 'til 9 in the morning on June 23. I'm in bed and will go to sleep after writing this letter. I like it here a lot. Guess what—I'm a cook again! I'm the second shift cook from 8:00 pm till 8:00 am. I put out one midnight meal and one breakfast. It's a pretty nice job. I'm already used to sleeping during the day, and it's light here 20 hours a day anyway, so no big deal. Plus I work 12 hours every day. Some people here aren't working hard at all yet since the salmon haven't really started to run. We have had some, though.
 
-I wrote Mom, Dad, and Polly that I was going king salmon fishing since they were running. Well, that trip fell through. But I did get to hitchhike out to some lakes about 25 miles outside town. Boy, talk about fishing! This lake had rainbow trout, grayling, arctic char, Dolly Vardan, and all the salmon (though none of the salmon were running yet). I went for the Dolly Vardens. They're sea-going trout that average between 1 and 3 pounds and are real fighters. You have a 2- to 5-minute struggle to pull one in, and they jump a lot. I caught 8 or 9 and kept 5 of the biggest to smoke. I learned how to dry and smoke fish. I'll bring some home.
+I wrote Mom, Dad, and Polly that I was going king salmon fishing since they were running. Well, that trip fell through. But I did get to hitchhike out to some lakes about 25 miles outside town. Boy, talk about fishing! This lake had rainbow trout, grayling, arctic char, Dolly Vardan, and all the salmon (though none of the salmon were running yet). I went for the Dolly Vardan. They're sea-going trout that average between 1 and 3 pounds and are real fighters. You have a 2- to 5-minute struggle to pull one in, and they jump a lot. I caught 8 or 9 and kept 5 of the biggest to smoke. I learned how to dry and smoke fish. I'll bring some home.
 
 Last night on my lunch break, I removed some cheeks from some king salmon that we got. One of the processors kept them for me. They're in the smoker right now.
 
@@ -183,7 +183,7 @@ Dan
 
 ## 5 The Beginning of Something Great
 
-**Dan Notes:  Cindy and I met at a dance at the university.  We spent a lot of time together, but I was planning a great adventure with Pat to ride mountain bikes from Kenya to South Africa.  I wasn't sure if I would be coming back to Alaska.  I told Cindy that I liked her so much, and I didn’t want to break her heart or my own when it was time to leave.  So I suggested we slow down and take some space.  After three days apart, I saw her at the gym working out with a girlfriend.  I had been missing her so much, I asked her to take a walk later in the day.  Reluctantly she agreed.  After that, we were inseparable.**
+**Dan Notes:  Cindy and I met at a dance at the university.  We spent a lot of time together, but I was planning a great adventure with Pat to ride mountain bikes from Kenya to South Africa.  I wasn't sure if I would be coming back to Alaska.  I told Cindy that I liked her so much, and I didn’t want to break her heart or my own when it was time to leave.  So I suggested we slow down and make some space.  After three days apart, I saw her at the gym working out with a girlfriend.  I had been missing her so much, I asked her to take a walk later in the day.  Reluctantly she agreed.  After that, we were inseparable.**
 
 **Eventually our love blossomed into an unexpected pregnancy.  Within 5 months of knowing that a baby was coming, we were married.  We left school and got a small apartment in Anchorage.  I took a job at the airport loading cargo planes and rode a bicycle to work. I took a few classes in Anchorage toward my degree.  Chip and Linda came to Alaska when Adam was about 5 months old.  We showed them the town.  It made me very homesick when they left.  After David was born, Cindy was the best and most beautiful mother a child ever had.  We stayed in Anchorage for about a year and a half before going back to Fairbanks, living in married student housing, and both finishing our degrees.**
 
@@ -211,7 +211,7 @@ Much Love
 Dan & Cindy
 (Speech bubble graphic text): It's not easy being perfect... but somebody has to do it!
 
-<Image align="center" border={false} caption="Chip and Adam with Cindy looking on     Late September 1985" src="https://files.readme.io/295954ed2dfa7a7f5df215077d8547831321384bf34f073a6f379483e6d49ad2-Chip_Adam_Cindy_Sept_1985.jpg" />
+<Image align="center" border={false} caption="Chip and Adam with Cindy looking on                            Late September 1985" src="https://files.readme.io/295954ed2dfa7a7f5df215077d8547831321384bf34f073a6f379483e6d49ad2-Chip_Adam_Cindy_Sept_1985.jpg" />
 
 <Image align="center" border={false} src="https://files.readme.io/8f64f6764f94dfae77a5153538fc41babe0430101c2d3ec1cf368e52d20cf278-Dan_Cindy_Sept_1985-1.jpg" />
 
