@@ -1,5 +1,5 @@
 ---
-title: Letter from Dan to Chip
+title: Letters from Dan to Chip
 excerpt: Personal letters from Dan to Chip and Linda, spanning 5 years of the early 80s
 deprecated: false
 hidden: false
