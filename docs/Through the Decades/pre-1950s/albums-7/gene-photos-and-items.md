@@ -79,7 +79,7 @@ hidden: false
 
 This is a copy of Gene’s eulogy that was beautifully written and delivered by Rev. Don Grauer.
 
-[Gene Henry Eulogy 1999 by Rev. Grauer](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Henry-Eulogy-1999.compressed.pdf)
+<Anchor label="Gene Henry Eulogy 1999 by Rev. Grauer" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Gene-Henry-Eulogy-1999.compressed.pdf">Gene Henry Eulogy 1999 by Rev. Grauer</Anchor>
 
 <br />
 
@@ -87,12 +87,12 @@ This is a copy of Gene’s eulogy that was beautifully written and delivered by 
 
 <br />
 
-<Image align="center" className="border" border={true} width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/NewsHerad-article-Gene.jpg" />
+<Image align="center" border={true} width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/NewsHerad-article-Gene.jpg" className="border" />
 
-<Image align="center" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/ChagrinValleyTimes-Obit-Gene-Henry.jpg" />
+<Image align="center" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/ChagrinValleyTimes-Obit-Gene-Henry.jpg" />
 
-<Image align="center" width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PD-obit-GeneHenry.jpg" />
+<Image align="center" border={false} width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PD-obit-GeneHenry.jpg" />
 
-<Image align="center" width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/NewsHerald_Obit-GeneHenry.jpg" />
+<Image align="center" border={false} width="500px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/NewsHerald_Obit-GeneHenry.jpg" />
 
-<Image align="center" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/DanH-Eulogy-for-Dad.jpg" />
+<Image align="center" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/DanH-Eulogy-for-Dad.jpg" />
