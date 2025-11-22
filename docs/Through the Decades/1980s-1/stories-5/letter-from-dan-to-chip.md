@@ -213,7 +213,17 @@ Dan & Cindy
 
 <Image align="center" border={false} caption="Chip and Adam with Cindy looking on     Late September 1985" src="https://files.readme.io/295954ed2dfa7a7f5df215077d8547831321384bf34f073a6f379483e6d49ad2-Chip_Adam_Cindy_Sept_1985.jpg" />
 
-<Image align="center" border={false} caption="Dan and Cindy expecting David at any time" src="https://files.readme.io/8f64f6764f94dfae77a5153538fc41babe0430101c2d3ec1cf368e52d20cf278-Dan_Cindy_Sept_1985-1.jpg" />
+<Image align="center" border={false} src="https://files.readme.io/8f64f6764f94dfae77a5153538fc41babe0430101c2d3ec1cf368e52d20cf278-Dan_Cindy_Sept_1985-1.jpg" />
+
+Dan and Cindy expecting David at any time
+
+<Image align="center" border={false} caption="It was a real let down when Chip, Linda and Adam left Anchorage" src="https://files.readme.io/f54060ecbaf7682308bf986402cc77db3264de6acdc1e45828e95edce792895f-Chip_Cindy_Linda.jpg" />
+
+<Image align="center" border={false} caption="Healthy Baby" src="https://files.readme.io/4c166a32f4536b12e36d09471d69dc175dee85f7fb25809e4d2fbea743cc4841-Chip_and_Adam.jpg" />
+
+<Image align="center" border={false} caption="David fresh out of the oven" src="https://files.readme.io/339688853f62f726a1778fcd9acbb253e6b799d0be77701fc2c32bd30e08ed08-Cindy_and_David.jpg" />
+
+<br />
 
 <Image align="center" border={false} caption="Married Student Housing - Steve Okonan and his boy Arro" src="https://files.readme.io/2e6e62f2fb4f95cff03511b12b83dd4b6575c777e250d461bbcce218467005f5-pillow_heads.jpg" />
 
