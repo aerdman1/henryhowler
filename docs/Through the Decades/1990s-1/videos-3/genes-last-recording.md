@@ -1,6 +1,6 @@
 ---
-title: Gene's Last Say     12, 1999
-excerpt: Jeane video's Gene's last recorded message to his family
+title: Gene's Last Say     November 12, 1999
+excerpt: A message from Gene to his decendents.  He passed on about a month later.
 deprecated: false
 hidden: false
 metadata:
