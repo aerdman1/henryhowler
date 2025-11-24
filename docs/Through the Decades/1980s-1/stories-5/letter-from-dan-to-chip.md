@@ -238,7 +238,7 @@ Cindy
 
 Chip,
 
-This will be you, chip, except a cumber-bun instead of the vest.
+This will be you, except a cumber-bun instead of the vest.
 
 I specifically asked for a tux for you that would make you look good.
 
