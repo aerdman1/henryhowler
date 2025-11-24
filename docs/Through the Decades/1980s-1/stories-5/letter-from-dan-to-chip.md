@@ -11,13 +11,11 @@ metadata:
     cooking job and fishing adventures in Alaska during salmon season.
   robots: index
 ---
-## 1 Summer in Ohio
+## 1 Summer in Ohio   June 23, 1981
 
 ****I was 19 and in between my freshman and sophomore year at Clarion College.  I worked at Punderson as a life guard.  I got to work every day on a 175 cc Honda motorcycle.  Around this time, I bought Sharie’s step father’s (Bill Head) 360 Honda.  I was an insufferable born again Christian, trying to change the world, one family member at a time, much smarter than everyone around me.**
 
 **At the time of this letter, Patrick and his friend Erick were riding 10 speed bike from California to Chagrin Falls.****
-
-**June 23, 1981
 
 From: D Henry, 8266 West Hill Dr Chagrin Falls OH 44022
 
@@ -47,7 +45,7 @@ Dan
 
 ***
 
-## 2 Breaking Up and Spilling Guts
+## 2 Breaking Up and Spilling Guts   October 28, 1981
 
 **Summer was over, and I was in college. Sharie Linert was my girlfriend from about 7th grade through my junior year in college.  Sharie had attended Miami of Ohio her freshman year but decided to transfer to Clarion for the rest of her college time. The roommate discussed in the letter was Mark Rengers; we were thrown together by chance our freshman year and ended up rooming together all three years at Clarion. Mark and Sharie eventually got married.  When Cindy and I started dating, she almost tossed me to the curb because of the past Sharie drama in my life.  I'm so glad she didn't.**
 
@@ -55,7 +53,7 @@ Dan
 
 **At the end of the letter, I express my desire to pursue a career as a missionary.**
 
-October 28, 1981
+<br />
 
 From: D Henry, 121 Ballentine Hall, Clarion State College, Clarion, PA 16214 USA
 
@@ -96,7 +94,7 @@ P.S. I'm praying for you. (:)
 
 ***
 
-## 3 Heading to Alaska
+## 3 Heading to Alaska  April 6, 1983
 
 _**During my Junior year of college, I had an extensive crisis of faith that I was unable to shake.  Too many unanswered questions.  Eventually, I stopped participating in all the Christian activities that were once so important to me.  Sharie remained faithful to her beliefs.  We tried to figure out how “we” could possibly work, and eventually, after being miserable for a long time, decided to quit.  Sharie and I broke up for good after the first semester of my junior year at Clarion.**_*
 
@@ -118,7 +116,7 @@ _**During my Junior year of college, I had an extensive crisis of faith that I w
 
 **I got up early on the day of the marathon.  It was a Sunday.  I didn't realize that busses don't run on Sundays until 12:00 pm.  I missed the race.  Part of me was relieved.  I hadn't trained very well.**
 
-April 6, 1983
+<br />
 
 From: D Henry, 1271 9th Ave. #202, Fairbanks, AK 99701
 
@@ -144,7 +142,7 @@ Dan
 
 ***
 
-## 4 Working in the Canary and Finding Love
+## 4 Working in the Canary and Finding Love   June 23, 1983
 
 **The winter semester was done.  I heard that recruiters from a cannery in Dillingham were coming onto campus to get summer workers.  Pay was about $7.50/hour with 12hr shifts and time and a half for overtime.  Working on the slime line was notoriously bad work, but a person could make good money fast.  I made a resume and went to apply for a job.  At the university, I was the weekend breakfast cook.  No experience with dinner type foods.  The interviews saw my cooking experience on the resume and asked if I could cook for a hundred people two major meals a day, dinner and breakfast.  With no real confidence I said, yes.  I got the job.**
 
@@ -162,7 +160,7 @@ Dan
 
 <Image align="center" border={false} caption="Taking my girl out to eat at some place fancy" src="https://files.readme.io/ce851ea1911680d0ad067e5ad5434ed9368b51a8479a4d2b8a23377c39f275a4-img20251121_17232241.jpg" />
 
-June 23, 1983
+<br />
 
 To: Chip and Linda Henry, 2552 Kindleworth #3, Cleveland Hts. Ohio, 44106
 
@@ -185,11 +183,15 @@ Dan
 
 ***
 
-## 6 Engaged
+## 6 Engaged  April 22, 1985
 
 **It was all very scaring and exciting.  Cindy and I were feeling our way through the dark, but we had the support of a loving family on both sides and a deep love for each other.  Chip was to be my best man.  Cindy's college roommate, Tracy was her maid of honor. We were doing our best to communicate the wedding plans.  This letter included a birthday card for Chip, a picture of Chip's tux for the wedding, and Cindy and My engagement picture. Mom, Dad, Chip, and Polly were the only other Henrys at the wedding.  Of the three hundred guests, I knew by name 20.**
 
 <Image align="center" border={false} src="https://files.readme.io/49fce77b233be2c8cfab4b429ff940dccd34284fc6697496931bff6759b9262d-engagement_shot.png" />
+
+From: D&C Henry, #5 Stevens Hall, UAF, Fairbanks, AK 99701
+
+To: Chip and Linda Henry, 8266 West Hill Drive, Chagrin Falls, OH 44022
 
 Dear Chip & Linda,
 It's been a while, and there's lots of new things going on. Enclosed is a picture of me and Cindy. We will have pictures taken professionally because there will be pictures in each of the invites. Also, there's a picture of your tux, Chip. Well, here are the plans we have up to now.
@@ -236,17 +238,19 @@ Cindy
 
 Chip,
 
-This will be you, chip, except a cumber-bun instead of the vest. 
+This will be you, chip, except a cumber-bun instead of the vest.
 
-I specifically asked for a tux for you that would make you look good. 
+I specifically asked for a tux for you that would make you look good.
 
-After they looked at your picture, they said they can't do miracles! 
+After they looked at your picture, they said they can't do miracles!
 
 Oh well, bring a paper bag ok? Ha. Ha.
 
 <Image align="center" border={false} src="https://files.readme.io/cce79ce91bfe7d131fb88e087b211d72c85d452e218f28fb4c4427ce0cacc1e7-chips_tux.png" />
 
-## 5 The Beginning of Something Great
+***
+
+ 5 The Beginning of Something Great   January 21, 1986
 
 **Cindy and I met at a dance at the university.  We spent a lot of time together, but I was planning a great adventure with Pat to ride mountain bikes from Kenya to South Africa.  I wasn't sure if I would be coming back to Alaska.  I told Cindy that I liked her so much, and I didn’t want to break her heart or my own when it was time to leave.  So I suggested we slow down and make some space.  After three days apart, I saw her at the gym working out with a girlfriend.  I had been missing her so much, I asked her to take a walk later in the day.  Reluctantly she agreed.  After that, we were inseparable.**
 
@@ -258,7 +262,7 @@ Oh well, bring a paper bag ok? Ha. Ha.
 
 **The actual letter is short because the important content of the letter were pictures of them visiting us that we sent to them.**
 
-January 21, 1986
+<br />
 
 From: D&C Henry, 2901 Turnagain #6, Anchorage, AK 99517
 
