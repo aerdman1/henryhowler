@@ -185,6 +185,65 @@ Dan
 
 ***
 
+## 6 Engaged
+
+**It was all very scaring and exciting.  Cindy and I were feeling our way through the dark, but we had the support of a loving family on both sides and a deep love for each other.  Chip was to be my best man.  Cindy's college roommate, Tracy was her maid of honor. We were doing our best to communicate the wedding plans.  This letter included a birthday card for Chip, a picture of Chip's tux for the wedding, and Cindy and My engagement picture. Mom, Dad, Chip, and Polly were the only other Henrys at the wedding.  Of the three hundred guests, I knew by name 20.**
+
+Dear Chip & Linda,
+It's been a while, and there's lots of new things going on. Enclosed is a picture of me and Cindy. We will have pictures taken professionally because there will be pictures in each of the invites. Also, there's a picture of your tux, Chip. Well, here are the plans we have up to now.
+
+There will be a rehearsal for the wedding on the 16th, one day before. Then, the close family and wedding party will have a barbecue dinner here at Cindy's house. Originally Mom & Dad had said that they would like to take Cindy's family out that night. I'm sure they weren't counting on the whole wedding party plus a bunch of others, so we changed to the BBQ plan. It will be a nice bunch.
+
+Anyway, then on the 17th is the big day. The guys will dress here at Cindy's house and be taken to the church via a white limo. Cindy and her girls will then arrive in a similar fashion. Cindy bought her dress. I haven't seen it. I want until she comes down the aisle. Jan told me it's quite nice.
+
+After everything is said and done, we'll move on to the reception. The hall is pretty nice. Our band is Kul's Band. You've probably heard of them right? A really hot band, really good at polkas. After the reception, Cindy and I will hang around until you guys go back, then we'll go on a little camping trip for a honeymoon and then finally the canary.
+I really lucked out as far as Cindy's family is concerned. They are really great. It makes it a little hard for Cindy and I thinking about where we will eventually live, one of us will be far from home. But you've had to deal with this too so I know you can relate.
+
+I sure can't wait to see you all. It will be in just about a month. School work is just building up and there's lots of pressure right now but so far we're hanging in.
+That's it for now. I love you both.
+
+Here's Cindy
+
+Dear Chip and Linda,
+Boy, that Dan sure is something else! But I wouldn't trade him in for the world. I really got a kick out of you Chip - if what you said is true - I'll just love you all to death. I've heard so much of you both and look forward to meeting you soon.
+This spring break was a very busy! There were so many things that Dan and I had to do.
+
+Dan and I heard the baby's heart beat last week. We were both excited although later my thoughts were flooded with responsibilities that come with a new life. Exciting but a challenge. We are also taking a Lamaze class before we leave for the summer. When we came back to school we will take a refresher course.
+
+I'm overwhelmed by the response that I've gotten from your family. You all are so supportive and accepting of our situation. You all are very kind. I feel terrible for not writing more often but I have been pressed for time.
+Well, Dan seems to have told you everything which leaves me with little to say. Oh no! I've got to go. I'm late for class!
+Love -
+Cindy
+
+**Chip Birthday note:**
+
+Chip,
+Hope you had a good b-day. See ya in less than a month.
+P.S. Throw Adam up in the air about 10' for me.
+Dan
+
+First off congrats!! and have a happy b-day.
+P.S. When do we get pictures?
+Cindy
+
+<Image align="center" border={false} src="https://files.readme.io/bc2db4d2d9e76a4cc47a3e4b9980949491a43e671e1d0709c764296595af7e05-chips_card_cover.png" />
+
+<Image align="center" border={false} src="https://files.readme.io/a0c2aa92557201eaa385bf1a9fc7f16e34afd387fca956473704ffb8055c82d3-chips_card_inside.png" />
+
+<Image align="center" border={false} src="https://files.readme.io/cce79ce91bfe7d131fb88e087b211d72c85d452e218f28fb4c4427ce0cacc1e7-chips_tux.png" />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
 ## 5 The Beginning of Something Great
 
 **Cindy and I met at a dance at the university.  We spent a lot of time together, but I was planning a great adventure with Pat to ride mountain bikes from Kenya to South Africa.  I wasn't sure if I would be coming back to Alaska.  I told Cindy that I liked her so much, and I didn’t want to break her heart or my own when it was time to leave.  So I suggested we slow down and make some space.  After three days apart, I saw her at the gym working out with a girlfriend.  I had been missing her so much, I asked her to take a walk later in the day.  Reluctantly she agreed.  After that, we were inseparable.**
