@@ -250,7 +250,7 @@ Oh well, bring a paper bag ok? Ha. Ha.
 
 ***
 
- 5 The Beginning of Something Great   January 21, 1986
+## 5 The Beginning of Something Great   January 21, 1986
 
 **Cindy and I met at a dance at the university.  We spent a lot of time together, but I was planning a great adventure with Pat to ride mountain bikes from Kenya to South Africa.  I wasn't sure if I would be coming back to Alaska.  I told Cindy that I liked her so much, and I didn’t want to break her heart or my own when it was time to leave.  So I suggested we slow down and make some space.  After three days apart, I saw her at the gym working out with a girlfriend.  I had been missing her so much, I asked her to take a walk later in the day.  Reluctantly she agreed.  After that, we were inseparable.**
 
