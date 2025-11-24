@@ -1,5 +1,5 @@
 ---
-title: Gene's Last Recording February 12, 1999
+title: Gene's Last Say     12, 1999
 excerpt: Jeane video's Gene's last recorded message to his family
 deprecated: false
 hidden: false
