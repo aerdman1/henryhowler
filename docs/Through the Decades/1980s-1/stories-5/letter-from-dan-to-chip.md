@@ -246,7 +246,7 @@ After they looked at your picture, they said they can't do miracles!
 
 Oh well, bring a paper bag ok? Ha. Ha.
 
-<Image align="center" border={false} src="https://files.readme.io/cce79ce91bfe7d131fb88e087b211d72c85d452e218f28fb4c4427ce0cacc1e7-chips_tux.png" />
+<Image align="center" border={false} caption="Image of the tux Chip (and Dad) would be wearing in the wedding" src="https://files.readme.io/cce79ce91bfe7d131fb88e087b211d72c85d452e218f28fb4c4427ce0cacc1e7-chips_tux.png" />
 
 ***
 
@@ -260,9 +260,7 @@ Oh well, bring a paper bag ok? Ha. Ha.
 
 **I wish I had been able to do the bike trip with Pat, but even so, I have no regrets.**
 
-**The actual letter is short because the important content of the letter were pictures of them visiting us that we sent to them.**
-
-<br />
+**The below letter is very short.  It was a note scribbled on scrap paper that was wrapped around a collection of pictures of their earlier visit to Alaska.**
 
 From: D&C Henry, 2901 Turnagain #6, Anchorage, AK 99517
 
