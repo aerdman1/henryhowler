@@ -292,16 +292,14 @@ Dan & Cindy
 
 ***
 
-<br />
+**The rest of these images are post David's birth at our apartment in Anchorage, and then on to our apartment in Fairbanks at UAF Married Student Housing.**
 
-**The rest of these images are post David's birth at our apartment in Anchorage, and then on to our apartment in Fairbanks at UAF Married Student Housing**
-
-<Image align="center" border={false} caption="David fresh out of the oven" src="https://files.readme.io/339688853f62f726a1778fcd9acbb253e6b799d0be77701fc2c32bd30e08ed08-Cindy_and_David.jpg" />
+<Image align="center" border={false} caption="David fresh out of the oven  October 1985" src="https://files.readme.io/339688853f62f726a1778fcd9acbb253e6b799d0be77701fc2c32bd30e08ed08-Cindy_and_David.jpg" />
 
 <br />
 
-<Image align="center" border={false} caption="Married Student Housing - Steve Okonan and his boy Arro" src="https://files.readme.io/2e6e62f2fb4f95cff03511b12b83dd4b6575c777e250d461bbcce218467005f5-pillow_heads.jpg" />
+<Image align="center" border={false} caption="Married Student Housing - Steve Okonan and his boy Arro    October 1986" src="https://files.readme.io/2e6e62f2fb4f95cff03511b12b83dd4b6575c777e250d461bbcce218467005f5-pillow_heads.jpg" />
 
-<Image align="center" border={false} caption="We all shared baby sitting.  While at class, neighbors babysat, and you would do the same for them" src="https://files.readme.io/fa77a70c19fb3a6a99527f7cc5383db8b62703f1a3324112603b3366443969b8-party_boys.jpg" />
+<Image align="center" border={false} caption="We all shared baby sitting.  While at class, neighbors babysat, and you would do the same for them  1986" src="https://files.readme.io/fa77a70c19fb3a6a99527f7cc5383db8b62703f1a3324112603b3366443969b8-party_boys.jpg" />
 
-<Image align="center" border={false} caption="David was a cute little coed" src="https://files.readme.io/479f5f4c36c1ac129f33a6919f942ccfc36efb887c5b7339a042c5c2e0fe117c-Boy_in_drawer.jpg" />
+<Image align="center" border={false} caption="David was a cute little coed  1986" src="https://files.readme.io/479f5f4c36c1ac129f33a6919f942ccfc36efb887c5b7339a042c5c2e0fe117c-Boy_in_drawer.jpg" />
