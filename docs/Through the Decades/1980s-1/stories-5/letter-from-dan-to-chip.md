@@ -230,7 +230,7 @@ First off congrats!! and have a happy b-day.
 P.S. When do we get pictures?
 Cindy
 
-<Image align="center" border={false} src="https://files.readme.io/bc2db4d2d9e76a4cc47a3e4b9980949491a43e671e1d0709c764296595af7e05-chips_card_cover.png" />
+<Image align="center" border={false} caption="Chip's birthday card from Dan and Cindy" src="https://files.readme.io/bc2db4d2d9e76a4cc47a3e4b9980949491a43e671e1d0709c764296595af7e05-chips_card_cover.png" />
 
 <Image align="center" border={false} src="https://files.readme.io/a0c2aa92557201eaa385bf1a9fc7f16e34afd387fca956473704ffb8055c82d3-chips_card_inside.png" />
 
