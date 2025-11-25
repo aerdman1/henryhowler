@@ -290,6 +290,12 @@ Dan & Cindy
 
 <Image align="center" border={false} caption="Healthy Baby" src="https://files.readme.io/4c166a32f4536b12e36d09471d69dc175dee85f7fb25809e4d2fbea743cc4841-Chip_and_Adam.jpg" />
 
+***
+
+<br />
+
+**The rest of these images are post David's birth at our apartment in Anchorage, and then on to our apartment in Fairbanks at UAF Married Student Housing**
+
 <Image align="center" border={false} caption="David fresh out of the oven" src="https://files.readme.io/339688853f62f726a1778fcd9acbb253e6b799d0be77701fc2c32bd30e08ed08-Cindy_and_David.jpg" />
 
 <br />
