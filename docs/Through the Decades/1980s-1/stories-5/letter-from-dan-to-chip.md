@@ -185,7 +185,7 @@ Dan
 
 ## 6 Engaged  April 22, 1985
 
-**It was all very scaring and exciting.  Cindy and I were feeling our way through the dark, but we had the support of a loving family on both sides and a deep love for each other.  Chip was to be my best man.  Cindy's college roommate, Tracy was her maid of honor. We were doing our best to communicate the wedding plans.  This letter included a birthday card for Chip, a picture of Chip's tux for the wedding, and Cindy and My engagement picture. Mom, Dad, Chip, and Polly were the only other Henrys at the wedding.  Of the three hundred guests, I knew by name 20.**
+**It was all very scaring and exciting.  Cindy and I were feeling our way through the dark, but we had the support of a loving family on both sides and a deep love for each other.  Chip was to be my best man.  Cindy's college roommate, Tracy was her maid of honor. We were doing our best to communicate the wedding plans.  This letter included a birthday card for Chip, a picture of Chip's tux for the wedding, and Cindy and my engagement picture. Mom, Dad, Chip, and Polly were the only other Henrys that would be at the wedding.  Of the three hundred guests present at the wedding, I knew about 20 by name.**
 
 <Image align="center" border={false} src="https://files.readme.io/49fce77b233be2c8cfab4b429ff940dccd34284fc6697496931bff6759b9262d-engagement_shot.png" />
 
