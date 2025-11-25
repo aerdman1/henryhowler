@@ -187,7 +187,7 @@ Dan
 
 **It was all very scaring and exciting.  Cindy and I were feeling our way through the dark, but we had the support of a loving family on both sides and a deep love for each other.  Chip was to be my best man.  Cindy's college roommate, Tracy was her maid of honor. We were doing our best to communicate the wedding plans.  This letter included a birthday card for Chip, a picture of Chip's tux for the wedding, and Cindy and my engagement picture. Mom, Dad, Chip, and Polly were the only other Henrys that would be at the wedding.  Of the three hundred guests present at the wedding, I knew about 20 by name.**
 
-<Image align="center" border={false} caption="Cindy's parents spent way too much money on the wedding, including this professional announcement picture." src="https://files.readme.io/49fce77b233be2c8cfab4b429ff940dccd34284fc6697496931bff6759b9262d-engagement_shot.png" />
+<Image align="center" border={false} caption="Cindy's parents spent way too much money on the wedding, including professional wedding announcement pictures." src="https://files.readme.io/49fce77b233be2c8cfab4b429ff940dccd34284fc6697496931bff6759b9262d-engagement_shot.png" />
 
 From: D&C Henry, #5 Stevens Hall, UAF, Fairbanks, AK 99701
 
@@ -288,7 +288,7 @@ Dan & Cindy
 
 <Image align="center" border={false} caption="It was a real let down when Chip, Linda and Adam left Anchorage" src="https://files.readme.io/f54060ecbaf7682308bf986402cc77db3264de6acdc1e45828e95edce792895f-Chip_Cindy_Linda.jpg" />
 
-<Image align="center" border={false} caption="Healthy Baby" src="https://files.readme.io/4c166a32f4536b12e36d09471d69dc175dee85f7fb25809e4d2fbea743cc4841-Chip_and_Adam.jpg" />
+<Image align="center" border={false} caption="Healthy Baby Adam with Chip" src="https://files.readme.io/4c166a32f4536b12e36d09471d69dc175dee85f7fb25809e4d2fbea743cc4841-Chip_and_Adam.jpg" />
 
 ***
 
