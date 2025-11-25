@@ -146,7 +146,7 @@ Dan
 
 **The winter semester was done.  I heard that recruiters from a cannery in Dillingham were coming onto campus to get summer workers.  Pay was about $7.50/hour with 12hr shifts and time and a half for overtime.  Working on the slime line was notoriously bad work, but a person could make good money fast.  I made a resume and went to apply for a job.  At the university, I was the weekend breakfast cook.  No experience with dinner type foods.  The interviewers saw my cooking experience on the resume and asked if I could cook for a hundred people two major meals a day, dinner and breakfast.  With no real confidence I said, yes.  I got the job.**
 
-**The cook job was relatively easy regarding physical labor.  After my shift, I was able to go work on the slime line for an added 4 hours.  Working 16 hours a day, I was putting in 40 hours regular time and 40 hours over time every week. I did get time for exploring on the weekends. I made enough money to pay for the next two semesters of school.**
+**The cook job was relatively easy regarding physical labor.  When the salmon were running hard, after my cooking shift, I was able to go work on the slime line for an added 4 hours.  Working 16 hours a day, I was putting in 40 hours regular time and 40 hours over time every week. I did get time for exploring on the weekends. I made enough money to pay for the next two semesters of school.**
 
 <Image align="center" border={false} caption="Tender boats full of fish came in for processing.  Sometimes I worked outside identifying fish species and separating them into tubs" src="https://files.readme.io/b9eebb2249c5906259af372c0cff7573d33ddcab7b1a958785fbd51bdfbd9813-Fish_in_hole.jpg" />
 
