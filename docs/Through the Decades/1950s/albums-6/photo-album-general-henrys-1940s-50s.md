@@ -21,6 +21,10 @@ hidden: false
 
 <Image align="center" border={false} src="https://files.readme.io/b9f18c69244694356c6413b807da9c4c0715f41a19c6afb4e2c98b5250148e6b-Henry-t-day1955-Colorized.jpg" />
 
+<Image align="center" border={false} src="https://files.readme.io/6a5d6603fbd04134b2350605f39efbd29cb3aa792116ed6f217535ba1d1a0c63-4-brothers-chuck-Color-Restored.jpg" />
+
+<Image align="center" border={false} src="https://files.readme.io/8b19886d6f63b3dad128fee9d394331473f1c62b3f141452b434ddeccb9f15d1-Henry-brothers-Colorized.jpg" />
+
 <Image alt="Chuck and Don" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/chuck-don2.jpg" />
 
 <Image alt="Gene, Don & John" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Henry-brothers.jpg" />
@@ -31,5 +35,6 @@ hidden: false
 
 <Image alt="Henry-t-day1955" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Henry-t-day1955.jpg" />
 
+<Image align="center" border={false} src="https://files.readme.io/7f4d6f9a39e72872a6d16b3b86785c9702e8c33555417a5e7d4a903eabd309eb-Henry-steps-Colorized_w_names.jpg" />
+
 ![](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/PICT0023.jpg)
-[March 8, 2017](/families/photo-album-general-henrys-1940s-50s/) [Linda](/author/admin/)
