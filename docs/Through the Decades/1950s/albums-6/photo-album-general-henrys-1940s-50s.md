@@ -19,6 +19,8 @@ hidden: false
 
 <Image alt="IMG_0052" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0052-1.jpg" />
 
+<Image align="center" border={false} src="https://files.readme.io/b9f18c69244694356c6413b807da9c4c0715f41a19c6afb4e2c98b5250148e6b-Henry-t-day1955-Colorized.jpg" />
+
 <Image alt="Chuck and Don" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/chuck-don2.jpg" />
 
 <Image alt="Gene, Don & John" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Henry-brothers.jpg" />
