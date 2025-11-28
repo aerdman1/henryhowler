@@ -7,8 +7,6 @@ hidden: false
 ---
 <Image align="center" border={false} src="https://files.readme.io/712d20f49ccb30282a6e10a28128ca9a65324e83b67217ade3f5f844504af90f-1957kid-moms-Colorized.jpg" />
 
-<Image alt="1957kid-moms" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/1957kid-moms.jpg" />
-
 <Image align="center" border={false} src="https://files.readme.io/c4142acf46ebae9cf433d033b19fff4c96d396c6dfb73cc4714edb85127b168b-IMG_0051-Colorized.jpg" />
 
 <Image align="center" border={false} src="https://files.readme.io/2a3bdbde2445bcc5a9935ccb473b957cbba3026196f83b8e7dc026954168db63-IMG_0052-Colorized.jpg" />
