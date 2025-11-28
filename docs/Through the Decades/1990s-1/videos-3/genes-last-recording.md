@@ -1,5 +1,5 @@
 ---
-title: Gene's Last Say     November 12, 1999
+title: Gene's Last Say     February 12, 1999
 excerpt: A message from Gene to his decendents.  He passed on about a month later.
 deprecated: false
 hidden: false
