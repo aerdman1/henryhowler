@@ -4,11 +4,11 @@ date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
-<Image alt="IMG_0032" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0032.jpg" />
+<Image align="center" alt="IMG_0032" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0032.jpg" />
 
 <Image alt="IMG_0034" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0034.jpg" />
 
-<Image alt="Louise-Chuck-MarciaLouise" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Louise-Chuck-MarciaLouise.jpg" />
+<Image align="center" alt="Louise-Chuck-MarciaLouise" border={false} caption="Louise-Chuck-MarciaLouise" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Louise-Chuck-MarciaLouise.jpg" />
 
 <Image alt="IMG_0035 (1) copy (1)" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/IMG_0035-1-copy-1.jpg" />
 
