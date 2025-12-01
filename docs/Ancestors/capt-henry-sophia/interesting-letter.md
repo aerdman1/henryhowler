@@ -66,6 +66,6 @@ Did my grandfather accept the invitation? I never have known the answer to that 
 
 This letter, dated March 30, 1888, Springfield, Ohio, was written by Capt. Henry’s (Charley) youngest brother, Edward, to another brother, Newton, on the occasion of reporting the death of their eldest brother Simon.  I downloaded this from a shirt-tail Henry relative who had posted it on Ancestry.com.  It’s interesting especially because it answers the question of whether Capt. Henry attended the hanging of Charles Guiteau, a question raised by Grandpa Chuck in a letter he sent out to Hiram Alumni. I’ll attach both here.
 
-The Edward – Newton letter is challenging to read but full of interesting reminisces and well worth the effort. Download – Edward-Newton_Letter.compressed PDF
+The Edward – Newton letter is challenging to read but full of interesting reminisces and well worth the effort. <Anchor label="Download – Edward-Newton_Letter.compressed PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Edward-Newton_Letter.compressed.pdf">Download – Edward-Newton_Letter.compressed PDF</Anchor>
 
 March 22, 2017 Linda <Anchor label="Download – Edward-Newton_Letter.compressed PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Edward-Newton_Letter.compressed.pdf">Download – Edward-Newton_Letter.compressed PDF</Anchor>Letter
