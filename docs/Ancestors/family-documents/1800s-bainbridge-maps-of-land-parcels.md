@@ -27,7 +27,7 @@ This is a close up of the southwest corner of Geauga county showing the Henry fa
 
 ***
 
-Below is a 1874 Atlas of Geauga county plat maps that was obviously Frederick Henry’s. The book is quite large (12.5’x15.5′) making it impossible to scan the entire page on my scanner so I stitched 4 scans of the Bainbridge map to make the reconstructed PDF. Frederick has many small notations on the map so I included here PDF’s of each section so you can download to view close up. The Atlas is falling apart but is a beautiful collection of maps. It includes maps of the Counties of Ohio and also of the United States. Atlas is in the Chip Henry collection.
+In the stuff from Gene and Jeanne is an old 1874 Lake & Geauga County Atlas. I scanned the Bainbridge page and then broke it down to 4 sections to see the details. This was obviously Frederick Henry’s and has many handwritten notes. The book is quite large (12.5’x15.5′) making it impossible to scan the entire page on my scanner so I stitched 4 scans of the Bainbridge map to make the reconstructed PDF. Frederick has many small notations on the map so I included here PDF’s of each section so you can download to view close up. The Atlas is falling apart but is a beautiful collection of maps. It includes maps of the Counties of Ohio and also of the United States. Atlas is in the Chip Henry collection.
 
 <Image alt="Atlas-cover" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Atlas-cover.jpg" />
 
@@ -50,6 +50,26 @@ Below is a 1874 Atlas of Geauga county plat maps that was obviously Frederick H
 | <Anchor label="Top right portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-TopRight.pdf">Top right portion of the Map PDF</Anchor>                                                        |
 | <Anchor label="Bottom left portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-bottom-left.pdf">Bottom left portion of the Map PDF</Anchor>                                                 |
 | <Anchor label="Bottom right portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-BottomRight.pdf">Bottom right portion of the Map PDF</Anchor>                                               |
+
+The handwriting across the top says:
+
+From C. C. Monharp, Ch__ 9 & 5
+
+There were 10 school districts from about 1840 to 1900, including 4 Union districts, 2 of which were with solon and 2 with Aurora.
+
+Great Teachers of District school days in Bainbridge between the Civil War and the centralizing of the schools:
+
+C M Foot, J.W. Scott, S.G. McFarland, A. R. Phillips, J. J. Bliss, Sylvia Pettibone, Fanny McCollum, Mary Whipple, Celia Bidlake, Marian Niece.
+
+Among earlier teachers were: Phebe Moffard, Chauncey Niece, Gideon Kent, Clark Blair and John Henry.
+
+There are various notes all across the page. Most of them designate where a school stood and teachers.The bottom right corner on C. L. Chamberlain property shows a school and says:
+
+Nov. 1834 to Feb 22, 1835 John Henry taught here with 18 pupils including E. D. Kingsley, Geo., Robert & Theo Smith, G. Smith, Jr, Alex Jr. & Russel Osborn.
+
+On the right side margin it says:
+
+1st school in Bainbridge taught by young Mr. Skiff of Windham in 1816
 
 ***
 
