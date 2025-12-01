@@ -11,8 +11,8 @@ Charles Julius Guiteau – Assassin of President James Garfield
 
 What follows is the typed text (misspellings and all) from an interesting letter that was sent to Captain Henry received from a friend of Charles Guiteau, the assassin of President Garfield.  Marshal Henry was assigned to guard Guiteau and apparently the writer, Frignif Ihinnoe, didn’t think the Captain could be unbiased. We don’t have a photo of Frignif but I found one of Charles Guiteau.
 
-**New York January 4th 1882**   
-Marshal Henry Courthouse Washington D.C. 
+**New York January 4th 1882**  
+Marshal Henry, Courthouse Washington D.C.
 
 You, low ignorant Scoundrel Villain. You are too fresh On Your Stiff wrist.
 
