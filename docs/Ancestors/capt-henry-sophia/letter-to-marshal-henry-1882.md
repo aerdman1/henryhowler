@@ -11,7 +11,10 @@ Charles Julius Guiteau – Assassin of President James Garfield
 
 What follows is the typed text (misspellings and all) from an interesting letter that was sent to Captain Henry received from a friend of Charles Guiteau, the assassin of President Garfield.  Marshal Henry was assigned to guard Guiteau and apparently the writer, Frignif Ihinnoe, didn’t think the Captain could be unbiased. We don’t have a photo of Frignif but I found one of Charles Guiteau.
 
-New York January 4th 1882 Marshal Henry Courthouse Washington D.C. You, low ignorant Scoundrel Villain. You are too fresh On Your Stiff wrist.
+**New York January 4th 1882**   
+Marshal Henry Courthouse Washington D.C. 
+
+You, low ignorant Scoundrel Villain. You are too fresh On Your Stiff wrist.
 
 You are Only a dirty Cowardly crawling vagabond snake and if I was near you I would very quick put a stop to your empty prate.
 
@@ -23,7 +26,7 @@ You hypocritical rascal are you so blind, so utterly ignorant that you don’t k
 
 Now I have done & if you consider yourself insulted and want any satisfaction you can be accommodated at any time and any place!
 
-By an American Frignif Ihinnoe Always for right & against wrong 
+By an American Frignif Ihinnoe Always for right & against wrong
 
 (Signature) Frignif Ihinnoe New York City
 
