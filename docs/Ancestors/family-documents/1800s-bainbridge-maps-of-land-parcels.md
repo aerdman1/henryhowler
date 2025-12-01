@@ -43,6 +43,14 @@ Below is a 1874 Atlas of Geauga county plat maps that was obviously Frederick H
 
 <Image alt="Bainbridge Map TopRight" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-TopRight.jpg" />
 
+| 1857 Bainbridge Map from large family Atlas                                                                                                                                                                                                                          |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Anchor label="Reconstructed Bainbridge Township page -entire PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1874BainbridgeMap-reconstructed.compressed.pdf">Reconstructed Bainbridge Township page -entire PDF</Anchor> |
+| <Anchor label="Top left portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-top-Left.pdf">Top left portion of the Map PDF</Anchor>                                                          |
+| <Anchor label="Top right portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-TopRight.pdf">Top right portion of the Map PDF</Anchor>                                                        |
+| <Anchor label="Bottom left portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-bottom-left.pdf">Bottom left portion of the Map PDF</Anchor>                                                 |
+| [Bottom right portion of the Map PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-BottomRight.pdf)                                                                                                                                |
+
 <br />
 
 ***
@@ -66,14 +74,6 @@ Below is a Bainbridge map dated 1900. I have included a full size image, a close
 <br />
 
 <br />
-
-|                                                                                                                                                                                                                                                                      |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Anchor label="Reconstructed Bainbridge Township page -entire PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1874BainbridgeMap-reconstructed.compressed.pdf">Reconstructed Bainbridge Township page -entire PDF</Anchor> |
-| <Anchor label="Top left portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-top-Left.pdf">Top left portion of the Map PDF</Anchor>                                                          |
-| <Anchor label="Top right portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-TopRight.pdf">Top right portion of the Map PDF</Anchor>                                                        |
-| <Anchor label="Bottom left portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-bottom-left.pdf">Bottom left portion of the Map PDF</Anchor>                                                 |
-| [Bottom right portion of the Map PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-BottomRight.pdf)                                                                                                                                |
 
 <br />
 
