@@ -17,7 +17,7 @@ This map is from 1826 Sidney Rigdon book.
 
 ***
 
-Below is a 1857 map of Geauga and Lake counties. 
+Below is a 1857 map of Geauga and Lake counties.
 
 <Image alt="1857 Geauga County map" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1857Geauga-sm.jpg" />
 
@@ -43,7 +43,7 @@ Below is a 1874 Atlas of Geauga county plat maps that was obviously Frederick H
 
 <Image alt="Bainbridge Map TopRight" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-TopRight.jpg" />
 
-| 1857 Bainbridge Map from large family Atlas                                                                                                                                                                                                                          |
+| 1874 Bainbridge Map from large family Atlas                                                                                                                                                                                                                          |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Anchor label="Reconstructed Bainbridge Township page -entire PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1874BainbridgeMap-reconstructed.compressed.pdf">Reconstructed Bainbridge Township page -entire PDF</Anchor> |
 | <Anchor label="Top left portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-top-Left.pdf">Top left portion of the Map PDF</Anchor>                                                          |
