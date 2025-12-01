@@ -25,6 +25,6 @@ Now I have done & if you consider yourself insulted and want any satisfaction yo
 
 By an American Frignif Ihinnoe Always for right & against wrong (Signature) Frignif Ihinnoe New York City
 
-Download PDF version of this letter: Charles_Guiteau_letterPDF
+<Anchor label="Download PDF version of this letter: Charles_Guiteau_letterPDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Edward-Newton_Letter.compressed.pdf">Download PDF version of this letter: Charles_Guiteau_letterPDF</Anchor>
 
-March 29, 2011 Linda [Charles_Guiteau_letterPDF](/past/letter-marshal-henry-1882/attachment/charles_guiteau_letter/)
+March 29, 2011 Linda <Anchor label="Charles_Guiteau_letterPDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Edward-Newton_Letter.compressed.pdf">Charles_Guiteau_letterPDF</Anchor>
