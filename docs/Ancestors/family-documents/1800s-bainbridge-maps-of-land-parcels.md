@@ -49,7 +49,7 @@ Below is a 1874 Atlas of Geauga county plat maps that was obviously Frederick H
 | <Anchor label="Top left portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-top-Left.pdf">Top left portion of the Map PDF</Anchor>                                                          |
 | <Anchor label="Top right portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-TopRight.pdf">Top right portion of the Map PDF</Anchor>                                                        |
 | <Anchor label="Bottom left portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-bottom-left.pdf">Bottom left portion of the Map PDF</Anchor>                                                 |
-| [Bottom right portion of the Map PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-BottomRight.pdf)                                                                                                                                |
+| <Anchor label="Bottom right portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-BottomRight.pdf">Bottom right portion of the Map PDF</Anchor>                                               |
 
 <br />
 
