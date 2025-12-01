@@ -7,24 +7,16 @@ hidden: false
 ---
 Scott did us all a favor and found out that both Walgreens and Walmart are now converting old slides into digital formats. He sent a wonderful collection of some that he had converted. I hope others will become inspired to convert family slides and send them here for all to see plus it is a good method of archiving them so family can get a good laugh out of them for a long time to come.
 
-![5 out of 6](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/5-out-of-6.jpg)
+<Image alt="Beaver dam" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Beaver-dam.jpg" />
 
-![Bainbridge HS 1934 Champs](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-HS-1934-Champs.jpg)
+<Image align="center" border={false} src="https://files.readme.io/e5c4707d701b310cb3ea754cdaca8953bd4cae808ed9d779e5e87480615ea92e-Janet_H_w_kids_abt_1956-Colorized.jpg" />
 
-![Beaver dam](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Beaver-dam.jpg)
+<Image align="center" border={false} src="https://files.readme.io/2ecabe0bd865a13815489154a6cad6f091760079aad156a6102360233bcea944-Fred_Henry_kids_1963_Christmas-Color-Restored.jpg" />
 
-![Camping](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Camping.jpg)
+<Image alt="Camping" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Camping.jpg" />
 
-![Church Portrait](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Church-Portrait.jpg)
+<Image align="center" border={false} src="https://files.readme.io/dabe40b5ff1358f067e813f4bad1d165401158f52f7638d3b26e812bf43daba0-KCandMUSH-Color-Restored.jpg" />
 
-<Image align="center" border={false} caption="Rickk, Chris, Scott, KC, Heidi and Robyn" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/FHHenry-Sibs-1963.jpg" width="400px" />
+<Image alt="Church Portrait" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Church-Portrait.jpg" />
 
-<Image align="center" alt="FHHenry Sibs" border={false} caption="Janet with Chris, Rick, Scott and KC" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/FHHenry-Sibs.jpg" width="400px" />
-
-<Image align="center" alt="I love this picture of KC and a puppy " border={false} caption="I love this picture of KC and a puppy “Mush (?)” but what really gets me laughing are the two boys in the background shooting into the water. I can only assume it’s Rick and Scott up to no good. Can anybody explain??Linda" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/KCandMUSH.jpg" />
-
-<Image align="center" alt="The Gangs All Here" border={false} caption="The Gangs All Here" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/mygeneration.jpg" />
-
-<br />
-
-[March 19, 2009](/families/general-family/old-slides-to-digital/) [Linda](/author/admin/)
+March 19, 2009 Linda
