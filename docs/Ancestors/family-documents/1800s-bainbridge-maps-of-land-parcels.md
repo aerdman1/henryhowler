@@ -17,7 +17,7 @@ This map is from 1826 Sidney Rigdon book.
 
 ***
 
-<br />
+Below is a 1857 map of Geauga and Lake counties. 
 
 <Image alt="1857 Geauga County map" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1857Geauga-sm.jpg" />
 
