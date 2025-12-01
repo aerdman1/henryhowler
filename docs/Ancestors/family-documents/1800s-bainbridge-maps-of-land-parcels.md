@@ -57,8 +57,6 @@ Below is a 1874 Atlas of Geauga county plat maps that was obviously Frederick H
 
 <br />
 
-<br />
-
 Below is a Bainbridge map dated 1900. I have included a full size image, a close-up image of the C.E. Henry properties and also a <Anchor label="Downloadable version PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1900-Bainbridge-map.pdf">Downloadable version PDF</Anchor>.  This PDF was given to me by Lou Rorimer.
 
 <Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1900-Bainbridge-map-SE-corner.jpg" />
