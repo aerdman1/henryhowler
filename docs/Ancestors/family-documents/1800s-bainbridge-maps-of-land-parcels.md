@@ -57,7 +57,7 @@ T
 
 I have a 1874 Atlas of Geauga county plat maps that was obviously Frederick Henry’s. The book is quite large (12.5’x15.5′) making it impossible to scan the entire page on my scanner so I stitched 4 scans of the Bainbridge map to make the reconstructed PDF. Frederick has many small notations on the map so I included here PDF’s of each section so you can download to view close up. The Atlas is falling apart but is a beautiful collection of maps. It includes maps of the Counties of Ohio and also of the United States. Linda
 
-Reconstructed Bainbridge Township page -entire PDF
+<Anchor label="Reconstructed Bainbridge Township page -entire PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1874BainbridgeMap-reconstructed.compressed.pdf">Reconstructed Bainbridge Township page -entire PDF</Anchor>
 
 Top left portion of the Map PDF
 
