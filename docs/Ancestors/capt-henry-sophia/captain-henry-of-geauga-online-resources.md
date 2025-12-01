@@ -1,5 +1,5 @@
 ---
-title: 'Electronic Book: Captain Henry of Geauga'
+title: 'Electronic Books: Captain Henry of Geauga'
 excerpt: Online Resources
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
