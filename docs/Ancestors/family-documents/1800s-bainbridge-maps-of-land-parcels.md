@@ -61,10 +61,6 @@ Below is a Bainbridge map dated 1900. I have included a full size image, a close
 
 <br />
 
-***
-
-<br />
-
 <Image alt="1900 Bainbridge map" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1900-Bainbridge-map.jpg" />
 
 <br />
