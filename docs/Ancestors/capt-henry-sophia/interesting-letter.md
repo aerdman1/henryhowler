@@ -25,20 +25,17 @@ This letter, dated March 30, 1888, Springfield, Ohio, was written by Capt. Henry
 
 The Edward – Newton letter is challenging to read but full of interesting reminisces and well worth the effort. Download – Edward-Newton_Letter.compressed PDF
 
-March 22, 2017 Linda [Download – Edward-Newton_Letter.compressed PDF](/ancestors/capt-charles-sophia/interesting-letter/attachment/edward-newton_letter-compressed/)Letter  
+March 22, 2017 Linda <Anchor label="Download – Edward-Newton_Letter.compressed PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Edward-Newton_Letter.compressed.pdf">Download – Edward-Newton_Letter.compressed PDF</Anchor>Letter
 
 <br />
 
 Edward Henry writing to John Henry about their brother Simon Henry
 
-This is page one of a six-page handwritten letter from Edward Henry to his brother John Newton Henry dated March 30, 1888, and sent from Springfield, Ohio. 
-
+This is page one of a six-page handwritten letter from Edward Henry to his brother John Newton Henry dated March 30, 1888, and sent from Springfield, Ohio.
 
 UNITED STATES EXPRESS CO.
 
-
 Springfield, O. Mar. 30 1888
-
 
 Good Friday
 Brother Newton,
