@@ -23,7 +23,9 @@ You hypocritical rascal are you so blind, so utterly ignorant that you don’t k
 
 Now I have done & if you consider yourself insulted and want any satisfaction you can be accommodated at any time and any place!
 
-By an American Frignif Ihinnoe Always for right & against wrong (Signature) Frignif Ihinnoe New York City
+By an American Frignif Ihinnoe Always for right & against wrong 
+
+(Signature) Frignif Ihinnoe New York City
 
 <Anchor label="Download PDF version of this letter: Charles_Guiteau_letterPDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Edward-Newton_Letter.compressed.pdf">Download PDF version of this letter: Charles_Guiteau_letterPDF</Anchor>
 
