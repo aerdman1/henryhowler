@@ -8,7 +8,7 @@ hidden: false
 
 Sophia Clarice Newton Ward, the niece and namesake of Capt. Henry’s wife Sophia.
 
-This website chronicles the life of shirt-tail Henry relatives in Wisconsin.
+<Anchor label="This website chronicles the life of shirt-tail Henry relatives in Wisconsin." target="_blank" href="https://sites.rootsweb.com/~reubnewt/NewtWeb/SophiaN_1862/SophiaN_B.htm#:~:text=By%20Myron%20L.,standing%2C%20near%20the%20Methodist%20Church.">This website chronicles the life of shirt-tail Henry relatives in Wisconsin.</Anchor>
 
 Newton Family of Wisconsin site
 
@@ -26,4 +26,8 @@ During the first three years in Cleveland she only saw one member of her immedia
 
 Sophie arrived back at the Newton Place on September 1, 1881, just in time to move into the new home that her father had built. It replaced the old log house, the home of her childhood that Sophie cherished and remembered fondly throughout her life.”
 
-January 14, 2011 Linda [Newton Family of Wisconsin site](http://www.myronnewton.com/NewtWeb/SophiaN_1862/SophiaN_B.htm)
+<Anchor label="Newton Family of Wisconsin site by Myron Newton" target="_blank" href="Newton Family of Wisconsin site by Myron Newton">Newton Family of Wisconsin site by Myron Newton</Anchor>
+
+January 14, 2011 Linda 
+
+<br />
