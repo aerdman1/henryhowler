@@ -1,5 +1,5 @@
 ---
-title: 'Album: 50s and 60s'
+title: 'Album: Some Fred Henry Family'
 excerpt: Old Slides to Digital Mostly Fred and Janet's kids
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
