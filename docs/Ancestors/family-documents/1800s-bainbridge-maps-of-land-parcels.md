@@ -23,7 +23,7 @@ Below is a 1857 map of Geauga and Lake counties.
 
 <Image alt="Bainbridge SW corner 1857 map" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-SW-corner-1857-map.jpg" />
 
-This is a close up of the southwest corner of Geauga county showing the Henry family properties.
+This is a close up of the southwest corner of Geauga county showing the Henry family properties in 1857.
 
 ***
 
