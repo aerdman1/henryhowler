@@ -63,7 +63,7 @@ I have a 1874 Atlas of Geauga county plat maps that was obviously Frederick Hen
 
 <Anchor label="Top right portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-TopRight.pdf">Top right portion of the Map PDF</Anchor>
 
-Bottom left portion of the Map PDF
+<Anchor label="Bottom left portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-bottom-left.pdf">Bottom left portion of the Map PDF</Anchor>
 
 Bottom right portion of the Map PDF
 
