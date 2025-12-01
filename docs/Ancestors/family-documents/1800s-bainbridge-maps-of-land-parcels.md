@@ -5,31 +5,47 @@ date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/oldPropertymap-1.jpg)
+<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/oldPropertymap-1.jpg" />
 
-![1857 Geauga County map](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1857Geauga-sm.jpg)
+This map is from the Capt. Henry of Geauga book
 
-![Bainbridge SW corner 1857 map](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-SW-corner-1857-map.jpg)
+***
 
-![Atlas-cover](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Atlas-cover.jpg)
+<Image align="center" border={false} src="https://files.readme.io/978a26b2d595360b63a3b41f4636cf9757989cadfff0eeb5ec2f507c8e8ef357-1826Rigdon_map.jpg" />
 
-![Atlas-page1](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Atlas-page1.jpg)
+This map is from 1826 Sidney Rigdon book.
 
-![1874BainbridgeMap-reconstructed](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1874BainbridgeMap-reconstructed-1.jpg)
+***
 
-![Bainbridge Map bottom left](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-bottom-left.jpg)
+<br />
 
-![Bainbridge Map BottomRight](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-BottomRight.jpg)
+<Image alt="1857 Geauga County map" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1857Geauga-sm.jpg" />
 
-![Bainbridge Map top Left](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-top-Left.jpg)
+<Image alt="Bainbridge SW corner 1857 map" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-SW-corner-1857-map.jpg" />
 
-![Bainbridge Map TopRight](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-TopRight.jpg)
+<Image alt="Atlas-cover" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Atlas-cover.jpg" />
 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1900-Bainbridge-map-SE-corner.jpg)
+<Image alt="Atlas-page1" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Atlas-page1.jpg" />
 
-![1900 Bainbridge map](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1900-Bainbridge-map.jpg)
+<Image alt="1874BainbridgeMap-reconstructed" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1874BainbridgeMap-reconstructed-1.jpg" />
+
+<Image alt="Bainbridge Map bottom left" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-bottom-left.jpg" />
+
+<Image alt="Bainbridge Map BottomRight" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-BottomRight.jpg" />
+
+<Image alt="Bainbridge Map top Left" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-top-Left.jpg" />
+
+<Image alt="Bainbridge Map TopRight" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-TopRight.jpg" />
+
+<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1900-Bainbridge-map-SE-corner.jpg" />
 
 This Henry Property  Map is in the Captain Henry  of Geauga book.
+
+***
+
+<br />
+
+<Image alt="1900 Bainbridge map" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1900-Bainbridge-map.jpg" />
 
 This map is dated 1857 and shows land parcels belonging to C. Henry.
 
