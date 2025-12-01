@@ -65,7 +65,7 @@ I have a 1874 Atlas of Geauga county plat maps that was obviously Frederick Hen
 
 <Anchor label="Bottom left portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-bottom-left.pdf">Bottom left portion of the Map PDF</Anchor>
 
-Bottom right portion of the Map PDF
+[Bottom right portion of the Map PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-BottomRight.pdf)
 
 This is Bainbridge map dated 1900. I have included a full size image, a close-up image of the C.E. Henry properties and also a Downloadable version PDF.  This PDF was given to me by Lou Rorimer.
 
