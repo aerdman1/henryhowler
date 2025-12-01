@@ -23,6 +23,12 @@ This map is from 1826 Sidney Rigdon book.
 
 <Image alt="Bainbridge SW corner 1857 map" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-SW-corner-1857-map.jpg" />
 
+This map is dated 1857.
+
+***
+
+<br />
+
 <Image alt="Atlas-cover" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Atlas-cover.jpg" />
 
 <Image alt="Atlas-page1" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Atlas-page1.jpg" />
@@ -47,7 +53,7 @@ This Henry Property  Map is in the Captain Henry  of Geauga book.
 
 <Image alt="1900 Bainbridge map" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1900-Bainbridge-map.jpg" />
 
-This map is dated 1857 and shows land parcels belonging to C. Henry.
+T
 
 I have a 1874 Atlas of Geauga county plat maps that was obviously Frederick Henry’s. The book is quite large (12.5’x15.5′) making it impossible to scan the entire page on my scanner so I stitched 4 scans of the Bainbridge map to make the reconstructed PDF. Frederick has many small notations on the map so I included here PDF’s of each section so you can download to view close up. The Atlas is falling apart but is a beautiful collection of maps. It includes maps of the Counties of Ohio and also of the United States. Linda
 
@@ -64,3 +70,5 @@ Bottom right portion of the Map PDF
 This is Bainbridge map dated 1900. I have included a full size image, a close-up image of the C.E. Henry properties and also a Downloadable version PDF.  This PDF was given to me by Lou Rorimer.
 
 February 6, 2017 Linda [Reconstructed Bainbridge Township page -entire PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1874BainbridgeMap-reconstructed.compressed.pdf) [Top left portion of the Map PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-top-Left.pdf) [Top right portion of the Map PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-TopRight.pdf) [Bottom left portion of the Map PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-bottom-left.pdf) [Bottom right portion of the Map PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-BottomRight.pdf) [Downloadable version PDF.](/general-family/1874-bainbridge-map-of-land-parcels/attachment/1900-bainbridge-map-2/)
+
+<br />
