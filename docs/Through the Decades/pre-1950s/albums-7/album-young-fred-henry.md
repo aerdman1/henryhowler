@@ -17,4 +17,8 @@ metadata:
 
 <Image align="center" border={false} src="https://files.readme.io/741ed089e36005d89e1ebac1f474594a9c00ec078624347c9a3d858d9701c794-Fred_Henry_WWII_colorized.jpg" />
 
-<br />
+<Image align="center" border={false} src="https://files.readme.io/61883e47b70b13a905dbbfb956deb5253262d20c9f4d6ac2a7f5be1959bd7689-Fred-John0006.jpg" />
+
+<Image align="center" border={false} src="https://files.readme.io/46479daff9c3d550b478ac0200b707c2e05362c61aa26cd78bd4ae97a03126a9-IMG_0057-Colorized.jpg" />
+
+<Image border={false} />
