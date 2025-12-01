@@ -51,8 +51,6 @@ Below is a 1874 Atlas of Geauga county plat maps that was obviously Frederick H
 | <Anchor label="Bottom left portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-bottom-left.pdf">Bottom left portion of the Map PDF</Anchor>                                                 |
 | <Anchor label="Bottom right portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-BottomRight.pdf">Bottom right portion of the Map PDF</Anchor>                                               |
 
-<br />
-
 ***
 
 <br />
@@ -71,6 +69,6 @@ Below is a Bainbridge map dated 1900. I have included a full size image, a close
 
 <br />
 
-February 6, 2017 Linda 
+February 6, 2017 Linda
 
 <br />
