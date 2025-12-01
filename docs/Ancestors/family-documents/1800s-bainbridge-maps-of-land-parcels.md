@@ -43,9 +43,13 @@ Below is a 1874 Atlas of Geauga county plat maps that was obviously Frederick H
 
 <Image alt="Bainbridge Map TopRight" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-TopRight.jpg" />
 
+***
+
+This is a Bainbridge map dated 1900. I have included a full size image, a close-up image of the C.E. Henry properties and also a <Anchor label="Downloadable version PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1900-Bainbridge-map.pdf">Downloadable version PDF</Anchor>.  This PDF was given to me by Lou Rorimer.
+
 <Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1900-Bainbridge-map-SE-corner.jpg" />
 
-This Henry Property  Map is in the Captain Henry  of Geauga book.
+<br />
 
 ***
 
@@ -65,14 +69,11 @@ I have a 1874 Atlas of Geauga county plat maps that was obviously Frederick Hen
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Anchor label="Reconstructed Bainbridge Township page -entire PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1874BainbridgeMap-reconstructed.compressed.pdf">Reconstructed Bainbridge Township page -entire PDF</Anchor> |
 | <Anchor label="Top left portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-top-Left.pdf">Top left portion of the Map PDF</Anchor>                                                          |
+| <Anchor label="Top right portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-TopRight.pdf">Top right portion of the Map PDF</Anchor>                                                        |
+| <Anchor label="Bottom left portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-bottom-left.pdf">Bottom left portion of the Map PDF</Anchor>                                                 |
+| [Bottom right portion of the Map PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-BottomRight.pdf)                                                                                                                                |
 
 <br />
-
-<Anchor label="Top right portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-TopRight.pdf">Top right portion of the Map PDF</Anchor>
-
-<Anchor label="Bottom left portion of the Map PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-bottom-left.pdf">Bottom left portion of the Map PDF</Anchor>
-
-[Bottom right portion of the Map PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Bainbridge-Map-BottomRight.pdf)
 
 This is Bainbridge map dated 1900. I have included a full size image, a close-up image of the C.E. Henry properties and also a Downloadable version PDF.  This PDF was given to me by Lou Rorimer.
 
