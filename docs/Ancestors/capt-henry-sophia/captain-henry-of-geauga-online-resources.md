@@ -20,7 +20,7 @@ Use this link: <Anchor label="HathiTrust-Capt Henry" target="_blank" href="https
 
 <Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1880GeaugaPioneerHistory.jpg" />
 
-<Anchor label="[http://sidneyrigdon.com/books/Hnry1942.htm#comments](http://sidneyrigdon.com/books/Hnry1942.htm#comments)" target="_blank" href="http://sidneyrigdon.com/books/Hnry1942.htm#comments"><Anchor label="http://sidneyrigdon.com/books/Hnry1942.htm#comments" target="_blank" href="http://sidneyrigdon.com/books/Hnry1942.htm#comments">http://sidneyrigdon.com/books/Hnry1942.htm#comments</Anchor></Anchor>
+<Anchor label="[[http://sidneyrigdon.com/books/Hnry1942.htm#comments](http://sidneyrigdon.com/books/Hnry1942.htm#comments)](http://sidneyrigdon.com/books/Hnry1942.htm#comments)" target="_blank" href="http://sidneyrigdon.com/books/Hnry1942.htm#comments"><Anchor label="[http://sidneyrigdon.com/books/Hnry1942.htm#comments](http://sidneyrigdon.com/books/Hnry1942.htm#comments)" target="_blank" href="http://sidneyrigdon.com/books/Hnry1942.htm#comments"><Anchor label="http://sidneyrigdon.com/books/Hnry1942.htm#comments" target="_blank" href="http://sidneyrigdon.com/books/Hnry1942.htm#comments">http://sidneyrigdon.com/books/Hnry1942.htm#comments</Anchor></Anchor></Anchor>
 
 ***
 
