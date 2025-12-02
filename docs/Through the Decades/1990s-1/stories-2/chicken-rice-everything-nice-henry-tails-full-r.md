@@ -1,6 +1,6 @@
 ---
 title: 'Story: Tastes like SH*T-- But Good'
-excerpt: 1990s
+excerpt: by Scott Henry. 1990s
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
