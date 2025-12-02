@@ -16,4 +16,4 @@ This is such a cool interesting article about Capt. Henry and his farm, primaril
 
 Transcription of The Ohio Farmer article PDF
 
-March 4, 2017 Linda [Transcription of The Ohio Farmer article PDF](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/The-Ohio-Farmer-1901-CE-Henry-article.compressed.pdf)
+March 4, 2017 Linda <Anchor label="Transcription of The Ohio Farmer article PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/The-Ohio-Farmer-1901-CE-Henry-article.compressed.pdf">Transcription of The Ohio Farmer article PDF</Anchor>
