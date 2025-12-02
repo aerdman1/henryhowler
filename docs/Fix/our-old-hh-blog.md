@@ -1,5 +1,8 @@
 ---
 title: 'Articles: Our Old HH Blog'
+excerpt: >-
+  In 2007, before Facebook, the Gene Henry's had a family blog to keep in
+  contact with each other.
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
