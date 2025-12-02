@@ -7,9 +7,9 @@ hidden: false
 ---
 <Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/GarfeldObserver-laughing.png" />
 
-I copied this post from the , ,  which does not exist anymore.
+I copied this post from the , National Park Guide, Garfield Observer Blog ,  which does not exist anymore._
 
-Good friends and casual visitors often remarked about James Garfield’s passion for books and their contents. A visitor to the Congressman’s home on I Street in Washington, D.C.:
+"Good friends and casual visitors often remarked about James Garfield’s passion for books and their contents. A visitor to the Congressman’s home on I Street in Washington, D.C.:
 
 “The books… overflowed the library. And undoubtedly the overflow has been regular, as you can go nowhere in the general’s home without coming face to face with books. They confront you in the hall when you enter, in the parlor and the sitting room, in the dining-room and even in the bath-room, where documents and speeches are corded up like firewood.” (quoted in Leech & Brown, The Garfield Orbit, p.182-183)
 
@@ -45,8 +45,12 @@ House colleagues and social friends, Cox and Garfield seem to have had very diff
 
 “Our enjoyments in this life should antedate our future bliss. We have enough clouds of sorrow here. Let us fringe their dark edges with sunshine. Let us mellow and brighten them for the solace of others, if not for the joy of our own heart. Grief and melancholy are selfish. All nature calls for hilarity…In that province of human activity in which life, liberty, and the pursuit of happiness are the ostensible objects of guarantee—the province of statesmanship—where the collisions of prejudice, interest, and passion are in constant debate, while there may be no need for the cap and bells of the fool or the acrobatic entertainment of the harlequin and clown, there is ever an urgency for those gifts which cheer, brighten, and bless, and which suffuse through society their soft radiance like the sweet, hallowing influences of sunset.”
 
-Perhaps Mr. Garfield could agree with that.
+Perhaps Mr. Garfield could agree with that."
 
--by
+-by Joan Kapsch, National Park Guide, Garfield Observer Blog
+
+<br />
 
 February 1, 2017 Linda December 5, 2013
+
+<br />
