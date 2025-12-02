@@ -9,8 +9,6 @@ There was lots of activity on our old Henry Howler Blog, I just couldn’t let i
 
 <br />
 
-<Anchor label="Feb. 19 -What Current Movie Do You Recommend and Why?" target="_blank" href="http://www.henryhowler.com/wp-content/uploads/2017/02/what-current-movie-do-you-recommend-and.html">Feb. 19 -What Current Movie Do You Recommend and Why?</Anchor>
-
 <Anchor label="Feb. 20 Why Do We Need A Birthday Calendar?" target="_blank" href="http://www.henryhowler.com/wp-content/uploads/2017/02/why-do-we-even-need-birthday-calender_20.html">Feb. 20 Why Do We Need A Birthday Calendar?</Anchor>
 
 <Anchor label="Feb. 21 – Home Page Updated" target="_blank" href="http://www.henryhowler.com/wp-content/uploads/2017/02/updated-home-page-today.html">Feb. 21 – Home Page Updated</Anchor>
