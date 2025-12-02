@@ -1,5 +1,5 @@
 ---
-title: 'CAN"T MOVE Article: Summary of “Capt. Henry of Geauga”'
+title: 'Article: Summary of “Capt. Henry of Geauga”'
 excerpt: Jim summarized chapter by chapter the book
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
