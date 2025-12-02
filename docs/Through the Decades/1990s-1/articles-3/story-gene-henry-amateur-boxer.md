@@ -32,7 +32,7 @@ written December 2025
 
 After reading this story I tried to find our more. All I could find was a refrence to a lightwieght boxer named Beau Jack who fought at least one bout in Cleveland, Ohio (Public Hall, 1944). Could this be the guy?  Gene would have been only 19 years old but it's possible.
 
-Read all the old Henry Howlers 1991-1992.
+<Anchor label="Read all the old Henry Howlers 1991-1992." target="_blank" href="https://family.henryhowler.com/update/docs/dans-original-howlers-1990-1992#/">Read all the old Henry Howlers 1991-1992.</Anchor>
 
 <Image align="center" border={false} width="400px" src="https://files.readme.io/063007c4018847be6904e04099d03ea3bcb9e0bac475d681c3f3c27290ce1762-image.png" />
 
