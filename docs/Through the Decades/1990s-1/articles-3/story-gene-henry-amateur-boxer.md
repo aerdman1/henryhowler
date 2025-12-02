@@ -6,7 +6,7 @@ hidden: false
 metadata:
   robots: index
 ---
-The following story is lifted from the Old Henry Howler Family Newsletter dated April, 1991, written by Dan:
+The following story is lifted from the <Anchor label="Old Henry Howler Family Newsletter dated April, 1991" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/1991-4.pdf">Old Henry Howler Family Newsletter dated April, 1991</Anchor>, written by Dan:
 
 I was sitting on one couch, eating ice cream we’d bought as a special treat to celebrate Dad, Mom, and Pat’s visit. Dad was on the other couch reading a book about Eskimo culture that Jim had loaned him. In the background, the TV was showing a fight between two mean-looking individuals. Dad looked over at me and asked if he had ever told me about his experience as a Golden Gloves amateur boxer. I knew of it, but I didn’t know the details.
 
@@ -27,10 +27,12 @@ Thank you, Little Bow, wherever you are.
 Sincerely,
 Almost Dan Jubar Asmid
 
-**THE REST OF THE STORY BY LINDA -**   
+**THE REST OF THE STORY BY LINDA -**  
 written December 2025
 
 After reading this story I tried to find our more. All I could find was a refrence to a lightwieght boxer named Beau Jack who fought at least one bout in Cleveland, Ohio (Public Hall, 1944). Could this be the guy?  Gene would have been only 19 years old but it's possible.
+
+Read all the old Henry Howlers 1991-1992.
 
 <Image align="center" border={false} width="400px" src="https://files.readme.io/063007c4018847be6904e04099d03ea3bcb9e0bac475d681c3f3c27290ce1762-image.png" />
 
