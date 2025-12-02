@@ -1,13 +1,10 @@
 ---
-title: 'FIX ME: Our Old HH Blog'
-excerpt: Linda - your call what to do with this
+title: 'Articles: Our Old HH Blog'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
 There was lots of activity on our old Henry Howler Blog, I just couldn’t let it fade away so here are some of the old posts. Read at your own risk...
-
-<br />
 
 [Feb. 16 – What’s Going On?](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/whats-going-on-all.html)
 
