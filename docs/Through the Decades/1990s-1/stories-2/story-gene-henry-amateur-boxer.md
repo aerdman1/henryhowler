@@ -34,6 +34,6 @@ After reading this story I tried to find our more. All I could find was a refren
 
 <Anchor label="Read all the old Henry Howlers 1991-1992." target="_blank" href="https://family.henryhowler.com/update/docs/dans-original-howlers-1990-1992#/">Read all the old Henry Howlers 1991-1992.</Anchor>
 
-<Image align="center" border={false} width="400px" src="https://files.readme.io/921f057e4e53441bd97094f9b75c84d62cdb14427bb9edec4e3de7d1869769b7-beau-jack_001.webp" />
+<Image align="center" border={false} width="400px" src="https://files.readme.io/975a9d7715756b76cf4bd4e4e9655c3da85e6c2a463d4d300bb219fcac021114-beau-jack_001.jpg" />
 
 <br />
