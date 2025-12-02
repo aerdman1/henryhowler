@@ -1,6 +1,6 @@
 ---
 title: 'Eulogies: Kenneth Robert Montlack'
-excerpt: Eulogies for Kenneth Robert Montlack (1939-2023)
+excerpt: Eulogies for Kenneth Robert Montlack (1939-2023) by Liz Martin
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
