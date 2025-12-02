@@ -14,6 +14,6 @@ hidden: false
 
 This is such a cool interesting article about Capt. Henry and his farm, primarily the maple sugar operation.  I scanned it but also typed it into a document to be more readable.
 
-Transcription of The Ohio Farmer article PDF
+<Anchor label="Transcription of The Ohio Farmer article PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/The-Ohio-Farmer-1901-CE-Henry-article.compressed.pdf">Transcription of The Ohio Farmer article PDF</Anchor>
 
 March 4, 2017 Linda <Anchor label="Transcription of The Ohio Farmer article PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/The-Ohio-Farmer-1901-CE-Henry-article.compressed.pdf">Transcription of The Ohio Farmer article PDF</Anchor>
