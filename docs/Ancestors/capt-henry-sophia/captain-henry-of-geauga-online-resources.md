@@ -5,36 +5,36 @@ date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/HenryofGeaugabook.jpg)
+<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/HenryofGeaugabook.jpg" />
 
 <Image align="center" alt="Image" border={false} caption="Capt. Charles E. Henry" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Charles-e1538965601359.jpg" />
 
 **Captain Henry of Geauga A memoir by his son, Frederick A. Henry (1867-1949)** (Cleveland: The Gates Press, 1942)
 
-The ENTIRE book is online and searchable through the HathiTrust Digital Library!  \
+The ENTIRE book is online and searchable through the HathiTrust Digital Library!    
 Use this link: <Anchor label="HathiTrust-Capt Henry" target="_blank" href="https://babel.hathitrust.org/cgi/pt?id=wu.89062145354&view=1up&seq=1">HathiTrust-Capt Henry</Anchor>
 
 ***
 
 <Image align="center" alt="Image" border={false} caption="<Anchor label=&#x22;hhh&#x22; target=&#x22;_blank&#x22; href=&#x22;http://sidneyrigdon.com/books/Hnry1942.htm#comments&#x22;>hhh</Anchor>" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Screen-Shot-2017-03-06-at-12.14.16-PM.png" />
 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1880GeaugaPioneerHistory.jpg)
+<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1880GeaugaPioneerHistory.jpg" />
 
-[http://sidneyrigdon.com/books/Hnry1942.htm#comments](http://sidneyrigdon.com/books/Hnry1942.htm#comments)
-
-***
-
-<br />
-
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Screen-Shot-2017-03-06-at-12.14.16-PM.png)
-
-Sidney Rigdon.com is a collection of “rare and historic Mormon texts”.  In this section they have excerpted many of the passages from Frederick Henry’s book, “Captain Henry of Geauga” that are pertaining to early Bainbridge life and Henry family history.  Sidney Rigdon himself was reputed to have written the Book of Mormon while living in Bainbridge (see below links). Check out this link:  [http://sidneyrigdon.com/books/Hnry1942.htm](http://sidneyrigdon.com/books/Hnry1942.htm)
+<Anchor label="http://sidneyrigdon.com/books/Hnry1942.htm#comments" target="_blank" href="http://sidneyrigdon.com/books/Hnry1942.htm#comments">http://sidneyrigdon.com/books/Hnry1942.htm#comments</Anchor>
 
 ***
 
 <br />
 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1880GeaugaPioneerHistory.jpg)
+<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Screen-Shot-2017-03-06-at-12.14.16-PM.png" />
+
+Sidney Rigdon.com is a collection of “rare and historic Mormon texts”.  In this section they have excerpted many of the passages from Frederick Henry’s book, “Captain Henry of Geauga” that are pertaining to early Bainbridge life and Henry family history.  Sidney Rigdon himself was reputed to have written the Book of Mormon while living in Bainbridge (see below links). Check out this link:  <Anchor label="http://sidneyrigdon.com/books/Hnry1942.htm" target="_blank" href="http://sidneyrigdon.com/books/Hnry1942.htm">http://sidneyrigdon.com/books/Hnry1942.htm</Anchor>
+
+***
+
+<br />
+
+<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/1880GeaugaPioneerHistory.jpg" />
 
 <br />
 
@@ -44,14 +44,14 @@ Published in 1880, this is the written memories of members of the Bainbridge co
 
 ***
 
-**Pioneer Women of Geauga**  also makes several references to different Henry family members during the 1800’s and the settling of Bainbridge Township also makes several references to different Henry family members during the 1800’s and the settling of Bainbridge Township.  <Anchor label="Pioneer Women of Bainbridge." target="_blank" href="http://www.sidneyrigdon.com/books/1896Wick.htm#pg287b">Pioneer Women of Bainbridge.</Anchor>\
+**Pioneer Women of Geauga**  also makes several references to different Henry family members during the 1800’s and the settling of Bainbridge Township also makes several references to different Henry family members during the 1800’s and the settling of Bainbridge Township.  <Anchor label="Pioneer Women of Bainbridge." target="_blank" href="http://www.sidneyrigdon.com/books/1896Wick.htm#pg287b">Pioneer Women of Bainbridge.</Anchor>  
 I have made a PDF of the Bainbriged
 
 ***
 
 <br />
 
-![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Henry42.jpg)
+<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Henry42.jpg" />
 
 <br />
 
@@ -65,7 +65,7 @@ This paper was written by Frederick Henry to preserve the history of the Centrev
 
 <br />
 
-<Image align="left" alt="Image" width="800px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Screen-Shot-2017-02-08-at-12.48.53-PM.png" />
+<Image align="left" alt="Image" border={false} width="800px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Screen-Shot-2017-02-08-at-12.48.53-PM.png" />
 
 <br />
 
@@ -73,16 +73,16 @@ This paper was written by Frederick Henry to preserve the history of the Centrev
 
 Check out the well written Introduction page of the Henry Family Collection on the Hiram College website.  I was privileged to visit the library there with Ellen a few years ago.  We viewed some of these materials and some scans of photos were given to us to use on our family website.
 
-**Henry Family Papers, 1864 – 1944\
+**Henry Family Papers, 1864 – 1944  
 Charles E. Henry 1836 – 1908
 Frederick A. Henry 1867 – 1949
 Marcia Henry 1869 – 1958**
 
-Prepared by Joanne Sawyer, 1988\
+Prepared by Joanne Sawyer, 1988  
 Updated by Lisa Johnson, September 15, 2004
 8 record storage boxes, 3 half-size record storage boxes, 1 quarter-size record storage box, 1 phase box, oversize books and folders, 11 cubic feet.
 
-[http://library.hiram.edu/index.php/finding-aids/personal-papers-finding-aids/1325-the-henry-collection](http://library.hiram.edu/index.php/finding-aids/personal-papers-finding-aids/1325-the-henry-collection)
+<Anchor label="http://library.hiram.edu/index.php/finding-aids/personal-papers-finding-aids/1325-the-henry-collection" target="_blank" href="http://library.hiram.edu/index.php/finding-aids/personal-papers-finding-aids/1325-the-henry-collection">http://library.hiram.edu/index.php/finding-aids/personal-papers-finding-aids/1325-the-henry-collection</Anchor>
 
 ***
 
