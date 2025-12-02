@@ -1,7 +1,7 @@
 ---
 title: 'Stories: Recollections of a Weakling:'
 excerpt: >-
-  Conflict Resolution as the Youngest of Four Brothers -- Remember by Dan in
+  Conflict Resolution as the Youngest of Four Brothers -- Remembered by Dan in
   2025
 deprecated: false
 hidden: false
