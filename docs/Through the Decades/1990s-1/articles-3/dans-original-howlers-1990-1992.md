@@ -1,5 +1,6 @@
 ---
 title: Dan’s Original Howlers 1990-1992
+excerpt: Photocopies of our old family newsletters - many stories and memories!
 deprecated: false
 hidden: false
 metadata:
