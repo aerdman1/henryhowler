@@ -6,8 +6,6 @@ hidden: false
 ---
 <Image alt="My beautiful picture" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Keith-CastingKid.jpg" />
 
-<Image alt="IMG_0008" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/IMG_0008.jpg" />
-
 <Image align="center" alt="My beautiful picture" border={false} caption="Dan and Lucky dog, Dan and Jeanne's drive from Alaska to Ohio 1994" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PICT0116.jpg" />
 
 <Image alt="My beautiful picture" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/PICT0111.jpg" />
