@@ -1,6 +1,6 @@
 ---
 title: 'Story: Gene Henry, Amateur Boxer'
-excerpt: Thanks Little Bow - By Dan Henry
+excerpt: Thanks Little Bow - By Dan Henry 1991
 deprecated: false
 hidden: false
 metadata:
