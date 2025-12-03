@@ -50,7 +50,7 @@ Here, recorded for posterity, is the heavenly dialog Dad wrote for Fred's memori
 
 **Fred:** Is it true there are no cigarettes up here?
 
-<Image align="center" border={false} src="https://files.readme.io/928f6922bcb8a7ce5db20539d39474793d366fe2dcef43ee20573a2f638cc32b-Gene_Janet_Fred_Jeanne-Color-Restored.jpg" />
+<Image align="center" border={false} caption="L to R:  Gene, Janet, Fred, Jeanne" src="https://files.readme.io/928f6922bcb8a7ce5db20539d39474793d366fe2dcef43ee20573a2f638cc32b-Gene_Janet_Fred_Jeanne-Color-Restored.jpg" />
 
 ## Reflections on Fred
 
