@@ -50,6 +50,8 @@ Here, recorded for posterity, is the heavenly dialog Dad wrote for Fred's memori
 
 **Fred:** Is it true there are no cigarettes up here?
 
+<Image align="center" border={false} src="https://files.readme.io/928f6922bcb8a7ce5db20539d39474793d366fe2dcef43ee20573a2f638cc32b-Gene_Janet_Fred_Jeanne-Color-Restored.jpg" />
+
 ## Reflections on Fred
 
 Brothers John, Don, and I had a pretty tough act to follow growing up behind Fred. He was four years older than John, six years older than I [Gene], and seventeen years older than Don. In some ways, he made things easier for us, and in other ways, more difficult. As the first child, he got our mother and father used to the problems of raising four boys. But also, he set a pretty high standard and reputation for us to try to live up to.
@@ -63,4 +65,4 @@ One mission to the Ploesti oil fields in Romania resulted in his plane catching 
 This was published in the original Henry Howler Family News from the 1990 December edition
 while Dan and Cindy were teachers in Danger Bay Alaska.
 
-https://family.henryhowler.com/docs/all-of-dans-original-howlers-1990-1992#/
+[https://family.henryhowler.com/docs/all-of-dans-original-howlers-1990-1992#/](https://family.henryhowler.com/docs/all-of-dans-original-howlers-1990-1992#/)
