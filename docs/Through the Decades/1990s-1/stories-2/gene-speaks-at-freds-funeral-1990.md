@@ -60,4 +60,5 @@ One mission to the Ploesti oil fields in Romania resulted in his plane catching 
 
 ***
 
-_
+This was published in the original Henry Howler Family News from the 1990 December edition 
+while Dan and Cindy were teachers in Danger Bay Alaska.
