@@ -1,6 +1,6 @@
 ---
 title: 'Story: Gene Henry, Amateur Boxer'
-excerpt: Thanks Little Bow - By Dan Henry 1991
+excerpt: Thanks Little Beau - By Dan Henry 1991
 deprecated: false
 hidden: false
 metadata:
@@ -20,7 +20,7 @@ The bell for the first round rang, and from then on Dad says his memory isn’t 
 
 After three rounds, Little Bow was declared the winner, and Dad had at least held his own. Little Bow went on to fight in a championship match, which he lost.
 
-I’m sure Dad was disappointed (and somewhat disoriented) on that sorry day when he lost to Little Bow. But just think—had he won, it might have changed him somehow. Who knows, he might have changed his name to Muhammad or Kareem. I’m kind of glad he lost that day, because I like him pretty well the way he is now.
+I’m sure Dad was disappointed (and somewhat disoriented) on that sorry day when he lost to Little Beau. But just think—had he won, it might have changed him somehow. Who knows, he might have changed his name to Muhammad or Kareem. I’m kind of glad he lost that day, because I like him pretty well the way he is now.
 
 Thank you, Little Bow, wherever you are.
 
