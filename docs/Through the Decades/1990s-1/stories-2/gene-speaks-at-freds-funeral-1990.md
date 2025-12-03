@@ -10,7 +10,7 @@ link:
 metadata:
   robots: index
 ---
-This "Message from the Family" was prepared and read by Gene Henry on the occasion of his brother's funeral service held November 26th, 1990. Frederick Hawely Henry passed away November 21st, 1990._
+This "Message from the Family" was prepared and read by Gene Henry on the occasion of his brother's funeral service held November 26th, 1990. Frederick Hawley Henry passed away November 21st, 1990._
 
 Here, recorded for posterity, is the heavenly dialog Dad wrote for Fred's memorial service.
 
