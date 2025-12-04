@@ -1,6 +1,6 @@
 ---
-title: 'Story: Ticks Everywhere!!'
-excerpt: 1990s
+title: 'Story: Ticks Everywhere!! 1990s'
+excerpt: 'Keith: I feel sick, It''s a tick, and it sucking on my (Private Parts).'
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
