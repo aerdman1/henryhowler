@@ -1,6 +1,6 @@
 ---
 title: 'Canada Fishing Trip 1998 '
-excerpt: by Scott Henry
+excerpt: by Scott Henry, co-founder of the Henry Wanderers Club
 deprecated: false
 hidden: false
 metadata:
