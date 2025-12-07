@@ -1,5 +1,5 @@
 ---
-title: Brothers Can't Marry
+title: 'Video: Brothers Can''t Marry'
 deprecated: false
 hidden: false
 metadata:
