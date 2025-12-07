@@ -1,5 +1,5 @@
 ---
-title: 'Video: Janet & Freddie’s Wedding '
+title: 'Video: Janet & Freddie’s Wedding  '
 excerpt: by Jeanne Henry
 deprecated: false
 hidden: false
