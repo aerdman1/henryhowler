@@ -1,5 +1,5 @@
 ---
-title: Dan and Pat in Mexico
+title: 'Videos: Dan and Pat in Mexico'
 deprecated: false
 hidden: false
 metadata:
