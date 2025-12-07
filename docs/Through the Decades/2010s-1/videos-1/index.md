@@ -1,5 +1,5 @@
 ---
-title: Videos
+title: Dan and Pat in Mexico
 deprecated: false
 hidden: false
 metadata:
