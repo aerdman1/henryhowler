@@ -1,5 +1,5 @@
 ---
-title: Brothers Can't Marry
+title: Best Brother Friends
 deprecated: false
 hidden: false
 metadata:
