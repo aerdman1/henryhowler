@@ -7,7 +7,7 @@ metadata:
   robots: index
 ---
 <Cards columns={2} title="Cards">
-  <Card title="Families" href="families-home" icon="fa-people-roof">
+  <Card title="Throught The Decades" href="families-home" icon="fa-people-roof">
     Family Articles
   </Card>
 
@@ -15,11 +15,11 @@ metadata:
     Ancestor Articles
   </Card>
 
-  <Card title="Stories & Memories" href="stories-and-memories-home" icon="fa-book-open">
+  <Card title="Odds & Ends" href="stories-and-memories-home" icon="fa-book-open">
     Find Stories & Memories
   </Card>
 
-  <Card title="Media" href="media-home" icon="fa-photo-film">
+  <Card title="Nothing Yet" href="media-home" icon="fa-photo-film">
     Images, videos, and other media
   </Card>
 </Cards>
