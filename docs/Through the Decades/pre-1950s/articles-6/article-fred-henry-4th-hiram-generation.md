@@ -15,7 +15,7 @@ This article about the long standing relationship between Hiram College and the 
 # FRED HENRY AND THE PRINGLE SISTERS
 
 ### Plain Dealer Special
-HIRAM, O. Nov. 24
+       HIRAM, O. Nov. 24
 
 If Fred Henry of Geauga Lake O., freshman at Hiram College here, falls in love with a Hiram classmate and marries her, it will not surprise anyone. His father, grandfather and great-grandfather all did it
 The Pringle sisters Ruth and Jean, of Girard, O., who enrolled at Hiram this fall are, like young Henry, representatives of the fourth generation of their family to enroll at Hiram College.
