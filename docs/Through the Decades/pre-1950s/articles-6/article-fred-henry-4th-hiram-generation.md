@@ -12,9 +12,12 @@ This article about the long standing relationship between Hiram College and the 
 
 <Image align="center" border={false} src="https://files.readme.io/70c1ca886cf60e1432f8677850fc7f9c21157660cd96cf78dada05a5df7561d5-The_Plain_Dealer_1937_11_25_44.jpg" />
 
-FRED HENRY AND THE PRINGLE SISTERS
-Plain Dealer Special
-HIRAM, O. Nov. 24-If Fred Henry of Geauga Lake O., freshman at Hiram College here, falls in love with a Hiram classmate and marries her, it will not surprise anyone. His father, grandfather and great-grandfather all did it
+# FRED HENRY AND THE PRINGLE SISTERS
+
+### Plain Dealer Special
+HIRAM, O. Nov. 24
+
+If Fred Henry of Geauga Lake O., freshman at Hiram College here, falls in love with a Hiram classmate and marries her, it will not surprise anyone. His father, grandfather and great-grandfather all did it
 The Pringle sisters Ruth and Jean, of Girard, O., who enrolled at Hiram this fall are, like young Henry, representatives of the fourth generation of their family to enroll at Hiram College.
 Frederick Williams, one-time Portage County treasurer, was one of the Disciple Church members who founded the Western Reserve Eclectic Institute, later renamed Hiram College. Williams' daughter went there to study and met her future husband, Charles E. Henry, who was later to join the famous 42d Ohio Infantry in the Civil War.
 He and Sophia Williams sent all their children to Hiram. Among them were Frederick A. Henry, now retiring president of the college's board of trustees, Mrs. A. G. Webb of Cleveland and Marcia Henry who later became "lady principal" of the college.
