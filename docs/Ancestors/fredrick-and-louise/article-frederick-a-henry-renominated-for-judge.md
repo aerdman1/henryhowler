@@ -1,6 +1,6 @@
 ---
 title: 'Article: Frederick A Henry Renominated for Judge'
-excerpt: Plain Dealer, June 12, 1910
+excerpt: Plain Dealer, June 12, 1910, added by Linda Henry Dec 2025
 deprecated: false
 hidden: false
 metadata:
