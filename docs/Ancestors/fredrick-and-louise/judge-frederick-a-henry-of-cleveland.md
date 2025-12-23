@@ -1,5 +1,6 @@
 ---
 title: 'Article: Judge Frederick A. Henry of Cleveland'
+excerpt: Scanned from A History of Cleveland, published 1910, by Linda Henry
 date: '2017-01-03T05:00:00.000Z'
 deprecated: false
 hidden: false
