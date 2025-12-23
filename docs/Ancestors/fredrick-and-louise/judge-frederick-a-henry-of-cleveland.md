@@ -4,7 +4,7 @@ date: '2017-01-03T05:00:00.000Z'
 deprecated: false
 hidden: false
 ---
-I discovered a online resource that is a scan of a book called “A History of Cleveland”.  They devoted 7 pages of biographical info that must of been written and submitted by Frederick himself.   I was able to make a PDF of the pages concerning Frederick A. Henry.  It was published in 1910 during Frederick’s career as a circuit court judge in Cleveland. “History of Cleveland – Frederick A. Henry PDF
+I discovered a online resource that is a scan of a book called “A History of Cleveland”.  They devoted 7 pages of biographical info that must of been written and submitted by Frederick himself.   I was able to make a PDF of the pages concerning Frederick A. Henry.  It was published in 1910 during Frederick’s career as a circuit court judge in Cleveland. “<Anchor label="History of Cleveland – Frederick A. Henry PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/History-Cleveland-F.A.-Henry.pdf">History of Cleveland – Frederick A. Henry PDF</Anchor>
 
 JUDGE FREDERICK AUGUSTUS HENRY
 Ancestry and Early Family History
