@@ -1,5 +1,5 @@
 ---
-title: Videos
+title: Other Videos
 deprecated: false
 hidden: false
 metadata:
