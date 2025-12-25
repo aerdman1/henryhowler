@@ -1,5 +1,5 @@
 ---
-title: 'Article: Nice Start '
+title: 'Article: Anna Runs Cross Country'
 excerpt: Bombers Girls Cross Country Team  September 17, 2007
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
