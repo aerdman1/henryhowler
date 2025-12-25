@@ -1,6 +1,6 @@
 ---
 title: 'Story: Lost on Horseshoe Mnt.'
-excerpt: 1960s
+excerpt: 1960s Rick talking about his father Fred
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
