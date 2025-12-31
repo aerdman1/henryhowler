@@ -62,12 +62,6 @@ A living family archive — stories, photos, and history in one place.
       </ul>
     </section>
 
-    <section class="hh-quick">
-      <h2>Browse the main sections</h2>
-      <p>
-        Pick a section below to jump in. Each area is meant to be bite-sized so it’s easy to add new memories over time.
-      </p>
-    </section>
   </div>
 
   <aside class="hh-aside">
@@ -84,4 +78,3 @@ A living family archive — stories, photos, and history in one place.
   </aside>
 </div>
 `}</HTMLBlock>
-
