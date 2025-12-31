@@ -282,7 +282,7 @@ We miss you already
 
 Much Love
 Dan & Cindy
-(Speech bubble graphic text): It's not easy being perfect... but somebody has to do it!
+
 
 <Image align="center" border={false} caption="Chip and Adam with Cindy looking on                            Late September 1985" src="https://files.readme.io/295954ed2dfa7a7f5df215077d8547831321384bf34f073a6f379483e6d49ad2-Chip_Adam_Cindy_Sept_1985.jpg" />
 
