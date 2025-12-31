@@ -6,8 +6,6 @@ hidden: false
 metadata:
   robots: index
 ---
-# Welcome to The Henry Howler
-
 A living family archive — stories, photos, and history in one place.
 
 <HTMLBlock>{`
