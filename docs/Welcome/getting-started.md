@@ -85,26 +85,3 @@ A living family archive — stories, photos, and history in one place.
 </div>
 `}</HTMLBlock>
 
-<Cards columns={2} title="Explore">
-  <Card title="Through The Decades" href="families-home" icon="fa-people-roof">
-    Family articles organized by time period.
-  </Card>
-
-  <Card title="Ancestors" href="ancestors-home" icon="fa-tree">
-    Browse family branches, notes, and background.
-  </Card>
-
-  <Card title="Odds & Ends" href="stories-and-memories-home" icon="fa-book-open">
-    Stories, memories, and one-off posts.
-  </Card>
-
-  <Card title="Media" href="media-home" icon="fa-photo-film">
-    Images, videos, and other media.
-  </Card>
-</Cards>
-
-<Cards columns={1} title="Other">
-  <Card title="Other" href="other-home" icon="fa-ellipsis">
-    Miscellaneous pages and experiments.
-  </Card>
-</Cards>
