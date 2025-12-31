@@ -13,7 +13,7 @@ A living family archive — stories, photos, and history in one place.
 <HTMLBlock>{`
 <style>
 
-section.content-toc.grid-25 {
+.content-toc {
     display: none !important;
 }
 .rm-Guides .content-body {
