@@ -42,30 +42,7 @@ With the boulders and pipe in place, I backfilled the depression with compost an
 
 ### Planting the Rain Garden
 
-Choosing the right plants is crucial for a successful rain garden. They must tolerate both wet conditions after a storm and dry periods between rains. I plan to use a mix of native flowers, grasses, and shrubs for resilience and habitat value.
-
-#### Suggested Plants for a Rain Garden
-
-🌿 **Grasses & Sedges** (structure and root depth)
-
-* Switchgrass (Panicum virgatum)
-* Fox Sedge (Carex vulpinoidea)
-* Little Bluestem (Schizachyrium scoparium)
-
-🌸 **Perennials** (color and pollinator value)
-
-* Blue Flag Iris (Iris versicolor)
-* Purple Coneflower (Echinacea purpurea)
-* Black-eyed Susan (Rudbeckia hirta)
-* Swamp Milkweed (Asclepias incarnata) – _great for monarch butterflies_
-
-🌳 **Shrubs** (height and wildlife cover)
-
-* Red Twig Dogwood (Cornus sericea)
-* Buttonbush (Cephalanthus occidentalis)
-* Winterberry (Ilex verticillata)
-
-I will start small, planting a few species and observing their response to the conditions. Over time, the rain garden should develop into a self-sustaining wetland habitat that effectively manages runoff and supports pollinators, birds, and other wildlife.  Below are the actual initial plantings in the rain garden.
+Choosing the right plants is crucial for a successful rain garden. They must tolerate both wet conditions after a storm and dry periods between rains. I plan to use a mix of native flowers, grasses, and shrubs for resilience and habitat value. Over time, the rain garden should develop into a self-sustaining wetland habitat that effectively manages runoff and supports pollinators, birds, and other wildlife.  Below are the actual initial plantings in the rain garden.
 
 <Image align="center" border={false} src="https://files.readme.io/4d1fffffb9f1cb7942c9568742ee5f568f0bb184209b6263cb2478011dda7e71-rain.png" />
 
