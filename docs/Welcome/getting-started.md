@@ -11,66 +11,59 @@ A living family archive — stories, photos, and history in one place.
 ---
 
 ![Family photo](https://placehold.co/1600x900/png?text=Family+Photo)
+
 *This is a placeholder — swap in a favorite family photo anytime.*
 
 ---
 
-## How to navigate
+<Columns layout="auto">
+  <Column>
+    ## How to navigate
 
-This site is organized into a few main areas so you can browse by time period, family line, or theme.  
-If you’re not sure where to start, **Through the Decades** is the easiest on-ramp.
+    This site is organized into a few main areas so you can browse by time period, family line, or theme.  
+    If you’re not sure where to start, **Through the Decades** is the easiest on-ramp.
 
-- [Through the Decades](#) — family articles organized by era  
-- [Ancestors](#) — family lines, notes, and background  
-- [Odds & Ends](#) — stories, memories, and one-offs  
-- [Media](#) — images, videos, and other files  
-- [Other](#) — misc. pages and experiments
+    - [Through the Decades](#) — family articles organized by era
+    - [Ancestors](#) — family lines, notes, and background
+    - [Odds & Ends](#) — stories, memories, and one-offs
+    - [Media](#) — images, videos, and other files
+    - [Other](#) — misc. pages and experiments
+  </Column>
 
----
+  <Column>
+    <div className="hh-aside">
+      <h3>Recent posts</h3>
+      <p className="hh-sub">Latest updates pulled from GitHub commit history.</p>
 
-### Recent posts
+      <div id="hh-recent-posts">
+        <p className="hh-note"><strong>Recent posts</strong>: loading…</p>
+      </div>
 
-_Latest updates pulled from GitHub commit history._
-
-<div id="hh-recent-posts">
-  <p><strong>Recent posts:</strong> loading…</p>
-</div>
-
-<small>
-If nothing appears here, it usually means the global JS couldn’t map repo file paths to your ReadMe page slugs.
-</small>
-
----
+      <p className="hh-note" style={{ marginTop: 12 }}>
+        If nothing appears here, it usually means the global JS couldn’t map repo file paths to your ReadMe page slugs.
+      </p>
+    </div>
+  </Column>
+</Columns>
 
 <HTMLBlock>{`
 <style>
+/* Optional: hide ReadMe’s right-side TOC on this page */
 .content-toc{display:none!important;}
-.rm-Guides .content-body{-ms-flex-negative:1;flex-shrink:1;max-width:100%!important;padding-top:30px;width:100%!important;}
-.hh-home{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:24px;align-items:start;margin-top:18px;}
-.hh-main{min-width:0;}
+
+/* Optional: let the guide content span wide */
+.rm-Guides .content-body{flex-shrink:1;max-width:100%!important;padding-top:30px;width:100%!important;}
+
+/* Aside styling */
 .hh-aside{border:1px solid rgba(0,0,0,.10);border-radius:14px;padding:16px;background:#fff;}
 .hh-aside h3{margin:0 0 10px 0;font-size:16px;font-weight:800;}
 .hh-aside .hh-sub{margin:0 0 14px 0;font-size:13px;opacity:.75;line-height:1.35;}
-.hh-hero{border-radius:16px;overflow:hidden;border:1px solid rgba(0,0,0,.10);background:#f6f6f6;}
-.hh-hero img{display:block;width:100%;height:380px;object-fit:cover;}
-.hh-hero .hh-caption{padding:10px 12px;font-size:13px;opacity:.8;border-top:1px solid rgba(0,0,0,.06);}
-.hh-howto{margin-top:18px;border:1px solid rgba(0,0,0,.10);border-radius:14px;padding:16px;background:#fff;}
-.hh-howto h2{margin:0 0 10px 0;font-size:18px;font-weight:900;}
-.hh-howto p{margin:0 0 12px 0;line-height:1.55;}
-.hh-howto ul{margin:0;padding-left:18px;line-height:1.75;}
-.hh-howto a{text-decoration:none;font-weight:650;}
-.hh-howto a:hover{text-decoration:underline;}
-.hh-quick{margin-top:18px;border:1px solid rgba(0,0,0,.10);border-radius:14px;padding:16px;background:#fff;}
-.hh-quick h2{margin:0 0 10px 0;font-size:18px;font-weight:900;}
-.hh-quick p{margin:0 0 14px 0;line-height:1.55;opacity:.9;}
-.hh-recent{display:flex;flex-direction:column;gap:10px;}
-.hh-recent a{display:block;border:1px solid rgba(0,0,0,.10);border-radius:12px;padding:10px 12px;background:#fafafa;text-decoration:none;color:inherit;}
-.hh-recent a:hover{background:#f1f1f1;}
-.hh-recent .hh-title{font-weight:800;margin:0 0 2px 0;font-size:14px;}
-.hh-recent .hh-meta{font-size:12px;opacity:.7;margin:0;}
 .hh-note{font-size:12px;opacity:.75;margin:0;line-height:1.35;}
-.CardsGrid .Card-title{font-weight:800;margin-top:10px;font-size:20px;}
-.CardsGrid .Card-content{line-height:1.35;}
-@media (max-width:980px){.hh-home{grid-template-columns:1fr;gap:18px;}.hh-hero img{height:280px;}}
+
+/* If your JS injects links into #hh-recent-posts, these styles help them look like “cards” */
+#hh-recent-posts a{display:block;border:1px solid rgba(0,0,0,.10);border-radius:12px;padding:10px 12px;background:#fafafa;text-decoration:none;color:inherit;}
+#hh-recent-posts a:hover{background:#f1f1f1;}
+#hh-recent-posts .hh-title{font-weight:800;margin:0 0 2px 0;font-size:14px;}
+#hh-recent-posts .hh-meta{font-size:12px;opacity:.7;margin:0;}
 </style>
 `}</HTMLBlock>
