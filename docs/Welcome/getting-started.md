@@ -12,7 +12,16 @@ A living family archive — stories, photos, and history in one place.
 
 <HTMLBlock>{`
 <style>
-
+section.content-toc.grid-25 {
+    display: none;
+}
+.rm-Guides .content-body {
+    -ms-flex-negative: 1;
+    flex-shrink: 1;
+    max-width: 100%;
+    padding-top: 30px;
+    width: 100%;
+}
   /* --- Home layout --- */
   .hh-home{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:24px;align-items:start;margin-top:18px;}
   .hh-main{min-width:0;}
