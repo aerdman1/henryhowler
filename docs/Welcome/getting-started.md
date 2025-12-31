@@ -10,67 +10,39 @@ A living family archive — stories, photos, and history in one place.
 
 <HTMLBlock>{`
 <style>
-
-.content-toc {
-    display: none !important;
-}
-.rm-Guides .content-body {
-    -ms-flex-negative: 1;
-    flex-shrink: 1;
-    max-width: 100% !important;
-    padding-top: 30px;
-    width: 100% !important;
-  }
-
-  /* --- Home layout --- */
-  .hh-home{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:24px;align-items:start;margin-top:18px;}
-  .hh-main{min-width:0;}
-  .hh-aside{border:1px solid rgba(0,0,0,.10);border-radius:14px;padding:16px;background:#fff;}
-  .hh-aside h3{margin:0 0 10px 0;font-size:16px;font-weight:800;}
-  .hh-aside .hh-sub{margin:0 0 14px 0;font-size:13px;opacity:.75;line-height:1.35;}
-
-  /* Hero image */
-  .hh-hero{border-radius:16px;overflow:hidden;border:1px solid rgba(0,0,0,.10);background:#f6f6f6;}
-  .hh-hero img{display:block;width:100%;height:380px;object-fit:cover;}
-  .hh-hero .hh-caption{padding:10px 12px;font-size:13px;opacity:.8;border-top:1px solid rgba(0,0,0,.06);}
-
-  /* How-to section */
-  .hh-howto{margin-top:18px;border:1px solid rgba(0,0,0,.10);border-radius:14px;padding:16px;background:#fff;}
-  .hh-howto h2{margin:0 0 10px 0;font-size:18px;font-weight:900;}
-  .hh-howto p{margin:0 0 12px 0;line-height:1.55;}
-  .hh-howto ul{margin:0;padding-left:18px;line-height:1.75;}
-  .hh-howto a{text-decoration:none;font-weight:650;}
-  .hh-howto a:hover{text-decoration:underline;}
-
-  /* Quick links row (optional) */
-  .hh-quick{margin-top:18px;border:1px solid rgba(0,0,0,.10);border-radius:14px;padding:16px;background:#fff;}
-  .hh-quick h2{margin:0 0 10px 0;font-size:18px;font-weight:900;}
-  .hh-quick p{margin:0 0 14px 0;line-height:1.55;opacity:.9;}
-
-  /* Recent posts list styling (JS will inject anchors with these classes) */
-  .hh-recent{display:flex;flex-direction:column;gap:10px;}
-  .hh-recent a{display:block;border:1px solid rgba(0,0,0,.10);border-radius:12px;padding:10px 12px;background:#fafafa;text-decoration:none;color:inherit;}
-  .hh-recent a:hover{background:#f1f1f1;}
-  .hh-recent .hh-title{font-weight:800;margin:0 0 2px 0;font-size:14px;}
-  .hh-recent .hh-meta{font-size:12px;opacity:.7;margin:0;}
-  .hh-note{font-size:12px;opacity:.75;margin:0;line-height:1.35;}
-
-  /* Make Cards look a bit cleaner on this page */
-  .CardsGrid .Card-title{font-weight:800;margin-top:10px;font-size:20px;}
-  .CardsGrid .Card-content{line-height:1.35;}
-
-  /* Responsive */
-  @media (max-width: 980px){
-    .hh-home{grid-template-columns:1fr;gap:18px;}
-    .hh-hero img{height:280px;}
-  }
+.content-toc{display:none!important;}
+.rm-Guides .content-body{-ms-flex-negative:1;flex-shrink:1;max-width:100%!important;padding-top:30px;width:100%!important;}
+.hh-home{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:24px;align-items:start;margin-top:18px;}
+.hh-main{min-width:0;}
+.hh-aside{border:1px solid rgba(0,0,0,.10);border-radius:14px;padding:16px;background:#fff;}
+.hh-aside h3{margin:0 0 10px 0;font-size:16px;font-weight:800;}
+.hh-aside .hh-sub{margin:0 0 14px 0;font-size:13px;opacity:.75;line-height:1.35;}
+.hh-hero{border-radius:16px;overflow:hidden;border:1px solid rgba(0,0,0,.10);background:#f6f6f6;}
+.hh-hero img{display:block;width:100%;height:380px;object-fit:cover;}
+.hh-hero .hh-caption{padding:10px 12px;font-size:13px;opacity:.8;border-top:1px solid rgba(0,0,0,.06);}
+.hh-howto{margin-top:18px;border:1px solid rgba(0,0,0,.10);border-radius:14px;padding:16px;background:#fff;}
+.hh-howto h2{margin:0 0 10px 0;font-size:18px;font-weight:900;}
+.hh-howto p{margin:0 0 12px 0;line-height:1.55;}
+.hh-howto ul{margin:0;padding-left:18px;line-height:1.75;}
+.hh-howto a{text-decoration:none;font-weight:650;}
+.hh-howto a:hover{text-decoration:underline;}
+.hh-quick{margin-top:18px;border:1px solid rgba(0,0,0,.10);border-radius:14px;padding:16px;background:#fff;}
+.hh-quick h2{margin:0 0 10px 0;font-size:18px;font-weight:900;}
+.hh-quick p{margin:0 0 14px 0;line-height:1.55;opacity:.9;}
+.hh-recent{display:flex;flex-direction:column;gap:10px;}
+.hh-recent a{display:block;border:1px solid rgba(0,0,0,.10);border-radius:12px;padding:10px 12px;background:#fafafa;text-decoration:none;color:inherit;}
+.hh-recent a:hover{background:#f1f1f1;}
+.hh-recent .hh-title{font-weight:800;margin:0 0 2px 0;font-size:14px;}
+.hh-recent .hh-meta{font-size:12px;opacity:.7;margin:0;}
+.hh-note{font-size:12px;opacity:.75;margin:0;line-height:1.35;}
+.CardsGrid .Card-title{font-weight:800;margin-top:10px;font-size:20px;}
+.CardsGrid .Card-content{line-height:1.35;}
+@media (max-width:980px){.hh-home{grid-template-columns:1fr;gap:18px;}.hh-hero img{height:280px;}}
 </style>
 
 <div class="hh-home">
   <div class="hh-main">
-
     <div class="hh-hero">
-      <!-- Replace the src with your actual family image URL when ready -->
       <img src="https://placehold.co/1600x900/png?text=Family+Photo" alt="Family photo" />
       <div class="hh-caption">This is a placeholder — swap in a favorite family photo anytime.</div>
     </div>
@@ -82,11 +54,11 @@ A living family archive — stories, photos, and history in one place.
         If you’re not sure where to start, “Through the Decades” is the easiest on-ramp.
       </p>
       <ul>
-        <li><a href="families-home">Through the Decades</a> — family articles organized by era</li>
-        <li><a href="ancestors-home">Ancestors</a> — family lines, notes, and background</li>
-        <li><a href="stories-and-memories-home">Odds &amp; Ends</a> — stories, memories, and one-offs</li>
-        <li><a href="media-home">Media</a> — images, videos, and other files</li>
-        <li><a href="other-home">Other</a> — misc. pages and experiments</li>
+        <li><a href="#">Through the Decades</a> — family articles organized by era</li>
+        <li><a href="#">Ancestors</a> — family lines, notes, and background</li>
+        <li><a href="#">Odds &amp; Ends</a> — stories, memories, and one-offs</li>
+        <li><a href="#">Media</a> — images, videos, and other files</li>
+        <li><a href="#">Other</a> — misc. pages and experiments</li>
       </ul>
     </section>
 
@@ -96,14 +68,12 @@ A living family archive — stories, photos, and history in one place.
         Pick a section below to jump in. Each area is meant to be bite-sized so it’s easy to add new memories over time.
       </p>
     </section>
-
   </div>
 
   <aside class="hh-aside">
     <h3>Recent posts</h3>
     <p class="hh-sub">Latest updates pulled from GitHub commit history.</p>
 
-    <!-- IMPORTANT: Your *global* ReadMe Custom JavaScript will populate this -->
     <div id="hh-recent-posts">
       <p class="hh-note"><strong>Recent posts</strong>: loading…</p>
     </div>
