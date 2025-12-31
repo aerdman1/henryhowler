@@ -8,6 +8,40 @@ metadata:
 ---
 A living family archive — stories, photos, and history in one place.
 
+---
+
+![Family photo](https://placehold.co/1600x900/png?text=Family+Photo)
+*This is a placeholder — swap in a favorite family photo anytime.*
+
+---
+
+## How to navigate
+
+This site is organized into a few main areas so you can browse by time period, family line, or theme.  
+If you’re not sure where to start, **Through the Decades** is the easiest on-ramp.
+
+- [Through the Decades](#) — family articles organized by era  
+- [Ancestors](#) — family lines, notes, and background  
+- [Odds & Ends](#) — stories, memories, and one-offs  
+- [Media](#) — images, videos, and other files  
+- [Other](#) — misc. pages and experiments
+
+---
+
+### Recent posts
+
+_Latest updates pulled from GitHub commit history._
+
+<div id="hh-recent-posts">
+  <p><strong>Recent posts:</strong> loading…</p>
+</div>
+
+<small>
+If nothing appears here, it usually means the global JS couldn’t map repo file paths to your ReadMe page slugs.
+</small>
+
+---
+
 <HTMLBlock>{`
 <style>
 .content-toc{display:none!important;}
@@ -39,42 +73,4 @@ A living family archive — stories, photos, and history in one place.
 .CardsGrid .Card-content{line-height:1.35;}
 @media (max-width:980px){.hh-home{grid-template-columns:1fr;gap:18px;}.hh-hero img{height:280px;}}
 </style>
-
-<div class="hh-home">
-  <div class="hh-main">
-    <div class="hh-hero">
-      <img src="https://placehold.co/1600x900/png?text=Family+Photo" alt="Family photo" />
-      <div class="hh-caption">This is a placeholder — swap in a favorite family photo anytime.</div>
-    </div>
-
-    <section class="hh-howto">
-      <h2>How to navigate</h2>
-      <p>
-        This site is organized into a few main areas so you can browse by time period, family line, or theme.
-        If you’re not sure where to start, “Through the Decades” is the easiest on-ramp.
-      </p>
-      <ul>
-        <li><a href="#">Through the Decades</a> — family articles organized by era</li>
-        <li><a href="#">Ancestors</a> — family lines, notes, and background</li>
-        <li><a href="#">Odds &amp; Ends</a> — stories, memories, and one-offs</li>
-        <li><a href="#">Media</a> — images, videos, and other files</li>
-        <li><a href="#">Other</a> — misc. pages and experiments</li>
-      </ul>
-    </section>
-
-  </div>
-
-  <aside class="hh-aside">
-    <h3>Recent posts</h3>
-    <p class="hh-sub">Latest updates pulled from GitHub commit history.</p>
-
-    <div id="hh-recent-posts">
-      <p class="hh-note"><strong>Recent posts</strong>: loading…</p>
-    </div>
-
-    <p class="hh-note" style="margin-top:12px;">
-      If nothing appears here, it usually means the global JS couldn’t map repo file paths to your ReadMe page slugs.
-    </p>
-  </aside>
-</div>
 `}</HTMLBlock>
