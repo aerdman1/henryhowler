@@ -1,0 +1,43 @@
+name: Build recent guides manifest
+
+on:
+  push:
+    branches:
+      - v1.0
+    paths:
+      - "docs/**"
+      - "scripts/build-recent-guides.mjs"
+      - ".github/workflows/recent-guides.yml"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Use Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate manifest
+        run: node scripts/build-recent-guides.mjs
+
+      - name: Commit + push if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/_recent.json
+          git commit -m "chore: update recent guides manifest"
+          git push
