@@ -19,7 +19,7 @@ metadata:
     Find Stories & Memories
   </Card>
 
-  <Card title="Fix" href="media-home" icon="fa-photo-film">
+  <Card title="Linda is a Hotty" href="media-home" icon="fa-photo-film">
     Images, videos, and other media
   </Card>
 </Cards>
