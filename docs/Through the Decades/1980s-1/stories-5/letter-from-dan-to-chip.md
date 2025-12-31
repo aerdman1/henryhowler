@@ -183,15 +183,13 @@ Dan
 
 ***
 
-<br />
-
 ## 5 The Beginning of Something Great   January 21, 1986
 
 **Cindy and I met at a dance at the university.  We spent a lot of time together, but I was planning a great adventure with Pat to ride mountain bikes from Kenya to South Africa.  I wasn't sure if I would be coming back to Alaska.  I told Cindy that I liked her so much, and I didn’t want to break her heart or my own when it was time to leave.  So I suggested we slow down and make some space.  After three days apart, I saw her at the gym working out with a girlfriend.  I had been missing her so much, I asked her to take a walk later in the day.  Reluctantly she agreed.  After that, we were inseparable.**
 
-**Within five months of learning of an unexpected baby was on the way—a time both scary and exciting—we were married. Cindy and I were feeling our way through the dark, but we had the support of both families and a deep love for each other. Our wedding of three hundred guests included Tracy as the maid of honor and Chip as my best man; we even sent Chip a photo of his tuxedo and our engagement picture ahead of time. Of everyone there, my parents, Chip, and Polly were the only Henrys in attendance, and I only knew about twenty guests by name.**
+**Within five months of learning of an unexpected baby was on the way—a time both scary and exciting—we were married. Cindy and I were feeling our way through the dark, but we had the support of both families and a deep love for each other. Our wedding of three hundred guests included Tracy as the maid of honor and Chip as my best man.  My Fairbank College roommate, Kareem Bluri, was set to be one of my broom's men.  A week before the wedding he broke an arm and a leg in a skiing accident.  Dad (Gene) was about the same size so he took that place as a broom's man and stood next to me and chip in the ceremony.  Of everyone there, my parents, Chip, and Polly were the only Henrys in attendance, and I only knew about twenty guests by name.**
 
-**After the wedding, we left school for a small apartment in Anchorage, where I loaded cargo planes at the airport and commuted by bicycle. I continued taking a few classes toward my degree, and Cindy proved to be the best and most beautiful mother after David was born.** **
+**After the wedding, we left school for a small apartment in Anchorage, where I loaded cargo planes at the airport and commuted by bicycle. I continued taking a few classes toward my degree, and Cindy proved to be the best and most beautiful mother after David was born.** **
 
 **Chip, Linda, and five month old Adam visited us in Anchorage. Having them in our small apartment was crowded,  but it was wonderful.  When it was time for them leave, I remember being very homesick.**
 
