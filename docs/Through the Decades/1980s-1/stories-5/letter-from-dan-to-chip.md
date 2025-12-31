@@ -1,5 +1,5 @@
 ---
-title: Letters from Dan to Chip  1981 - 1986
+title: ' Dan''s Alaskan Beginnings 1981 - 1986'
 excerpt: Personal letters from Dan to Chip and Linda, spanning 5 years of the early 80s
 deprecated: false
 hidden: false
@@ -303,3 +303,13 @@ Dan & Cindy
 <Image align="center" border={false} caption="We all shared baby sitting.  While at class, neighbors babysat, and you would do the same for them  1986" src="https://files.readme.io/fa77a70c19fb3a6a99527f7cc5383db8b62703f1a3324112603b3366443969b8-party_boys.jpg" />
 
 <Image align="center" border={false} caption="David was a cute little coed  1986" src="https://files.readme.io/479f5f4c36c1ac129f33a6919f942ccfc36efb887c5b7339a042c5c2e0fe117c-Boy_in_drawer.jpg" />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+d
