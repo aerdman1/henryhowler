@@ -10,14 +10,12 @@ A living family archive — stories, photos, and history in one place.
 
 ---
 
-![Family photo](https://placehold.co/1600x900/png?text=Family+Photo)
-
-*This is a placeholder — swap in a favorite family photo anytime.*
-
----
-
 <Columns layout="auto">
   <Column>
+    ![Family photo](https://placehold.co/1600x900/png?text=Family+Photo)
+
+    *This is a placeholder — swap in a favorite family photo anytime.*
+
     ## How to navigate
 
     This site is organized into a few main areas so you can browse by time period, family line, or theme.  
