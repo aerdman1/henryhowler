@@ -108,7 +108,7 @@ _**During my Junior year of college, I had an extensive crisis of faith that I w
 
 <Image align="center" border={false} caption="Tissu Yulen was one of my good friends - she showed me a gold nugget she had that she found on the beach in Nome.  It was as big as a chicken egg." src="https://files.readme.io/2cbbc45aa0817e13a3051ded08228ab8aee54a7356118d034a5f62392571758c-Tissu_Yulen.jpg" />
 
-<Image align="center" border={false} caption="Chillin with my Homies, Berta and Victor" src="https://files.readme.io/f290a8f59093c2d33f6abd6d8ca695c9f19c3c61d213003d35cde3a941a0ca1d-Berta.jpg" />
+<Image align="center" border={false} caption="Chillin with my Homies, Vera and Victor" src="https://files.readme.io/f290a8f59093c2d33f6abd6d8ca695c9f19c3c61d213003d35cde3a941a0ca1d-Berta.jpg" />
 
 **Next thing I did was go to the university and got a job at the cafeteria.  They let me eat before and after my shift as much as I wanted.  I also often took home sandwiches for the weekends.  My twenty dollars bought me a bus pass that was good for a month, and a case of apples that I had at the apartment.  The work meals and apples got me through those first ten days.**
 
@@ -282,7 +282,6 @@ We miss you already
 
 Much Love
 Dan & Cindy
-
 
 <Image align="center" border={false} caption="Chip and Adam with Cindy looking on                            Late September 1985" src="https://files.readme.io/295954ed2dfa7a7f5df215077d8547831321384bf34f073a6f379483e6d49ad2-Chip_Adam_Cindy_Sept_1985.jpg" />
 
