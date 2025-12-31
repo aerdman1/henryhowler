@@ -29,7 +29,7 @@ I’m really glad school is over. Not that I didn’t like it — it was great, 
 
 We heard from Pat last night. He and Erick have traveled about 700 miles so far, and it’s only been one week. He says that they are doing great. Today they crossed the Cascade Mountains in Oregon.
 
-Polly is as moody as ever. She stormed out of the house today yelling that Mom likes the boys better than the girls. She hasn’t changed much since you left, except for one thing. Now she has boobs. Yes, I’m not kidding. I knew it was bound to happen, but its still Funny.
+Polly is as moody as ever. She stormed out of the house today yelling that Mom likes the boys better than the girls. She hasn’t changed much since you left, except for one thing. Now she has boobs. Yes, I’m not kidding. I knew it was bound to happen, but its still funny.
 
 I don’t know if Mom told you this or not. Mr. Rovtar on West Hill was murdered in his garage recently. His son is the one who killed him (one of the twins). You can get the details when you get home.
 
