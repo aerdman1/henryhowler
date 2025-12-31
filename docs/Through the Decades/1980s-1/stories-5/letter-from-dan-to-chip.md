@@ -183,9 +183,19 @@ Dan
 
 ***
 
-## 6 Engaged  April 22, 1985
+<br />
 
-**It was all very scaring and exciting.  Cindy and I were feeling our way through the dark, but we had the support of a loving family on both sides and a deep love for each other.  Chip was to be my best man.  Cindy's college roommate, Tracy was her maid of honor. We were doing our best to communicate the wedding plans.  This letter included a birthday card for Chip, a picture of Chip's tux for the wedding, and Cindy and my engagement picture. Mom, Dad, Chip, and Polly were the only other Henrys that would be at the wedding.  Of the three hundred guests present at the wedding, I knew about 20 by name.**
+## 5 The Beginning of Something Great   January 21, 1986
+
+**Cindy and I met at a dance at the university.  We spent a lot of time together, but I was planning a great adventure with Pat to ride mountain bikes from Kenya to South Africa.  I wasn't sure if I would be coming back to Alaska.  I told Cindy that I liked her so much, and I didn’t want to break her heart or my own when it was time to leave.  So I suggested we slow down and make some space.  After three days apart, I saw her at the gym working out with a girlfriend.  I had been missing her so much, I asked her to take a walk later in the day.  Reluctantly she agreed.  After that, we were inseparable.**
+
+**Within five months of learning of an unexpected baby was on the way—a time both scary and exciting—we were married. Cindy and I were feeling our way through the dark, but we had the support of both families and a deep love for each other. Our wedding of three hundred guests included Tracy as the maid of honor and Chip as my best man; we even sent Chip a photo of his tuxedo and our engagement picture ahead of time. Of everyone there, my parents, Chip, and Polly were the only Henrys in attendance, and I only knew about twenty guests by name.**
+
+**After the wedding, we left school for a small apartment in Anchorage, where I loaded cargo planes at the airport and commuted by bicycle. I continued taking a few classes toward my degree, and Cindy proved to be the best and most beautiful mother after David was born.** **
+
+**Chip, Linda, and five month old Adam visited us in Anchorage. Having them in our small apartment was crowded,  but it was wonderful.  When it was time for them leave, I remember being very homesick.**
+
+**We stayed in that Anchorage apartment for about a year and a half before finally returning to Fairbanks, where we moved into married student housing and both finished our degrees.**
 
 <Image align="center" border={false} caption="Cindy's parents spent way too much money on the wedding, including professional wedding announcement pictures." src="https://files.readme.io/49fce77b233be2c8cfab4b429ff940dccd34284fc6697496931bff6759b9262d-engagement_shot.png" />
 
@@ -250,11 +260,7 @@ Oh well, bring a paper bag ok? Ha. Ha.
 
 ***
 
-## 5 The Beginning of Something Great   January 21, 1986
-
-**Cindy and I met at a dance at the university.  We spent a lot of time together, but I was planning a great adventure with Pat to ride mountain bikes from Kenya to South Africa.  I wasn't sure if I would be coming back to Alaska.  I told Cindy that I liked her so much, and I didn’t want to break her heart or my own when it was time to leave.  So I suggested we slow down and make some space.  After three days apart, I saw her at the gym working out with a girlfriend.  I had been missing her so much, I asked her to take a walk later in the day.  Reluctantly she agreed.  After that, we were inseparable.**
-
-**Eventually our love blossomed into an unexpected pregnancy.  Within 5 months of knowing that a baby was coming, we were married.  We left school and got a small apartment in Anchorage.  I took a job at the airport loading cargo planes and rode a bicycle to work. I took a few classes in Anchorage toward my degree.  Chip and Linda came to Alaska when Adam was about 5 months old.  We showed them the town.  It made me very homesick when they left.  After David was born, Cindy was the best and most beautiful mother a child ever had.  We stayed in Anchorage for about a year and a half before going back to Fairbanks, living in married student housing, and both finishing our degrees.**
+<br />
 
 <Image align="center" border={false} caption="May 17, 1985  Chip was my best man, and Dad was one of the ushers (the original usher broke his leg skiing)" src="https://files.readme.io/bc1be03132284f312d64650fe6c76ab8ab6d98472acd7f3317cbe50889102d75-wedding.jpg" />
 
