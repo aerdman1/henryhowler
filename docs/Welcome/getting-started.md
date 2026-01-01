@@ -14,7 +14,7 @@ A living family archive — stories, photos, and history in one place.
   <Column>
     ![Family photo](https://family.henryhowler.com/update/docs/birthday-party-for-aunt-barbie-2011)
 
-    *Anrew   how do we swap out the picture  I tried and failed  Dan.*
+    *Andrew   how do we swap out the picture  I tried and failed  Dan.*
 
     ## How to navigate
 
