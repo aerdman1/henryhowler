@@ -8,24 +8,24 @@ metadata:
 ---
 A living family archive — stories, photos, and history in one place.
 
----
+***
 
 <Columns layout="auto">
   <Column>
-    ![Family photo](https://placehold.co/1600x900/png?text=Family+Photo)
+    ![Family photo](https://family.henryhowler.com/update/docs/birthday-party-for-aunt-barbie-2011)
 
     *This is a placeholder — swap in a favorite family photo anytime.*
 
     ## How to navigate
 
-    This site is organized into a few main areas so you can browse by time period, family line, or theme.  
+    This site is organized into a few main areas so you can browse by time period, family line, or theme.\
     If you’re not sure where to start, **Through the Decades** is the easiest on-ramp.
 
-    - [Through the Decades](#) — family articles organized by era
-    - [Ancestors](#) — family lines, notes, and background
-    - [Odds & Ends](#) — stories, memories, and one-offs
-    - [Media](#) — images, videos, and other files
-    - [Other](#) — misc. pages and experiments
+    * [Through the Decades](#) — family articles organized by era
+    * [Ancestors](#) — family lines, notes, and background
+    * [Odds & Ends](#) — stories, memories, and one-offs
+    * [Media](#) — images, videos, and other files
+    * [Other](#) — misc. pages and experiments
   </Column>
 
   <Column>
