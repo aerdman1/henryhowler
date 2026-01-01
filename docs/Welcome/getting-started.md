@@ -26,7 +26,9 @@ A living family archive — stories, photos, and history in one place.
     * [Odds & Ends](#) — stories, memories, and one-offs
     * [Media](#) — images, videos, and other files
     * [Other](#) — misc. pages and experiments
-      * this could be an anouncement of some kind
+    * this could be an anouncement of some kind
+*January 1, 2026  Where are pictures that we include in new posts being saved?  We looked for them in the amazon images bucket and found nothing, whereas we were able to find old post pictures that you put there in the original migration.
+
   </Column>
 
   <Column>
