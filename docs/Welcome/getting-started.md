@@ -26,6 +26,7 @@ A living family archive — stories, photos, and history in one place.
     * [Odds & Ends](#) — stories, memories, and one-offs
     * [Media](#) — images, videos, and other files
     * [Other](#) — misc. pages and experiments
+    * testing
   </Column>
 
   <Column>
