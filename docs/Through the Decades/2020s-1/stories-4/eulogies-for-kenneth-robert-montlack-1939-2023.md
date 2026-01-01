@@ -55,4 +55,4 @@ Then each year Chris and Ken hosted a sibling dinner at their house where, like 
 
 So here is to you Ken. And while we know that you are in good company right now, it is safe to say that, like that slow moving glacier you fondly referred to as the Henry family, the essence of you and memories of your wisdom, humor and love, will not be leaving any one of us anytime soon!
 
-Liz Martin, June 19, 2023
+June 19, 2023
