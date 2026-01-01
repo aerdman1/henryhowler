@@ -12,7 +12,7 @@ A living family archive — stories, photos, and history in one place.
 
 <Columns layout="auto">
   <Column>
-    ![Family photo](https://family.henryhowler.com/update/docs/birthday-party-for-aunt-barbie-2011)
+    ![Family photo](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/0208/10/012.jpg)
 
     *Andrew   how do we swap out the picture  I tried and failed  Dan also i created a new post but it didnt populate recent posts area of the welcome page*
 
