@@ -11,6 +11,8 @@ hidden: false
 
 <Image alt="IMG_2141" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2023/06/IMG_2141-scaled.jpeg" />
 
+_Below is the eulogy that Liz Martin delivered at Ken's service._
+
 I’m Liz Martin, Chris’s daughter and Ken’s stepdaughter. I’m sharing words on behalf of myself and my brother, Matt, and memories on behalf of my brother, Tim.
 
 When our parents divorced, Matt, Tim, and I were 14, 12 and 10, and our mom put off dating to focus on raising us… So, you can imagine our surprise when during my freshman year of college, I began to find my mom very unavailable. She was either sailing on Lake Chautauqua, skiing in Holiday Valley, or relaxing in the backyard hot tub of one Ken Montlack.
@@ -53,5 +55,4 @@ Then each year Chris and Ken hosted a sibling dinner at their house where, like 
 
 So here is to you Ken. And while we know that you are in good company right now, it is safe to say that, like that slow moving glacier you fondly referred to as the Henry family, the essence of you and memories of your wisdom, humor and love, will not be leaving any one of us anytime soon!
 
-June 19, 2023
-Linda
+Liz Martin, June 19, 2023
