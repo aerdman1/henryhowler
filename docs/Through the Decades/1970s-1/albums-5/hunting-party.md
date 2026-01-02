@@ -1,5 +1,5 @@
 ---
-title: Hunting Party
+title: Hunting Party October 1986
 excerpt: 'At the shed  '
 deprecated: false
 hidden: false
