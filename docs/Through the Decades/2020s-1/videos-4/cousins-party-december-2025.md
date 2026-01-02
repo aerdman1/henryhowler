@@ -1,6 +1,6 @@
 ---
 title: Cousin's Party December 2025
-excerpt: Rick and Laura's annual party
+excerpt: On the stair case at Rick and Laura's annual party
 deprecated: false
 hidden: false
 metadata:
