@@ -14,7 +14,7 @@ A living family archive — stories, photos, and history in one place.
   <Column>
     ![Family photo](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Scott-Janet-article.compressed.pdf)
 
-    *Andrew   how do we swap out the picture  I tried and failed  Dan also i created a new post but it didnt populate recent posts area of the welcome page*
+  
 
     ## How to navigate
 
