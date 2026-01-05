@@ -12,9 +12,7 @@ A living family archive — stories, photos, and history in one place.
 
 <Columns layout="auto">
   <Column>
-    ![Family photo](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Scott-Janet-article.compressed.pdf)
-
-  
+    ![Family photo](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2007/07/Canada-2007-11_jpg.jpg)
 
     ## How to navigate
 
