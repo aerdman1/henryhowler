@@ -23,12 +23,7 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 ## Recent Articles
 
-<ChangelogEmbed
-  src="https://family.henryhowler.com/changelog"
-  maxPosts={3}
-  maxCharsPerPost={320}
-  showReadMore={true}
-/> 
+<ChangelogEmbed src="https://family.henryhowler.com/changelog" maxPosts={3} maxCharsPerPost={320} showReadMore={true} />
 
 <HTMLBlock>{`
 <style>
@@ -128,7 +123,7 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
   /* Float the lightbox wrapper so text wraps around the whole block */
   .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox {
     float: left;
-    display: block;
+    display: inline !important;
     max-width: 220px; /* matches your 200px image + padding */
     margin: 0.35rem 1rem 0.9rem 0;
   }
