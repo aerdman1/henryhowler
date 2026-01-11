@@ -39,7 +39,6 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 /* Float the lightbox wrapper so text wraps around the whole block */
 .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox {
   float: left;
-  display: block;            /* important: float + block */
   max-width: 220px;          /* matches your 200px image + padding */
   margin: 0.25rem 1rem 0.75rem 0;
 }
