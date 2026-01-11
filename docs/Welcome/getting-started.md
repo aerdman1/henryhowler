@@ -27,126 +27,18 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 <HTMLBlock>{`
 <style>
-/* ==================================================
-   Layout / Global
-================================================== */
-
-.content-toc {
-  display: none;
-}
-
-@media (min-width: 1080px) {
-  .rm-Guides .content-body {
-    flex-shrink: 1;
-    max-width: 100%;
-    width: 85%;
-  }
-}
-
-/* ==================================================
-   Article list container
-================================================== */
-
-.hh-changelog-list {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-}
-
-.hh-changelog-list article {
-  position: relative;
-  padding: 1.5rem 1.75rem;
-  border: 1px solid rgba(0, 0, 0, 0.08);
-  border-radius: 14px;
-  background: rgba(255, 255, 255, 0.95);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
-  transition: transform 150ms ease, box-shadow 150ms ease;
-}
-
-.hh-changelog-list article:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.08);
-}
-
-.dark .hh-changelog-list article {
-  background: rgba(17, 24, 39, 0.88);
-  border-color: rgba(255, 255, 255, 0.1);
-}
-
-/* Divider between articles */
-.hh-changelog-list article:not(:last-child)::after {
-  content: "";
-  display: block;
-  margin-top: 1.5rem;
-  border-top: 1px solid rgba(0, 0, 0, 0.08);
-  opacity: 0.8;
-}
-.dark .hh-changelog-list article:not(:last-child)::after {
-  border-top-color: rgba(255, 255, 255, 0.12);
-}
-
-/* ==================================================
-   Header (Title, Date, Author)
-================================================== */
-
-.hh-changelog-list article header {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 0.5rem;
-}
-
-.ChangelogPost_title3ME_vWC95yTD {
-  flex: 1 1 auto;
-  font-weight: 800;
-  letter-spacing: -0.01em;
-  line-height: 1.15;
-  margin: 0;
-  color: #6a00ff;
-}
-
-.DateLine {
-  flex-shrink: 0;
-  font-weight: 600;
-  font-size: 0.9rem;
-  opacity: 0.8;
-  text-align: right;
-  white-space: nowrap;
-}
-
-.ChangelogPost-author1qH1HFeaAt2u {
-  display: block;
-  margin-top: 0.25rem;
-  font-weight: 600;
-  font-size: 0.9rem;
-  opacity: 0.7;
-}
-
-/* Mobile: stack date/title */
-@media (max-width: 640px) {
-  .hh-changelog-list article header {
-    display: block;
-  }
-  .DateLine {
-    text-align: left;
-    margin-bottom: 0.25rem;
-  }
-}
-
-/* ==================================================
-   Image float fix (text wraps correctly)
-================================================== */
-
-.ChangelogPost_textdx2lvBFg0xLI .rm-Markdown {
+/* Reset any ReadMe/flex weirdness that breaks floats */
+.rm-Markdown,
+.markdown-body {
   display: block !important;
   overflow: visible !important;
 }
 
+/* Ensure float works and text wraps correctly */
 .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox {
   float: left !important;
   display: inline-block !important;
-  margin: 0.25rem 1rem 0.75rem 0 !important;
+  margin: 0.35rem 1rem 0.75rem 0 !important;
   max-width: 220px !important;
 }
 
@@ -158,10 +50,11 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
   vertical-align: top;
 }
 
+/* Restore text wrapping */
 .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown p {
   display: block !important;
   overflow: visible !important;
-  line-height: 1.65;
+  line-height: 1.6;
   margin: 0.5rem 0;
 }
 
@@ -171,60 +64,113 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
   clear: both;
 }
 
-/* Mobile: stack instead of float */
-@media (max-width: 640px) {
-  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox {
-    float: none !important;
-    display: block !important;
-    margin: 0 0 0.9rem 0 !important;
-    max-width: 100% !important;
-  }
-  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox img {
-    width: 100% !important;
-  }
+/* Date and title side by side, not stacked */
+.ChangelogPost_headerBlf9hJApZlyc {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: baseline !important;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
-/* ==================================================
-   Read More Button
-================================================== */
+/* Date styling */
+.DateLine {
+  display: inline-block !important;
+  font-weight: 600;
+  font-size: 0.9rem;
+  opacity: 0.8;
+  white-space: nowrap;
+  margin-left: auto;
+  order: 2;
+}
 
-.hh-changelog-more {
+/* Title styling */
+.ChangelogPost_title3ME_vWC95yTD {
+  font-weight: 800;
+  font-size: 1.25rem;
+  color: #6a00ff;
+  margin: 0;
+  order: 1;
+}
+
+/* Author below title/date */
+.ChangelogPost-author1qH1HFeaAt2u {
   display: block;
+  margin-top: 0.25rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+
+/* Modern article card spacing */
+.hh-changelog-list article {
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.95);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+}
+
+.dark .hh-changelog-list article {
+  background: rgba(17, 24, 39, 0.88);
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Separator between posts */
+.hh-changelog-list article:not(:last-child)::after {
+  content: "";
+  display: block;
+  margin-top: 1.25rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  opacity: 0.8;
+}
+
+/* Read More button (right-aligned) */
+.hh-changelog-more {
   clear: both;
-  margin-top: 1.15rem;
   text-align: right;
+  margin-top: 1rem;
 }
 
 .hh-changelog-more a {
   display: inline-flex;
   align-items: center;
   gap: 0.45rem;
-  padding: 0.6rem 1.25rem;
+  padding: 0.55rem 1.25rem;
   border-radius: 999px;
   font-weight: 700;
   font-size: 0.9rem;
-  text-decoration: none;
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  background: rgba(0, 0, 0, 0.04);
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  background: rgba(0, 0, 0, 0.05);
   color: #6a00ff;
-  transition: transform 150ms ease, background 150ms ease, border-color 150ms ease;
+  text-decoration: none;
+  transition: all 0.2s ease;
 }
 
 .hh-changelog-more a:hover {
   transform: translateY(-1px);
   background: rgba(0, 0, 0, 0.08);
-  text-decoration: none;
 }
 
-.dark .hh-changelog-more a {
-  border-color: rgba(255, 255, 255, 0.14);
-  background: rgba(255, 255, 255, 0.06);
-  color: #a78bfa;
-}
+/* Mobile fallback */
+@media (max-width: 640px) {
+  .ChangelogPost_headerBlf9hJApZlyc {
+    flex-direction: column;
+    align-items: flex-start;
+  }
 
-.dark .hh-changelog-more a:hover {
-  background: rgba(255, 255, 255, 0.1);
-  border-color: rgba(255, 255, 255, 0.18);
+  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox {
+    float: none !important;
+    display: block !important;
+    margin: 0 0 1rem 0 !important;
+    max-width: 100% !important;
+  }
+
+  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox img {
+    width: 100% !important;
+  }
 }
 </style>
 `}</HTMLBlock>
