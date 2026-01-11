@@ -27,43 +27,21 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 <HTMLBlock>{`
 <style>
-  /* -----------------------------
-     Global / layout tweaks
-  ------------------------------ */
-  .content-toc {
-    display: none;
-  }
+  /* hide TOC */
+  .content-toc { display: none; }
 
-  /* Make the guide content a bit wider on large screens */
-  @media (min-width: 1080px) {
-    .rm-Guides .content-body {
-      -ms-flex-negative: 1;
-      flex-shrink: 1;
-      max-width: 100%;
-      width: 85%;
-    }
-  }
-
-  /* -----------------------------
-     Changelog: post meta/date line
-     (positioned nicely, not overlapping)
-  ------------------------------ */
-  .ChangelogPage_list-post,
-  .hh-changelog-list article {
-    position: relative;
-  }
-
+  /* ---------------------------------------
+     General changelog layout / Date styling
+  ---------------------------------------- */
   .DateLine {
-    position: static; /* override absolute to avoid overlap */
+    position: static;
     display: block;
     margin-top: 0.35rem;
     font-weight: 700;
     font-size: 0.875rem;
-    line-height: 1.2;
     opacity: 0.75;
   }
 
-  /* If your HTML uses <address> for author, make it match the DateLine vibe */
   .ChangelogPost-author1qH1HFeaAt2u {
     display: inline-block;
     margin-top: 0.25rem;
@@ -73,85 +51,41 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
     opacity: 0.75;
   }
 
-  /* Give titles a modern rhythm */
-  .ChangelogPost_title3ME_vWC95yTD {
-    letter-spacing: -0.01em;
-    line-height: 1.15;
-    margin: 0;
-  }
-
-  /* -----------------------------
-     Changelog: "nice and modern" list styling
-  ------------------------------ */
-  .hh-changelog-list article {
-    padding: 1.15rem 1.15rem 1.1rem;
-    margin: 0 0 1rem;
-    border: 1px solid rgba(0, 0, 0, 0.08);
-    border-radius: 14px;
-    background: rgba(255, 255, 255, 0.85);
-    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.06);
-  }
-
-  /* Dark mode: keep it subtle */
-  .dark .hh-changelog-list article {
-    background: rgba(17, 24, 39, 0.85);
-    border-color: rgba(255, 255, 255, 0.10);
-    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.30);
-  }
-
-  /* Slight hover affordance */
-  .hh-changelog-list article:hover {
-    transform: translateY(-1px);
-    transition: transform 140ms ease, box-shadow 140ms ease, border-color 140ms ease;
-    border-color: rgba(0, 0, 0, 0.12);
-    box-shadow: 0 14px 34px rgba(0, 0, 0, 0.08);
-  }
-
-  .dark .hh-changelog-list article:hover {
-    border-color: rgba(255, 255, 255, 0.14);
-    box-shadow: 0 14px 34px rgba(0, 0, 0, 0.38);
-  }
-
-  /* -----------------------------
-     Changelog: image float + wrap
-  ------------------------------ */
-  /* Scope to your embedded changelog block */
+  /* ---------------------------------------
+     Float + wrap image block (inline mode)
+  ---------------------------------------- */
   .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown {
-    overflow: visible; /* helps floated media behave consistently */
+    overflow: visible;
   }
 
-  /* Float the lightbox wrapper so text wraps around the whole block */
   .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox {
-    float: left;
+    float: left !important;
     display: inline !important;
-    max-width: 220px; /* matches your 200px image + padding */
-    margin: 0.35rem 1rem 0.9rem 0;
+    max-width: 220px;
+    margin: 0.25rem 1rem 0.75rem 0;
   }
 
-  /* Ensure inner wrapper doesn't break layout */
   .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox .lightbox-inner {
-    display: block;
+    display: inline !important;
   }
 
-  /* Image styling */
   .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox img {
-    display: block;
-    width: 200px; /* keep consistent with your markup */
+    display: inline !important;
+    width: 200px;
     max-width: 100%;
     height: auto;
-    border-radius: 0.75rem;
-    box-shadow: 0 10px 22px rgba(0, 0, 0, 0.10);
+    border-radius: 0.5rem;
+    box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+    vertical-align: top;
   }
 
-  /* Remove the accidental inline override (this breaks wrapping/paragraph layout) */
+  /* paragraphs flow naturally around inline image */
   .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown p {
     display: block;
-    margin-top: 0.65rem;
-    margin-bottom: 0;
+    margin-top: 0.6rem;
     line-height: 1.6;
   }
 
-  /* If you have multiple paragraphs and want the float to stop after the section */
   .ChangelogPost_textdx2lvBFg0xLI::after,
   .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown::after {
     content: "";
@@ -159,60 +93,88 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
     clear: both;
   }
 
-  /* Mobile: don’t float—stack instead */
+  /* Mobile: stack image above text */
   @media (max-width: 640px) {
     .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox {
-      float: none;
+      float: none !important;
+      display: block !important;
       max-width: 100%;
       margin: 0 0 0.9rem 0;
+      text-align: center;
     }
-
     .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox img {
       width: 100%;
+      display: block !important;
+      margin: 0 auto;
     }
   }
 
-  /* -----------------------------
-     Excerpt + Read more (more breathing room, modern button-like link)
-  ------------------------------ */
+  /* ---------------------------------------
+     Article card / Read more / excerpt
+  ---------------------------------------- */
+  .hh-changelog-list article {
+    padding: 1.25rem 1.25rem 1rem;
+    margin-bottom: 1.2rem;
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 14px;
+    background: rgba(255,255,255,0.9);
+    box-shadow: 0 10px 28px rgba(0,0,0,0.06);
+    transition: all 150ms ease;
+  }
+
+  .dark .hh-changelog-list article {
+    background: rgba(17,24,39,0.85);
+    border-color: rgba(255,255,255,0.1);
+  }
+
+  .hh-changelog-list article:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 14px 34px rgba(0,0,0,0.08);
+    border-color: rgba(0,0,0,0.12);
+  }
+
+  .dark .hh-changelog-list article:hover {
+    border-color: rgba(255,255,255,0.14);
+    box-shadow: 0 14px 34px rgba(0,0,0,0.35);
+  }
+
   .hh-changelog-excerpt {
-    margin-top: 0.75rem;
+    margin-top: 0.8rem;
     opacity: 0.95;
   }
 
   .hh-changelog-more {
-    margin-top: 0.9rem; /* <-- gives space away from excerpt */
+    margin-top: 1.1rem;
   }
 
   .hh-changelog-more a {
     display: inline-flex;
     align-items: center;
     gap: 0.45rem;
-    padding: 0.55rem 0.85rem;
+    padding: 0.55rem 1rem;
     border-radius: 999px;
-    font-weight: 800;
+    font-weight: 700;
     font-size: 0.9rem;
     text-decoration: none;
-    border: 1px solid rgba(0, 0, 0, 0.12);
-    background: rgba(0, 0, 0, 0.04);
-    transition: transform 120ms ease, background 120ms ease, border-color 120ms ease;
+    border: 1px solid rgba(0,0,0,0.12);
+    background: rgba(0,0,0,0.05);
+    transition: transform 0.15s ease, background 0.15s ease;
+    margin-left: 0.5rem;
   }
 
   .hh-changelog-more a:hover {
-    text-decoration: none;
     transform: translateY(-1px);
-    background: rgba(0, 0, 0, 0.06);
-    border-color: rgba(0, 0, 0, 0.16);
+    background: rgba(0,0,0,0.08);
+    text-decoration: none;
   }
 
   .dark .hh-changelog-more a {
-    border-color: rgba(255, 255, 255, 0.14);
-    background: rgba(255, 255, 255, 0.06);
+    border-color: rgba(255,255,255,0.14);
+    background: rgba(255,255,255,0.06);
   }
 
   .dark .hh-changelog-more a:hover {
-    background: rgba(255, 255, 255, 0.09);
-    border-color: rgba(255, 255, 255, 0.18);
+    background: rgba(255,255,255,0.1);
   }
 </style>
 `}</HTMLBlock>
