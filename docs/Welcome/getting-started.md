@@ -1,12 +1,12 @@
 ---
 title: Welcome to The Henry Howler!
-excerpt: UNDER CONSTRUCTION!
+excerpt: A living family archive — stories, photos, and history in one place.
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-A living family archive — stories, photos, and history in one place.
+<section id="changelog"></section>
 
 ***
 
