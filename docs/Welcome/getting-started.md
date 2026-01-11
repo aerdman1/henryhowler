@@ -27,6 +27,10 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 <HTMLBlock>{`
 <style>
+/* ===============================
+   RESET & BASE FIXES
+   =============================== */
+
 /* Reset any ReadMe/flex weirdness that breaks floats */
 .rm-Markdown,
 .markdown-body {
@@ -34,11 +38,21 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
   overflow: visible !important;
 }
 
-/* Ensure float works and text wraps correctly */
+/* Ensure text wraps around floated content */
+.ChangelogPost_textdx2lvBFg0xLI .rm-Markdown::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+/* ===============================
+   IMAGE + TEXT WRAPPING
+   =============================== */
+
 .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox {
   float: left !important;
   display: inline-block !important;
-  margin: 0.35rem 1rem 0.75rem 0 !important;
+  margin: 0.35rem 1.25rem 1rem 0 !important; /* spacing around image */
   max-width: 220px !important;
 }
 
@@ -50,21 +64,19 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
   vertical-align: top;
 }
 
-/* Restore text wrapping */
+/* Paragraph text wraps around image properly */
 .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown p {
   display: block !important;
   overflow: visible !important;
   line-height: 1.6;
   margin: 0.5rem 0;
+  text-align: justify;
 }
 
-.ChangelogPost_textdx2lvBFg0xLI .rm-Markdown::after {
-  content: "";
-  display: block;
-  clear: both;
-}
+/* ===============================
+   HEADER (TITLE + DATE + AUTHOR)
+   =============================== */
 
-/* Date and title side by side, not stacked */
 .ChangelogPost_headerBlf9hJApZlyc {
   display: flex !important;
   justify-content: space-between !important;
@@ -74,7 +86,25 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
   margin-bottom: 0.5rem;
 }
 
-/* Date styling */
+/* Title */
+.ChangelogPost_title3ME_vWC95yTD {
+  font-weight: 800;
+  font-size: 1.25rem;
+  color: #6a00ff;
+  margin: 0;
+  order: 1;
+}
+
+/* Author (below title) */
+.ChangelogPost-author1qH1HFeaAt2u {
+  display: block;
+  margin-top: 0.25rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+
+/* Date line (right aligned) */
 .DateLine {
   display: inline-block !important;
   font-weight: 600;
@@ -85,28 +115,13 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
   order: 2;
 }
 
-/* Title styling */
-.ChangelogPost_title3ME_vWC95yTD {
-  font-weight: 800;
-  font-size: 1.25rem;
-  color: #6a00ff;
-  margin: 0;
-  order: 1;
-}
+/* ===============================
+   ARTICLE CARD STYLING
+   =============================== */
 
-/* Author below title/date */
-.ChangelogPost-author1qH1HFeaAt2u {
-  display: block;
-  margin-top: 0.25rem;
-  font-weight: 600;
-  font-size: 0.9rem;
-  opacity: 0.7;
-}
-
-/* Modern article card spacing */
 .hh-changelog-list article {
   padding: 1.25rem 1.5rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 2rem; /* increased bottom spacing to separate articles */
   border: 1px solid rgba(0, 0, 0, 0.08);
   border-radius: 14px;
   background: rgba(255, 255, 255, 0.95);
@@ -118,7 +133,7 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
   border-color: rgba(255, 255, 255, 0.1);
 }
 
-/* Separator between posts */
+/* Subtle separator between posts */
 .hh-changelog-list article:not(:last-child)::after {
   content: "";
   display: block;
@@ -127,11 +142,15 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
   opacity: 0.8;
 }
 
-/* Read More button (right-aligned) */
+/* ===============================
+   READ MORE BUTTON
+   =============================== */
+
 .hh-changelog-more {
   clear: both;
   text-align: right;
-  margin-top: 1rem;
+  margin-top: 1.25rem;
+  margin-bottom: 1.75rem; /* extra gap before next article date */
 }
 
 .hh-changelog-more a {
@@ -154,7 +173,10 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
   background: rgba(0, 0, 0, 0.08);
 }
 
-/* Mobile fallback */
+/* ===============================
+   RESPONSIVE FIXES
+   =============================== */
+
 @media (max-width: 640px) {
   .ChangelogPost_headerBlf9hJApZlyc {
     flex-direction: column;
@@ -170,6 +192,10 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
   .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox img {
     width: 100% !important;
+  }
+
+  .hh-changelog-more {
+    text-align: left;
   }
 }
 </style>
