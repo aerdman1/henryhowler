@@ -6,9 +6,11 @@ hidden: false
 metadata:
   robots: index
 ---
-<HTMLBlock>{`
-<section id="changelog"></section>
-`}</HTMLBlock>
+<br />
+
+<ChangelogRssFast rssUrl="https://family.henryhowler.com/changelog.rss" maxItems={10} />
+
+***
 
 <br />
 
