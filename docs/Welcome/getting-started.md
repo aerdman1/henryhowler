@@ -23,7 +23,7 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 ## Recent Articles
 
-<ChangelogEmbed src="https://family.henryhowler.com/changelog" maxPosts={5} maxCharsPerPost={320} showReadMore={true} />
+<ChangelogEmbed src="https://family.henryhowler.com/changelog" maxPosts={5} maxCharsPerPost={520} showReadMore={true} />
 
 <HTMLBlock>{`
 <style>
