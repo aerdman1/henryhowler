@@ -111,6 +111,7 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 .hh-changelog-more a {
   font-weight: 700;
   text-decoration: none;
+  margin-left:20px;
 }
 
 .hh-changelog-more a:hover {
