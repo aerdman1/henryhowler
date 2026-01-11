@@ -22,6 +22,7 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 ***
 
 ## Recent Articles
+
 <ChangelogEmbed src="https://family.henryhowler.com/changelog" />
 
 <HTMLBlock>{`
@@ -68,6 +69,15 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
      content: "";
      display: block;
      clear: both;
+}
+
+ @media (min-width: 1080px) {
+.rm-Guides .content-body {
+    -ms-flex-negative: 1;
+    flex-shrink: 1;
+    max-width: 100%;
+    width: 85%;
+}
 }
 /* Mobile: don’t float—stack instead */
  @media (max-width: 640px) {
