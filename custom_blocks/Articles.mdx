@@ -1,24 +1,48 @@
 ---
 name: Articles
 ---
-import React from "react";
+import React, { useEffect, useState } from "react";
 
 export const ChangelogEmbed = ({ src }) => {
+  const [html, setHtml] = useState("");
+  const [error, setError] = useState("");
+
+  useEffect(() => {
+    async function loadChangelog() {
+      try {
+        const res = await fetch(src);
+        if (!res.ok) throw new Error(`Failed to fetch: ${res.status}`);
+        const text = await res.text();
+
+        // Parse HTML and extract the <main> content
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(text, "text/html");
+        const main = doc.querySelector("main.rm-Changelog");
+        const articles = main ? main.innerHTML : "No content found.";
+        setHtml(articles);
+      } catch (err) {
+        console.error("Failed to load changelog:", err);
+        setError("Could not load changelog content.");
+      }
+    }
+
+    loadChangelog();
+  }, [src]);
+
+  if (error) {
+    return <p className="text-red-500">{error}</p>;
+  }
+
+  if (!html) {
+    return <p className="opacity-70">Loading changelog…</p>;
+  }
+
   return (
-    <div className="relative w-full" style={{ paddingTop: "60vh" }}>
-      <iframe
-        src={src}
-        title="Henry Howler Changelog"
-        className="absolute top-0 left-0 w-full h-full rounded-md border border-gray-300 dark:border-gray-700 shadow-sm"
-        style={{
-          backgroundColor: "white",
-        }}
-        loading="lazy"
-        referrerPolicy="no-referrer"
-      ></iframe>
-    </div>
+    <div
+      className="prose dark:prose-invert max-w-none border border-gray-300 dark:border-gray-700 rounded-md p-4 bg-white dark:bg-gray-800"
+      dangerouslySetInnerHTML={{ __html: html }}
+    />
   );
 };
-
 
 <ChangelogEmbed src="https://family.henryhowler.com/changelog" />
