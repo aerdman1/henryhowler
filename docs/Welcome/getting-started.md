@@ -6,9 +6,8 @@ hidden: false
 metadata:
   robots: index
 ---
+<Image align="left" alt="Family photo" border={false} width="200px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2007/07/Canada-2007-11_jpg.jpg" />
 
-
-<Image align="right" alt="Family photo" border={false} width="200px" src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2007/07/Canada-2007-11_jpg.jpg" />
 ## How to navigate
 
 This site is organized into a few main areas so you can browse by time period, family line, or theme.  
