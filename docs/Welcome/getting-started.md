@@ -27,62 +27,61 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 <HTMLBlock>{`
 <style>
-
-  .content-toc {display:none;}
-
+ .content-toc {
+    display:none;
+}
+ .DateLine {
+     position: absolute;
+     margin-top: 30px;
+     font-weight: bold;
+}
 /* Scope to your embedded changelog block if you can */
-.ChangelogPost_textdx2lvBFg0xLI .rm-Markdown {
-  /* helps floated media behave consistently */
-  overflow: visible;
+ .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown {
+    /* helps floated media behave consistently */
+     overflow: visible;
 }
-
 /* Float the lightbox wrapper so text wraps around the whole block */
-.ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox {
-  float: left;
-  max-width: 220px;          /* matches your 200px image + padding */
-  margin: 0.25rem 1rem 0.75rem 0;
+ .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox {
+     float: left;
+     max-width: 220px;
+    /* matches your 200px image + padding */
+     margin: 0.25rem 1rem 0.75rem 0;
 }
-
 /* Ensure inner wrapper doesn't break layout */
-.ChangelogPost_textdx2lvBFg0xLI .rm-Markdown p {
-    display: inline !important;
+ .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown p {
+     display: inline !important;
 }
-
 /* Image styling */
-.ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox img {
-  display: block;
-  width: 200px;              /* keep consistent with your markup */
-  max-width: 100%;
-  height: auto;
-  border-radius: 0.5rem;
+ .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox img {
+     display: block;
+     width: 200px;
+    /* keep consistent with your markup */
+     max-width: 100%;
+     height: auto;
+     border-radius: 0.5rem;
 }
-
 /* Make sure paragraphs are normal flow (some CSS frameworks set odd display rules) */
-.ChangelogPost_textdx2lvBFg0xLI .rm-Markdown p {
-  display: block;
+ .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown p {
+     display: block;
 }
-
 /* If you have multiple paragraphs and want the float to stop after the section */
-.ChangelogPost_textdx2lvBFg0xLI::after,
-.ChangelogPost_textdx2lvBFg0xLI .rm-Markdown::after {
-  content: "";
-  display: block;
-  clear: both;
+ .ChangelogPost_textdx2lvBFg0xLI::after, .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown::after {
+     content: "";
+     display: block;
+     clear: both;
 }
-
 /* Mobile: don’t float—stack instead */
-@media (max-width: 640px) {
-  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox {
-    float: none;
-    max-width: 100%;
-    margin: 0 0 0.75rem 0;
-  }
-
-  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox img {
-    width: 100%;
-  }
+ @media (max-width: 640px) {
+     .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox {
+         float: none;
+         max-width: 100%;
+         margin: 0 0 0.75rem 0;
+    }
+     .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox img {
+         width: 100%;
+    }
 }
-
+ 
 </style>
 `}</HTMLBlock>
 
