@@ -22,7 +22,6 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 ***
 
 ## Recent Articles
-
 <ChangelogEmbed src="https://family.henryhowler.com/changelog" />
 
 <HTMLBlock>{`
