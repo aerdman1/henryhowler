@@ -26,7 +26,7 @@ metadata:
 
 /* Ensure inner wrapper doesn't break layout */
 .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown p {
-    display: inline;
+    display: inline !important;
 }
 
 /* Image styling */
