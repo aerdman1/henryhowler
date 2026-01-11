@@ -27,6 +27,10 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 <HTMLBlock>{`
 <style>
+  /* ==================================================
+     Global / layout
+  ================================================== */
+
   /* Hide table of contents */
   .content-toc {
     display: none;
@@ -42,14 +46,19 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
   }
 
   /* ==================================================
-     Header layout: title left, meta (date/author) right
-     (keeps date from colliding / makes it feel "on the title line")
+     Changelog header layout (title left, meta right)
   ================================================== */
+
+  .hh-changelog-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem; /* spacing between cards */
+  }
+
   .hh-changelog-list article {
     position: relative;
   }
 
-  /* Make the first header block behave like a 2-col row */
   .hh-changelog-list article header {
     display: flex;
     align-items: flex-start;
@@ -57,19 +66,25 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
     gap: 1rem;
   }
 
-  /* Ensure the title area can shrink without pushing meta off-screen */
   .hh-changelog-list article header a {
     min-width: 0;
+    text-decoration: none;
   }
 
-  /* Right-side meta block */
-  .hh-changelog-list article header address,
-  .hh-changelog-list article header .DateLine {
+  /* Title */
+  .ChangelogPost_title3ME_vWC95yTD {
+    letter-spacing: -0.01em;
+    line-height: 1.15;
+    margin: 0;
+  }
+
+  /* Meta (date/author) on the right */
+  .hh-changelog-list article header .DateLine,
+  .hh-changelog-list article header address {
     text-align: right;
     white-space: nowrap;
   }
 
-  /* Modern date and author styling */
   .DateLine {
     position: static;
     display: block;
@@ -81,7 +96,7 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
   }
 
   .ChangelogPost-author1qH1HFeaAt2u {
-    display: block;         /* stack under date */
+    display: block; /* stack under date */
     margin-top: 0.15rem;
     font-style: normal;
     font-weight: 700;
@@ -90,103 +105,32 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
     opacity: 0.75;
   }
 
-  /* Title visual tweaks */
-  .ChangelogPost_title3ME_vWC95yTD {
-    letter-spacing: -0.01em;
-    line-height: 1.15;
-    margin: 0;
-  }
-
   /* Mobile: stack header content */
   @media (max-width: 640px) {
     .hh-changelog-list article header {
       display: block;
     }
-    .hh-changelog-list article header address,
-    .hh-changelog-list article header .DateLine {
+
+    .hh-changelog-list article header .DateLine,
+    .hh-changelog-list article header address {
       text-align: left;
       white-space: normal;
+      margin-top: 0.35rem;
     }
   }
 
   /* ==================================================
-     YOUR ORIGINAL IMAGE FLOAT / INLINE BEHAVIOR — UNCHANGED
-  ================================================== */
-  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown {
-    overflow: visible;
-  }
-
-  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox {
-    float: left;
-    max-width: 220px;
-    margin: 0.25rem 1rem 0.75rem 0;
-  }
-
-  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown p {
-    display: inline !important;
-  }
-
-  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox img {
-    display: inline !important;
-    width: 200px;
-    max-width: 100%;
-    height: auto;
-    border-radius: 0.5rem;
-  }
-
-  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown p {
-    display: block;
-  }
-
-  .ChangelogPost_textdx2lvBFg0xLI::after,
-  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown::after {
-    content: "";
-    display: block;
-    clear: both;
-  }
-
-  /* Mobile: stack instead of float */
-  @media (max-width: 640px) {
-    .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox {
-      float: none;
-      max-width: 100%;
-      margin: 0 0 0.75rem 0;
-    }
-
-    .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox img {
-      width: 100%;
-    }
-  }
-
-  /* ==================================================
-     MODERN DESIGN ENHANCEMENTS
+     Article cards + separators
   ================================================== */
 
-  /* Changelog list wrapper + clear separators between articles */
-  .hh-changelog-list {
-    display: flex;
-    flex-direction: column;
-    gap: 1.25rem; /* visible spacing between articles */
-  }
-
-  /* Article cards */
   .hh-changelog-list article {
-    padding: 1.25rem 1.25rem 1rem;
-    margin: 0; /* gap above handles spacing */
+    padding: 1.25rem 1.25rem 1.05rem;
+    margin: 0; /* gap on wrapper handles spacing */
     border: 1px solid rgba(0, 0, 0, 0.08);
     border-radius: 14px;
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(255, 255, 255, 0.92);
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
-    transition: all 150ms ease;
-  }
-
-  /* Add an explicit divider line after each article (except the last) */
-  .hh-changelog-list article:not(:last-child)::after {
-    content: "";
-    display: block;
-    margin-top: 1.1rem;
-    border-top: 1px solid rgba(0, 0, 0, 0.08);
-    opacity: 0.7;
+    transition: transform 150ms ease, box-shadow 150ms ease, border-color 150ms ease;
   }
 
   .hh-changelog-list article:hover {
@@ -197,8 +141,22 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
   .dark .hh-changelog-list article {
     background: rgba(17, 24, 39, 0.85);
-    border-color: rgba(255, 255, 255, 0.1);
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    border-color: rgba(255, 255, 255, 0.10);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.30);
+  }
+
+  .dark .hh-changelog-list article:hover {
+    border-color: rgba(255, 255, 255, 0.14);
+    box-shadow: 0 14px 34px rgba(0, 0, 0, 0.40);
+  }
+
+  /* Optional inner divider line for clarity */
+  .hh-changelog-list article:not(:last-child)::after {
+    content: "";
+    display: block;
+    margin-top: 1.1rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+    opacity: 0.7;
   }
 
   .dark .hh-changelog-list article:not(:last-child)::after {
@@ -206,19 +164,83 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
     opacity: 1;
   }
 
-  .dark .hh-changelog-list article:hover {
-    border-color: rgba(255, 255, 255, 0.14);
-    box-shadow: 0 14px 34px rgba(0, 0, 0, 0.4);
+  /* ==================================================
+     YOUR IMAGE WRAP FIX (works with floats + block paragraphs)
+     This replaces the old conflicting "p inline !important" trick.
+  ================================================== */
+
+  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown {
+    overflow: visible;
   }
 
-  /* Excerpt */
+  /* Float the wrapper so text wraps */
+  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox {
+    float: left !important;
+    display: block !important;
+    max-width: 220px;
+    margin: 0.35rem 1rem 0.75rem 0;
+  }
+
+  /* Ensure inner wrapper doesn't break layout */
+  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox .lightbox-inner {
+    display: block !important;
+  }
+
+  /* Image styling */
+  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox img {
+    display: block !important;
+    width: 200px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 0.75rem;
+    box-shadow: 0 10px 22px rgba(0, 0, 0, 0.10);
+    vertical-align: top;
+  }
+
+  /* Keep paragraphs block so float wrapping actually works */
+  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown p {
+    display: block !important;
+    margin: 0.6rem 0 0;
+    line-height: 1.6;
+  }
+
+  /* Avoid awkward top gap on first paragraph next to image */
+  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown p:first-of-type {
+    margin-top: 0;
+  }
+
+  /* Clear float at end of section */
+  .ChangelogPost_textdx2lvBFg0xLI::after,
+  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown::after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+  /* Mobile: stack instead of float */
+  @media (max-width: 640px) {
+    .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox {
+      float: none !important;
+      display: block !important;
+      max-width: 100%;
+      margin: 0 0 0.9rem 0;
+    }
+
+    .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox img {
+      width: 100%;
+    }
+  }
+
+  /* ==================================================
+     Excerpt + Read More (right-aligned, below float)
+  ================================================== */
+
   .hh-changelog-excerpt {
     margin-top: 0.9rem;
     opacity: 0.95;
     line-height: 1.65;
   }
 
-  /* Read More: right aligned, separated from float/text */
   .hh-changelog-more {
     display: block;
     clear: both;        /* drop below floated image */
@@ -237,13 +259,14 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
     text-decoration: none;
     border: 1px solid rgba(0, 0, 0, 0.12);
     background: rgba(0, 0, 0, 0.05);
-    transition: all 0.15s ease;
-    margin-left: 0 !important; /* override the old 20px */
+    transition: transform 150ms ease, background 150ms ease, border-color 150ms ease;
+    margin-left: 0 !important; /* ensure no leftover offsets */
   }
 
   .hh-changelog-more a:hover {
     transform: translateY(-1px);
     background: rgba(0, 0, 0, 0.08);
+    border-color: rgba(0, 0, 0, 0.16);
     text-decoration: none;
   }
 
@@ -253,7 +276,8 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
   }
 
   .dark .hh-changelog-more a:hover {
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255, 0.10);
+    border-color: rgba(255, 255, 255, 0.18);
   }
 </style>
 `}</HTMLBlock>
