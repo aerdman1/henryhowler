@@ -1,88 +1,24 @@
 ---
 name: Articles
 ---
-import React, { useEffect, useState } from "react";
+import React from "react";
 
-export const ChangelogRssFast = props => {
-  const rssUrl = props?.rssUrl || "https://family.henryhowler.com/changelog.rss";
-  const [items, setItems] = useState([]);
-  const [error, setError] = useState("");
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    const controller = new AbortController();
-
-    async function fetchRss() {
-      try {
-        const res = await fetch(rssUrl, { signal: controller.signal });
-        if (!res.ok) throw new Error(`Fetch failed: ${res.status}`);
-        const xmlText = await res.text();
-
-        const parser = new DOMParser();
-        const xml = parser.parseFromString(xmlText, "text/xml");
-        const itemsParsed = Array.from(xml.querySelectorAll("item")).map(item => ({
-          title: item.querySelector("title")?.textContent || "Untitled",
-          link: item.querySelector("link")?.textContent || "#",
-          author: item.querySelector("dc\\:creator")?.textContent || "",
-          date: new Date(item.querySelector("pubDate")?.textContent || "").toLocaleDateString(),
-          content:
-            item.querySelector("content\\:encoded")?.textContent ||
-            item.querySelector("description")?.textContent ||
-            "",
-        }));
-
-        setItems(itemsParsed.slice(0, props?.maxItems || 10));
-        setError("");
-      } catch (err) {
-        console.error("RSS fetch failed:", err);
-        setError("Could not load changelog feed.");
-      } finally {
-        setLoading(false);
-      }
-    }
-
-    fetchRss();
-    return () => controller.abort();
-  }, [rssUrl]);
-
+export const ChangelogEmbed = ({ src }) => {
   return (
-    <div className="rounded-md p-6 border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800">
-      <h3 className="text-xl font-bold mb-4">Latest Articles</h3>
-
-      {loading && <p className="text-sm opacity-70">Loading...</p>}
-      {error && <p className="text-sm text-red-500">{error}</p>}
-
-      {!loading && !error && (
-        <div className="space-y-8">
-          {items.map((item, i) => (
-            <article key={i} className="border-b border-gray-200 dark:border-gray-700 pb-4">
-              <h4 className="text-lg font-semibold mb-1">
-                <a
-                  href={item.link}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-blue-600 dark:text-blue-400 hover:underline"
-                >
-                  {item.title}
-                </a>
-              </h4>
-              <p className="text-xs text-gray-500 dark:text-gray-400 mb-2">
-                {item.date} {item.author && `• ${item.author}`}
-              </p>
-              {item.content && (
-                <div
-                  className="prose dark:prose-invert max-w-none text-sm leading-relaxed"
-                  dangerouslySetInnerHTML={{
-                    __html: item.content,
-                  }}
-                />
-              )}
-            </article>
-          ))}
-        </div>
-      )}
+    <div className="relative w-full" style={{ paddingTop: "60vh" }}>
+      <iframe
+        src={src}
+        title="Henry Howler Changelog"
+        className="absolute top-0 left-0 w-full h-full rounded-md border border-gray-300 dark:border-gray-700 shadow-sm"
+        style={{
+          backgroundColor: "white",
+        }}
+        loading="lazy"
+        referrerPolicy="no-referrer"
+      ></iframe>
     </div>
   );
 };
 
-<ChangelogRssFast rssUrl="https://family.henryhowler.com/changelog.rss" maxItems={10} />
+
+<ChangelogEmbed src="https://family.henryhowler.com/changelog" />
