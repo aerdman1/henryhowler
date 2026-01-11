@@ -27,11 +27,120 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 <HTMLBlock>{`
 <style>
-/* ---- Force image float + text wrap ---- */
+/* ==================================================
+   Layout / Global
+================================================== */
+
+.content-toc {
+  display: none;
+}
+
+@media (min-width: 1080px) {
+  .rm-Guides .content-body {
+    flex-shrink: 1;
+    max-width: 100%;
+    width: 85%;
+  }
+}
+
+/* ==================================================
+   Article list container
+================================================== */
+
+.hh-changelog-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.hh-changelog-list article {
+  position: relative;
+  padding: 1.5rem 1.75rem;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.95);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+  transition: transform 150ms ease, box-shadow 150ms ease;
+}
+
+.hh-changelog-list article:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.08);
+}
+
+.dark .hh-changelog-list article {
+  background: rgba(17, 24, 39, 0.88);
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Divider between articles */
+.hh-changelog-list article:not(:last-child)::after {
+  content: "";
+  display: block;
+  margin-top: 1.5rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  opacity: 0.8;
+}
+.dark .hh-changelog-list article:not(:last-child)::after {
+  border-top-color: rgba(255, 255, 255, 0.12);
+}
+
+/* ==================================================
+   Header (Title, Date, Author)
+================================================== */
+
+.hh-changelog-list article header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.ChangelogPost_title3ME_vWC95yTD {
+  flex: 1 1 auto;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  line-height: 1.15;
+  margin: 0;
+  color: #6a00ff;
+}
+
+.DateLine {
+  flex-shrink: 0;
+  font-weight: 600;
+  font-size: 0.9rem;
+  opacity: 0.8;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.ChangelogPost-author1qH1HFeaAt2u {
+  display: block;
+  margin-top: 0.25rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+
+/* Mobile: stack date/title */
+@media (max-width: 640px) {
+  .hh-changelog-list article header {
+    display: block;
+  }
+  .DateLine {
+    text-align: left;
+    margin-bottom: 0.25rem;
+  }
+}
+
+/* ==================================================
+   Image float fix (text wraps correctly)
+================================================== */
+
 .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown {
   display: block !important;
   overflow: visible !important;
-  position: relative;
 }
 
 .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox {
@@ -39,15 +148,12 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
   display: inline-block !important;
   margin: 0.25rem 1rem 0.75rem 0 !important;
   max-width: 220px !important;
-  position: relative;
-  z-index: 1;
 }
 
 .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox img {
   display: inline-block !important;
   width: 200px !important;
   height: auto !important;
-  max-width: 100% !important;
   border-radius: 0.5rem;
   vertical-align: top;
 }
@@ -55,10 +161,8 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown p {
   display: block !important;
   overflow: visible !important;
-  line-height: 1.6;
+  line-height: 1.65;
   margin: 0.5rem 0;
-  text-align: left;
-  clear: none !important;
 }
 
 .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown::after {
@@ -67,102 +171,22 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
   clear: both;
 }
 
-/* ---- Mobile fallback ---- */
+/* Mobile: stack instead of float */
 @media (max-width: 640px) {
   .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox {
     float: none !important;
     display: block !important;
     margin: 0 0 0.9rem 0 !important;
     max-width: 100% !important;
-    text-align: center;
   }
-
   .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox img {
-    display: block !important;
-    margin: 0 auto !important;
     width: 100% !important;
   }
 }
 
-/* ---- Article + layout styling from your latest version ---- */
-.hh-changelog-list {
-  display: flex;
-  flex-direction: column;
-  gap: 1.25rem;
-}
-
-.hh-changelog-list article {
-  position: relative;
-  padding: 1.25rem 1.25rem 1.05rem;
-  border: 1px solid rgba(0, 0, 0, 0.08);
-  border-radius: 14px;
-  background: rgba(255, 255, 255, 0.92);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
-  transition: transform 150ms ease, box-shadow 150ms ease, border-color 150ms ease;
-}
-
-.hh-changelog-list article:not(:last-child)::after {
-  content: "";
-  display: block;
-  margin-top: 1.1rem;
-  border-top: 1px solid rgba(0, 0, 0, 0.08);
-  opacity: 0.7;
-}
-
-.hh-changelog-list article:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.08);
-  border-color: rgba(0, 0, 0, 0.12);
-}
-
-.dark .hh-changelog-list article {
-  background: rgba(17, 24, 39, 0.85);
-  border-color: rgba(255, 255, 255, 0.1);
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-}
-
-.dark .hh-changelog-list article:not(:last-child)::after {
-  border-top-color: rgba(255, 255, 255, 0.12);
-  opacity: 1;
-}
-
-/* Header meta alignment */
-.hh-changelog-list article header {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 1rem;
-}
-
-.ChangelogPost_title3ME_vWC95yTD {
-  letter-spacing: -0.01em;
-  line-height: 1.15;
-  margin: 0;
-}
-
-.DateLine {
-  font-weight: 700;
-  font-size: 0.875rem;
-  opacity: 0.75;
-  margin-top: 0.25rem;
-  text-align: right;
-  white-space: nowrap;
-}
-
-.ChangelogPost-author1qH1HFeaAt2u {
-  display: block;
-  font-weight: 700;
-  font-size: 0.875rem;
-  opacity: 0.75;
-  text-align: right;
-}
-
-/* ---- Excerpt and Read More ---- */
-.hh-changelog-excerpt {
-  margin-top: 0.9rem;
-  opacity: 0.95;
-  line-height: 1.65;
-}
+/* ==================================================
+   Read More Button
+================================================== */
 
 .hh-changelog-more {
   display: block;
@@ -175,15 +199,15 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
   display: inline-flex;
   align-items: center;
   gap: 0.45rem;
-  padding: 0.55rem 1rem;
+  padding: 0.6rem 1.25rem;
   border-radius: 999px;
   font-weight: 700;
   font-size: 0.9rem;
   text-decoration: none;
-  border: 1px solid rgba(0, 0, 0, 0.12);
-  background: rgba(0, 0, 0, 0.05);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background: rgba(0, 0, 0, 0.04);
+  color: #6a00ff;
   transition: transform 150ms ease, background 150ms ease, border-color 150ms ease;
-  margin-left: 0 !important;
 }
 
 .hh-changelog-more a:hover {
@@ -195,6 +219,7 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 .dark .hh-changelog-more a {
   border-color: rgba(255, 255, 255, 0.14);
   background: rgba(255, 255, 255, 0.06);
+  color: #a78bfa;
 }
 
 .dark .hh-changelog-more a:hover {
