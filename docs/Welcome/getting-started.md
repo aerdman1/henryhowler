@@ -113,6 +113,7 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
   white-space: nowrap;
   margin-left: auto;
   order: 2;
+  margin-bottom: -30px;
 }
 
 /* ===============================
