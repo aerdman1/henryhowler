@@ -41,23 +41,72 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
     }
   }
 
+  /* ==================================================
+     Header layout: title left, meta (date/author) right
+     (keeps date from colliding / makes it feel "on the title line")
+  ================================================== */
+  .hh-changelog-list article {
+    position: relative;
+  }
+
+  /* Make the first header block behave like a 2-col row */
+  .hh-changelog-list article header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  /* Ensure the title area can shrink without pushing meta off-screen */
+  .hh-changelog-list article header a {
+    min-width: 0;
+  }
+
+  /* Right-side meta block */
+  .hh-changelog-list article header address,
+  .hh-changelog-list article header .DateLine {
+    text-align: right;
+    white-space: nowrap;
+  }
+
   /* Modern date and author styling */
   .DateLine {
     position: static;
     display: block;
-    margin-top: 0.35rem;
+    margin-top: 0.15rem;
     font-weight: 700;
     font-size: 0.875rem;
+    line-height: 1.1;
     opacity: 0.75;
   }
 
   .ChangelogPost-author1qH1HFeaAt2u {
-    display: inline-block;
-    margin-top: 0.25rem;
+    display: block;         /* stack under date */
+    margin-top: 0.15rem;
     font-style: normal;
     font-weight: 700;
     font-size: 0.875rem;
+    line-height: 1.1;
     opacity: 0.75;
+  }
+
+  /* Title visual tweaks */
+  .ChangelogPost_title3ME_vWC95yTD {
+    letter-spacing: -0.01em;
+    line-height: 1.15;
+    margin: 0;
+  }
+
+  /* Mobile: stack header content */
+  @media (max-width: 640px) {
+    .hh-changelog-list article header {
+      display: block;
+    }
+    .hh-changelog-list article header address,
+    .hh-changelog-list article header .DateLine {
+      text-align: left;
+      white-space: normal;
+    }
   }
 
   /* ==================================================
@@ -113,15 +162,31 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
      MODERN DESIGN ENHANCEMENTS
   ================================================== */
 
-  /* Changelog list wrapper and article cards */
+  /* Changelog list wrapper + clear separators between articles */
+  .hh-changelog-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem; /* visible spacing between articles */
+  }
+
+  /* Article cards */
   .hh-changelog-list article {
     padding: 1.25rem 1.25rem 1rem;
-    margin-bottom: 1.25rem;
+    margin: 0; /* gap above handles spacing */
     border: 1px solid rgba(0, 0, 0, 0.08);
     border-radius: 14px;
     background: rgba(255, 255, 255, 0.9);
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
     transition: all 150ms ease;
+  }
+
+  /* Add an explicit divider line after each article (except the last) */
+  .hh-changelog-list article:not(:last-child)::after {
+    content: "";
+    display: block;
+    margin-top: 1.1rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+    opacity: 0.7;
   }
 
   .hh-changelog-list article:hover {
@@ -136,20 +201,29 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
   }
 
+  .dark .hh-changelog-list article:not(:last-child)::after {
+    border-top-color: rgba(255, 255, 255, 0.12);
+    opacity: 1;
+  }
+
   .dark .hh-changelog-list article:hover {
     border-color: rgba(255, 255, 255, 0.14);
     box-shadow: 0 14px 34px rgba(0, 0, 0, 0.4);
   }
 
-  /* Excerpt and Read More link */
+  /* Excerpt */
   .hh-changelog-excerpt {
     margin-top: 0.9rem;
     opacity: 0.95;
     line-height: 1.65;
   }
 
+  /* Read More: right aligned, separated from float/text */
   .hh-changelog-more {
-    margin-top: 1.2rem;
+    display: block;
+    clear: both;        /* drop below floated image */
+    margin-top: 1.15rem;
+    text-align: right;  /* right align button */
   }
 
   .hh-changelog-more a {
@@ -164,7 +238,7 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
     border: 1px solid rgba(0, 0, 0, 0.12);
     background: rgba(0, 0, 0, 0.05);
     transition: all 0.15s ease;
-    margin-left: 20px;
+    margin-left: 0 !important; /* override the old 20px */
   }
 
   .hh-changelog-more a:hover {
@@ -180,13 +254,6 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
   .dark .hh-changelog-more a:hover {
     background: rgba(255, 255, 255, 0.1);
-  }
-
-  /* Title visual tweaks */
-  .ChangelogPost_title3ME_vWC95yTD {
-    letter-spacing: -0.01em;
-    line-height: 1.15;
-    margin: 0;
   }
 </style>
 `}</HTMLBlock>
