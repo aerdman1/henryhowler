@@ -27,6 +27,9 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 <HTMLBlock>{`
 <style>
+
+  .content-toc {display:none;}
+
 /* Scope to your embedded changelog block if you can */
 .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown {
   /* helps floated media behave consistently */
