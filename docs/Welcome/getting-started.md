@@ -34,7 +34,9 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
      position: absolute;
      margin-top: 30px;
      font-weight: bold;
-}
+  }
+
+
 /* Scope to your embedded changelog block if you can */
  .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown {
     /* helps floated media behave consistently */
@@ -89,7 +91,27 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
      .ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox img {
          width: 100%;
     }
+  }
+.hh-changelog-list article {
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid rgba(0,0,0,.08);
 }
+
+.hh-changelog-excerpt {
+  margin-top: 0.5rem;
+}
+
+.hh-changelog-more a {
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.hh-changelog-more a:hover {
+  text-decoration: underline;
+}
+
+
  
 </style>
 `}</HTMLBlock>
