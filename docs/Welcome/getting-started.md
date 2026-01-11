@@ -6,9 +6,11 @@ hidden: false
 metadata:
   robots: index
 ---
+<HTMLBlock>{`
 <section id="changelog"></section>
+`}</HTMLBlock>
 
-***
+<br />
 
 <Image alt="Family photo" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2007/07/Canada-2007-11_jpg.jpg" />
 
