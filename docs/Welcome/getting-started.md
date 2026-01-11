@@ -10,8 +10,7 @@ A living family archive — stories, photos, and history in one place.
 
 ***
 
-<Columns layout="auto">
-  <Column>
+
     ![Family photo](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2007/07/Canada-2007-11_jpg.jpg)
 
     ## How to navigate
@@ -26,23 +25,7 @@ A living family archive — stories, photos, and history in one place.
     * [Other](#) — misc. pages and experiments
     * this could be an anouncement of some kind
       \*January 1, 2026  Where are pictures that we include in new posts being saved?  We looked for them in the amazon images bucket and found nothing, whereas we were able to find old post pictures that you put there in the original migration.
-  </Column>
 
-  <Column>
-    <div className="hh-aside">
-      <h3>Recent posts</h3>
-      <p className="hh-sub">Latest updates pulled from GitHub commit history.</p>
-
-      <div id="hh-recent-posts">
-        <p className="hh-note"><strong>Recent posts</strong>: loading…</p>
-      </div>
-
-      <p className="hh-note" style={{ marginTop: 12 }}>
-        If nothing appears here, it usually means the global JS couldn’t map repo file paths to your ReadMe page slugs.
-      </p>
-    </div>
-  </Column>
-</Columns>
 
 <HTMLBlock>{`
 <style>
