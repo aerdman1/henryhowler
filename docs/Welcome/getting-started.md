@@ -6,9 +6,9 @@ hidden: false
 metadata:
   robots: index
 ---
-<br />
+<ChangelogEmbed src="https://family.henryhowler.com/changelog" />
 
-<ChangelogRssFast rssUrl="https://family.henryhowler.com/changelog.rss" maxItems={10} />
+<br />
 
 ***
 
