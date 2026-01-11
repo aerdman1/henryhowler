@@ -25,8 +25,8 @@ metadata:
 }
 
 /* Ensure inner wrapper doesn't break layout */
-.ChangelogPost_textdx2lvBFg0xLI .rm-Markdown .img.lightbox .lightbox-inner {
-  display: block;
+.ChangelogPost_textdx2lvBFg0xLI .rm-Markdown p {
+    display: inline;
 }
 
 /* Image styling */
