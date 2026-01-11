@@ -8,25 +8,56 @@ export const ChangelogEmbed = ({ src }) => {
   const [error, setError] = useState("");
 
   useEffect(() => {
+    let isMounted = true;
+    const controller = new AbortController();
+
     async function loadChangelog() {
       try {
-        const res = await fetch(src);
+        setError("");
+        setHtml("");
+
+        // IMPORTANT: omit credentials so we fetch the public (logged-out) view
+        const res = await fetch(src, {
+          method: "GET",
+          credentials: "omit",
+          cache: "no-store",
+          redirect: "follow",
+          signal: controller.signal,
+          headers: {
+            Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          },
+        });
+
         if (!res.ok) throw new Error(`Failed to fetch: ${res.status}`);
         const text = await res.text();
 
-        // Parse HTML and extract the <main> content
+        // Parse HTML and extract only the changelog <main> content
         const parser = new DOMParser();
         const doc = parser.parseFromString(text, "text/html");
-        const main = doc.querySelector("main.rm-Changelog");
-        const articles = main ? main.innerHTML : "No content found.";
-        setHtml(articles);
+
+        const main =
+          doc.querySelector("main.rm-Changelog") ||
+          doc.querySelector("main#content.rm-Changelog") ||
+          doc.querySelector("main#content");
+
+        const articles = main ? main.innerHTML : "";
+
+        if (!articles) throw new Error("No changelog content found on the page.");
+
+        if (isMounted) setHtml(articles);
       } catch (err) {
+        if (err && err.name === "AbortError") return;
         console.error("Failed to load changelog:", err);
-        setError("Could not load changelog content.");
+        if (isMounted) setError("Could not load changelog content.");
       }
     }
 
     loadChangelog();
+
+    return () => {
+      isMounted = false;
+      controller.abort();
+    };
   }, [src]);
 
   if (error) {
