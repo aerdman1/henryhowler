@@ -2,7 +2,7 @@
 title: Welcome to The Henry Howler!
 excerpt: A living family archive — stories, photos, and history in one place.
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
