@@ -1,6 +1,6 @@
 ---
 title: 'First Vegetarian '
-excerpt: Baby Justin
+excerpt: Baby Justin (leave eater)
 deprecated: false
 hidden: false
 metadata:
