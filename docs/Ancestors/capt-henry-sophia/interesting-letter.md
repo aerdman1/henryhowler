@@ -1,8 +1,8 @@
 ---
 title: 'Letter: Edward to John on Simon''s Death'
 excerpt: >-
-  Edward Everett Henry writes John Henry about the death of Simon Henry -
-  Transcription Below
+  Edward Everett Henry writes John Henry about the death of their brother, Simon
+  Henry - Transcription Below
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
@@ -25,11 +25,13 @@ This letter, dated March 30, 1888, Springfield, Ohio, was written by Capt. Henry
 
 The Edward – Newton letter is challenging to read but full of interesting reminisces and well worth the effort. Download – Edward-Newton_Letter.compressed PDF
 
-March 22, 2017 Linda <Anchor label="Download – Edward-Newton_Letter.compressed PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Edward-Newton_Letter.compressed.pdf">Download – Edward-Newton_Letter.compressed PDF</Anchor>Letter
+March 22, 2017 thei <Anchor label="Download – Edward-Newton_Letter.compressed PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Edward-Newton_Letter.compressed.pdf">Download – Edward-Newton_Letter.compressed PDF</Anchor>Letter
 
 <br />
 
 Edward Henry writing to John Henry about their brother Simon Henry
+
+***
 
 This is page one of a six-page handwritten letter from Edward Henry to his brother John Newton Henry dated March 30, 1888, and sent from Springfield, Ohio.
 
@@ -56,6 +58,10 @@ Mr. C.E. Henry:
 U. S. Marshal + Deputies, You are respectfully invited to witness the execution of Charles J. Guiteau, at this jail Friday June 30, 1882; between the hours of 12 M., and 2 o'clock P. M.
 John S. Crocker
 Warden.
+
+***
+
+<br />
 
 To the Alumni of Hiram College:
 Charles Guiteau was the man who shot James A. Garfield, the 20th President of the United States. I found the invitation addressed to my grandfather who was then Marshal of the District of Columbia among my father's papers a few years ago.  
