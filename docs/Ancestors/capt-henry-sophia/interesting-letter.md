@@ -1,8 +1,8 @@
 ---
 title: 'Letter: Edward to John on Simon''s Death'
 excerpt: >-
-  Edward Henry writes John Henry about the death of Simon Henry - Transcription
-  Below
+  Edward Everett Henry writes John Henry about the death of Simon Henry -
+  Transcription Below
 date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
