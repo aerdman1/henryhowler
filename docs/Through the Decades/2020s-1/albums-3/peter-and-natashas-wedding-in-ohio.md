@@ -27,6 +27,6 @@ metadata:
 
 <Image align="center" border={false} src="https://files.readme.io/69cdccf6ec1f7894bf317084a21466b9ddfa9044afbe870b04cba0c5e68e8fb9-1G9A8107.jpg" />
 
-<Image border={false} />
+<Image align="center" border={false} src="https://files.readme.io/32705c530b473ab32215f2d8865d08fc79b1321fa69193a3300bfa931a5d679a-1G9A8111.jpg" />
 
-<br />
+<Image border={false} />
