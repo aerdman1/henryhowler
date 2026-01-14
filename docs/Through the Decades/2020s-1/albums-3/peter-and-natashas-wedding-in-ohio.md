@@ -149,3 +149,9 @@ So Peter and Tash, in your love ever spoon,
 In the light of the wedding of the mandarin moon.
 
 <Image align="center" border={false} src="https://files.readme.io/5b5751831767f7d90edb5b954b06ba7a8fb716a8bd51c51bf0e7d13f7e8cd09a-DSC01634.jpg" />
+
+## About the poem
+
+The day of the wedding, Canada was experiencing wild fires on their southern border.  Lots of smoke was on the northern horizon.  As the sun was going down at about 8:30, it looked like a huge orange rubber ball.  Cousin Charly Steinmatz very convincingly argued that what we were seeing was a rare phase of the moon called, "The Mandarin Moon"  
+
+<Image align="center" border={false} caption="Image of the sun impacted by smoke from Canadian wild fires on the northern shores on Lake Erie - otherize known as &#x22;The Mandarin Moon&#x22;" src="https://files.readme.io/e005eca3525b7086d63c571a7875bf7b463582ccfdc99d424f71622de5b36f25-Screenshot_2026-01-14_112243.png" />
