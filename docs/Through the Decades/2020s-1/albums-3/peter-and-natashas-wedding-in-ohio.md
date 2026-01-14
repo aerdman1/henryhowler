@@ -45,4 +45,6 @@ metadata:
 
 <Image align="center" border={false} src="https://files.readme.io/9261745e9faf797e6322f4c79fae995fe222d1ebf7e47871a43aac5b4c0ab119-DSC01656.jpg" />
 
-<Image border={false} />
+<Image align="center" border={false} src="https://files.readme.io/06a31d8085cb2ff9205126c881998554e8a54ab01af71d6b7d68460b5ea1f57a-DSC01672.jpg" />
+
+<br />
