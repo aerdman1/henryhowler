@@ -1,7 +1,7 @@
 ---
 title: Peter and Natasha's Wedding in Ohio
 excerpt: >-
-  A poetic celebration of Peter and Natasha's wedding on June 3, 2023, under the
+  A celebration of Peter and Natasha's wedding on June 3, 2023, under the
   mandarin moon.
 deprecated: false
 hidden: false
