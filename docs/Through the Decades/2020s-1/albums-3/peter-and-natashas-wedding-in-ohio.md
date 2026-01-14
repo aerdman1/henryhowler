@@ -152,4 +152,4 @@ In the light of the wedding of the mandarin moon.
 
 The day of the wedding, fires were burning in Canada causing a lot of smoke to sit on the horizon.  As the evening drew in, the sun set was especially beautiful.  The sun looked like a big orange rubber ball in the sky.  Cousin Charley Steinmatz argued convincingly that what were were seeing was actually a rare phase of the moon known as the "Mandarin Moon".   It was truly a beautiful and memorable sight on that special wedding day.
 
-<Image align="center" border={false} src="https://files.readme.io/1264a2dd09f1316e8e33fa6cfa7c6313c41435355568aedeee83e3314820ace3-mandarine_moon.jpg" />
+<Image align="center" border={false} caption="The sun seen through smoke from Canadian wild fires &#x22;The Mandarin Moon&#x22;" src="https://files.readme.io/1264a2dd09f1316e8e33fa6cfa7c6313c41435355568aedeee83e3314820ace3-mandarine_moon.jpg" />
