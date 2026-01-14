@@ -48,5 +48,3 @@ metadata:
 <Image align="center" border={false} src="https://files.readme.io/06a31d8085cb2ff9205126c881998554e8a54ab01af71d6b7d68460b5ea1f57a-DSC01672.jpg" />
 
 <Image align="center" border={false} src="https://files.readme.io/22b7178a5b488ee0833bd14626816ba54e62e42450f1b8b89006f12d2983efc8-DSC01664.jpg" />
-
-<Image align="center" border={false} src="https://files.readme.io/feb3bc876647391be6573224330014281154416ed0e5cfc51c18873a9072ee79-DSC01672.jpg" />
