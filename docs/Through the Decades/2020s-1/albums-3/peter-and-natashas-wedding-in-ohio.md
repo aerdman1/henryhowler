@@ -148,6 +148,8 @@ while the mandarin moon shines its gorgeous orange light.
 So Peter and Tash, in your love ever spoon,  
 In the light of the wedding of the mandarin moon.
 
-<br />
+## About the poem
+
+The day of the wedding, fires were burning in Canada causing a lot of smoke to sit on the horizon.  As the evening drew in, the sun set was especially beautiful.  The sun looked like a big orange rubber ball in the sky.  Cousin Charley Steinmatz argued convincingly that what were were seeing was actually a rare phase of the moon known as the "Mandarin Moon".   It was truly a beautiful and memorable sight on that special wedding day.
 
 <br />
