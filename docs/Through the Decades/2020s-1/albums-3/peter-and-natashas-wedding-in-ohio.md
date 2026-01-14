@@ -47,4 +47,4 @@ metadata:
 
 <Image align="center" border={false} src="https://files.readme.io/06a31d8085cb2ff9205126c881998554e8a54ab01af71d6b7d68460b5ea1f57a-DSC01672.jpg" />
 
-<br />
+<Image border={false} />
