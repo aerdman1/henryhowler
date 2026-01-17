@@ -13,21 +13,29 @@ metadata:
 **Edward Everett Henry, Age 64**  
 (Born August 7, 1841)
 
-- **Hours of Firing at Practice:** 10 A.M. to 12 P.M.
-- **Trips to United States Treasury:** Washington, D.C.
-- **To United States Mint:** Philadelphia, PA
+* **Hours of Firing at Practice:** 10 A.M. to 12 P.M.
+* **Trips to United States Treasury:** Washington, D.C.
+* **To United States Mint:** Philadelphia, PA
 
 **Memorandums:**
-- Generally three wrecks a year.
-- No sleeping or leaving of money safes or boxes until delivery is made.
-- Sub-Treasury for the Western States: Chicago.
+
+* Generally three wrecks a year.
+* No sleeping or leaving of money safes or boxes until delivery is made.
+* Sub-Treasury for the Western States: Chicago.
 
 **Gold Bullion:**
-- From Denver and Pueblo Smelters to U.S. Mint Philadelphia, Month of June 1903, nearly seven million dollars in gold.
+
+* From Denver and Pueblo Smelters to U.S. Mint Philadelphia, Month of June 1903, nearly seven million dollars in gold.
 
 **Arms:**
-- Colt's Automatic 7-Shooter, Maxim Attachment.
-- Winchester, Magazine, 18 shots in all.
+
+* Colt's Automatic 7-Shooter, Maxim Attachment.
+* Winchester, Magazine, 18 shots in all.
 
 **Additional Items:**
-- Basket with rations and heavy overcoat.
+
+* Basket with rations and heavy overcoat.
+
+<Image align="center" border={false} src="https://files.readme.io/cc20cb7a487455a762470c547ef54bcb5702327b8f7831fd99bb79aec752bcae-uncle_ed_2.jpg" />
+
+<Image align="center" border={false} src="https://files.readme.io/d8a26e7c2af117099dd5a037cb5b685f33cff717ff0b1af9636dfd1730ae222c-uncle_Ed_1.jpg" />
