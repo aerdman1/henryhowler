@@ -42,6 +42,6 @@ James left behind his parents, two sisters, and a brother, as well as many frien
 
 Though his life was short, James’s story reminds us that a meaningful life is not measured only in years. It is measured in curiosity, effort, and the way we make others feel. James Garfield Henry lived fully, learning eagerly, working hard, and giving his best to everything he loved.
 
-<Image align="center" border={false} src="https://files.readme.io/45f7e8ca898812423493fa5ec34d01ab187debd16e4ec1171f4c967ed7de86a2-toomstone.jpg" />
+<Image align="center" border={false} caption="James was laid to rest in the Evergreen Hill Cemetery in Chagrin Falls with his parents and siblings" src="https://files.readme.io/45f7e8ca898812423493fa5ec34d01ab187debd16e4ec1171f4c967ed7de86a2-toomstone.jpg" />
 
 <br />
