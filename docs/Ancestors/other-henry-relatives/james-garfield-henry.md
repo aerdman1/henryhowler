@@ -1,5 +1,5 @@
 ---
-title: James Garfield Henry
+title: James Garfield Henry (1880-1901)
 excerpt: Youngest son of Cpt. Charles E. Henry
 deprecated: false
 hidden: false
