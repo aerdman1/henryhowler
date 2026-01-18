@@ -12,7 +12,7 @@ metadata:
 
 James Garfield Henry was the kind of person who seemed interested in everything. Though his life was short, it was full of energy, curiosity, and kindness, and the people who knew him never forgot him.
 
-James grew up on his family’s farm near Geauga Lake in Ohio. As the youngest child in the Henry family, he spent his early years exploring the outdoors. He wandered through fields and woods, climbed over fences, and searched swamps and meadows for plants most people never noticed. He especially loved botany—the study of plants—and took pride in finding rare orchids. Even though their scientific names were long and difficult, James enjoyed saying them aloud, as if each name were a small treasure of its own.
+James grew up on his family’s home in Cleveland and spent summers at the "Big House" near Geauga Lake in Ohio. As the youngest child in the Henry family, he spent his early years exploring the outdoors. He wandered through fields and woods, climbed over fences, and searched swamps and meadows for plants most people never noticed. He especially loved botany—the study of plants—and took pride in finding rare orchids. Even though their scientific names were long and difficult, James enjoyed saying them aloud, as if each name were a small treasure of its own.
 
 <Image align="center" border={false} caption="This image of James taken from the book &#x22;A Texas Pilgrimage&#x22; written by Sophia Williams Henry, James' mother" src="https://files.readme.io/4075812e2e6258d1f6eff026ce3a311fbf88c0e03f478cd79d589f9c48f4006e-young_james.jpg" />
 
