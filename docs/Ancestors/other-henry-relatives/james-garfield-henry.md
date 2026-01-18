@@ -1,6 +1,6 @@
 ---
 title: James Garfield Henry
-excerpt: Youngest son of Cpt. Charles E. Henry, remembered for his energy and kindness.
+excerpt: Youngest son of Cpt. Charles E. Henry
 deprecated: false
 hidden: false
 link:
