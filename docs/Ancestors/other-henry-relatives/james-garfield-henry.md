@@ -30,7 +30,7 @@ One of the most exciting moments of his life came on Thanksgiving Day in 1900, d
 
 James was more than an athlete. He was also an excellent speaker. While still in college, he won a major oratorical contest, impressing listeners with his confidence and clarity. This talent followed him into law school, where he became a charter member of the Phi Delta Phi law fraternity and continued to stand out as a leader among his classmates.
 
-<Image align="center" border={false} src="https://files.readme.io/0a0728ceee39895b98eab2f1bf81baaa9188c94959fbf55d679cfcfa7d4ad9d1-collage_james.jpg" />
+<Image align="center" border={false} caption="From the 1900 Spider Web, the Hiram Yearbook" src="https://files.readme.io/0a0728ceee39895b98eab2f1bf81baaa9188c94959fbf55d679cfcfa7d4ad9d1-collage_james.jpg" />
 
 By the time he reached his twentieth year, James seemed to have a bright future ahead of him. He was smart, active, well-liked, and deeply loved by his family. But in the summer after a college alumni reunion, tragedy struck. A number of people who attended the event became sick with typhoid fever, likely caused by contaminated food or water. The majority opinion fixed on a batch of ice cream that was brought in from outside. James was among those who fell ill.
 
@@ -38,7 +38,7 @@ Even as he grew weaker, James refused to give up easily. On the Fourth of July, 
 
 On August 18, 1901, James Garfield Henry died at his family’s home in Bainbridge, Ohio. He was just twelve weeks short of his twenty-first birthday.
 
-James left behind his parents, two sisters, and a brother, as well as many friends from school and college who mourned his passing. His funeral was held at the family home, and those who gathered remembered not just his achievements, but his character—his enthusiasm, his determination, and his kindness.
+James left behind his parents (Charles E. & Sophia), two sisters (Marcia and Mary) , and a brother(Frederick A.), as well as many friends from school and college who mourned his passing. His funeral was held at the family home, and those who gathered remembered not just his achievements, but his character—his enthusiasm, his determination, and his kindness.
 
 Though his life was short, James’s story reminds us that a meaningful life is not measured only in years. It is measured in curiosity, effort, and the way we make others feel. James Garfield Henry lived fully, learning eagerly, working hard, and giving his best to everything he loved.
 
