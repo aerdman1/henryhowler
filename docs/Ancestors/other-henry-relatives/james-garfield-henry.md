@@ -45,3 +45,5 @@ Though his life was short, James’s story reminds us that a meaningful life is 
 <Image align="center" border={false} caption="James was laid to rest in the Evergreen Hill Cemetery in Chagrin Falls with his parents and siblings" src="https://files.readme.io/45f7e8ca898812423493fa5ec34d01ab187debd16e4ec1171f4c967ed7de86a2-toomstone.jpg" />
 
 <br />
+
+<Image align="center" border={false} src="https://files.readme.io/1178527f105c186223ed03d90e631a212f582cd27f2e023679bbfc83e3349ca8-The_Plain_Dealer_1901_08_19_8_Obit_James_G._Herny.jpg" />
