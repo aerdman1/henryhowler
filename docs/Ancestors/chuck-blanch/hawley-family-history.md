@@ -41,7 +41,7 @@ The above is a summary of a much longer article: JEHIEL HAWLEY 1712-1777 - Socie
   border={false}
   caption="Jehiel is buried where he died, along the shores of Lake Champlain. However, family members who had stayed
 behind, erected a memorial tombstone at St. James Episcopal Church burial grounds in Arlington, Vermont. This was the church originally built by Jehiel Hawley. This stone was erected in 1792 in memory of Jehiel Hawley in the churchyard of St James, the church he founded.
-Ironically it is immediately adjacent to the grave of Ethan Allen’s wife."
+Ironically, it is immediately adjacent to the grave of Ethan Allen’s wife."
   src="https://files.readme.io/4d4cd7e25787c86e4d202f4c6679995c7ac5c808e499275af246b7ebefad8903-Jehiel_Hawley_church.jpg"
 />
 
