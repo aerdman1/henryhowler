@@ -6,7 +6,7 @@ hidden: false
 metadata:
   robots: index
 ---
-Interestingly, there is a active Hawley Family Society with an excellent website :[https://hawleysociety.org/](https://hawleysociety.org/) The society welcomes all Hawley relatives and has a reunion each year. Something to think about!
+Interestingly, there is a active Hawley Family Society with an excellent website: <Anchor label="https://hawleysociety.org/" target="_blank" href="https://hawleysociety.org/">https://hawleysociety.org/</Anchor> The society welcomes all Hawley relatives and has a reunion each year. Something to think about!
 
 It seems that Grandma Blanche Hawley Henry  was descended from this Joseph Hawley:
 
