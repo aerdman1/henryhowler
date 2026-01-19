@@ -18,7 +18,7 @@ There is much more about Joseph on this page: [https://hawleysociety.org/joseph-
 
 ***
 
-**Jehiel Hawley **
+**Jehiel Hawley** 
 
 Jehiel was the great great grandson of Joseph Hawley and a 3rd great grandfather to Blanche. I think he is by far the most dramatic Hawley ancestor.
 
