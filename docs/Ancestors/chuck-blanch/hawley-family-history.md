@@ -35,3 +35,5 @@ After Burgoyne’s defeat, Jehiel attempted to reach British-controlled territor
 The above is a summary of a much longer article: JEHIEL HAWLEY 1712-1777 - Society of the Hawley Family
 
 <Image align="center" border={false} width="200px" src="https://files.readme.io/07ac2ed17bcceb76a01271f2ef8026c8db55c2430caeead50b307c5d7dc3bbb3-silouete_of_Jehiel_Hawley.jpg" />
+
+<Image align="center" border={false} width="400px" src="https://files.readme.io/ba793f32d9ba24fa1fbd75747b9be2c0235455d17db82b093c7e8b51803cc349-Vermont_seal.jpg" />
