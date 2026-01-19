@@ -18,9 +18,9 @@ There is much more about Joseph on this page: [https://hawleysociety.org/joseph-
 
 ***
 
-Jehiel Hawley was the great great grandson of Joseph Hawley
+**Jehiel Hawley **
 
-I think the most dramatic Hawley ancestor is Jehiel Hawley.
+Jehiel was the great great grandson of Joseph Hawley and Ithink the most dramatic Hawley ancestor.
 
 Jehiel Hawley was born on February 14, 1712, in Stratford, Connecticut, the son of Ephraim Hawley and Sarah (Phebe) Curtis. In his early adulthood he settled in what is now Bridgewater, Connecticut, where he lived for more than thirty years as a farmer and an active participant in public life. He served as captain of the local militia, represented New Milford in the Connecticut General Assembly, and for over a decade acted as lay reader for the Episcopal Church in nearby Roxbury. From an early age, he was known as a capable leader and a man deeply trusted by his community.
 
