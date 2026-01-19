@@ -20,7 +20,7 @@ There is much more about Joseph on this page: [https://hawleysociety.org/joseph-
 
 **Jehiel Hawley **
 
-Jehiel was the great great grandson of Joseph Hawley and Ithink the most dramatic Hawley ancestor.
+Jehiel was the great great grandson of Joseph Hawley and a 3rd great grandfather to Blanche. I think he is by far the most dramatic Hawley ancestor.
 
 Jehiel Hawley was born on February 14, 1712, in Stratford, Connecticut, the son of Ephraim Hawley and Sarah (Phebe) Curtis. In his early adulthood he settled in what is now Bridgewater, Connecticut, where he lived for more than thirty years as a farmer and an active participant in public life. He served as captain of the local militia, represented New Milford in the Connecticut General Assembly, and for over a decade acted as lay reader for the Episcopal Church in nearby Roxbury. From an early age, he was known as a capable leader and a man deeply trusted by his community.
 
@@ -32,4 +32,6 @@ During the American Revolution, however, Jehiel Hawley remained loyal to the Bri
 
 After Burgoyne’s defeat, Jehiel attempted to reach British-controlled territory in Canada but died of dysentery on November 2, 1777, near Lake Champlain. He was buried where he died, though a memorial stone was later placed at St. James Episcopal Church in Arlington, the church he founded. His home and land were confiscated after his death and later became associated with Vermont’s first governor, Thomas Chittenden. Though history remembers him as a Loyalist, the record portrays Jehiel Hawley as a principled, courageous man whose leadership, faith, and service left a lasting mark on Vermont’s early history.
 
-The above is a summary of a much longer article 
+The above is a summary of a much longer article: JEHIEL HAWLEY 1712-1777 - Society of the Hawley Family
+
+<Image align="center" border={false} width="200px" src="https://files.readme.io/07ac2ed17bcceb76a01271f2ef8026c8db55c2430caeead50b307c5d7dc3bbb3-silouete_of_Jehiel_Hawley.jpg" />
