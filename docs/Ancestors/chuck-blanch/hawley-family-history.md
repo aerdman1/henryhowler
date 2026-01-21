@@ -32,7 +32,7 @@ During the American Revolution, however, Jehiel Hawley remained loyal to the Bri
 
 After Burgoyne’s defeat, Jehiel attempted to reach British-controlled territory in Canada but died of dysentery on November 2, 1777, near Lake Champlain. He was buried where he died, though a memorial stone was later placed at St. James Episcopal Church in Arlington, the church he founded. His home and land were confiscated after his death and later became associated with Vermont’s first governor, Thomas Chittenden. Though history remembers him as a Loyalist, the record portrays Jehiel Hawley as a principled, courageous man whose leadership, faith, and service left a lasting mark on Vermont’s early history.
 
-The above is a summary of a much longer article: JEHIEL HAWLEY 1712-1777 - Society of the Hawley Family PDF
+The above is a summary of a much longer article: <Anchor label="JEHIEL HAWLEY 1712-1777 - Society of the Hawley Family PDF" target="_blank" href="s3://henry-howler/uploads/JEHIEL HAWLEY 1712-1777 - Society of the Hawley Family.pdf">JEHIEL HAWLEY 1712-1777 - Society of the Hawley Family PDF</Anchor>
 
 <Image align="center" border={false} width="200px" src="https://files.readme.io/07ac2ed17bcceb76a01271f2ef8026c8db55c2430caeead50b307c5d7dc3bbb3-silouete_of_Jehiel_Hawley.jpg" />
 
