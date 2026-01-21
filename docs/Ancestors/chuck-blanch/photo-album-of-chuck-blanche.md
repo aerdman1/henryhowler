@@ -48,8 +48,6 @@ Here are photos and items from an album that belonged to Blanche and Chuck. Plea
 
 <Image alt="Henry's and Hawley's" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Henrys-and-Hawleys.jpg" />
 
-<Image alt="chuck and ponies" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/chuck-and-ponies.jpg" />
-
 <Image alt="Matt and Grandma" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/Matt-and-Grandma.jpg" />
 
 <Image alt="blanche-chuck103" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/02/blanche-chuck103.jpg" />
