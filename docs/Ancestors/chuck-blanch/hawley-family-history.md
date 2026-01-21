@@ -12,7 +12,7 @@ It seems that Grandma Blanche Hawley Henry  was descended from this Joseph Hawle
 
 "Joseph Hawley was the ancestor of many present day North American Hawleys and founder of the Connecticut branch of the Hawley family. What conditions did he find upon his arrival on the American shore? His descendants don’t know as much about him as we would like, and a lot of what we do think we know is by inference.
 
-Joseph Hawley arrived in the American Colonies about 1635, landing in the Massachusetts Bay Colony, possibly near Boston. The Curtiss Genealogy of 1903 states that Hawley sailed to America in the ship Planter in 1635 along with Stratford proprietors Adam Blakeman, William Wilcoxson and William Beardsley. But unlike Thomas Hauley, no mention was made of him in the records of that colony."
+Joseph Hawley arrived in the American Colonies about 1635, landing in the Massachusetts Bay Colony, possibly near Boston. The Curtiss Genealogy of 1903 states that Hawley sailed to America in the ship Planter in 1635 along with Stratford citizens Adam Blakeman, William Wilcoxson and William Beardsley. But unlike Thomas Hauley, no mention was made of him in the records of that colony."
 
 There is much more about Joseph on this page: <Anchor label="https://hawleysociety.org/joseph-hawley/" target="_blank" href="https://hawleysociety.org/joseph-hawley/">https://hawleysociety.org/joseph-hawley/</Anchor>
 
