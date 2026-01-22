@@ -14,4 +14,4 @@ When Burgoyne surrendered at Saratoga, Hatch returned home with the militia, his
 
 Learn more about Jehiel Hawley at <Anchor label="HERE" target="_blank" href="https://family.henryhowler.com/update/docs/hawley-family-history">HERE</Anchor>.
 
-<Image align="center" border={false} width="600px" src="https://files.readme.io/f21e992d64e6e84bf2d386969edbed022ac64989b9a6cadce798c55d354d9dd9-Saratoga-Campaign_map.jpg" />
+<Image align="center" border={false} width="800px" src="https://files.readme.io/f21e992d64e6e84bf2d386969edbed022ac64989b9a6cadce798c55d354d9dd9-Saratoga-Campaign_map.jpg" />
