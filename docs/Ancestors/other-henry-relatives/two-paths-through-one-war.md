@@ -14,4 +14,6 @@ On Blanche’s father Frederick’s side was her third great-grandfather **Jehie
 
 When Burgoyne surrendered at Saratoga, Hatch returned home with the militia, his service complete. Hawley, however, chose exile rather than abandon his beliefs. He set out for Canada with family members under harsh conditions but died along the way, far from the town he helped build. Through these two men—one Patriot, one Loyalist—Blanche inherited a Revolutionary legacy shaped by courage, conscience, and deeply personal choices made during one of the most decisive moments in American history.
 
-Learn more about Jeheil Hawley at th
+Learn more about Jeheil Hawley at <Anchor label="HERE" target="_blank" href="https://family.henryhowler.com/update/docs/hawley-family-history">HERE</Anchor>.
+
+<Image align="center" border={false} width="600px" src="https://files.readme.io/f21e992d64e6e84bf2d386969edbed022ac64989b9a6cadce798c55d354d9dd9-Saratoga-Campaign_map.jpg" />
