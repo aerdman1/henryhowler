@@ -22,7 +22,7 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 ***
 
-<Anchor label="Two Paths Through One War - How Blanche’s Family Lived the American Revolution" target="_blank" href="https://family.henryhowler.com/docs/two-paths-through-one-war">Two Paths Through One War - How Blanche’s Family Lived the American Revolution</Anchor>
+**<Anchor label="Two Paths Through One War - How Blanche’s Family Lived the American Revolution" target="_blank" href="https://family.henryhowler.com/docs/two-paths-through-one-war">Two Paths Through One War - How Blanche’s Family Lived the American Revolution</Anchor>**
 
 ***
 
