@@ -1,6 +1,6 @@
 ---
 title: 'Uncle Edward: Born August 7, 1841'
-excerpt: Captain Henry's Brother and United States Express Guard
+excerpt: United States Express Guard - Tail of betrayal against his brother
 deprecated: false
 hidden: false
 link:
@@ -42,10 +42,6 @@ metadata:
 
 <Image align="center" border={false} src="https://files.readme.io/a2281fb01f1c0f113e10b6fa52cfa804e3dcab41e048d8e396a4ae6653a8c112-uncle_Eds_job.jpg" />
 
-### Summary
-
-Uncle Edward, offended by Father’s criticism of his irresponsible behavior, retaliated by anonymously sending false accusations to high-ranking Republican officials in 1875, urging Father’s dismissal from government service. The plot was quickly uncovered, Father was fully exonerated with help from General James A. Garfield, and the matter was officially closed. Although the incident caused lasting family estrangement, the narrative defends Father’s character, portraying him as stern but fair, deeply generous, widely respected, and admired for both his integrity and kindness.
-
 ### Below is a modern rewrite of pages 257 and 258 of the Book "Captain Henry of Geauga"
 
 In 1871, after marrying the kind and patient Annie Langworthy, Uncle Edward often earned deserved criticism from Father for his irresponsible behavior. Most of these antics were meant as jokes, but they were not harmless pranks. Still, much of the family forgave these lapses because of his bravery in battle and his later devotion to his wife, whose fragile health eventually left her completely disabled.
@@ -71,3 +67,7 @@ Yet while this sternness earned him a few enemies, it won him many more friends.
 Finally, the narrator explains that much of this account relies on correspondence between Father and General Garfield from the decade before Garfield became president in 1880. Although quoting these letters at length may seem excessive, they reflect a genuine friendship that Father’s descendants can rightly take pride in.
 
 <br />
+
+### Summary
+
+Uncle Edward, offended by Father’s criticism of his irresponsible behavior, retaliated by anonymously sending false accusations to high-ranking Republican officials in 1875, urging Father’s dismissal from government service. The plot was quickly uncovered, Father was fully exonerated with help from General James A. Garfield, and the matter was officially closed. Although the incident caused lasting family estrangement, the narrative defends Father’s character, portraying him as stern but fair, deeply generous, widely respected, and admired for both his integrity and kindness.
