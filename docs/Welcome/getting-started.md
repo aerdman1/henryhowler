@@ -22,6 +22,6 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 ***
 
-### [Jehiel Hawley - Founding father of Arlington, Vermont and British loyalist to the death. ]()
+### <Anchor label="Jehiel Hawley - Founding father of Arlington, Vermont and British loyalist to the death. " target="_blank" href="https://family.henryhowler.com/update/docs/hawley-family-history">Jehiel Hawley - Founding father of Arlington, Vermont and British loyalist to the death. </Anchor>
 
 <br />
