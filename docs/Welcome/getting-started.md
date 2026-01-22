@@ -22,6 +22,6 @@ Jehiel Hawley - Founding father of Arlington, Vermont and British loyalist to th
 
 ***
 
-<br />
+https://family.henryhowler.com/docs/uncle-edward-born-august-7-1841
 
 ***
