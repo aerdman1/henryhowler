@@ -1,5 +1,5 @@
 ---
-title: 'Jehiel Hawley 1712 -1777 '
+title: 'Story: Jehiel Hawley 1712 -1777 '
 excerpt: British Loyalist to the Death
 deprecated: false
 hidden: false
