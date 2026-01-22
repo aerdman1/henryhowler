@@ -18,18 +18,10 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 ***
 
-### <Anchor label="United States Express Guard - Tale of betrayal against a brother" target="_blank" href="https://family.henryhowler.com/update/docs/uncle-edward-born-august-7-1841">United States Express Guard - Tale of betrayal against a brother</Anchor>
-
-[https://family.henryhowler.com/update/docs/uncle-edward-born-august-7-1841](https://family.henryhowler.com/update/docs/uncle-edward-born-august-7-1841)
-
-<br />
+### <Anchor label="Uncle Edward - United States Express Guard - Tale of betrayal against a brother" target="_blank" href="https://family.henryhowler.com/update/docs/uncle-edward-born-august-7-1841">Uncle Edward - United States Express Guard - Tale of betrayal against a brother</Anchor>
 
 ***
 
-<br />
-
-Jehiel Hawley - Founding father of Arlington, Vermont and British loyalist to the death. An awesome ancestor!
-
-[https://family.henryhowler.com/docs/hawley-family-history](https://family.henryhowler.com/docs/hawley-family-history)
+### [Jehiel Hawley - Founding father of Arlington, Vermont and British loyalist to the death. ]()
 
 <br />
