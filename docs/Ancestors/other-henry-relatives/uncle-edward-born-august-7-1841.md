@@ -42,6 +42,8 @@ metadata:
 
 <Image align="center" border={false} src="https://files.readme.io/a2281fb01f1c0f113e10b6fa52cfa804e3dcab41e048d8e396a4ae6653a8c112-uncle_Eds_job.jpg" />
 
+## Defamed and Vindicated
+
 ### Below is a modern rewrite of pages 257 and 258 of the Book "Captain Henry of Geauga"
 
 In 1871, after marrying the kind and patient Annie Langworthy, Uncle Edward often earned deserved criticism from Father for his irresponsible behavior. Most of these antics were meant as jokes, but they were not harmless pranks. Still, much of the family forgave these lapses because of his bravery in battle and his later devotion to his wife, whose fragile health eventually left her completely disabled.
