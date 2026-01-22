@@ -1,6 +1,6 @@
 ---
 title: 'Uncle Edward: Born August 7, 1841'
-excerpt: United States Express Guard - Tail of betrayal against his brother
+excerpt: United States Express Guard - Tail of betrayal against a brother
 deprecated: false
 hidden: false
 link:
