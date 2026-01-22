@@ -16,12 +16,12 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 * [Odds & Ends](#) — stories, memories, and one-offs
 * ## Recent Articles
 
+***
+
+***
+
 Jehiel Hawley - Founding father of Arlington, Vermont and British loyalist to the death. An awesome ancestor!
 
 [https://family.henryhowler.com/docs/hawley-family-history](https://family.henryhowler.com/docs/hawley-family-history)
 
-***
-
-https://family.henryhowler.com/docs/uncle-edward-born-august-7-1841
-
-***
+<br />
