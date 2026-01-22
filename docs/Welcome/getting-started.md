@@ -18,7 +18,11 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 ***
 
-***
+<br />
+
+<br />
+
+<br />
 
 Jehiel Hawley - Founding father of Arlington, Vermont and British loyalist to the death. An awesome ancestor!
 
