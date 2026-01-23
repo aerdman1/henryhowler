@@ -7,10 +7,6 @@ metadata:
 ---
 <br />
 
-<br />
-
-<br />
-
 Name
 Birth Year
 Death Year
@@ -176,3 +172,5 @@ Theodore Orion Henry
 —
 —
 Anchorage, Alaska, United States
+
+<br />
