@@ -1,5 +1,5 @@
 ---
-title: 'Document: A Simplified Henry Family Tree'
+title: 'Document: Family Tree'
 date: '2017-01-02T05:00:00.000Z'
 deprecated: false
 hidden: false
