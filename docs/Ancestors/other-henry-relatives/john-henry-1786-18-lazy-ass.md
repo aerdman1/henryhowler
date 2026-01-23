@@ -1,5 +1,5 @@
 ---
-title: John Henry (1786 - 1847) - Lazy Ass
+title: John Henry (1786 - 1847) - Light Artillary - Not Lazy Ass
 excerpt: John's brief service in the Revolutionary War
 deprecated: false
 hidden: false
