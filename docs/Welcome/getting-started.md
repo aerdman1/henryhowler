@@ -18,7 +18,7 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 ***
 
-John Henry (1786 - 1847) - Light Artillery - Not Lazy Ass
+<Anchor label="John Henry (1786 - 1847) - Light Artillery - Not Lazy Ass" target="_blank" href="https://family.henryhowler.com/docs/john-henry-1786-18-lazy-ass">John Henry (1786 - 1847) - Light Artillery - Not Lazy Ass</Anchor>
 
 ***
 
