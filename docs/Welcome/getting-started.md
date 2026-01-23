@@ -22,14 +22,16 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 ***
 
-**<Anchor label="Uncle Edward - United States Express Guard - Tale of betrayal against a brother" target="_blank" href="https://family.henryhowler.com/update/docs/uncle-edward-born-august-7-1841">Uncle Edward - United States Express Guard - Tale of betrayal against a brother</Anchor>
+<Anchor label="Uncle Edward - United States Express Guard - Tale of betrayal against a brother" target="_blank" href="https://family.henryhowler.com/update/docs/uncle-edward-born-august-7-1841">Uncle Edward - United States Express Guard - Tale of betrayal against a brother</Anchor>
 
 ***
 
-**<Anchor label="Two Paths Through One War - How Blanche’s Family Lived the American Revolution" target="_blank" href="https://family.henryhowler.com/docs/two-paths-through-one-war">Two Paths Through One War - How Blanche’s Family Lived the American Revolution</Anchor>**
+<Anchor label="Two Paths Through One War - How Blanche’s Family Lived the American Revolution" target="_blank" href="https://family.henryhowler.com/docs/two-paths-through-one-war">Two Paths Through One War - How Blanche’s Family Lived the American Revolution</Anchor>**
 
 ***
 
-** <Anchor label="Jehiel Hawley - Founding father of Arlington, Vermont and British loyalist to the death. " target="_blank" href="https://family.henryhowler.com/update/docs/hawley-family-history">Jehiel Hawley - Founding father of Arlington, Vermont and British loyalist to the death. </Anchor>
+<Anchor label="Jehiel Hawley - Founding father of Arlington, Vermont and British loyalist to the death. " target="_blank" href="https://family.henryhowler.com/update/docs/hawley-family-history">Jehiel Hawley - Founding father of Arlington, Vermont and British loyalist to the death. </Anchor>
+
+<br />
 
 <br />
