@@ -18,7 +18,7 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 ***
 
-Tracing Lineage Back to the year 1120
+[Tracing Lineage Back to the year 1120](https://family.henryhowler.com/docs/lineage)
 
 ***
 
