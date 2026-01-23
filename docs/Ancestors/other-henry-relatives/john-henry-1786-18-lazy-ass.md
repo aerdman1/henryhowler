@@ -6,7 +6,7 @@ hidden: false
 metadata:
   robots: index
 ---
-<Image align="center" border={false} caption="John Henry - Son of Simon" src="https://files.readme.io/06cb7db37c7842542c8fb3f740133bbb832dabe014fc20a967132cf51462e1f7-John_Henry.png" />
+<Image align="center" border={false} caption="John Henry - Third born child of Simon" src="https://files.readme.io/06cb7db37c7842542c8fb3f740133bbb832dabe014fc20a967132cf51462e1f7-John_Henry.png" />
 
 <Image align="center" border={false} caption="Polly Jaqua Henry - wife of John" src="https://files.readme.io/ed6e7e1ac385261f025a8acfc9b85d467993ec8cb1b17ad16deced64ace0639f-Polly_Jaqua.jpg" />
 
