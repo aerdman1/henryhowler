@@ -12,7 +12,7 @@ metadata:
 
 <Image align="center" border={false} caption="Orrin Henry - Oldest son of Simon" src="https://files.readme.io/a1f85b27f08e5c87f578f3d66a2ce8bd27907cc2120ebf241adb28e2f08d2260-Orrin_Parsons_Henry.jpg" />
 
-<br />
+### Not Such a Lazy Ass
 
 John Henry was born in 1796 and had just reached adulthood when his family moved to their new home in Ohio. According to tradition, he had earlier been chosen by John Parsons of Enfield, Connecticut—his mother Rhoda’s father—to return east with him from Berkshire and attend school there. This arrangement eased his mother’s heavy responsibilities while giving added opportunity to one of her most promising children.
 
