@@ -80,6 +80,8 @@ We got the pictures back from the big family (cousins) reunion. There are some p
 
 <Image align="center" border={false} caption="Back: Chip, Sharie, Dan, Polly, Jim, Pat, Dodie, Peter       Front: Jeanne, Gene" src="https://files.readme.io/9319aafb0549b792b4957d08b5d872426d21670a9899f75a048df8f7a08255ff-1979family22-Color-Restored.jpg" />
 
+<Image align="center" border={false} src="https://files.readme.io/64b8e004c49b70e373dc5940ea81213277100abbaaa79db1e0e3d2ae7eb69a69-IMG_20260127_133325.jpg" />
+
 Mom and Dad's anniversary was the other day; they are going to go for a hot air balloon ride. That should be fun for them. It sure was a pleasure having you home last month. Well, that's about all I have to say. Don't worry, this won't be the first and last letter you get from me.
 
 Hey Chip, it's about three weeks later now and I’m finally finishing this letter. School is going really well. I’ve taken two major tests: A on one and the other a B. It sure is nice to start out on the right foot.
