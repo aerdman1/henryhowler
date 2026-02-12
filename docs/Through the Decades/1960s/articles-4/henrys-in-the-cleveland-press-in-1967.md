@@ -12,6 +12,8 @@ This article appeared in the Cleveland Press about the Henry’s havin’ fun at
 
 <Image align="center" src="https://files.readme.io/700603c2f5b12a77dd14318a42277c6cf3986c2f7643631ea1eb612d020e132c-Screenshot_2026-02-12_at_10.31.07_AM.png" />
 
+![]()
+
 January 3, 2017 Linda <Anchor label="Cleveland Press 1967 article PDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads%2F2017%2F01%2FCleve_press_1967article-copy.pdf">Cleveland Press 1967 article PDF</Anchor>
 
 <br />
