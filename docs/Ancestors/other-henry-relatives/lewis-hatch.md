@@ -20,15 +20,9 @@ When Lewis Hatch was about eighteen years of age, there occurred that fateful cr
 
 Late in the autumn of this year a small army was sent into Canada to capture the British strongholds and give the Canadians an opportunity to join the other colonies in their struggle for freedom. The army was sent in two detachments; one under Montgomery by way of Lake Champlain and the St. Lawrence River with Quebec as its objective, the other under Arnold by way of the Kenebec River in Maine, then through the wilderness to Quebec, where the two detachments arrived about the first of December. Preparations were made for the assault which occurred on the last of Dec. and failed. Montgomery was killed, Arnold was wounded, many of the men were killed or taken prisoners and the remanant retired about three miles to point Au Trembels and contented themselves with cutting off supplies to the city, and awaiting reinforcements, which were raised and forwarded as rapidly as the limited resources of the colonists at that time would allow.
 
-<br />
-
 Jan. 14, 1776, Lewis Hatch enlisted as a private in Capt. Jacob Persons C. of Maj. Jeremiah Cody's Mass. detachment. This detachment marched up through western Mass. and eastern N.Y. to Skeensboro (now Whitehall) thence down lake Champlain on the ice to St. Johns thence through the forests and swamps in the midst of the inclement Canadian winter, enduring incredible hardships and exposures and finally joined Arnold's little army of about 500 men before Quebec about Mar. 1, 1776. By the first of May reinforcements had increased the little army to 1900 men, but owing to smallpox and insufficient shelter, food and clothing, scarcely more than half were fit for active duty.
 
-<br />
-
 About this time it became known that troops for the relief of Quebec were on the way from England. In view of this and the additional facts that the supply of powder was greatly reduced and that there was scarcely a week's supply of food on hand, it was decided that an immediate retreat was necessary to save the army from starvation or capture. As soon as the retreat began the British forces in Quebec marched out and attacked the American army, captured their artillery, 500 muskets, stores and baggage, with 100 prisoners besides the sick. But notwithstanding, the retreat was effected in good order and continued that day and the following night, the men floundering on in the dark through the woods, swamps and streams, hungry, weary and footsore, with nothing to cheer and everything to discourage them. They never halted till they reached Deschambault, 58 miles above Quebec. Here they rested a few days and then proceeded on their retreat up the river.
-
-<br />
 
 In the meantime reinforcements for the British had arrived from Halifax and Burgoyne had arrived with the Brunswic and English troops. They followed on hard after the retreating Americans with the intention of concentrating at Three Rivers. When the Americans arrived at Sorrell they found four regiments of reinforcements and Gen. Stark soon arrived with two more regiments. Gen. Sullivan, who was then in command, determined to return and take and hold Three Rivers and dispatched Gen. Thompson with 2000 men to Nicolet, where Col. St. Clair was already with 800 men. He arrived June 7 and that night they crossed the river. When they attacked the next morning they unexpectedly found themselves outnumbered three to one and were obliged to retreat leaving 150 prisoners including Gen. Thompson and Col. Irvine in the hands of the enemy.
 
@@ -70,7 +64,13 @@ That farm is all located on the south side of the road. It is not on a mountain,
 
 Here he lived the balance of his life and devoted his energies to clearing up and farming his land. In the later years of his life, with characteristic Hatch enterprise, he went into the business of silk raising in a moderate way. In some of the early years of the 20th century, in tearing down an old outbuilding, a bushel or more of old silk cocoons were found. It is not known if he sold the raw silk, or manufactured it in his own household. The old house which it is believed he built when he moved on to this place, is still standing, occupied and is still a good comfortable house.
 
-In 1803-4 his wife MARY died and was buried in the cemetery at South Granville. Mar. 1, 1806, he married in Granville, PARNAL POOL of Martha's Vineyard. She was born 17 Sept., 1769 at Chilmark. Dec. 19, 1832, when he was about 75 years of age, he applied for and was granted a pension as a Revolutionary Soldier. Dec. 3, 1847, when he was within a few days of 90 years of age, he died in the old homestead and was buried in the South Granville cemetery. About five months later (12 April, 1848) his wife Parnal died and was buried beside him. On his tombstone is engraved this sentiment, "A soldier of the Revolution and of the Cross." (Spencer E. Smith, a great-grandson.)
+In 1803-4 his wife MARY died and was buried in the cemetery at South Granville. They had nine children.
+
+Mar. 1, 1806, he married in Granville, PARNAL POOL of Martha's Vineyard. She was born 17 Sept., 1769 at Chilmark, Massachusetts, Martha's Vineyard. They had 3 more children.
+
+Dec. 19, 1832, when he was about 75 years of age, he applied for and was granted a pension as a Revolutionary Soldier. 
+
+Dec. 3, 1847, when he was within a few days of 90 years of age, he died in the old homestead and was buried in the South Granville cemetery. About five months later (12 April, 1848) his wife Parnal died and was buried beside him. On his tombstone is engraved this sentiment, "A soldier of the Revolution and of the Cross." (Spencer E. Smith, a great-grandson.)
 
 From the vital Records of Lee, we get no birth dates, but the following are reported as having been baptized, 23 Sept., 1792: Wait, Thomas, Davis, Alpheus and Tabitha Hatch, while another child, Polly Hatch, is recorded as having been baptized, 23 Dec., 1792.
 
