@@ -66,7 +66,7 @@ Here he lived the balance of his life and devoted his energies to clearing up an
 
 In 1803-4 his wife MARY died and was buried in the cemetery at South Granville. They had nine children.
 
-Mar. 1, 1806, he married in Granville, PARNAL POOL of Martha's Vineyard. She was born 17 Sept., 1769 at Chilmark, Massachusetts, Martha's Vineyard. They had 3 more children.
+Mar. 1, 1806, Lewis age 49, married in Granville, NY, PARNAL POOL of Martha's Vineyard. She was born 17 Sept., 1769 at Chilmark, Massachusetts, Martha's Vineyard. They had 3 more children.
 
 Dec. 19, 1832, when he was about 75 years of age, he applied for and was granted a pension as a Revolutionary Soldier. 
 
