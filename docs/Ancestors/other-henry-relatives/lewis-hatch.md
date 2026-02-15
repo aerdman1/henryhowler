@@ -120,6 +120,13 @@ Job Leonard
 Benajah Hill
 Hezekiah Marchant
 
-Erected By
-Capt. Isreal Harris Chapter
+Erected By Capt. Isreal Harris Chapter
 D.A.R. 1914
+
+Source: [http://www.jowest.net/Genealogy/Jo/Hatch/Hatch.htm](http://www.jowest.net/Genealogy/Jo/Hatch/Hatch.htm)
+
+***
+
+<Image align="center" src="https://files.readme.io/9383978dc76d8dfe4663fa27abf5cd609c3689cada400033c4f7224c7b8868dc-Revolutionary_War_Memorial-Lewis_Hatch.jpg" />
+
+<Image align="center" src="https://files.readme.io/4765358e974ec9f794c70c5e8a922dc1890215288c60b9fe7b0db4172a8feed9-Memorial_Plaque_Lewis_Hatch.jpg" />
