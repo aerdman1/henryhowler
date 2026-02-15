@@ -77,7 +77,7 @@ From the vital Records of Lee, we get no birth dates, but the following are repo
 **Issue, by 1st wife Mary Davis:  **
 
 i. Priscilla7, b. 1781; d. an infant  
-ii. Wait7, b. 23 Nov., 1783
+ii. Wait7, b. 23 Nov., 1783 - _Wait is the 2nd Great Grandfather to Blanche Hawley Henry._
 iii. Tabitha7, b. 1785; md. Jacob Spencer, 1812 at Granville, N.Y.; resided in Livingston Co., N.Y.  
 iv. Thomas Davis7, b. 25 Oct., 1787
 v. Alpheus7, b. 1789; d. in childhood, 1801
