@@ -1,15 +1,12 @@
 ---
-title: Lewis Hatch
+title: Lewis Hatch -Revolutionary Soldier
+excerpt: Blanche Hawley Henry's 4th great grandfather
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
-<br />
-
-The life of Lewis Hatch, pages 18-21, was taken from the book by Azuba Ruth WARD with a copyright date of 1985.
-
-<br />
+The Life of Lewis Hatch, pages 18-21, taken from the book by Azuba Ruth WARD with a copyright date of 1985.
 
 Lewis HATCH was the second child born to Wait HATCH and Mary LEWIS. His birth was on Dec. 31, 1757 He married Mary DAVIS about Oct. 1780 and the eventually moved to Lee, Berkshire Co, Massachusetts. He bought lots 30 and 31 of the Kelley's Patent of what is now Granville, Washington Co, New York. About 1783, he moved his family there about 1794. Lewis served in the army during the Revolutionary War. Memorial He enlisted for service five times by Oct 18, 1780. Service Record Letters In his first service he was a drummer. His farm, in Granville, Washington Co, New York, became known as "HATCH Hill" Hatch Hill Road. This is where he died at age 89. An extensive sketch on his outstanding military career, is written on pages 228-234 in the The HATCH Family - Early Families of Washington County New York - Thomas HATCH of Barnstable, Massachusetts by Azuba Ruth HATCH. He was a Corporal in the Massachusetts Line. He was placed on the pension rolls in 1832 in Washington Co, NY. Lewis's wife, Mary, died about 1808 in South Granville, Washington Co, NY, where Lewis died on Dec 03, 1847.
 
@@ -92,4 +89,3 @@ ix. Phoebe7, b. 17 Nov., 1799; md. 15 Sept., 1833, George Gage; resided at Salin
 x. Asa Northum7, b. 10 Jan., 1807
 xi. Rebecca7, b. 14 May, 1809; md. 19 Nov., 1832, Roland Smith of Granville, NY. He was b. 1 Mar., 1809 and d. 9 May, 1888. She d. 1 Sept., 1880.
 xii. Delight Crary7, b. 8 Jan., 1813; md. Nathaniel Beddell of Granville, NY, 16 Dec., 1845. He was born 8 June, 1823, Lebanon, N.H. She inherited her father's farm where she d. 3 April, 1875. He d. 17 Mar., 1903.
- 
