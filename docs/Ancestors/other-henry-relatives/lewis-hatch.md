@@ -40,7 +40,7 @@ June 30, 1777, Lewis Hatch enlisted and was assigned as drummer in Capt. Jesse B
 
 July 22, 1777, Lewis Hatch was discharged as drummer and the same day appointed Corporal in Capt. William Francis Co. of Col. John Ashley's detachment of Mass. militia. This detachment was employed in the campaign against Burgoyne. It is said that Corporal Lewis Hatch was one of the party who discovered the remains of the murdered Jane McRea. If this is true it must have been during his service with this detachment. The time for which this detachment was enlisted having expired. Aug. 13, 1777, Lewis Hatch returned to his home at Lee, Mass.
 
-three days later, Aug., 16, 1777, occurred the American victory at the battle of Bennington. It was the first decided check Burgoyne's forces had received since the beginning of his campaigne in the spring. Six days later, Aug. 22, 1777, occurred the overwhelming American victory at Fort Stanwix in the Mohwak valley in which St. Leger's reinforcements for Burgoyne were utterly routed and destroyed.
+Three days later, Aug., 16, 1777, occurred the American victory at the battle of Bennington. It was the first decided check Burgoyne's forces had received since the beginning of his campaigne in the spring. Six days later, Aug. 22, 1777, occurred the overwhelming American victory at Fort Stanwix in the Mohwak valley in which St. Leger's reinforcements for Burgoyne were utterly routed and destroyed.
 
 From this time on the Americans began tightening their cordons about Burgoyne's army. The American forcces at Bennington and Stanwix, being released by the victories at these places, joined the American army under Gen. Gates near Bemis Heights, and they no longer retreated but stood their ground. Burgoyne's communications with Canada had been cut and his situation was getting desperate. Sept. 19, 1777, he made a desperate assault on the American army near Bemis Heights but gained no advantage. Gen. Gates called for the militia of the surrounding country of Mass., Conn., N. H., and N. Y. and they began rapidly to join his army.
 
@@ -56,9 +56,11 @@ About this time he was married to Mary Davis, of Lee, Mass., daughter of Isaac D
 
 (The history of Lee and the published Vital Records of the town were examined in 1915 and she is reported there as the daughter of Timothy and Tabitha Davis and as having been born 29 Nov. 1761 at Falmouth. The history also states that Lewis Hatch was dismissed to the church in South Granville, N.Y., 19 Jan, 17? H.G.S.)
 
-In 1783-4 (some say it was 1787) he bought lots 30 and 31 of the Kelley's Patent which lie, in what is now the town of Granville Washington Co., N.Y. These early records were destroyed in a fire. He may have bought these lots in 1783 and gone up and done some clearing in 1787 but it seems evident that he did not move his family there until 1793-4.
+In 1783-4 (some say it was 1787) he bought lots 30 and 31 of the Kelley's Patent which lie, in what is now the town of Granville, Washington Co., N.Y, just across the state line from Rupert, Vermont. These early records were destroyed in a fire. He may have bought these lots in 1783 and gone up and done some clearing in 1787 but it seems evident that he did not move his family there until 1793-4.
 
-Sept. 9, 1792, Lewis Hatch, with others, were taken into the church at Lee, Mass. Dec. 23, 1792, his daughter Mary, then only about three months old, was baptized at Lee, Mass. Jan. 19, 1794 the church at Lee, voted to give "Lewis Hatch a letter of recommendation to the Church of Christ in South Granville," and this is probably about the date when he moved on to this land with his family, to live.
+Sept. 9, 1792, Lewis Hatch, with others, were taken into the church at Lee, Mass. Dec. 23, 1792, his daughter Mary Polly, then only about three months old, was baptized at Lee, Mass. 
+
+Jan. 19, 1794 the church at Lee, voted to give "Lewis Hatch a letter of recommendation to the Church of Christ in South Granville, NY" and this is probably about the date when he moved on to this land with his family, to live.
 
 That farm is all located on the south side of the road. It is not on a mountain, but is on high ground. Standing on the highest point in the pasture, a few rods south of the house, one may look down upon the surrounding country for miles, in all directions. From the fact that this ground was the old homestead of Lewis Hatch and his numerous family, the place became known and is still known as "Hatch Hill."
 
@@ -66,7 +68,7 @@ Here he lived the balance of his life and devoted his energies to clearing up an
 
 In 1803-4 his wife MARY died and was buried in the cemetery at South Granville. They had nine children.
 
-Mar. 1, 1806, Lewis age 49, married in Granville, NY, PARNAL POOL of Martha's Vineyard. She was born 17 Sept., 1769 at Chilmark, Massachusetts, Martha's Vineyard. They had 3 more children.
+Mar. 1, 1806, Lewis age 49, married in Granville, PARNAL POOL of Martha's Vineyard. She was born 17 Sept., 1769 at Chilmark, Massachusetts, Martha's Vineyard. They had 3 more children.
 
 Dec. 19, 1832, when he was about 75 years of age, he applied for and was granted a pension as a Revolutionary Soldier. 
 
@@ -86,10 +88,38 @@ vii. Lewis7, b. 1794; d. in childhood
 viii. Anna7, b. 15 Oct., 1796; md. Oliver Hatch7 (son of Oliver6, Lemuel5, Joseph4, Joseph3, Jonathan2, Thomas1)
 ix. Phoebe7, b. 17 Nov., 1799; md. 15 Sept., 1833, George Gage; resided at Salina, NY; removed to Ohio, where she d. 28 Nov., 1863. He d. 24 Sept., 1870
 
-<br />
-
 **Issue, by 2nd wife Parnal Pool:**
 
 x. Asa Northum7, b. 10 Jan., 1807
 xi. Rebecca7, b. 14 May, 1809; md. 19 Nov., 1832, Roland Smith of Granville, NY. He was b. 1 Mar., 1809 and d. 9 May, 1888. She d. 1 Sept., 1880.
 xii. Delight Crary7, b. 8 Jan., 1813; md. Nathaniel Beddell of Granville, NY, 16 Dec., 1845. He was born 8 June, 1823, Lebanon, N.H. She inherited her father's farm where she d. 3 April, 1875. He d. 17 Mar., 1903.
+
+***
+
+<br />
+
+Revolutionary War Memorial
+A memorial stands in the park, in South Granville, Washington County, New York, to honor those soldiers of the Revolutionary War, who are buried in the town of Granville.
+
+<br />
+
+In Memory Of Revolutionary Soldiers Buried In The Town Of Granville.
+Harry Weeks
+Caleb Austin
+Moses Amidon
+Christopher Potter
+John Kalb
+Noah Day
+Nathaniel Parker
+Capt. Nehemiah Hulett
+Capt. Ebenezer Gould
+Lewis Hatch
+John Taylor
+Richard Foster
+Job Leonard
+Benajah Hill
+Hezekiah Marchant
+
+Erected By
+Capt. Isreal Harris Chapter
+D.A.R. 1914
