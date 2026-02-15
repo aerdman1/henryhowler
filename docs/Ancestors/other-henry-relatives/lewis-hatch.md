@@ -73,7 +73,8 @@ In 1803-4 his wife MARY died and was buried in the cemetery at South Granville. 
 
 From the vital Records of Lee, we get no birth dates, but the following are reported as having been baptized, 23 Sept., 1792: Wait, Thomas, Davis, Alpheus and Tabitha Hatch, while another child, Polly Hatch, is recorded as having been baptized, 23 Dec., 1792.
 
-Issue, by 1st wife Mary Davis:
+**Issue, by 1st wife Mary Davis:  **
+
 i. Priscilla7, b. 1781; d. an infant  
 ii. Wait7, b. 23 Nov., 1783
 iii. Tabitha7, b. 1785; md. Jacob Spencer, 1812 at Granville, N.Y.; resided in Livingston Co., N.Y.  
@@ -86,9 +87,7 @@ ix. Phoebe7, b. 17 Nov., 1799; md. 15 Sept., 1833, George Gage; resided at Salin
 
 <br />
 
-Issue, by 2nd wife:
-
-<br />
+**Issue, by 2nd wife Parnal Pool:**
 
 x. Asa Northum7, b. 10 Jan., 1807
 xi. Rebecca7, b. 14 May, 1809; md. 19 Nov., 1832, Roland Smith of Granville, NY. He was b. 1 Mar., 1809 and d. 9 May, 1888. She d. 1 Sept., 1880.
