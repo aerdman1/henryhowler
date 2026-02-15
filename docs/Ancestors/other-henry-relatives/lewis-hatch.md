@@ -1,5 +1,5 @@
 ---
-title: Lewis Hatch -Revolutionary Soldier
+title: 'Story: Lewis Hatch -Revolutionary Soldier'
 excerpt: Blanche Hawley Henry's 3rd Great Grandfather
 deprecated: false
 hidden: false
