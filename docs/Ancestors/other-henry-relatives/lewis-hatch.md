@@ -130,3 +130,11 @@ Source: [http://www.jowest.net/Genealogy/Jo/Hatch/Hatch.htm](http://www.jowest.n
 <Image align="center" src="https://files.readme.io/9383978dc76d8dfe4663fa27abf5cd609c3689cada400033c4f7224c7b8868dc-Revolutionary_War_Memorial-Lewis_Hatch.jpg" />
 
 <Image align="center" src="https://files.readme.io/4765358e974ec9f794c70c5e8a922dc1890215288c60b9fe7b0db4172a8feed9-Memorial_Plaque_Lewis_Hatch.jpg" />
+
+<Image align="center" src="https://files.readme.io/e0ac781a855b77cd89b284b78bd615de768458700a28b8756b818b49981cd82b-Lewis_Hatch_1847_headstone.jpg" />
+
+<Image align="center" src="https://files.readme.io/392d485e226119e57595651b63873845e5ec83686101097266450a2bb6873930-Mary_Davis_Hatch_-_died_1803.jpg" />
+
+<Image align="center" src="https://files.readme.io/1b66fba62d3974e493412c7baf0dd27761feaadd8a3251ad83b64d0c0d7a3cdc-Parnal_Hatch_1848_headstone.jpg" />
+
+<br />
