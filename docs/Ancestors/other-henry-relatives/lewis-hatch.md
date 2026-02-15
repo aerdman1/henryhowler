@@ -73,4 +73,24 @@ In 1803-4 his wife MARY died and was buried in the cemetery at South Granville. 
 
 From the vital Records of Lee, we get no birth dates, but the following are reported as having been baptized, 23 Sept., 1792: Wait, Thomas, Davis, Alpheus and Tabitha Hatch, while another child, Polly Hatch, is recorded as having been baptized, 23 Dec., 1792.
 
+Issue, by 1st wife Mary Davis:
+i. Priscilla7, b. 1781; d. an infant  
+ii. Wait7, b. 23 Nov., 1783
+iii. Tabitha7, b. 1785; md. Jacob Spencer, 1812 at Granville, N.Y.; resided in Livingston Co., N.Y.  
+iv. Thomas Davis7, b. 25 Oct., 1787
+v. Alpheus7, b. 1789; d. in childhood, 1801
+vi. Mary, or Polly T7, b. 5 Oct., 1792; md. 22 Feb., 1813 Roswell Newell who was b. 8 Dec., 1792 in Lucerne Co., Penn. they moved to Skaneateles, Onondaga Co., NY. She d. 5 April, 1851
+vii. Lewis7, b. 1794; d. in childhood
+viii. Anna7, b. 15 Oct., 1796; md. Oliver Hatch7 (son of Oliver6, Lemuel5, Joseph4, Joseph3, Jonathan2, Thomas1)
+ix. Phoebe7, b. 17 Nov., 1799; md. 15 Sept., 1833, George Gage; resided at Salina, NY; removed to Ohio, where she d. 28 Nov., 1863. He d. 24 Sept., 1870
+
 <br />
+
+Issue, by 2nd wife:
+
+<br />
+
+x. Asa Northum7, b. 10 Jan., 1807
+xi. Rebecca7, b. 14 May, 1809; md. 19 Nov., 1832, Roland Smith of Granville, NY. He was b. 1 Mar., 1809 and d. 9 May, 1888. She d. 1 Sept., 1880.
+xii. Delight Crary7, b. 8 Jan., 1813; md. Nathaniel Beddell of Granville, NY, 16 Dec., 1845. He was born 8 June, 1823, Lebanon, N.H. She inherited her father's farm where she d. 3 April, 1875. He d. 17 Mar., 1903.
+ 
