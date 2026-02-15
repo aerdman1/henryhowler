@@ -66,13 +66,13 @@ That farm is all located on the south side of the road. It is not on a mountain,
 
 Here he lived the balance of his life and devoted his energies to clearing up and farming his land. In the later years of his life, with characteristic Hatch enterprise, he went into the business of silk raising in a moderate way. In some of the early years of the 20th century, in tearing down an old outbuilding, a bushel or more of old silk cocoons were found. It is not known if he sold the raw silk, or manufactured it in his own household. The old house which it is believed he built when he moved on to this place, is still standing, occupied and is still a good comfortable house.
 
-In 1803-4 his wife MARY died and was buried in the cemetery at South Granville. They had nine children.
+In 1803-4 his wife MARY died and was buried in the Hill Cemetery at South Granville. They had nine children.
 
 Mar. 1, 1806, Lewis age 49, married in Granville, PARNAL POOL of Martha's Vineyard. She was born 17 Sept., 1769 at Chilmark, Massachusetts, Martha's Vineyard. They had 3 more children.
 
 Dec. 19, 1832, when he was about 75 years of age, he applied for and was granted a pension as a Revolutionary Soldier.
 
-Dec. 3, 1847, when he was within a few days of 90 years of age, he died in the old homestead and was buried in the South Granville cemetery. About five months later (12 April, 1848) his wife Parnal died and was buried beside him. On his tombstone is engraved this sentiment, "A soldier of the Revolution and of the Cross." (Spencer E. Smith, a great-grandson.)
+Dec. 3, 1847, when he was within a few days of 90 years of age, he died in the old homestead and was buried in the Hill Cemetery, South Granville. About five months later (12 April, 1848) his wife Parnal died and was buried beside him. On his tombstone is engraved this sentiment, "A soldier of the Revolution and of the Cross." (Spencer E. Smith, a great-grandson.)
 
 From the vital Records of Lee, we get no birth dates, but the following are reported as having been baptized, 23 Sept., 1792: Wait, Thomas, Davis, Alpheus and Tabitha Hatch, while another child, Polly Hatch, is recorded as having been baptized, 23 Dec., 1792.
 
