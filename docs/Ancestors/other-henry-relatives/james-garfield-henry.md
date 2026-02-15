@@ -30,7 +30,7 @@ One of the most exciting moments of his life came on Thanksgiving Day in 1900, d
 
 James was more than an athlete. He was also an excellent speaker. While still in college, he won a major oratorical contest, impressing listeners with his confidence and clarity. This talent followed him into law school, where he became a charter member of the Phi Delta Phi law fraternity and continued to stand out as a leader among his classmates.
 
-<Image align="center" caption="From the 1900 Spider Web, the Hiram Yearbook" src="https://files.readme.io/0a0728ceee39895b98eab2f1bf81baaa9188c94959fbf55d679cfcfa7d4ad9d1-collage_james.jpg" />
+<Image align="center" caption="From the 1900 Spider Web, the Hiram Yearbook" src="https://files.readme.io/0a0728ceee39895b98eab2f1bf81baaa9188c94959fbf55d679cfcfa7d4ad9d1-collage_james.jpg" width="500px" />
 
 By the time he reached his twentieth year, James seemed to have a bright future ahead of him. He was smart, active, well-liked, and deeply loved by his family. But in the summer after a college alumni reunion, tragedy struck. A number of people who attended the event became sick with typhoid fever, likely caused by contaminated food or water. The majority opinion fixed on a batch of ice cream that was brought in from outside. James was among those who fell ill.
 
