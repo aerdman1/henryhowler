@@ -1,5 +1,5 @@
 ---
-title: 'Two Paths Through One War '
+title: 'Story: Two Paths Through One War '
 excerpt: How Blanche’s Family Lived the American Revolution
 deprecated: false
 hidden: false
