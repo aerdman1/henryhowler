@@ -58,7 +58,7 @@ About this time he was married to Mary Davis, of Lee, Mass., daughter of Isaac D
 
 In 1783-4 (some say it was 1787) he bought lots 30 and 31 of the Kelley's Patent which lie, in what is now the town of Granville, Washington Co., N.Y, just across the state line from Rupert, Vermont. These early records were destroyed in a fire. He may have bought these lots in 1783 and gone up and done some clearing in 1787 but it seems evident that he did not move his family there until 1793-4.
 
-Sept. 9, 1792, Lewis Hatch, with others, were taken into the church at Lee, Mass. Dec. 23, 1792, his daughter Mary Polly, then only about three months old, was baptized at Lee, Mass. 
+Sept. 9, 1792, Lewis Hatch, with others, were taken into the church at Lee, Mass. Dec. 23, 1792, his daughter Mary Polly, then only about three months old, was baptized at Lee, Mass.
 
 Jan. 19, 1794 the church at Lee, voted to give "Lewis Hatch a letter of recommendation to the Church of Christ in South Granville, NY" and this is probably about the date when he moved on to this land with his family, to live.
 
@@ -70,7 +70,7 @@ In 1803-4 his wife MARY died and was buried in the cemetery at South Granville. 
 
 Mar. 1, 1806, Lewis age 49, married in Granville, PARNAL POOL of Martha's Vineyard. She was born 17 Sept., 1769 at Chilmark, Massachusetts, Martha's Vineyard. They had 3 more children.
 
-Dec. 19, 1832, when he was about 75 years of age, he applied for and was granted a pension as a Revolutionary Soldier. 
+Dec. 19, 1832, when he was about 75 years of age, he applied for and was granted a pension as a Revolutionary Soldier.
 
 Dec. 3, 1847, when he was within a few days of 90 years of age, he died in the old homestead and was buried in the South Granville cemetery. About five months later (12 April, 1848) his wife Parnal died and was buried beside him. On his tombstone is engraved this sentiment, "A soldier of the Revolution and of the Cross." (Spencer E. Smith, a great-grandson.)
 
@@ -96,12 +96,8 @@ xii. Delight Crary7, b. 8 Jan., 1813; md. Nathaniel Beddell of Granville, NY, 16
 
 ***
 
-<br />
-
 Revolutionary War Memorial
 A memorial stands in the park, in South Granville, Washington County, New York, to honor those soldiers of the Revolutionary War, who are buried in the town of Granville.
-
-<br />
 
 In Memory Of Revolutionary Soldiers Buried In The Town Of Granville.
 Harry Weeks
