@@ -15,6 +15,8 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 * [Ancestors](#) — family lines, notes, and background
 * [Odds & Ends](#) — stories, memories, and one-offs
 * ## Recent Articles
+  ***
+  <Anchor label="Just Call Him MR HIRAM" target="_blank" href="https://family.henryhowler.com/docs/just-call-him-mr-hiram">Just Call Him MR HIRAM</Anchor>
 
 ***
 
