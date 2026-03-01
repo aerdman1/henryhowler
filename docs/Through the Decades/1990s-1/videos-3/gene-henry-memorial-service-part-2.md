@@ -1,6 +1,6 @@
 ---
 title: 'Gene Henry Memorial Service: Part 2'
-excerpt: Feachering Chip and Forest Burt
+excerpt: Featuring Chip and Forest Burt
 deprecated: false
 hidden: false
 metadata:
