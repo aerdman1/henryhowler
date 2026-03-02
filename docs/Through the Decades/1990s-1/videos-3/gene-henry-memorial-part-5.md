@@ -1,5 +1,5 @@
 ---
-title: 'Gene Henry Memorial Service: Part 5'
+title: 'Part 5: Gene Henry Memorial Service'
 excerpt: Featuring Brian and Erin
 deprecated: false
 hidden: false
