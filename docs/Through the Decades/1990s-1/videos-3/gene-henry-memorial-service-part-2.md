@@ -1,5 +1,5 @@
 ---
-title: 'Gene Henry Memorial Service: Part 2'
+title: 'Part 2: Gene Henry Memorial Service'
 excerpt: Featuring Chip and Forest Burt
 deprecated: false
 hidden: false
