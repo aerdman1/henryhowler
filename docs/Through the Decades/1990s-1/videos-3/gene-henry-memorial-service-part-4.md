@@ -1,5 +1,5 @@
 ---
-title: 'Gene Henry Memorial Service: Part 4'
+title: 'Part 4: Gene Henry Memorial Service'
 excerpt: Featuring Dan, Jeanne (grandma) and Kim
 deprecated: false
 hidden: false
