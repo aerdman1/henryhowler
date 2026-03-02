@@ -1,5 +1,5 @@
 ---
-title: 'Gene Henry Memorial Service: Part 1'
+title: 'Part 1: Gene Henry Memorial Service'
 excerpt: Featuring Keith, Todd, Polly, Dodie, Adam, and Jim Rosenberger
 deprecated: false
 hidden: false
