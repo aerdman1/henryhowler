@@ -1,5 +1,5 @@
 ---
-title: 'Part 3: Gene Henry Memorial Service: Part 3'
+title: 'Part 3: Gene Henry Memorial Service'
 excerpt: Featuring Forest Burt, Ed Hofstetter, and Jim Henry
 deprecated: false
 hidden: false
