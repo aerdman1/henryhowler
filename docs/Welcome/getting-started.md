@@ -11,9 +11,9 @@ metadata:
 This site is organized into a few main areas so you can browse by time period, family line, or theme.  
 If you’re not sure where to start, **Through the Decades** is the easiest on-ramp.
 
-* [Through the Decades](#) — family articles organized by era
-* [Ancestors](#) — family lines, notes, and background
-* [Odds & Ends](#) — stories, memories, and one-offs
+* Through the Decades — family articles organized by era
+* Ancestors — family lines, notes, and background
+* Odds & Ends — stories, memories, and one-offs
 * ## Recent Articles
   <br />
 
