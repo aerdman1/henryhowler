@@ -17,7 +17,7 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 * ## Recent Articles
   <br />
 
-[Gene Henry: A Summary](https://family.henryhowler.com/docs/gene#return-to-college)
+<Anchor label="Gene Henry: A Summary" target="_blank" href="https://family.henryhowler.com/docs/gene#return-to-college">Gene Henry: A Summary</Anchor>
 
 ***
 
