@@ -21,6 +21,10 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 ***
 
+Part 1: Gene Henry Memorial Service
+
+***
+
 <Anchor label="Just Call Him MR HIRAM" target="_blank" href="https://family.henryhowler.com/docs/just-call-him-mr-hiram">Just Call Him MR HIRAM</Anchor>
 
 ***
