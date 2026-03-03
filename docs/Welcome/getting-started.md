@@ -9,6 +9,8 @@ metadata:
 How to navigate:   This site is organized into a few main areas so you can browse by time period, family line, or theme.  
 If you’re not sure where to start, **Through the Decades** is the easiest on-ramp.
 
+# How to Navigate...
+
 In the left side menu bar,
 
 1. select a title by clicking on the arrow ">" on the right of the menu,
