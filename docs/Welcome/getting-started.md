@@ -21,7 +21,7 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 ***
 
-<Anchor label="Part 1: Gene Henry Memorial Service Parts 1-5" target="_blank" href="https://family.henryhowler.com/update/docs/gene-henry-memorial-service-part-1">Part 1: Gene Henry Memorial Service Parts 1-5</Anchor>
+<Anchor label="Gene Henry Memorial Service Parts 1-5" target="_blank" href="https://family.henryhowler.com/update/docs/gene-henry-memorial-service-part-1">Gene Henry Memorial Service Parts 1-5</Anchor>
 
 ***
 
