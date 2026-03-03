@@ -11,7 +11,7 @@ If you’re not sure where to start, **Through the Decades** is the easiest on-r
 
 In the left side menu bar,
 
-1. select a title by clicking on the arrow ">" on the far right of the menu,
+1. select a title by clicking on the arrow ">" on the right of the menu,
 2. next select a category arrow,
 3. and finally choose a specific content title.
 
