@@ -6,8 +6,8 @@ hidden: false
 metadata:
   robots: index
 ---
-How to navigate:   This site is organized into a few main areas so you can browse by time period, family line, or theme.  
-If you’re not sure where to start, **Through the Decades** is the easiest on-ramp.
+This site is organized into a few main areas so you can browse by Through the Decades, Ancestors, or Odd and Ends.
+If you’re not sure where to start, **Through the Decades** is the easiest on-ramp.  Most recent articles are linked below.
 
 # How to Navigate...
 
