@@ -6,22 +6,18 @@ hidden: false
 metadata:
   robots: index
 ---
-## How to navigate
+How to navigate:   This site is organized into a few main areas so you can browse by time period, family line, or theme.  
+If you’re not sure where to start, **Through the Decades** is the easiest on-ramp.
 
-This site is organized into a few main areas so you can browse by time period, family line, or theme.  
-If you’re not sure where to start, **Through the Decades** is the easiest on-ramp.  
+In the left side menu bar,
 
-In the left side menu bar, 
-
-1. select a decade clicking on the arrow ">", 
-2. next select a category arrow, 
+1. select a decade clicking on the arrow ">",
+2. next select a category arrow,
 3. and finally choose a specific content title.
 
-* Through the Decades — family articles organized by era
-* Ancestors — family lines, notes, and background
-* Odds & Ends — stories, memories, and one-offs
-* ## Recent Articles
-  <br />
+<br />
+
+## Recent Articles
 
 <Anchor label="Gene Henry: A Summary" target="_blank" href="https://family.henryhowler.com/docs/gene#return-to-college">Gene Henry: A Summary</Anchor>
 
