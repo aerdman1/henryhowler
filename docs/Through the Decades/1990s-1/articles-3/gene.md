@@ -1,5 +1,8 @@
 ---
-title: Gene
+title: 'Gene Henry: A Summary'
+excerpt: >-
+  Rev. Donald Grauer of the Valley Presbyterian Church recalls the life of Gene
+  Henry
 deprecated: false
 hidden: false
 metadata:
