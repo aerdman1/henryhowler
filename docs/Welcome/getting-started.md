@@ -9,7 +9,7 @@ metadata:
 ## How to navigate
 
 This site is organized into a few main areas so you can browse by time period, family line, or theme.  
-If you’re not sure where to start, **Through the Decades** is the easiest on-ramp.  In the left side menu bar, select a decade clicking on the arrow, select a category and
+If you’re not sure where to start, **Through the Decades** is the easiest on-ramp.  In the left side menu bar, select a decade clicking on the arrow ">", next select a category arrow, and finally choose the specific content 
 
 * Through the Decades — family articles organized by era
 * Ancestors — family lines, notes, and background
