@@ -31,3 +31,5 @@ But my favorite is the following printed on July 10, 1884:
 <Image align="center" width="200px" src="https://files.readme.io/9e79e527a9c6286c54e343561db3d191178cda66115c4fe3673541ec8d9ab3d8-1876_Old_Maids_article.png" />
 
 <Image align="center" width="200px" src="https://files.readme.io/183c62e431175e13af807f8e955a8b7db61b389d2c1a1817333def50d43f3b9b-1877_Old_Maids_Mtg.png" />
+
+<Image align="center" width="200px" src="https://files.readme.io/491015201ec96786c9b08aedf42fe16ec28852f2216f2cd9e4d50186989687e5-1879_Old_Maids_Mtg.png" />
