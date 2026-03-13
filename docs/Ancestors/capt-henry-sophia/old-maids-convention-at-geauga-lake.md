@@ -29,13 +29,12 @@ __Convention adjourned to meet in one year, same place.
 
 <br />
 
-Another very entertaining article appeared on July 10, 1879 and Miss Marcia Henry, daughter of Capt. Henry, who was a serious member and never married appears:
+Another very entertaining article appeared 1879 and Miss Marcia Henry, daughter of Capt. Henry, who was a serious member and never married appears:
 
-**__ The Chagrin Falls Exponent, Bainbridge Department. –**
+**__ The Chagrin Falls Exponent, July 10, 1879 -Bainbridge Department. –**
 _The first Saturday after the Fourth has come and gone, and is now reckoned as one of the things of the past, but it will be a day that will long live in the memory of the fifty old maids that met as usual, in the grove of Capt. C. E. Henry, to celebrate the nineteenth annual convention of that order._
 
 _The day was one of the most beautiful that July could produce, but being so soon after the Fourth many were detained at home. During the past year nine proved faithless, but the deserted ranks were more than filled, by eighteen young maidens solemly affirming that they were " never married, and never intended to be. "_
-
 
 _Dinner was next in order, after which the following officers were elected for the ensuing year: President, Georgie Nicholas, of Aurora; Vice President, May Kingsley, of Bainbridge; Secretary and Treasurer, Ettie Gould, of Aurora. One of the most pleasing exercises of the day was the reciting of two poems, by Miss Bertine Robison, of Cleveland, in a very pleasing manner; also, one by Miss Marshie Henry, of the same place._
 
