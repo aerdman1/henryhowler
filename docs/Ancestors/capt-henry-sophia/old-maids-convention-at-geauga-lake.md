@@ -15,10 +15,7 @@ The earliest one I can find is dated July 13,1876:
   _The Chagrin Falls Exponent
 July 13 1876 • Chagrin Falls, Cuyahoga, Ohio, United States_
 
-<br />
-
 **Old Maid's Convention**
-
 
 The annual convention of " Old Maids. met at Geauga Lake on the morning of July 8th and proceeded to the grounds of Capt. Chas E. Henry, where everything was in readiness for their comfort and pleasure. Hammocks, swings and bowers were awaiting them, and the large hospitality of detective Henry and lady thoroughly appre ciated by the convention of fair ones.
 
