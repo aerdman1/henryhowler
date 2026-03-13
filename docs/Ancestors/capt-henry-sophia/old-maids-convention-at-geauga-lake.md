@@ -17,7 +17,7 @@ July 13 1876 • Chagrin Falls, Cuyahoga, Ohio, United States_
 
 **Old Maid's Convention**
 
-_The annual convention of " Old Maids. met at Geauga Lake on the morning of July 8th and proceeded to the grounds of Capt. Chas E. Henry, where everything was in readiness for their comfort and pleasure. Hammocks, swings and bowers were awaiting them, and the large hospitality of detective Henry and lady thoroughly appreciated by the convention of fair ones._
+_The annual convention of Old Maids met at Geauga Lake on the morning of July 8th and proceeded to the grounds of Capt. Chas E. Henry, where everything was in readiness for their comfort and pleasure. Hammocks, swings and bowers were awaiting them, and the large hospitality of detective Henry and lady thoroughly appreciated by the convention of fair ones._
 
 _At 1 P. M. dinner was furnished, such as only old maids can get up. Desert lemonade and ice cream were served. The cream was furnished by Mr. Giles, owner of the Lake. After dinner the crowd whiled way the time sailing on the lake, & c., & c.
 Any lady emigrating to the state of matrimony is subject to a fine of one hundred copper cents, or a basket of confectioneries. Three had departed from the falth and the society was richer by 300 coppers.
