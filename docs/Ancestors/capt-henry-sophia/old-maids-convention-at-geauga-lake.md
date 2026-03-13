@@ -78,9 +78,7 @@ _The spinsters passed a set of resolutions at the close, complimenting Capt. He
 The most recent meeting of the O.M.'s was from 1885 and Miss Marcia is still a member and has recuited a cousin...
 
 **The Chagrin Falls Exponent, July 16 1885   -  Geauga Lake
-Old Maids Club  **
-
-<br />
+Old Maids Club**
 
 _The twenty - third annual meeting of the society of Old Maids was held Saturday, July 11th, at Capt. Henry's grounds, Geauga Lake. The attendance was about the same as last year. Four of our little band had surrendered the common enemy husbands? Death? within the year. Myra Robbins, Grace Robbins, Nellie Taylor and Carrie Comstock. We feel deeply the loss of Miss Myra Robbins, who was one of the founders of our order._
 
