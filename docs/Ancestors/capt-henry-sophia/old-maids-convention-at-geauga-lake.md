@@ -16,7 +16,7 @@ A fun one is the annual report of the Geauga Old Maids Club that was held each J
 >
 > ![](https://files.readme.io/a55349dccd73542087e3a520fe6a7f38c7994442034876f9d802a3f3282c30a9-image.png)
 
-Another very entertaining article appeared on July 10, 1879 and Miss Marcia Henry, daughter of Capt. Henry who never married appears:
+Another very entertaining article appeared on July 10, 1879 and Miss Marcia Henry, daughter of Capt. Henry, who was a serious member and never married appears:
 
 > ![](https://files.readme.io/b84bcd9e368a8d25cd7f7eaee51b6fb58c60881f4b81b5e20fc2b61d1dcfd1a8-image.png)
 >
