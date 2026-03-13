@@ -6,7 +6,7 @@ hidden: false
 metadata:
   robots: index
 ---
-Researching old Chagrin Falls Exponent (local paper that ran from 1874 to 1964) brings up many interesting facts about the Henry family. In the old days, EVERYTHING was reported. Mostly who is visiting who or who is sick etc.  A fun fact is that the Captain and Sophia hosted lots of clubs and societies like the Maple Sugaring Association and the Geauga Pioneers Picnic.
+Researching old Chagrin Falls Exponent (local paper that ran from 1874 to 1964) brings up many interesting facts about the Henry family. In the old days, EVERYTHING was reported. Mostly who is visiting who, or who is sick etc.  A fun fact is that the Captain and Sophia hosted lots of clubs and societies like the Maple Sugaring Association and the Geauga Pioneers Picnic.
 
 A fun one is the annual report of the Geauga Old Maids Club that was held each July. It seems to have started in 1860 though I don't know when it began to meet at Geauga Lake.
 
