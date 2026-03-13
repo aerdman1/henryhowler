@@ -55,7 +55,9 @@ The meeting was called to order by the president, when the EXPONENT reporter, wh
 
 The treasurer's report was next in order, and found to be correct, although not very satisfactory, as there was found to be only 32 cents in the coffers, while a bill for lemonade, presented by Mr. Giles, amounted to more than twice that amount, stared the spinsters in the face._
 
-<br />
+_The initiation of new members was next in order. Sadie G___, of Auburn, was brought in, blindfolded. "Is the brand good and hot?" sang out the conductor. " It is not quite red hot, wait a minute" said a squeeky voice from another room. A moment's pause and the voice again sang out, "Get ready, I am coming." The candidate's stocking on her right limb was lowered to her ankle, and in a moment there. was a little scream, as a piece of ice was placed against a plump calf. Then came a series of maneuvers, over which we draw the curtain of secrecy._
+
+_All went well until Miss_____, of Twinsburg, was introduced. When the hot brand was talked of, she gave notice that if they burned her, she would kick the crinoline off of every mother's daughter of them. There are no cowards among the O. M's family, and the ceremonies proceeded. When the of ice struck the “understanding” of that Twinsburg damsel there was music, and no mistake. She kicked and splurged around in a very promiscuous way, and in less time than it takes to tell it she had half a dozen of the members down, and her arms and feet were going like the wings of an old-fashioned wind mill. She had succeeded in removing her blindfold, and mounting a chair was quietly surveying the situation, when the conductor explained that it was only a piece of ice, which so quieted her that she remarked, "Oh, pshaw, is that all? I have been given worse initiations many times while sliding down hill. "_
 
 > ![](https://files.readme.io/a5d1519940ce4bb24849efb8e123261e71ae99484167ec85fb0b727d6656f4b8-image.png)
 >
