@@ -64,13 +64,11 @@ _The initiation of new members was next in order. Sadie G___, of Auburn, was bro
 
 _All went well until Miss_____, of Twinsburg, was introduced. When the hot brand was talked of, she gave notice that if they burned her, she would kick the crinoline off of every mother's daughter of them. There are no cowards among the O. M's family, and the ceremonies proceeded. When the of ice struck the “understanding” of that Twinsburg damsel there was music, and no mistake. She kicked and splurged around in a very promiscuous way, and in less time than it takes to tell it she had half a dozen of the members down, and her arms and feet were going like the wings of an old-fashioned wind mill. She had succeeded in removing her blindfold, and mounting a chair was quietly surveying the situation, when the conductor explained that it was only a piece of ice, which so quieted her that she remarked, "Oh, pshaw, is that all? I have been given worse initiations many times while sliding down hill. "_
 
-<br />
+_After the initiatory services were finished all went to the lake (Geauga Lake) for a bath, which so purified the water on that side that even the mud turtles had to come to the surface for air, and the little fishes could hardly swim for joy._
 
-After the initiatory services were finished all went to the lake (Geauga Lake) for a bath, which so purified the water on that side that even the mud turtles had to come to the surface for air, and the little fishes could hardly swim for joy.
+_The banquet was the grandest ever spread by the society. A glance at the menu revealed all the delicacies of the season, including sweet breads with caper sauce, frogs, quail on toast, etc._
 
-The banquet was the grandest ever spread by the society. A glance at the menu revealed all the delicacies of the season, including sweet breads with caper sauce, frogs, quail on toast, etc.
-
-The spinsters passed a set of resolutions at the close, complimenting Capt. Henry and wife for their kind hospitality. All departed for their homes, and the EXPONENT reporter crawled from his place of concealment, and made his way towards the Falls, taking to the fields to escape detection. 
+_The spinsters passed a set of resolutions at the close, complimenting Capt. Henry and wife for their kind hospitality. All departed for their homes, and the EXPONENT reporter crawled from his place of concealment, and made his way towards the Falls, taking to the fields to escape detection. _
 
 ***
 
