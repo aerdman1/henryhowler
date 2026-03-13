@@ -28,6 +28,8 @@ But my favorite is the following printed on July 10, 1884:
 >
 > > ![](https://files.readme.io/3f426aa44bd75a3c770e6e5de93db585780a3fd0e6bed806b9a5a14ed5eb73d5-image.png)
 
+<br />
+
 <Image align="center" width="200px" src="https://files.readme.io/9e79e527a9c6286c54e343561db3d191178cda66115c4fe3673541ec8d9ab3d8-1876_Old_Maids_article.png" />
 
 <Image align="center" width="200px" src="https://files.readme.io/183c62e431175e13af807f8e955a8b7db61b389d2c1a1817333def50d43f3b9b-1877_Old_Maids_Mtg.png" />
