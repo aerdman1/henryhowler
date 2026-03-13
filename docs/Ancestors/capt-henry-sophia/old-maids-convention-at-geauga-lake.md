@@ -6,26 +6,26 @@ hidden: false
 metadata:
   robots: index
 ---
-Researching old Chagrin Falls Exponent (local paper that ran from 1874 to 1964) brings up many interesting facts about the Henry family. In the old days, EVERYTHING was reported. Mostly who is visiting who or who is sick etc.  A fun fact is that the Captain and Sophia hosted lots of clubs and societies like the Maple Sugaring Association and the Geauga Pioneers Picnic. 
+Researching old Chagrin Falls Exponent (local paper that ran from 1874 to 1964) brings up many interesting facts about the Henry family. In the old days, EVERYTHING was reported. Mostly who is visiting who or who is sick etc.  A fun fact is that the Captain and Sophia hosted lots of clubs and societies like the Maple Sugaring Association and the Geauga Pioneers Picnic.
 
-A fun one is the annual report of the Geauga Old Maids Club that was held each July. It seems to have started in 1860 though I don't know when it began to meet at Geauga Lake. 
+A fun one is the annual report of the Geauga Old Maids Club that was held each July. It seems to have started in 1860 though I don't know when it began to meet at Geauga Lake.
 
-> The earliest one I can find is dated July 13, 1876:  
+> The earliest one I can find is dated July 13, 1876:
 >
 > <br />
 >
 > ![](https://files.readme.io/a55349dccd73542087e3a520fe6a7f38c7994442034876f9d802a3f3282c30a9-image.png)
 
-Another very entertaining article appeared on July 10, 1879
+Another very entertaining article appeared on July 10, 1879 and Miss Marcia Henry, daughter of Capt. Henry who never married appears:
 
-> ![](https://files.readme.io/d1c06337c437ace0c7a0e2ed04725abf0f00df9403548a719e66df75470cce4b-image.png)
+> ![](https://files.readme.io/b84bcd9e368a8d25cd7f7eaee51b6fb58c60881f4b81b5e20fc2b61d1dcfd1a8-image.png)
 >
-> However, my very favorite is this one from July 10, 1884:
+> <br />
+
+But my favorite is the following:
+
+> ![](https://files.readme.io/a5d1519940ce4bb24849efb8e123261e71ae99484167ec85fb0b727d6656f4b8-image.png)
 >
-> > ![](https://files.readme.io/1b4e97483513a8dcf3f31f025d33f1e688dffc0acef44bc61e77ca4eb46d98c5-image.png)
+> > ![](https://files.readme.io/3f426aa44bd75a3c770e6e5de93db585780a3fd0e6bed806b9a5a14ed5eb73d5-image.png)
 > >
-> > > ![](https://files.readme.io/4d114da6d063aa1f0153cadbb8b19d8f961a82ea0a731ea1d1c4740370b3c7a7-image.png)
-> > >
-> > > <Image align="center" width="300px" src="https://files.readme.io/7e9788e00ed6d3c612ca258cc529d606baed3fd3614857579a4e970d91e83b47-1876_Old_Maids_article.png" />
-
-<Image align="center" width="330px" src="https://files.readme.io/b54a475923759d346b52e33fbeb1ac431820b9e45d64a15c242e17a9e7614aa9-1879_Old_Maids_Mtg.png" />
+> > <br />
