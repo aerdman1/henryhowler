@@ -33,7 +33,10 @@ __Convention adjourned to meet in one year, same place.
 
 Another very entertaining article appeared 1879 and Miss Marcia Henry, daughter of Capt. Henry, appears:
 
-**__ The Chagrin Falls Exponent, July 10, 1879 -Bainbridge Department. –**
+**__ The Chagrin Falls Exponent, July 10, 1879 -Bainbridge Department. –**  
+
+<br />
+
 _The first Saturday after the Fourth has come and gone, and is now reckoned as one of the things of the past, but it will be a day that will long live in the memory of the fifty old maids that met as usual, in the grove of Capt. C. E. Henry, to celebrate the nineteenth annual convention of that order._
 
 _The day was one of the most beautiful that July could produce, but being so soon after the Fourth many were detained at home. During the past year nine proved faithless, but the deserted ranks were more than filled, by eighteen young maidens solemly affirming that they were " never married, and never intended to be. "_
