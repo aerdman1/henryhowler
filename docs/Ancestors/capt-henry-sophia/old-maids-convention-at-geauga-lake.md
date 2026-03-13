@@ -22,7 +22,7 @@ Another very entertaining article appeared on July 10, 1879 and Miss Marcia Henr
 >
 > <br />
 
-But my favorite is the following:
+But my favorite is the following printed on July 10, 1884:
 
 > ![](https://files.readme.io/a5d1519940ce4bb24849efb8e123261e71ae99484167ec85fb0b727d6656f4b8-image.png)
 >
