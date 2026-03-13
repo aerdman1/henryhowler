@@ -74,14 +74,20 @@ _The spinsters passed a set of resolutions at the close, complimenting Capt. He
 
 The most recent meeting of the O.M.'s was from 1885 and Miss Marcia is still a member and has recuited a cousin...
 
+**The Chagrin Falls Exponent, July 16 1885   -  Geauga Lake
+Old Maids Club  **
+
 <br />
 
-The Chagrin Falls Exponent, July 16 1885 
-Geauga Lake
-Old Maids Club
 The twenty - third annual meeting of the society of Old Maids was held Saturday, July 11th, at Capt. Henry's grounds, Geauga Lake. The attendance was about the same as last year. Four of our little band had surrendered the common enemy husbands? Death? within the year. Myra Robbins, Grace Robbins, Nellie Taylor and Carrie Comstock. We feel deeply the loss of Miss Myra Robbins, who was one of the founders of our order.
+
+
 The society after being called to order by Marcia Henry, proceeded to initiate six young ladies into the sacred mysteries of our fraternity. Misses Hattie Edick, Flora Cooke, Mattie Chase, Myra Henry, Mary Henry and Anna Appleby. After the initiation ceremonies the society proceeded to elect officers for the coming year. Jennie Goodsell, president; Myra Briggs, vice president; Chic Henry, secretary and treasurer,Chic is a cousin, daughter of N.C. Henry. She marries Fred Hurd in 1988.
+
+
 After a banquet fit for a queen or an editor, was spread under the trees. This banquet means more than sustaining our temporal natures, it is a sort of love feast, where we renew our pledges of devotion to the fraternity, and make fresh resolutions to maintain our noble order. After the banquet the time honored and invigorating bath was taken, when the convention broke up.. By the kindness of Captain Johnson we enjoyed three or four hours of delightful sailing on his steam yacht, for which courtesy we most earnestly thank him.
+
+
 The convention this year considered the case of those who fail to pay the 100 cents penalty, and it unanimously resolved that all proving recreant within the year, or who had already proven so must remit their fine to the treasurer before July 1st, 1886, or have their names published and the accounts advertised and sold. SECRETARY OF O. M. S.
 
 ***
