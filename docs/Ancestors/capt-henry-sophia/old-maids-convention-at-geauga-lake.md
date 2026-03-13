@@ -33,7 +33,7 @@ __Convention adjourned to meet in one year, same place.
 
 Another very entertaining article appeared 1879 and Miss Marcia Henry, daughter of Capt. Henry, appears:
 
-**__ The Chagrin Falls Exponent, July 10, 1879 -Bainbridge Department. –**  
+**__ The Chagrin Falls Exponent, July 10, 1879 -Bainbridge Department. –**
 
 <br />
 
@@ -53,7 +53,7 @@ _The time came at last for us to say farewell, and we parted for one year, and w
 
 <br />
 
-But my favorite article is the following printed on July 10, 1884:
+But my favorite article is this one, printed on July 10, 1884:
 
 **The Chagrin Falls Exponent, July 10, 1884 -Geauga Lake-
 The Old Maids in Convention.**
