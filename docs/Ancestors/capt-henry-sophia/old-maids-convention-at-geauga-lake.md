@@ -75,7 +75,7 @@ _The spinsters passed a set of resolutions at the close, complimenting Capt. He
 
 ***
 
-The most recent meeting of the O.M.'s was from 1885 and Miss Marcia is still a member and has recuited a cousin...
+The most recent meeting of the O.M.'s was from 1885 and Miss Marcia is still a member and has recruited several cousins...
 
 **The Chagrin Falls Exponent, July 16 1885   -  Geauga Lake
 Old Maids Club**
