@@ -12,15 +12,15 @@ A fun one is the annual report of the Geauga Old Maids Club that was held each J
 
 The earliest one I can find is dated July 13,1876:
 
-<br />
-
-![](https://files.readme.io/a55349dccd73542087e3a520fe6a7f38c7994442034876f9d802a3f3282c30a9-image.png)
-
-The earliest one I can find is dated July 13, 1876:
+![](https://files.readme.io/7c1ba62d1c146cbcbf20460c7912cbff136ecd1e5cf9382b6e4f227fb7217a95-image.png)
 
 <br />
 
-![](https://files.readme.io/a55349dccd73542087e3a520fe6a7f38c7994442034876f9d802a3f3282c30a9-image.png)
+<br />
+
+<br />
+
+<br />
 
 <br />
 
