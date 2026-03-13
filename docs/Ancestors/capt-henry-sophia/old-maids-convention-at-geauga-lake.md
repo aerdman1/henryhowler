@@ -14,12 +14,6 @@ The earliest one I can find is dated July 13,1876:
 
 <br />
 
-<br />
-
-<br />
-
-<br />
-
 ![](https://files.readme.io/a55349dccd73542087e3a520fe6a7f38c7994442034876f9d802a3f3282c30a9-image.png)
 
 The earliest one I can find is dated July 13, 1876:
