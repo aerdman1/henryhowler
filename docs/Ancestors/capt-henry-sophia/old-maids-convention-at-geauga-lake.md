@@ -10,11 +10,10 @@ Researching old Chagrin Falls Exponent (local paper that ran from 1874 to 1964) 
 
 A fun one is the annual report of the Geauga Old Maids Club that was held each July. It seems to have started in 1860 though I don't know when it began to meet at Geauga Lake.
 
-The earliest one I can find is dated July 13,1876:
+The earliest one I can find is dated July 13,1876:   
 
-![](https://files.readme.io/7c1ba62d1c146cbcbf20460c7912cbff136ecd1e5cf9382b6e4f227fb7217a95-image.png)
 
-<br />
+![](https://files.readme.io/a76bb5a41cd905a431a63a2865ca7798c064f682288728b678f5cf929e289511-image.png)
 
 <br />
 
