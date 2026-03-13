@@ -86,7 +86,7 @@ _The society after being called to order by Marcia Henry, proceeded to initiat
 
 _After a banquet fit for a queen or an editor, was spread under the trees. This banquet means more than sustaining our temporal natures, it is a sort of love feast, where we renew our pledges of devotion to the fraternity, and make fresh resolutions to maintain our noble order. After the banquet the time honored and invigorating bath was taken, when the convention broke up.. By the kindness of Captain Johnson we enjoyed three or four hours of delightful sailing on his steam yacht, for which courtesy we most earnestly thank him._
 
-_The convention this year considered the case of those who fail to pay the 100 cents penalty, and it unanimously resolved that all proving recreant within the year, or who had already proven so must remit their fine to the treasurer before July 1st, 1886, or have their names published and the accounts advertised and sold. SECRETARY OF O. M. S._
+_The convention this year considered the case of those who fail to pay the 100 cents penalty, and it was unanimously resolved that all proving recreant within the year, or who had already proven so must remit their fine to the treasurer before July 1st, 1886, or have their names published and the accounts advertised and sold. SECRETARY OF O. M. S._
 
 ***
 
