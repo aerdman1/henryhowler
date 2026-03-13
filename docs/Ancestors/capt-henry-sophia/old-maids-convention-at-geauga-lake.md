@@ -50,7 +50,7 @@ _The time came at last for us to say farewell, and we parted for one year, and w
 
 <br />
 
-But my favorite is the following printed on July 10, 1884:
+But my favorite article is the following printed on July 10, 1884:
 
 **The Chagrin Falls Exponent, July 10, 1884 -Geauga Lake-
 The Old Maids in Convention.**
