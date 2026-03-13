@@ -46,6 +46,11 @@ _The time came at last for us to say farewell, and we parted for one year, and w
 
 But my favorite is the following printed on July 10, 1884:
 
+**The Chagrin Falls Exponent, July 10, 1884 -Geauga Lake-
+The Old Maids in Convention.**
+
+<br />
+
 > ![](https://files.readme.io/a5d1519940ce4bb24849efb8e123261e71ae99484167ec85fb0b727d6656f4b8-image.png)
 >
 > > ![](https://files.readme.io/3f426aa44bd75a3c770e6e5de93db585780a3fd0e6bed806b9a5a14ed5eb73d5-image.png)
