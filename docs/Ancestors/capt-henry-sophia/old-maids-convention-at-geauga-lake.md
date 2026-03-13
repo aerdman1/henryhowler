@@ -66,6 +66,12 @@ _All went well until Miss_____, of Twinsburg, was introduced. When the hot brand
 
 <br />
 
+After the initiatory services were finished all went to the lake (Geauga Lake) for a bath, which so purified the water on that side that even the mud turtles had to come to the surface for air, and the little fishes could hardly swim for joy.
+
+The banquet was the grandest ever spread by the society. A glance at the menu revealed all the delicacies of the season, including sweet breads with caper sauce, frogs, quail on toast, etc.
+
+The spinsters passed a set of resolutions at the close, complimenting Capt. Henry and wife for their kind hospitality. All departed for their homes, and the EXPONENT reporter crawled from his place of concealment, and made his way towards the Falls, taking to the fields to escape detection. 
+
 ***
 
 <br />
