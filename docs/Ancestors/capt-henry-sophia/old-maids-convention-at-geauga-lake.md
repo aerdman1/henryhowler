@@ -29,15 +29,21 @@ __Convention adjourned to meet in one year, same place.
 
 <br />
 
-<br />
-
-<br />
-
 Another very entertaining article appeared on July 10, 1879 and Miss Marcia Henry, daughter of Capt. Henry, who was a serious member and never married appears:
 
-> ![](https://files.readme.io/b84bcd9e368a8d25cd7f7eaee51b6fb58c60881f4b81b5e20fc2b61d1dcfd1a8-image.png)
->
-> <br />
+**__ The Chagrin Falls Exponent, Bainbridge Department. –**
+_The first Saturday after the Fourth has come and gone, and is now reckoned as one of the things of the past, but it will be a day that will long live in the memory of the fifty old maids that met as usual, in the grove of Capt. C. E. Henry, to celebrate the nineteenth annual convention of that order._
+
+_The day was one of the most beautiful that July could produce, but being so soon after the Fourth many were detained at home. During the past year nine proved faithless, but the deserted ranks were more than filled, by eighteen young maidens solemly affirming that they were " never married, and never intended to be. "_
+
+
+_Dinner was next in order, after which the following officers were elected for the ensuing year: President, Georgie Nicholas, of Aurora; Vice President, May Kingsley, of Bainbridge; Secretary and Treasurer, Ettie Gould, of Aurora. One of the most pleasing exercises of the day was the reciting of two poems, by Miss Bertine Robison, of Cleveland, in a very pleasing manner; also, one by Miss Marshie Henry, of the same place._
+
+_Singing and fire crackers took up the rest of the time. Before leaving the house Capt. and Mrs. Henry offered a prize of a silk banner to the town that would next year furnish the largest delegation._
+
+_Before our departure for our boat ride on the lake a vote of thanks was extended to Mr. and Mrs. Henry and also to Mr. and Mrs. Marshall for their kindness to us during the day. Many thanks to Messrs. Giles and son for the use of their grounds and boats, which they gave to us free of charge and which we so much enjoyed._
+
+_The time came at last for us to say farewell, and we parted for one year, and with some maybe, forever. SEC AND TREAS._
 
 But my favorite is the following printed on July 10, 1884:
 
