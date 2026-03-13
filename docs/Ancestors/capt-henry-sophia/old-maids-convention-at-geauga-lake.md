@@ -22,7 +22,7 @@ _The annual convention of Old Maids met at Geauga Lake on the morning of July 8t
 _At 1 P. M. dinner was furnished, such as only old maids can get up. Dessert lemonade and ice cream were served. The cream was furnished by Mr. Giles, owner of the Lake. After dinner the crowd whiled way the time sailing on the lake.
 
 
-Any lady emigrating to the state of matrimony is subject to a fine of one hundred copper cents, or a basket of confectioneries. Three had departed from the falth and the society was richer by 300 coppers.
+Any lady emigrating to the state of matrimony is subject to a fine of one hundred copper cents, or a basket of confectioneries. Three had departed from the faith and the society was richer by 300 coppers.
 Officers for the following year were elected as follows: President Miss Mary Lambert, of Chagrin Falls; Vice President, Miss Jennie Burroughs, Aurora; Treasurer and Secretary, Miss Frankie Hubbell, Chagrin Falls._
 
 _The convention wishes to thank Mr. J. M. Ferris, Supt. of the A. & G. W. R. R. for stopping train No. 3 for the accommodation of the Chagrin Falls and Cleveland ladies, and also a vote of thanks tendered to Capt. Henry and Mr. Giles for their generosity, and kindness._
