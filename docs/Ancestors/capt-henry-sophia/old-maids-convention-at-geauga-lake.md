@@ -12,10 +12,14 @@ A fun one is the annual report of the Geauga Old Maids Club that was held each J
 
 The earliest one I can find is dated July 13,1876:
 
- `**The Chagrin Falls Exponent**
-July 13 1876 • Chagrin Falls, Cuyahoga, Ohio, United States`
+  _The Chagrin Falls Exponent
+July 13 1876 • Chagrin Falls, Cuyahoga, Ohio, United States_
+
+<br />
 
 **Old Maid's Convention**
+
+
 The annual convention of " Old Maids. met at Geauga Lake on the morning of July 8th and proceeded to the grounds of Capt. Chas E. Henry, where everything was in readiness for their comfort and pleasure. Hammocks, swings and bowers were awaiting them, and the large hospitality of detective Henry and lady thoroughly appre ciated by the convention of fair ones.
 
 At 1 P. M. dinner was furnished, such as only old maids can get up. Desert lemonade and ice cream were served. The cream was furnished by Mr. Giles, owner of the Lake. After dinner the crowd whiled way the time sailing on the lake, & c., & c.
@@ -25,7 +29,6 @@ Officers for the following year were elected as follows: President Miss Mary Lam
 The convention wishes to thank Mr. J. M. Ferris, Supt. of the A. & G. W. R. R. for stopping train No. 3 for the accommodation of the Chagrin Falls and Cleveland ladies, and also a vote of thanks tendered to Capt. Henry and Mr. Giles for their generosity, and kindness.
 
 Convention adjourned to meet in one year, same place.
-H.
 
 <br />
 
