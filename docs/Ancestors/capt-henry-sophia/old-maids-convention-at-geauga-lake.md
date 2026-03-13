@@ -68,7 +68,7 @@ _After the initiatory services were finished all went to the lake (Geauga Lake) 
 
 _The banquet was the grandest ever spread by the society. A glance at the menu revealed all the delicacies of the season, including sweet breads with caper sauce, frogs, quail on toast, etc._
 
-_The spinsters passed a set of resolutions at the close, complimenting Capt. Henry and wife for their kind hospitality. All departed for their homes, and the EXPONENT reporter crawled from his place of concealment, and made his way towards the Falls, taking to the fields to escape detection. _
+The spinsters passed a set of resolutions at the close, complimenting Capt. Henry and wife for their kind hospitality. All departed for their homes, and the EXPONENT reporter crawled from his place of concealment, and made his way towards the Falls, taking to the fields to escape detection. 
 
 ***
 
