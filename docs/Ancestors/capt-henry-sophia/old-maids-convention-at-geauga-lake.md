@@ -51,6 +51,8 @@ The Old Maids in Convention.**
 
 _According to its usual custom the EXPONENT sent a special reporter to Geauga Lake last Saturday to report the twentieth annual meeting of the Old Maid's Society. The meeting was held at the residence of Capt. C. E. Henry, who has been the special guardian of the old girls for many years in the past.
 The meeting was called to order by the president, when the EXPONENT reporter, who was very comfortably secreted behind some of Mrs. Henry's wearing apparel, put his handkerchief to his nose to suppress an embryotic sneeze, which gained renewed headway owing to the fine chewing tobacco contained in said' kerchief. All business was for a moment suspended, and" what's that?" went up from a score of lips. Quiet being again restored the minutes of the last meeting were read and approved.
+
+
 The treasurer's report was next in order, and found to be correct, although not very satisfactory, as there was found to be only 32 cents in the coffers, while a bill for lemonade, presented by Mr. Giles, amounted to more than twice that amount, stared the spinsters in the face._
 
 <br />
