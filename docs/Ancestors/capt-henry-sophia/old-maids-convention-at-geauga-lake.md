@@ -118,4 +118,6 @@ _The convention this year considered the case of those who fail to pay the 100 c
 
 <Image align="center" width="200px" src="https://files.readme.io/f0ce6160b90b77e1d7f2d135a29879b9830ab047efa7e229fae30d57657dc857-1880_Old_Maids_Meeting.png" />
 
+<Image align="center" width="300px" src="https://files.readme.io/4512746069c140546975af6eeb01864e9a8457ef94c1234850da3e636bdd6188-1880_Old_Maids_MA_article_explains.jpg" />
+
 <Image align="center" width="500px" src="https://files.readme.io/ae4638561bbb28a80de268476fe159e3f2b381dda80e46af3066c1e678e671dc-1884_Old_Maids_Meeting_EXPONENT.jpg" />
