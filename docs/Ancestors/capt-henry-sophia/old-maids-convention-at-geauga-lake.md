@@ -6,9 +6,11 @@ hidden: false
 metadata:
   robots: index
 ---
-Researching old Chagrin Falls Exponent (local paper that ran from 1874 to 1964) brings up many interesting facts about the Henry family. In the old days, EVERYTHING was reported. Mostly who is visiting who, or who is sick etc.  A fun fact is that the Captain and Sophia hosted lots of clubs and societies like the Maple Sugaring Association and the Geauga Pioneers Picnic.
+Researching old Chagrin Falls Exponent newspapers (the local paper that ran from 1874 to 1964) reveals many glimpses into the life of the Henry family. In those days, almost everything was reported—mostly who was visiting whom or who was under the weather.
 
-A fun one is the annual report of the Geauga Old Maids Club that was held each July. It seems to have started in 1860 though I don't know when it began to meet at Geauga Lake.
+One fun discovery is that Captain Henry and Sophia often hosted clubs and gatherings, including the Maple Sugaring Association and the Geauga Pioneers Picnic.
+
+Most amusing is the annual report of the Geauga Old Maids Club, which met each July. It seems to have been started in 1862 by Sophia Williams Henry—perhaps explaining why Henry women are known for being both strong and funny.
 
 The earliest one I can find is dated July 13,1876:
 
@@ -52,7 +54,7 @@ _The time came at last for us to say farewell, and we parted for one year, and w
 
 ***
 
-This article explains quite well when and why the O.M. Society was started. It appears that it was in papers across the country.
+This article explains quite well the Henry family connection to the O.M. Society. Sophia Williams Henry was one of the founders!  It seems that this article appeared in papers across the country.
 
 _Marblehead Messenger
 Nov 5 1880 • Marblehead, Essex, Massachusetts, United States_
