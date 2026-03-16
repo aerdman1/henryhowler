@@ -52,8 +52,10 @@ _The time came at last for us to say farewell, and we parted for one year, and w
 
 ***
 
-Marblehead Messenger
-Nov 5 1880 • Marblehead, Essex, Massachusetts, United States
+This article explains quite well when and why the O.M. Society was started. It appears that it was in papers across the country.
+
+_Marblehead Messenger
+Nov 5 1880 • Marblehead, Essex, Massachusetts, United States_
 
 **Association of Old Maids**
 
