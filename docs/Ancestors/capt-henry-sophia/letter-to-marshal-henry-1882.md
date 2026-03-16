@@ -5,11 +5,15 @@ date: '2025-01-01T00:00:00.000Z'
 deprecated: false
 hidden: false
 ---
-<Image alt="Image" border={false} src="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Screen-Shot-2017-01-13-at-5.24.11-PM.png" />
+![Image](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Screen-Shot-2017-01-13-at-5.24.11-PM.png)
 
 Charles Julius Guiteau – Assassin of President James Garfield
 
 What follows is the typed text (misspellings and all) from an interesting letter that was sent to Captain Henry received from a friend of Charles Guiteau, the assassin of President Garfield.  Marshal Henry was assigned to guard Guiteau and apparently the writer, Frignif Ihinnoe, didn’t think the Captain could be unbiased. We don’t have a photo of Frignif but I found one of Charles Guiteau.
+
+***
+
+<br />
 
 **New York January 4th 1882**  
 Marshal Henry, Courthouse Washington D.C.
@@ -32,6 +36,6 @@ By an American Frignif Ihinnoe Always for right & against wrong
 
 <Anchor label="Download PDF version of this letter: Charles_Guiteau_letterPDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Charles_Guiteau_letter.pdf">Download PDF version of this letter: Charles_Guiteau_letterPDF</Anchor>
 
-March 29, 2011 Linda <Anchor label="Charles_Guiteau_letterPDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Edward-Newton_Letter.compressed.pdf">Charles_Guiteau_letterPDF</Anchor>https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Charles_Guiteau_letter.pdf
+March 29, 2011 Linda <Anchor label="Charles_Guiteau_letterPDF" target="_blank" href="https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/03/Edward-Newton_Letter.compressed.pdf">Charles_Guiteau_letterPDF</Anchor>[https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Charles_Guiteau_letter.pdf](https://henry-howler.s3.us-east-2.amazonaws.com/uploads/2017/01/Charles_Guiteau_letter.pdf)
 
 <br />
