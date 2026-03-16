@@ -67,6 +67,8 @@ _The beautiful consistency of woman’s nature will be appreciated when it is kn
 
 _—New York Tribune_
 
+***
+
 <br />
 
 My favorite article is this one, printed on July 10, 1884:
