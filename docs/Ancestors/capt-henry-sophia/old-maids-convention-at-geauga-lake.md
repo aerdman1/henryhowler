@@ -52,6 +52,21 @@ _The time came at last for us to say farewell, and we parted for one year, and w
 
 ***
 
+Marblehead Messenger
+Nov 5 1880 • Marblehead, Essex, Massachusetts, United States
+
+**Association of Old Maids**
+
+_The Old Maids’ Association of Geauga County, Ohio, had a picnic on the lake recently and mustered eighty-six souls. This society was an outgrowth of the war and was organized in 1862 by a bevy of young ladies whose brothers and sweethearts were fighting for their country and left them without the resources of male escort except the laggards who remained at home._
+
+_Unwilling to accept the gallantry of these young men, the young ladies preferred to depend upon themselves and formed the association mentioned. Out of revenge, the gallants dubbed these independent damsels old maids, and they accepted the cognomen and made it their own._
+
+_A humorous constitution and by-laws were drafted by Mrs. C. E. Henry, then a single young lady and one of the founders of the institution. Man was declared the common enemy, and one of the chief objects of the society was a continued war against his advances. He was religiously excluded from all meetings, and a special clause of the by-laws said that any member who should marry should be fined one hundred big copper cents and should be branded with tar on the soles of her feet, “U. D. I.,” meaning “up and done it.”_
+
+_The beautiful consistency of woman’s nature will be appreciated when it is known that every one of the charter members and nearly all of eligible age since are married.___
+
+_—New York Tribune_
+
 <br />
 
 My favorite article is this one, printed on July 10, 1884:
