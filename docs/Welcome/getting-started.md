@@ -23,8 +23,6 @@ In the left side menu bar,
 
 ***
 
-<br />
-
 [Geauga Old Maids Annual Convention at Capt. Henry's House](https://family.henryhowler.com/docs/old-maids-convention-at-geauga-lake)
 
 ***
