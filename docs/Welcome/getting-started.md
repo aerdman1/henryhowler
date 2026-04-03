@@ -19,7 +19,7 @@ In the left side menu bar,
 
 ## Recent Articles
 
-[Video: The Herd Goes to Dollywood]()
+[Video: The Herd Goes to Dollywood](https://family.henryhowler.com/update/docs/video-the-herd-goes-to-dollywood)
 
 ***
 
