@@ -19,6 +19,8 @@ In the left side menu bar,
 
 ## Recent Articles
 
+***
+
 [Video: Easter at the Shed](https://family.henryhowler.com/update/docs/video-easter-at-the-shed)
 
 ***
