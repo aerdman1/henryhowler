@@ -18,7 +18,7 @@ In the left side menu bar,
 
 ## Recent Articles
 
-<Anchor label="May, 2022 Chagrin Valley Times article: Jim Henry gave a presentation about his family and their local roots to the Bainbridge Historical Society." target="_blank" href="gave a presentation about his family and their local roots to the Bainbridge Historical Society.">May, 2022 Chagrin Valley Times article: Jim Henry gave a presentation about his family and their local roots to the Bainbridge Historical Society.</Anchor>
+[May, 2022 Chagrin Valley Times article: Jim Henry gave a presentation about his family and their local roots to the Bainbridge Historical Society.](https://family.henryhowler.com/update/docs/great-great-grandson-of-colorful-civil-war-character-offers-family-history)
 
 ***
 
