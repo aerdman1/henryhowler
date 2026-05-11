@@ -6,8 +6,6 @@ hidden: false
 metadata:
   robots: index
 ---
-<br />
-
 Jim Henry and his wife, Grace, have spent a significant amount of time researching the life of Jim’s famous great-great grandfather, the late Civil War Captain, Charles Henry.
 
 The Henrys, who now live in Bainbridge near what locals refer to as the “Big House on the hill” that once belonging to Capt. Henry himself, recently gave a presentation about his family and their local roots to the Bainbridge Historical Society.
