@@ -83,3 +83,7 @@ Capt. Charles Henry died in 1906 and was buried in Evergreen Cemetery in Chagrin
 Today, that house remains the focus of attention for the Henry family. Six separate households with Henry descendants are located nearby.
 
 “We are thrilled they came back,” said Mr. Henry, who noted that the return of his ancestor’s family to their original homestead will surely keep the Henry legacy alive for years to come.
+
+<Image align="center" src="https://files.readme.io/0a5aac38f2e4d3adc5893fa64ca98e68c884f437c8830ac40ecfa9bdd0a38f1f-Gen_Garfield.jpg" />
+
+**General James Garfield**
