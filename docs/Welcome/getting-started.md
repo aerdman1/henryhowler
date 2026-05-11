@@ -6,8 +6,7 @@ hidden: false
 metadata:
   robots: index
 ---
-This site is organized into a few main areas so you can browse by Through the Decades, Ancestors, or Odd and Ends.
-If you’re not sure where to start, **Through the Decades** is the easiest on-ramp.  Most recent articles are linked below.
+This site is organized into a few main areas so you can browse by Through the Decades, Ancestors, or Odd and Ends. If you’re not sure where to start, **Through the Decades** is the easiest on-ramp.  Most recent articles are linked below.
 
 # How to Navigate...
 
@@ -18,6 +17,8 @@ In the left side menu bar,
 3. and finally choose a specific content title.
 
 ## Recent Articles
+
+<Anchor label="May, 2022 Chagrin Valley Times article: Jim Henry gave a presentation about his family and their local roots to the Bainbridge Historical Society." target="_blank" href="gave a presentation about his family and their local roots to the Bainbridge Historical Society.">May, 2022 Chagrin Valley Times article: Jim Henry gave a presentation about his family and their local roots to the Bainbridge Historical Society.</Anchor>
 
 ***
 
