@@ -18,7 +18,7 @@ In the left side menu bar,
 
 ## Recent Articles
 
-<Anchor target="_blank" href="https://family.henryhowler.com/update/docs/2026-canada-rock-jumping">2026 Canada Rock Jumping</Anchor>
+<Anchor target="_blank" href="https://family.henryhowler.com/docs/2026-canada-rock-jumping">2026 Canada Rock Jumping</Anchor>
 
 ***
 
