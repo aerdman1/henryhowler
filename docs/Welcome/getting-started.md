@@ -18,6 +18,10 @@ In the left side menu bar,
 
 ## Recent Articles
 
+[David's Family at McHugh Creek Alaska](https://https://family.henryhowler.com/update/docs/davids-family-at-mchugh-creek-alaska)
+
+***
+
 <Anchor target="_blank" href="https://family.henryhowler.com/docs/2026-canada-rock-jumping">2026 Canada Rock Jumping</Anchor>
 
 ***
