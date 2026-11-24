@@ -20,7 +20,7 @@ In the left side menu bar,
 
 ***
 
-[David's Family at McHugh Creek Alaska](https://https://family.henryhowler.com/update/docs/davids-family-at-mchugh-creek-alaska)
+[David's Family at McHugh Creek Alaska](https://family.henryhowler.com/docs/davids-family-at-mchugh-creek-alaska)
 
 ***
 
