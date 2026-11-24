@@ -18,6 +18,8 @@ In the left side menu bar,
 
 ## Recent Articles
 
+***
+
 [David's Family at McHugh Creek Alaska](https://https://family.henryhowler.com/update/docs/davids-family-at-mchugh-creek-alaska)
 
 ***
